@@ -1,0 +1,238 @@
+{
+  "id": "holdings-patrimoniales-biens-de-luxe",
+  "theme": "fiscalite",
+  "question": "Faut-il taxer à 20 % les seuls biens de luxe des holdings patrimoniales (yachts, avions, vins…), au lieu de taxer à 2 % tous leurs actifs non professionnels, dont une partie de leur trésorerie ?",
+  "explainer": {
+    "title": "C'est quoi, une holding patrimoniale ?",
+    "text": "Une holding est une société qui détient des biens ou des parts d'autres sociétés pour le compte de ses propriétaires. Les dividendes qui y remontent peuvent y rester sans être distribués, donc sans être imposés entre les mains des propriétaires : cela permet de les réinvestir, mais aussi, selon le Gouvernement, d'y loger des biens à usage personnel. Le projet de budget 2026 créait une taxe annuelle de 2 % sur les actifs de ces sociétés qui ne servent pas à une activité économique (immobilier et autres biens, une partie de la trésorerie et des placements), dès qu'une personne et sa famille proche en détiennent au moins un tiers. L'amendement voté limite la taxe à une liste de biens de luxe, porte son taux à 20 % et ne vise que les holdings détenues à 50 % au moins par une personne et sa famille proche.",
+    "sources": ["s16", "s2", "s3"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, sortir de la taxe la trésorerie, les placements et l'immobilier non réservé au propriétaire la viderait de son contenu, alors que le Gouvernement attendait environ 1 milliard d'euros par an de sa version initiale.",
+      "sources": ["s3", "s15"]
+    },
+    {
+      "text": "Une liste fermée de biens serait facile à contourner (logements placés dans une autre société, biens oubliés) et créerait des effets de bord, estimaient certains députés, y compris favorables à la taxe.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Relever de 33 % à 50 % la part de détention exigée ferait encore sortir des holdings de la taxe ; et aucun chiffrage n'a été présenté avant le vote, selon ses opposants.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la trésorerie des holdings sert à investir, racheter des entreprises ou faire face aux coups durs ; la taxer pénaliserait les entreprises familiales et pourrait pousser à céder des parts à des fonds étrangers.",
+      "sources": ["s3", "s2"]
+    },
+    {
+      "text": "Selon ses défenseurs, viser une liste précise de biens de luxe à usage personnel (yachts, avions, chevaux de course, vins, logements mis à disposition du propriétaire), qui n'ont pas leur place dans une société, cible directement les abus.",
+      "sources": ["s3", "s2", "s9"]
+    },
+    {
+      "text": "Selon ses défenseurs, un taux de 20 % inciterait à sortir ces biens des holdings ; et le seuil de 50 % évite de taxer un associé minoritaire qui ne peut pas décider seul de distribuer les dividendes.",
+      "sources": ["s2", "s3"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement à l'article 3 du projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'amendement remplace la taxe de 2 % sur les actifs non professionnels par une taxe de 20 % sur une liste de biens de luxe, complétée juste avant par un sous-amendement (yachts, chevaux de course, vins et alcools, métaux précieux, objets d'art…), et relève de 33,33 % à 50 % la part de détention à partir de laquelle une holding est visée. Le Gouvernement s'en est remis à la sagesse de l'Assemblée. L'article 3 ainsi modifié est ensuite adopté par 224 voix contre 10.",
+    "sources": ["s2", "s9", "s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1). Le Sénat repart de la version initiale du Gouvernement, sans les amendements adoptés par l'Assemblée.",
+      "sources": ["s10", "s5"]
+    },
+    {
+      "date": "2025-11-28",
+      "label": "Sénat",
+      "text": "Le Sénat réécrit à son tour l'article dans le même sens : taxe de 20 % limitée à une liste de biens de luxe, seuil de détention de 50 %, et plafonnement selon les revenus pour les particuliers qui détiennent une holding à l'étranger. Il adopte le budget le 15 décembre.",
+      "sources": ["s11", "s10"]
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord ; une loi spéciale est votée fin décembre pour assurer la continuité de l'État en attendant le budget.",
+      "sources": ["s10", "s6"]
+    },
+    {
+      "date": "2026-01-14",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Les députés rejettent un amendement rétablissant une taxe de 2 % sur l'ensemble des actifs non professionnels (103 voix contre 73), puis l'article créant la taxe lui-même, dans sa version limitée aux biens de luxe issue du Sénat (60 voix contre 57).",
+      "sources": ["s12"]
+    },
+    {
+      "date": "2026-01-27",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Le Gouvernement engage sa responsabilité (article 49, alinéa 3, de la Constitution) ; les motions de censure étant rejetées, le budget est considéré comme adopté sans vote. La taxe limitée aux biens de luxe y est rétablie.",
+      "sources": ["s13", "s7"]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Après un rejet par le Sénat le 29 janvier, le budget est définitivement adopté, là encore par l'article 49, alinéa 3.",
+      "sources": ["s10", "s13"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-901 DC : le Premier ministre avait lui-même demandé au Conseil d'examiner l'article créant la taxe, sans formuler de critique. Le Conseil vérifie seulement qu'il a été adopté selon une procédure régulière et ne l'examine pas sur le fond : il pourra encore être contesté plus tard, par une question prioritaire de constitutionnalité.",
+      "sources": ["s6", "s14"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi n° 2026-103 (article 7) crée une taxe de 20 % sur une liste de biens de luxe (yachts, avions, voitures de tourisme, bijoux, métaux précieux, chevaux de course, vins et alcools, logements réservés à l'usage du propriétaire…) détenus par les holdings d'au moins 5 millions d'euros d'actifs, contrôlées à 50 % au moins par une personne et sa famille proche. Les objets d'art ne figurent plus dans la liste ; la trésorerie et les placements financiers non plus. Elle s'applique aux exercices clos à partir du 31 décembre 2026.",
+      "sources": ["s7", "s8"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3290",
+      "numero": 3290,
+      "date": "2025-10-31",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement limitant la taxe sur les holdings patrimoniales à une liste de biens de luxe taxés à 20 % et relevant le seuil de détention à 50 %"
+    },
+    {
+      "uid": "VTANR5L17V5020",
+      "numero": 5020,
+      "date": "2026-01-14",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement rétablissant une taxe de 2 % sur l'ensemble des actifs non professionnels des holdings, dont une partie de leur trésorerie (nouvelle lecture, rejeté) : voter pour revenait à refuser la limitation aux biens de luxe"
+    },
+    {
+      "uid": "VTANR5L17V5021",
+      "numero": 5021,
+      "date": "2026-01-14",
+      "role": "historique",
+      "sens": 1,
+      "label": "Article créant la taxe dans sa version limitée aux biens de luxe issue du Sénat (nouvelle lecture, rejeté) : voter contre pouvait aussi viser la taxe elle-même"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3290 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3290",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° I-3052 (rect.) à l'article 3 du projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/3052",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur l'article 3 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N024",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : vote sur l'article 3 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC, § 2, 57 et 60 (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026, article 7 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/article_7",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Article 235 ter C du code général des impôts (taxe sur les actifs non affectés à une activité opérationnelle des sociétés holdings patrimoniales)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Sous-amendement n° I-3901 à l'amendement n° I-3052 (liste des biens de luxe)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/3901",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Amendement n° I-1 de la commission des finances à l'article 3 du projet de loi de finances pour 2026 (adopté)",
+      "url": "https://www.senat.fr/amendements/2025-2026/138/Amdt_I-1.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : nouvelle lecture, article 3 (14 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N114",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Conseil constitutionnel — Commentaire de la décision n° 2026-901 DC",
+      "url": "https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/decisions/2026901dc/2026901dc_ccc.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Rapport général n° 139 (2025-2026), tome II, fascicule 1, sur la première partie du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/rap/l25-139-21/l25-139-21_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 (n° 1906), article 3 et exposé des motifs",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B1906.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Scrutin n° 5020 (14 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5020",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s18",
+      "label": "Assemblée nationale — Scrutin n° 5021 (14 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5021",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "31 octobre 2025 (395 votants) : pour, Ensemble pour la République, Horizons, Droite républicaine, UDR et RN ; contre, LFI-NFP, Socialistes, Écologiste et social, GDR, Les Démocrates et LIOT (7 contre, 1 pour). Même vote, motivations différentes chez les opposants : la gauche dénonçait une taxe vidée de son rendement, tandis que Les Démocrates, favorables à la version initiale du Gouvernement, jugeaient une liste de biens trop rigide. Le RN a présenté ce vote comme proche de sa proposition d'« impôt sur la fortune financière ». L'article 3 ainsi modifié a ensuite été adopté par 224 voix contre 10 (scrutin n° 3294) : la gauche s'est abstenue, l'UDR a voté contre. En nouvelle lecture, le 14 janvier 2026, on retrouve les mêmes clivages sur l'amendement des Démocrates rétablissant une taxe de 2 % sur l'ensemble des actifs non professionnels (scrutin n° 5020, rejeté par 103 voix contre 73 : pour, la gauche, Les Démocrates et LIOT ; contre, EPR, Droite républicaine, UDR, RN et la majorité d'Horizons). L'article limité aux biens de luxe est ensuite rejeté par 60 voix contre 57 (scrutin n° 5021, 150 votants) : le RN et l'UDR, qui avait défendu la suppression de la taxe, votent contre ; EPR et Droite républicaine pour ; LFI-NFP, Écologiste et social et GDR s'abstiennent, les Socialistes se partagent. La taxe a finalement été rétablie dans le texte sur lequel le Gouvernement a engagé sa responsabilité (article 49, alinéa 3).",
+  "lastVerified": "2026-09-26"
+}

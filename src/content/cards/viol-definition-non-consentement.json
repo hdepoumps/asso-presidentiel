@@ -1,0 +1,178 @@
+{
+  "id": "viol-definition-non-consentement",
+  "theme": "justice",
+  "question": "Faut-il définir dans le code pénal les agressions sexuelles, dont le viol, comme tout acte sexuel non consenti, et non plus seulement par la violence, la contrainte, la menace ou la surprise ?",
+  "explainer": {
+    "title": "Qu'est-ce qui change ?",
+    "text": "Avant cette loi, le code pénal définissait les agressions sexuelles, dont le viol, par l'usage de « violence, contrainte, menace ou surprise ». Leur définition générale vise désormais « tout acte sexuel non consenti ». Le consentement doit être « libre et éclairé, spécifique, préalable et révocable ». Il est apprécié au regard des circonstances et ne peut être déduit du seul silence ou de la seule absence de réaction de la victime. La violence, la contrainte, la menace ou la surprise, « quelle que soit leur nature », restent des cas où il n'y a pas de consentement. Le viol est aussi étendu aux actes bucco-anaux.",
+    "sources": [
+      "s2",
+      "s4",
+      "s8"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Fonder l'infraction sur l'absence de consentement, notion jugée plus subjective que la violence ou la contrainte, rendrait la preuve plus incertaine et ouvrirait la voie à des décisions contradictoires.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, l'accusé serait placé en position de devoir prouver qu'il avait l'accord de l'autre personne, au détriment de la présomption d'innocence.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "L'enquête se concentrerait sur les gestes, les mots et le silence de la victime plutôt que sur l'auteur, alors que la jurisprudence tient déjà compte de la sidération ou de l'emprise, comme l'a relevé le Conseil d'État.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Beaucoup de victimes sont sidérées et ne résistent pas : écrire que le consentement ne peut se déduire du seul silence empêcherait un agresseur de s'abriter derrière l'absence de réaction.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la loi actuelle, peu claire, est appliquée différemment selon les tribunaux, et la Cour européenne des droits de l'homme a jugé la protection française insuffisante.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Saisi en mars 2025 sur la première version, le Conseil d'État a estimé que la référence au consentement ne crée pas, par elle-même, de présomption de culpabilité : l'accusation doit toujours prouver les faits et l'intention de l'auteur.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, vote sur le texte de la commission mixte paritaire",
+    "textTitle": "Proposition de loi modifiant la définition pénale du viol et des agressions sexuelles",
+    "summary": "Déposée le 21 janvier 2025 et retouchée après un avis du Conseil d'État du 6 mars 2025, la proposition de loi a été adoptée par l'Assemblée le 1er avril 2025, puis modifiée par le Sénat le 18 juin 2025. Réunie le 21 octobre 2025, la commission mixte paritaire s'est accordée sur un texte commun, voté par l'Assemblée le 23 octobre 2025.",
+    "sources": [
+      "s5",
+      "s4",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-10-29",
+      "label": "Adoption définitive",
+      "text": "Le Sénat adopte à son tour le texte de la commission mixte paritaire, par 327 voix pour, aucune contre et 15 abstentions.",
+      "sources": [
+        "s5",
+        "s9"
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-1057 du 6 novembre 2025 modifiant la définition pénale du viol et des agressions sexuelles, publiée au Journal officiel du 7 novembre et en vigueur depuis le 8 novembre 2025. Le Conseil constitutionnel n'a pas été saisi. Selon le Conseil d'État, l'extension du viol aux actes bucco-anaux, plus sévère, ne vaut que pour les faits commis après l'entrée en vigueur de la loi.",
+      "sources": [
+        "s8",
+        "s10",
+        "s5",
+        "s4"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3061",
+      "numero": 3061,
+      "date": "2025-10-23",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire"
+    },
+    {
+      "uid": "VTANR5L17V1202",
+      "numero": 1202,
+      "date": "2025-04-01",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en première lecture"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3061 (23 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Texte adopté n° 175 (23 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0175.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : texte de la commission mixte paritaire (23 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N008",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Conseil d'État — Avis sur la proposition de loi (6 mars 2025)",
+      "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-une-proposition-de-loi-visant-a-modifier-la-definition-penale-du-viol-et-des-agressions-sexuelles",
+      "kind": "officiel"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/definition_penale_viol_agressions_sexuelles_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Scrutin n° 1202 (1er avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1202",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Rapport de la commission mixte paritaire n° 1982 (21 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B1982.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Loi n° 2025-1057 modifiant la définition pénale du viol et des agressions sexuelles (6 novembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=JUSX2510083L",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Scrutin n° 9 : texte de la commission mixte paritaire (29 octobre 2025)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-9.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Article 222-23 du code pénal (version en vigueur depuis le 8 novembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043409305",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Le 23 octobre 2025, tous les groupes ont voté pour, sauf le RN (27 contre, 3 abstentions), l'UDR (4 contre) et le GDR (ses 2 députés présents se sont abstenus). En première lecture (1er avril 2025), les socialistes s'étaient partagés (21 pour, 9 contre, 4 abstentions) ; le RN (41 contre) et l'UDR (5 contre) s'y opposaient déjà. Proposition de loi déposée par des députées Écologiste et social et Ensemble pour la République.",
+  "lastVerified": "2026-09-26"
+}

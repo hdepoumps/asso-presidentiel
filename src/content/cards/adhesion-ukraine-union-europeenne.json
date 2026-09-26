@@ -1,0 +1,191 @@
+{
+  "id": "adhesion-ukraine-union-europeenne",
+  "theme": "international",
+  "question": "Faut-il appeler l'Union européenne et ses États membres à faciliter l'adhésion de l'Ukraine pour qu'elle aboutisse « dans les meilleurs délais », dans le respect des critères d'adhésion ?",
+  "explainer": {
+    "title": "Comment un pays entre-t-il dans l'Union européenne ?",
+    "text": "L'Ukraine est officiellement candidate depuis le 23 juin 2022 et les négociations d'adhésion ont été ouvertes le 25 juin 2024. Un pays candidat doit reprendre l'ensemble des règles européennes, négociées par grands groupes de chapitres (six « clusters »), chaque étape exigeant l'accord unanime des 27 États. Le traité d'adhésion doit ensuite être ratifié par chaque État membre : en France, la Constitution impose un référendum, sauf si l'Assemblée et le Sénat votent chacun, à la majorité des trois cinquièmes, une motion permettant de faire adopter la loi de ratification par le Parlement réuni en Congrès, où elle doit aussi recueillir les trois cinquièmes des suffrages.",
+    "sources": ["s12", "s14", "s9", "s6"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, l'entrée d'une grande puissance agricole menacerait les agriculteurs français, exposés à sa concurrence, et capterait une large part des aides de la politique agricole commune.",
+      "sources": ["s3", "s5"]
+    },
+    {
+      "text": "Selon eux, avec un salaire minimum inférieur à 200 euros par mois, l'adhésion ouvrirait la voie à la concurrence par les bas salaires et aux délocalisations ; la corruption et une justice trop liée au pouvoir poseraient aussi problème.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Soutenir l'Ukraine n'implique pas de vouloir son adhésion : « dans les meilleurs délais » suggérerait un traitement de faveur face aux autres candidats, alors qu'un tel élargissement mériterait un débat national, voire un référendum.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, supprimer ce soutien enverrait le signal que la France est prête à abandonner l'Ukraine, alors que la menace russe pèse sur l'ensemble de l'Europe.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Il ne s'agit pas d'une adhésion accélérée : le processus resterait long et soumis au respect des critères sur la justice, les libertés et l'économie, que l'Ukraine devra remplir.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Un écart de richesse n'a pas empêché l'entrée de l'Espagne et du Portugal ; l'Europe devrait répondre à l'aspiration d'un peuple qui souhaite la rejoindre et étendre sa promesse de paix.",
+      "sources": ["s3"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques de suppression à une proposition de résolution européenne",
+    "textTitle": "Proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine",
+    "summary": "Trois amendements identiques proposaient de supprimer le point de la résolution invitant l'Union européenne et ses États membres à « faciliter le processus d'adhésion de l'Ukraine » pour qu'il « aboutisse dans les meilleurs délais, dans le respect des critères d'adhésion en vigueur ». Avant le vote, le rapporteur avait annoncé une réécriture plus prudente de ce point. Voter pour ces amendements revenait à retirer ce soutien de la résolution.",
+    "sources": ["s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-03-12",
+      "label": "Assemblée nationale",
+      "text": "Juste après ce vote, un amendement du rapporteur, adopté à main levée, remplace « faciliter » par « accompagner » et exige le « respect impératif » des critères d'adhésion ; les mots « dans les meilleurs délais » sont conservés. La résolution est adoptée le même jour par 288 voix contre 54. Elle exprime la position de l'Assemblée mais ne décide pas de l'adhésion.",
+      "sources": ["s3", "s10", "s15"]
+    },
+    {
+      "date": "2026-06-15",
+      "label": "Union européenne",
+      "text": "Après la levée du veto hongrois, qui bloquait les négociations depuis deux ans, les Vingt-Sept ouvrent avec l'Ukraine (et la Moldavie) le premier groupe de chapitres de négociation, consacré aux valeurs et principes fondamentaux : État de droit, droits fondamentaux, institutions démocratiques, critères économiques.",
+      "sources": ["s13", "s7", "s8"]
+    },
+    {
+      "date": "2026-06-24",
+      "label": "Union européenne",
+      "text": "Les Vingt-Sept revoient le calendrier à la baisse : deux groupes de chapitres visés en juillet au lieu de cinq, faute d'accord de la Hongrie. À sa demande, la mention d'une ouverture des suivants « dès que possible » a aussi été retirée des conclusions du sommet européen.",
+      "sources": ["s9"]
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Union européenne",
+      "text": "Ouverture d'un deuxième groupe de chapitres, « Relations extérieures » (politique commerciale, aide humanitaire et au développement, politique étrangère, de sécurité et de défense). Les quatre autres, dont celui consacré à l'agriculture et à la cohésion, restent à ouvrir, chacun avec l'accord unanime des 27 ; aucune date d'adhésion n'est fixée.",
+      "sources": ["s14", "s11", "s9"]
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Union européenne",
+      "text": "La Hongrie refuse de nouveau de valider l'étape préalable à l'ouverture des groupes de chapitres « Marché intérieur » et « Compétitivité et croissance inclusive » ; elle la subordonne à des progrès sur les droits de la minorité hongroise en Ukraine. Seuls deux groupes de chapitres sur six sont alors ouverts.",
+      "sources": ["s16", "s13"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V973",
+      "numero": 973,
+      "date": "2025-03-12",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements identiques supprimant le soutien de la résolution à l'adhésion de l'Ukraine à l'Union européenne"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 973 (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/973",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 973 (12 mars 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_973",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur les amendements relatifs à l'adhésion (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N127",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Texte de la commission des affaires étrangères n° 1001-A0 (19 février 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1001_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Amendement n° 33 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1001/AN/33",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Légifrance — Article 88-5 de la Constitution (ratification des traités d'adhésion à l'Union européenne)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018077285",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "France 24 — L'Union européenne annonce la reprise des négociations d'adhésion avec l'Ukraine (13 juin 2026)",
+      "url": "https://www.france24.com/fr/europe/20260612-union-europeenne-reprise-lundi-negociations-d-adhesion-ukraine-moldavie",
+      "kind": "presse"
+    },
+    {
+      "id": "s8",
+      "label": "franceinfo — L'Union européenne va reprendre les négociations sur l'adhésion de l'Ukraine après la levée du veto de la Hongrie (12 juin 2026)",
+      "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/l-union-europeenne-va-reprendre-les-negociations-sur-l-adhesion-de-l-ukraine-apres-la-levee-du-veto-de-la-hongrie_8058161.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s9",
+      "label": "Euronews — L'UE revoit à la baisse le calendrier d'adhésion de l'Ukraine (24 juin 2026, en anglais)",
+      "url": "https://www.euronews.com/my-europe/2026/06/24/eu-scales-back-ukraines-accession-timetable-due-to-hungarian-resistance",
+      "kind": "presse"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Résolution européenne appelant au renforcement du soutien à l'Ukraine, texte adopté n° 70 (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0070_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Euronews — L'Ukraine se rapproche de l'UE avec l'ouverture d'un nouveau groupe de chapitres (14 juillet 2026, en anglais)",
+      "url": "https://www.euronews.com/my-europe/2026/07/14/ukraine-inches-closer-towards-joining-eu-with-opening-of-another-cluster",
+      "kind": "presse"
+    },
+    {
+      "id": "s12",
+      "label": "Commission européenne — Ukraine : statut de pays candidat et étapes de l'adhésion (en anglais)",
+      "url": "https://enlargement.ec.europa.eu/countries/ukraine_en",
+      "kind": "officiel"
+    },
+    {
+      "id": "s13",
+      "label": "Conseil de l'UE — L'UE et l'Ukraine ouvrent le premier groupe de chapitres de négociation (15 juin 2026, en anglais)",
+      "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/06/15/eu-and-ukraine-open-first-accession-negotiations-cluster/",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Conseil de l'UE — Élargissement : l'UE ouvre des négociations d'adhésion avec l'Ukraine sur les relations extérieures (14 juillet 2026)",
+      "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/07/14/enlargement-eu-opens-accession-negotiations-with-ukraine-on-external-relations-policies/",
+      "kind": "officiel"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : explications de vote et vote sur l'ensemble de la résolution (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N128",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Ukrainska Pravda — La Hongrie conditionne l'ouverture de nouveaux groupes de chapitres à la protection de sa minorité (1er septembre 2026, en anglais)",
+      "url": "https://www.pravda.com.ua/eng/news/2026/09/01/8051382/",
+      "kind": "presse"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Amendements rejetés par 122 voix contre 119 (245 votants, 4 abstentions). Pour la suppression, donc contre ce soutien à l'adhésion : RN, LFI-NFP, GDR, UDR, ainsi que 7 des 10 députés Droite républicaine ayant voté (1 contre, 2 abstentions ; les 37 autres membres du groupe n'ont pas voté). Contre la suppression : Ensemble pour la République, Socialistes, Écologiste et social, Les Démocrates, Horizons, LIOT (une voix dissidente chacun chez les Socialistes, Les Démocrates et LIOT). Même vote, accents différents : le RN et l'UDR mettaient en avant la menace pour l'agriculture française (l'UDR aussi le « non » de 2005 et l'absence de consultation du peuple) ; LFI-NFP se disait opposée à tout nouvel élargissement et invoquait un salaire minimum d'environ 200 euros, la corruption, le manque d'indépendance de la justice, le dumping et la concurrence agricole déloyale, tout en écrivant dans son amendement ne pas « fermer la porte » à une adhésion future ; GDR jugeait le point inutile et réclamait un débat national, voire un référendum. Sur l'ensemble de la résolution (adoptée par 288 voix contre 54, scrutin n° 988), le RN et l'UDR se sont abstenus en citant ce point, GDR a voté contre en le citant aussi, LFI-NFP a voté contre. Vote à faible participation (245 députés) : la position de la Droite républicaine repose sur 10 de ses 47 membres.",
+  "lastVerified": "2026-09-26"
+}

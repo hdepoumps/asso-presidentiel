@@ -1,0 +1,212 @@
+{
+  "id": "barrages-hydroelectriques-fin-des-concessions",
+  "theme": "energie",
+  "question": "Faut-il confier pour 70 ans, contre paiement et sans mise en concurrence, les grands barrages de l'État à leurs exploitants, et obliger EDF à vendre aux enchères une part de la production des siens ?",
+  "explainer": {
+    "title": "Que change cette réforme des barrages ?",
+    "text": "Les quelque 340 grandes installations hydroélectriques (plus de 4,5 mégawatts), environ 90 % de la puissance hydroélectrique installée en France, étaient exploitées en concession : un contrat à durée limitée que, selon la Commission européenne, l'État devait remettre en concurrence à son échéance. La loi remplace ces concessions (sauf celle du Rhône) par un « droit réel » de 70 ans sur les ouvrages, qui restent dans le domaine de l'État. Chaque exploitant actuel, EDF en tête, l'obtient en signant une convention et en payant son prix, évalué par des experts indépendants, déduction faite de l'indemnité due pour la fin de sa concession ; s'il refuse, les droits sont attribués après une procédure de sélection. En contrepartie, pendant 20 ans, EDF doit mettre aux enchères des « capacités virtuelles » (6 gigawatts au départ) : le droit d'acheter une partie de la production de ses barrages, pour qu'au moins 40 % de la puissance hydraulique installée en France soit accessible à d'autres entreprises qu'EDF.",
+    "sources": [
+      "s3",
+      "s4",
+      "s8",
+      "s10"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, mettre aux enchères une part de la production des barrages d'EDF revient à partager avec des concurrents privés les bénéfices d'ouvrages payés par les Français, comme EDF a dû le faire, à prix fixe, pour son nucléaire.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Des droits de 70 ans priveraient l'État de la maîtrise des barrages sans garantir d'investissements, laissés au bon vouloir des exploitants, alors que ces ouvrages servent aussi l'eau potable, l'irrigation et le débit des rivières.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, une autre voie existait : confier les barrages à une structure publique contrôlée par l'État (« quasi-régie »), compatible avec le droit européen et plus protectrice de l'intérêt général.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Le différend avec la Commission européenne, ouvert depuis plus de dix ans, gelait des milliards d'euros d'investissements, dont les stations de pompage qui stockent l'électricité ; selon ses défenseurs, la réforme le règle.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, il n'y a ni privatisation ni mise en concurrence : l'État reste propriétaire, les exploitants actuels gardent les barrages et le statut des salariés est maintenu ; une « quasi-régie » aurait menacé l'unité d'EDF.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, rien à voir avec la vente forcée à prix fixe imposée à EDF pour son nucléaire : le prix sort des enchères, avec un prix plancher tenant compte des coûts de production, sous le contrôle du régulateur de l'énergie.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi déposée à l'Assemblée nationale (procédure accélérée), vote sur le texte de la commission mixte paritaire",
+    "textTitle": "Proposition de loi visant à relancer les investissements dans le secteur de l'hydroélectricité pour contribuer à la transition énergétique",
+    "summary": "Le texte traduit un accord de principe conclu en août 2025 entre le Gouvernement et la Commission européenne pour clore deux procédures visant la France : l'absence de remise en concurrence des concessions échues et la position dominante d'EDF. Déposé le 13 janvier 2026, il a été adopté par l'Assemblée le 5 février, puis par le Sénat le 13 avril ; députés et sénateurs se sont accordés sur une version commune en commission mixte paritaire le 2 juin 2026. Le vote retenu est l'adoption définitive de cette version.",
+    "sources": [
+      "s3",
+      "s5",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-06-02",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur une version commune du texte.",
+      "sources": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte de la commission mixte paritaire, la veille du vote définitif de l'Assemblée.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Conseil constitutionnel",
+      "text": "Le Conseil constitutionnel n'a pas été saisi de cette loi avant sa promulgation.",
+      "sources": [
+        "s4",
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-554 du 29 juin 2026, publiée au Journal officiel le 30 juin.",
+      "sources": [
+        "s4",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Entrée en vigueur",
+      "text": "La loi entre en vigueur. Chaque concession ne prendra fin, et le droit de 70 ans ne sera attribué, qu'après l'évaluation des montants par des experts indépendants, l'avis de la Commission des participations et des transferts, puis la signature de la convention et le paiement de la somme due.",
+      "sources": [
+        "s4",
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "label": "Enchères en préparation",
+      "text": "Le régulateur de l'énergie (CRE) consulte les acteurs jusqu'au 16 octobre 2026 sur les produits qu'EDF devra mettre aux enchères ; ses propositions au Gouvernement sont attendues début janvier 2027. Les enchères ne commenceront qu'après l'attribution des droits de 70 ans.",
+      "sources": [
+        "s6",
+        "s10"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7409",
+      "numero": 7409,
+      "date": "2026-06-17",
+      "role": "principal",
+      "sens": 1,
+      "label": "Adoption définitive de la proposition de loi (texte de la commission mixte paritaire)"
+    },
+    {
+      "uid": "VTANR5L17V5340",
+      "numero": 5340,
+      "date": "2026-02-05",
+      "role": "historique",
+      "sens": 1,
+      "label": "Première lecture : article 12, mise aux enchères par EDF de capacités hydroélectriques virtuelles"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7409 (17 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Scrutin n° 5340 sur l'article 12 (5 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5340",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : discussion du texte de la commission mixte paritaire (17 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Légifrance — Loi n° 2026-554 visant à relancer les investissements dans le secteur de l'hydroélectricité (29 juin 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054340720",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl25-359)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-359.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Commission de régulation de l'énergie — Consultation sur les produits hydroélectriques mis aux enchères par EDF (9 septembre 2026)",
+      "url": "https://www.cre.fr/actualites/toute-lactualite/la-cre-consulte-les-acteurs-sur-les-principes-de-definition-des-produits-hydroelectriques-mis-aux-encheres-par-edf-suite-a-la-reforme-du-regime-juridique-des-concessions-hydroelectriques.html",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Banque des Territoires (Localtis) — Relance de l'hydroélectricité : la loi publiée au Journal officiel (30 juin 2026)",
+      "url": "https://www.banquedesterritoires.fr/relance-de-lhydroelectricite-la-loi-publiee-au-journal-officiel",
+      "kind": "presse"
+    },
+    {
+      "id": "s9",
+      "label": "Datan — Vote n° 7409 (17 juin 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_7409",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Texte adopté définitivement n° 317 (17 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0317.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Adoption définitive le 17 juin 2026 (465 votants). Pour : GDR, Socialistes, LIOT, Les Démocrates, Ensemble pour la République, Horizons, Droite républicaine, UDR. Contre : LFI-NFP. Abstention : Écologiste et social et RN. LFI-NFP (contre) et les écologistes (abstention) jugeaient la réforme trop favorable au marché et défendaient une « quasi-régie » publique ; le RN, favorable à la sortie des concessions, s'est abstenu à cause de l'article 12 (les enchères), qu'il qualifiait de « ligne rouge ». Le GDR, hostile aux enchères, a voté le texte comme « la moins mauvaise des solutions ». En première lecture, le 5 février 2026, cet article 12 avait été adopté par 81 voix contre 62 (143 votants seulement) : Socialistes, LIOT, Démocrates, EPR, Horizons et Droite républicaine pour ; LFI-NFP, GDR, Écologiste et social, RN et le seul votant UDR contre.",
+  "lastVerified": "2026-09-26"
+}

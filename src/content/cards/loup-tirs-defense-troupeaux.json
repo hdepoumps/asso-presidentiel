@@ -1,0 +1,227 @@
+{
+  "id": "loup-tirs-defense-troupeaux",
+  "theme": "ecologie",
+  "question": "Faut-il faciliter par la loi les tirs sur les loups pour protéger les troupeaux, y compris au-delà du plafond annuel d'abattages et dans certains espaces protégés ?",
+  "explainer": {
+    "title": "Que prévoyait cet article ?",
+    "text": "Des loups étaient déjà abattus par dérogation, dans la limite d'un plafond annuel fixé par arrêté (environ 190 en 2025). Depuis une directive européenne du 17 juin 2025, le loup n'est plus « strictement protégé » mais « protégé », ce qui permet des « mesures de gestion » de l'espèce. L'article inscrivait cette gestion dans la loi : nombre maximal de loups pouvant être abattus fixé chaque année, abattages possibles au-delà dans un département en cas de dommages, tir de défense de l'éleveur « présumé légitime » en cas d'attaque imminente ou d'intrusion d'un loup dans un pâturage protégé, sans autorisation préalable (vérification après coup), tirs sans autre condition pour les bovins et les chevaux là où le loup est installé, ces troupeaux étant jugés impossibles à protéger efficacement, tirs dans certains espaces protégés.",
+    "sources": ["s11", "s3", "s4", "s14"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, ce sont surtout les protections (clôtures, chiens, gardiennage) qui réduisent les attaques : de 2024 à 2025, elles auraient reculé de 2 % dans les Alpes, bien équipées, et augmenté de 37 % là où le loup vient d'arriver.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses opposants, l'expertise du Muséum national d'histoire naturelle et de l'Office français de la biodiversité (2025) montre que les tirs actuels exposent déjà les loups à 66 % de risque de déclin : tirer plus menacerait l'espèce.",
+      "sources": ["s5", "s6"]
+    },
+    {
+      "text": "Selon ses opposants, déclarer les bovins et les chevaux « impossibles à protéger » permettrait de ne plus financer leur protection, alors qu'un rapport d'inspection de l'État (2023) jugeait cette notion sans fondement technique.",
+      "sources": ["s5", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la pression du loup s'aggrave : en 2025, 4 400 attaques (+8 %) et 12 500 animaux victimes (+11 %) dans 61 départements, pour environ 1 082 loups ; les règles actuelles ne suffiraient plus à protéger les éleveurs.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Même dans les Alpes, où les troupeaux sont protégés, les pertes restent lourdes (1 607 animaux tués dans les Alpes-Maritimes) : selon ses défenseurs, la protection seule ne suffit pas sans tirs.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, l'éleveur doit pouvoir tirer au moment de l'attaque, sans attendre d'autorisation ; ce serait vital pour les éleveurs de bovins, jusqu'ici soumis à autorisation alors qu'aucune protection efficace n'existerait.",
+      "sources": ["s4", "s5"]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article d'un projet de loi du Gouvernement, première lecture",
+    "textTitle": "Projet de loi d'urgence pour la protection et la souveraineté agricoles",
+    "summary": "Ce projet de loi portait aussi sur l'eau, les pesticides, l'élevage et les prix agricoles. Son article 14, consacré au loup, a été modifié en séance les 26 et 27 mai 2026 : les députés ont d'abord rejeté sa suppression (29 voix contre 131), puis ajouté le tir de défense présumé légitime, qui permet à l'éleveur de tirer lors d'une attaque sans autorisation préalable (94 voix contre 66), avant d'adopter l'article. En parallèle, deux arrêtés du 23 février 2026 avaient relevé le plafond annuel de loups pouvant être abattus (de 19 % à 21 %, voire 23 % de la population, soit 227 loups en 2026 au lieu de 192) et, pour les troupeaux de moutons et de chèvres, remplacé l'autorisation préalable des tirs de défense par une déclaration, sauf dans certaines zones.",
+    "sources": ["s3", "s4", "s5", "s14", "s18", "s7", "s15"]
+  },
+  "suite": [
+    {
+      "date": "2026-06-02",
+      "label": "Assemblée nationale",
+      "text": "Le projet de loi est adopté en première lecture (369 voix contre 178).",
+      "sources": ["s9"]
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte (219 voix contre 111) en réécrivant l'article sur le loup : il supprime le tir de défense présumé légitime sans autorisation et les tirs sans autre condition pour les bovins et les chevaux, et prévoit à la place une déclaration des tirs de défense dans toutes les communes (récépissé sous un jour ouvré), les troupeaux de bovins, de chevaux et d'ânes étant reconnus impossibles à protéger.",
+      "sources": ["s16", "s10"]
+    },
+    {
+      "date": "2026-07-16",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun, adopté par l'Assemblée le 20 juillet (296 voix contre 224) puis définitivement par le Sénat le 21 juillet. La version finale ne reprend pas le tir de défense présumé légitime voté par l'Assemblée : elle retient une déclaration des tirs de défense dans toutes les communes, reconnaît les troupeaux de bovins, de chevaux et d'ânes comme impossibles à protéger, reporte sur l'année suivante les loups non abattus sous le plafond, permet au préfet d'autoriser un éleveur à abattre des loups en cas d'attaques répétées et autorise les tirs dans les espaces protégés, sauf en principe au cœur des parcs nationaux.",
+      "sources": ["s9", "s10", "s12"]
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-914 DC : le Conseil censure plusieurs autres articles de la loi, mais aucune disposition sur le loup. Il juge conformes le report du plafond, les abattages supplémentaires dans un département et l'évaluation de l'état de l'espèce au niveau national, car ils restent limités par le maintien de l'espèce dans un état de conservation favorable, ainsi que les tirs dans les espaces protégés, en relevant qu'ils restent en principe interdits au cœur des parcs nationaux.",
+      "sources": ["s11"]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles, publiée au Journal officiel du 19 août 2026 ; les mesures sur le loup figurent à son article 39.",
+      "sources": ["s12", "s13"]
+    },
+    {
+      "date": "2026-08-24",
+      "label": "Application",
+      "text": "Un décret du 24 août 2026, pris sans référence à cette loi, permet au préfet chargé de coordonner la politique du loup de suspendre les tirs de défense et de prélèvement sur certains territoires jusqu'à la fin de l'année. Au 26 septembre 2026, aucun arrêté d'application des nouvelles règles de l'article 39 n'a été publié au Journal officiel.",
+      "sources": ["s17", "s13"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V6952",
+      "numero": 6952,
+      "date": "2026-05-27",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 14 sur la gestion du loup et la défense des troupeaux (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V6903",
+      "numero": 6903,
+      "date": "2026-05-26",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendements de suppression de l'article 14, avant l'ajout du tir de défense présumé légitime (rejetés)"
+    },
+    {
+      "uid": "VTANR5L17V6929",
+      "numero": 6929,
+      "date": "2026-05-26",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement n° 1422 rendant le tir de défense présumé légitime et sans autorisation préalable en cas d'attaque imminente ou d'intrusion d'un loup dans un pâturage protégé, vérifié après coup (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 6952 (27 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6952",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 6952 (27 mai 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_6952",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Texte adopté n° 295 en première lecture, article 14 (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0295_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance (26 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-26-mai-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (26 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-26-mai-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la première séance (27 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-27-mai-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 6929 : amendement n° 1422 à l'article 14 (26 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6929",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Amendement n° 1422 à l'article 14 (tir de défense présumé légitime)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2765/AN/1422.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — La loi en clair : projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/urgence-agricole.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2026-914 DC (14 août 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026914DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Loi n° 2026-796, article 39 (18 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/8/18/2026-796/jo/article_39",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Ministère de l'Agriculture — La loi d'urgence pour la protection et la souveraineté agricoles promulguée (19 août 2026)",
+      "url": "https://agriculture.gouv.fr/la-loi-durgence-pour-la-protection-et-la-souverainete-agricoles-promulguee-par-le-president-de-la",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Arrêté modifiant l'arrêté du 23 octobre 2020 fixant le nombre maximum de loups dont la destruction pourra être autorisée chaque année (23 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053555329",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Scrutin n° 6903 : amendements de suppression de l'article 14 (26 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6903",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Sénat — Texte adopté n° 152 (première lecture, 2 juillet 2026)",
+      "url": "https://www.senat.fr/leg/tas25-152.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Légifrance — Décret n° 2026-815 relatif à certaines attributions du préfet coordonnateur du plan national d'actions sur le loup (24 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743191",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Légifrance — Arrêté définissant le statut de protection du loup et fixant les conditions et limites de sa destruction (23 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053555244",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Article adopté par 151 voix contre 37 avec l'appui de RN, UDR, Droite républicaine, EPR, Horizons, Démocrates et LIOT ; LFI-NFP et Écologiste et social contre ; Socialistes majoritairement abstenus (5 pour, 1 contre, 11 abstentions) ; GDR n'a pas pris part au vote. Participation modeste (202 votants). La veille, les Socialistes avaient voté contre la suppression de l'article (scrutin n° 6903 : 15 contre sur 16 votants du groupe), avant de s'abstenir majoritairement sur l'article durci. Le durcissement le plus discuté, le tir de défense présumé légitime sans autorisation préalable (amendement n° 1422, scrutin n° 6929), a été adopté grâce à RN, UDR, Droite républicaine et la majorité des députés Horizons présents, alors qu'EPR, LIOT, la plupart des Démocrates et les groupes de gauche avaient voté contre. Cette présomption ne figure pas dans la loi promulguée, qui retient un régime de déclaration des tirs (sans autorisation, mais avec un récépissé délivré sous un jour ouvré).",
+  "lastVerified": "2026-09-26"
+}

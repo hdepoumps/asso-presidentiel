@@ -1,0 +1,234 @@
+{
+  "id": "scrutin-paris-lyon-marseille",
+  "theme": "institutions",
+  "question": "Faut-il élire les conseils municipaux de Paris, Lyon et Marseille par un vote propre à toute la ville, séparé de celui des arrondissements, avec 25 % des sièges en bonus pour la liste en tête ?",
+  "explainer": {
+    "title": "Comment votait-on à Paris, Lyon et Marseille ?",
+    "text": "Depuis une loi de 1982, les habitants de ces trois villes ne votaient qu'une fois, par arrondissement ou par secteur : les premiers élus de chaque liste siégeaient au conseil de la ville, les suivants seulement au conseil d'arrondissement. Le texte crée deux votes le même jour : l'un pour le conseil de la ville, avec une liste unique pour toute la commune, l'autre pour les conseils d'arrondissement. Au conseil de la ville, la liste arrivée en tête reçoit en bonus 25 % des sièges (contre 50 % dans les autres communes), le reste étant partagé entre les listes selon leur score. Dans l'ancien comme dans le nouveau système, c'est le conseil de la ville qui élit ensuite le maire.",
+    "sources": ["s13", "s4", "s6", "s7", "s8"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la réforme a été menée dans la précipitation, à moins d'un an du vote et sans demander l'avis du Conseil d'État : organisation du vote, financement des campagnes ou trois urnes à Lyon restaient mal réglés.",
+      "sources": ["s13", "s17", "s4"]
+    },
+    {
+      "text": "Le texte ne revient pas aux règles des autres communes : un bonus de 25 % des sièges au lieu de 50 % ailleurs créerait une nouvelle exception et pourrait priver le conseil d'une majorité stable si de nombreuses listes se maintiennent.",
+      "sources": ["s13", "s17", "s4"]
+    },
+    {
+      "text": "Selon ses opposants, rien ne garantirait plus que chaque arrondissement ait des élus au conseil de la ville, et la question des compétences des mairies d'arrondissement serait renvoyée à un simple rapport.",
+      "sources": ["s17", "s13", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, dans l'ancien système, quelques arrondissements disputés faisaient basculer l'élection, comme les « États pivots » américains ; ailleurs, voter servait peu, ce qui expliquerait une participation plus faible.",
+      "sources": ["s13", "s3"]
+    },
+    {
+      "text": "Les habitants éliraient directement le conseil de leur ville sur une liste unique, comme dans toutes les autres communes : chaque voix pèserait autant, quel que soit l'arrondissement où l'on vote.",
+      "sources": ["s13", "s4"]
+    },
+    {
+      "text": "Un bonus de 25 % des sièges rapprocherait le nombre d'élus de chaque liste de son score réel tout en dégageant une majorité, selon ses défenseurs ; les arrondissements gardent leur propre élection et leur maire.",
+      "sources": ["s17", "s4"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi déposée à l'Assemblée nationale (procédure accélérée), vote sur l'ensemble en première lecture",
+    "textTitle": "Proposition de loi visant à réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille",
+    "summary": "Vote en première lecture sur l'ensemble du texte. Après deux rejets au Sénat et l'échec d'une commission mixte paritaire (réunion de députés et de sénateurs chargée de trouver un compromis), l'Assemblée a eu le dernier mot (« lecture définitive ») le 10 juillet 2025, par 112 voix contre 28. La réforme concernait près de 2,1 millions d'électeurs.",
+    "sources": ["s2", "s5", "s9", "s14"]
+  },
+  "suite": [
+    {
+      "date": "2025-06-03",
+      "label": "Sénat",
+      "text": "Le Sénat rejette le texte en première lecture. Sa commission des lois le juge élaboré dans la précipitation, coûteux (au moins 15 millions d'euros selon elle) et source de complexité.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "date": "2025-06-24",
+      "label": "Commission mixte paritaire",
+      "text": "Réunis en commission mixte paritaire, députés et sénateurs ne parviennent pas à un texte commun.",
+      "sources": ["s5"]
+    },
+    {
+      "date": "2025-07-07",
+      "label": "Nouvelle lecture (Assemblée)",
+      "text": "L'Assemblée nationale adopte de nouveau le texte en nouvelle lecture.",
+      "sources": ["s2", "s5"]
+    },
+    {
+      "date": "2025-07-10",
+      "label": "Lecture définitive",
+      "text": "Après un nouveau rejet par le Sénat le 9 juillet, l'Assemblée nationale, qui a le dernier mot, adopte définitivement le texte.",
+      "sources": ["s2", "s5", "s14"]
+    },
+    {
+      "date": "2025-08-07",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-892 DC : saisi par des députés et des sénateurs, le Conseil déclare conformes à la Constitution, sans réserve, les dispositions contestées. Il juge que le bonus de 25 %, propre à ces trois villes, se justifie par leurs particularités, que les deux votes du même jour ne nuisent pas à la sincérité du scrutin, que le coût de la réforme ne l'empêchait pas d'être proposée par des députés et que les règles habituelles de financement des campagnes s'appliquent.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2025-08-11",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-795 du 11 août 2025, publiée au Journal officiel du 12 août 2025.",
+      "sources": ["s7", "s5"]
+    },
+    {
+      "date": "2026-01-14",
+      "label": "Rapport sur les arrondissements",
+      "text": "À cette date, le rapport prévu par la loi sur un éventuel transfert de compétences vers les mairies d'arrondissement, attendu au plus tard le 11 février 2026, n'est pas remis : le Gouvernement annonce une mission de l'Inspection générale de l'administration et une remise au premier semestre 2026.",
+      "sources": ["s16"]
+    },
+    {
+      "date": "2026-03-15",
+      "label": "Application",
+      "text": "Les élections municipales des 15 et 22 mars 2026 se sont déroulées selon ces nouvelles règles : deux votes successifs, avec deux urnes distinctes (trois à Lyon, où l'on élit aussi le conseil de la métropole).",
+      "sources": ["s8", "s9", "s12"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1330",
+      "numero": 1330,
+      "date": "2025-04-09",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en première lecture"
+    },
+    {
+      "uid": "VTANR5L17V2954",
+      "numero": 2954,
+      "date": "2025-07-07",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en nouvelle lecture"
+    },
+    {
+      "uid": "VTANR5L17V3018",
+      "numero": 3018,
+      "date": "2025-07-10",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en lecture définitive"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1330 (9 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1330",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Dossier législatif : réformer le mode d'élection des membres du Conseil de Paris et des conseils municipaux de Lyon et Marseille",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_mode_election_membres_Conseil_Paris",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : fin de l'examen des articles, explications de vote et vote sur l'ensemble (9 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — La loi en clair : Conseil de Paris et conseils municipaux de Lyon et Marseille",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/conseil-de-paris-et-conseils-municipaux-de-lyon-et-marseille.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif ppl24-532 (rejets du 3 juin et du 9 juillet 2025, échec de la commission mixte paritaire, promulgation)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-532.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Décision n° 2025-892 DC (7 août 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025892DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2025-795 visant à réformer le mode d'élection des membres du conseil de Paris et des conseils municipaux de Lyon et de Marseille (11 août 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052075863",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Ville de Paris — Réforme du mode de scrutin pour les élections municipales à Paris : ce qui change",
+      "url": "https://www.paris.fr/pages/reforme-du-mode-de-scrutin-pour-les-elections-municipales-a-paris-ce-qui-change-32984",
+      "kind": "officiel"
+    },
+    {
+      "id": "s9",
+      "label": "Ministère de l'Intérieur — Élections municipales et communautaires 2026 : bilan chiffré (24 mars 2026)",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/elections-municipales-et-communautaires-2026-bilan-chiffre-du-premier-et-du-second-tour",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 3018, lecture définitive (10 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Datan — Vote n° 1330 (9 avril 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_1330",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Préfecture du Rhône — Réforme du mode de scrutin municipal « PLM » : un triple scrutin à Lyon",
+      "url": "https://www.rhone.gouv.fr/Actions-de-l-Etat/Elections-et-citoyennete/Elections-politiques/Elections-locales/Elections-municipales-2026/Reforme-du-mode-de-scrutin-municipal-PLM-Paris-Lyon-Marseille-rappel-des-regles-de-cumuls",
+      "kind": "officiel"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Compte rendu de la première séance : présentation du texte et discussion générale (8 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Compte rendu de la première séance : lecture définitive (10 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Scrutin n° 2954, nouvelle lecture (7 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2954",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Question orale n° 494 sur le rapport relatif aux compétences des mairies d'arrondissement, réponse du Gouvernement (14 janvier 2026)",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/questions/QANR5L17QOSD494",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : discussion de l'article 1er (8 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N165",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Première lecture (9 avril 2025) : pour LFI-NFP, RN, UDR, EPR, Les Démocrates et la majorité de la Droite républicaine (qui revendique la liberté de vote de ses membres) ; contre Socialistes, Écologiste et social et GDR ; abstention d'Horizons, favorable au principe mais qui regrettait l'absence de réforme des compétences des arrondissements ; LIOT partagé (liberté de vote). Même vote, motivations différentes : certains mettaient en avant un lien plus direct entre électeurs et maire (qui reste élu par le conseil), d'autres la baisse de la prime majoritaire à 25 %. GDR et Écologiste et social dénonçaient aussi des arrière-pensées électorales. En nouvelle lecture (7 juillet 2025), Horizons passe de l'abstention au vote contre, comme la majorité des LIOT votants. En lecture définitive (10 juillet 2025), les députés Horizons (6) et LIOT (2) présents votent contre, et la Droite républicaine, pour le 7 juillet (7 voix), est presque absente (1 contre, 1 abstention) : absent n'est pas neutre.",
+  "lastVerified": "2026-09-26"
+}

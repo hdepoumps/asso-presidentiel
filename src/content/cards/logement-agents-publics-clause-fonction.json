@@ -1,0 +1,190 @@
+{
+  "id": "logement-agents-publics-clause-fonction",
+  "theme": "logement",
+  "question": "Faut-il réserver plus de logements sociaux aux agents des services publics, avec un bail lié à leur emploi qui peut prendre fin quand ils quittent cet emploi ?",
+  "explainer": {
+    "title": "C'est quoi, une « clause de fonction » ?",
+    "text": "C'est une mention inscrite dans le bail d'un logement social attribué, sur proposition de son employeur, à un agent public (État, collectivités, hôpitaux) ou, dans les zones où le logement est rare, au salarié d'un établissement public ou d'une entreprise, publique ou privée, chargée d'un service public de transport de voyageurs. Elle indique l'emploi qui justifie le droit de rester dans le logement. Quand l'agent quitte cet emploi, l'employeur a un an pour demander au bailleur de mettre fin au bail, avec un préavis d'au moins six mois. Un décret doit prévoir un délai supplémentaire (un an au plus) en cas de situation médicale, familiale ou professionnelle exceptionnelle, et le maintien dans les lieux lorsque le locataire ou un proche vivant avec lui a un handicap qui n'était pas connu à la signature du bail. Avant cette loi, la clause n'existait que pour certains agents de l'État et restait peu utilisée.",
+    "sources": ["s3", "s8"]
+  },
+  "contre": [
+    {
+      "text": "Lier le logement à l'emploi créerait une dépendance : un agent muté, qui change de métier ou part à la retraite pourrait devoir quitter son logement avec sa famille, après un préavis d'au moins six mois.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses opposants, le texte ne relancerait pas la construction et se contenterait de gérer la pénurie, en réservant des HLM aux agents publics au détriment d'autres demandeurs, alors que plus de 2,6 millions de ménages attendent.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Le logement deviendrait un frein à la mobilité : pour le garder, un agent pourrait renoncer à une mutation, une reconversion ou un rapprochement familial, alors que près de 7 % des agents publics changent d'établissement chaque année.",
+      "sources": ["s2"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Des postes restent vacants faute de logement : en 2023, sur plus de 105 000 demandes de logement d'agents de l'État, environ 21 000 ont abouti ; le texte donnerait aux employeurs publics de quoi loger leurs recrues.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Un logement obtenu grâce à un emploi devrait être libéré quand cet emploi prend fin, pour revenir à un autre agent en poste : sans cette rotation, les logements réservés aux agents ne serviraient plus leur but.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Quand une administration cède un terrain à bas prix, pouvoir réserver à ses agents jusqu'à la moitié des logements sociaux construits l'inciterait à libérer plus de terrains : selon ses défenseurs, cela aiderait à recruter et à construire.",
+      "sources": ["s2", "s3"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, vote sur le texte de la commission mixte paritaire (compromis entre députés et sénateurs)",
+    "textTitle": "Proposition de loi visant à améliorer l'accès au logement des travailleurs des services publics",
+    "summary": "Vote final sur le texte de la commission mixte paritaire (en première lecture, le 12 janvier 2026, la proposition avait été adoptée par 46 voix contre 7, sur 64 votants). Outre la clause de fonction, il porte de 10 % à 50 % la part des logements sociaux construits qu'un propriétaire public peut réserver à ses agents quand il vend un terrain moins cher que sa valeur ou le loue par bail de très longue durée, et autorise sur des terrains publics des dérogations au plan local d'urbanisme si au moins la moitié des logements créés est réservée aux agents. Il étend aussi à la justice, aux douanes et, dans les zones où le logement est rare, aux entreprises de transport public de voyageurs la possibilité, déjà ouverte à la défense, à la sécurité intérieure et aux hôpitaux publics, de réserver des logements désignés à l'avance plutôt qu'un simple nombre de logements.",
+    "sources": ["s3", "s4", "s8", "s5", "s10"]
+  },
+  "suite": [
+    {
+      "date": "2026-03-30",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte en première lecture en le modifiant. Il prévoit notamment, dans des situations fixées par décret, le maintien dans le logement des locataires ayant des difficultés de santé, un handicap ou une invalidité, et un préavis prolongé de douze mois en cas de vulnérabilité économique ou sociale.",
+      "sources": ["s6", "s7", "s11"]
+    },
+    {
+      "date": "2026-04-28",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun, qui resserre les protections ajoutées par le Sénat : un délai supplémentaire d'un an au plus pour quitter le logement, dans des situations exceptionnelles fixées par décret, et le maintien dans les lieux seulement en cas de handicap inconnu à la signature du bail. Le Sénat adopte ce texte le 1er juin 2026, l'Assemblée le 17 juin (vote de cette carte).",
+      "sources": ["s3", "s6", "s11"]
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-553 du 29 juin 2026, publiée au Journal officiel le 30 juin, sans saisine du Conseil constitutionnel.",
+      "sources": ["s4", "s6", "s8"]
+    },
+    {
+      "date": "2026-09",
+      "label": "Application",
+      "text": "Au 26 septembre 2026, le décret qui doit fixer les cas donnant droit à un délai supplémentaire pour quitter le logement, ainsi que le maintien dans les lieux de certaines personnes handicapées, n'est pas publié. Un projet de décret a été présenté aux syndicats de la fonction publique le 17 septembre 2026 ; une nouvelle réunion est prévue le 2 octobre.",
+      "sources": ["s13", "s14"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7408",
+      "numero": 7408,
+      "date": "2026-06-17",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire"
+    },
+    {
+      "uid": "VTANR5L17V4962",
+      "numero": 4962,
+      "date": "2026-01-12",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte en première lecture (64 votants)"
+    },
+    {
+      "uid": "VTANR5L17V4948",
+      "numero": 4948,
+      "date": "2026-01-12",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendements de suppression de l'article créant la clause de fonction, en première lecture (48 votants)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7408 (17 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7408",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : discussion du texte de la commission mixte paritaire (17 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Sénat — Texte adopté selon les conclusions de la commission mixte paritaire (1er juin 2026)",
+      "url": "https://www.senat.fr/leg/tas25-125.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Légifrance — Loi n° 2026-553 visant à améliorer l'accès au logement des travailleurs des services publics (29 juin 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054340694",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/acces_logement_travailleurs_services_publics_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Dossier législatif de la proposition de loi",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-273.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — La loi en clair : accès au logement des travailleurs des services publics",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-ameliorer-lacces-au-logement-des-travailleurs-des-services-publics.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "ANIL — Analyse juridique : améliorer l'accès au logement des travailleurs des services publics",
+      "url": "https://www.anil.org/documentation-experte/analyses-juridiques-jurisprudence/ameliorer-lacces-au-logement-des-travailleurs-des-services-publics/",
+      "kind": "analyse"
+    },
+    {
+      "id": "s9",
+      "label": "Datan — Vote n° 7408 (17 juin 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_7408",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 4962 (12 janvier 2026, première lecture)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4962",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Texte n° 76 (2025-2026) modifié par le Sénat en première lecture (30 mars 2026)",
+      "url": "https://www.senat.fr/leg/tas25-076.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 4948 (12 janvier 2026, suppression de l'article 1er)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4948",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Sénat — Contrôle de l'application de la loi n° 2026-553 : décret attendu à l'article 1er (mis à jour le 24 août 2026)",
+      "url": "https://www.senat.fr/application-des-lois/ppl25-273.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "UFFA-CFDT — Logement des agents publics : groupe de travail sur le projet de décret relatif à la clause de fonction (23 septembre 2026)",
+      "url": "https://uffa.cfdt.fr/sinformer/logement/logement-des-agents-publics-la-cfdt-defend-un-droit-au-logement-securise-et-accessible",
+      "kind": "analyse"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote final du 17 juin 2026 (466 votants). Pour : RN, Ensemble pour la République, Droite républicaine, Horizons, Les Démocrates, UDR. Contre : Socialistes, LFI-NFP, Écologiste et social, GDR. LIOT s'est surtout abstenu (12 abstentions, 2 pour, 2 contre) : sa représentante jugeait le texte risqué pour les agents qui perdent leur poste et pour les autres demandeurs de HLM. Même vote, motivations différentes : l'UDR a voté pour tout en critiquant le relèvement à 50 % et les dérogations au plan local d'urbanisme, et le RN a présenté le texte comme « un premier pas vers la priorité nationale ». Changements de position : en première lecture (12 janvier 2026, 64 votants seulement), les socialistes et l'UDR s'étaient abstenus, les écologistes présents s'étaient partagés (2 contre, 1 abstention), et la Droite républicaine et GDR n'avaient pas pris part au vote. Le même jour, sur les amendements visant à supprimer l'article créant la clause de fonction (48 votants), LFI-NFP, les écologistes et GDR avaient voté pour la suppression, les socialistes s'étaient abstenus et les autres groupes présents avaient voté contre.",
+  "lastVerified": "2026-09-26"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "soins-palliatifs-droit-opposable",
+  "theme": "sante",
+  "question": "Faut-il créer un droit opposable aux soins palliatifs, permettant à un malade qui n'en obtient pas dans un délai fixé de saisir le juge pour qu'il ordonne sa prise en charge ?",
+  "explainer": {
+    "title": "C'est quoi, un droit opposable aux soins palliatifs ?",
+    "text": "Les soins palliatifs soulagent la douleur et les autres symptômes des personnes gravement malades, souvent en fin de vie, et accompagnent leurs proches. La loi prévoit déjà que toute personne dont l'état le requiert a le droit d'y accéder. Un droit « opposable » permet en plus de le faire valoir devant un juge, comme le droit au logement opposable (Dalo). Les amendements mis aux voix, qui reprenaient la version votée par l'Assemblée en première lecture, chargeaient les agences régionales de santé (ARS) de garantir ce droit : un malade n'ayant pas reçu d'offre de prise en charge dans un délai fixé par décret aurait pu, après un recours amiable, saisir en urgence (référé) le juge administratif pour qu'il ordonne sa prise en charge. Sa personne de confiance ou, à défaut, un proche aurait aussi pu le faire, avec son accord quand il pouvait le donner.",
+    "sources": ["s2", "s7", "s3"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, un droit opposable n'ouvre pas de lits et ne forme pas de soignants : comme le droit au logement opposable, il transformerait la pénurie en procès, et l'État paierait des indemnités au lieu d'ouvrir des places.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Ils jugent inadapté d'envoyer au tribunal des malades en fin de vie, et y voient une fausse garantie : faute de soignants, ce droit resterait virtuel et ne saurait servir de contrepartie à l'aide à mourir, examinée en parallèle.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Selon eux, mieux vaut investir dans la stratégie décennale, qui a déjà permis d'ouvrir des unités : 21 départements n'en avaient aucune en 2024, et il n'en resterait que 9 en 2026 selon les prévisions.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, ce droit reste théorique : seuls 48 % des besoins étaient couverts (Cour des comptes, données 2021) et 19 départements n'avaient encore aucune unité spécialisée début 2026. Un recours au juge le rendrait concret.",
+      "sources": ["s8", "s3"]
+    },
+    {
+      "text": "Ils estiment qu'un tel droit obligerait l'État à accélérer et à ouvrir des places partout, comme le droit à l'école a imposé de construire des écoles, et qu'il protégerait les moyens prévus si les priorités politiques changeaient.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Pour eux, c'est une garantie indispensable alors que le Parlement examine aussi l'aide à mourir : personne ne devrait la demander faute d'avoir pu accéder à des soins palliatifs.",
+      "sources": ["s3"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques à une proposition de loi, deuxième lecture",
+    "textTitle": "Proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
+    "summary": "L'Assemblée avait créé ce droit opposable en première lecture : le 13 mai 2025, elle avait rejeté un amendement qui le supprimait, puis adopté l'ensemble du texte le 27 mai 2025. Le Sénat l'a supprimé (texte adopté le 28 janvier 2026), et la commission des affaires sociales de l'Assemblée ne l'a pas rétabli. Les amendements mis aux voix le 17 février 2026 reprenaient, pour l'essentiel, la rédaction de la première lecture.",
+    "sources": ["s11", "s5", "s7", "s4", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2026-02-25",
+      "label": "Assemblée nationale",
+      "text": "Le texte est adopté en deuxième lecture par 491 voix contre 0 (69 abstentions), sans droit opposable. Il inscrit toutefois dans la loi que les soins palliatifs mettent en œuvre le droit fondamental à la protection de la santé.",
+      "sources": ["s5", "s6", "s10"]
+    },
+    {
+      "date": "2026-05-11",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte sans modification en deuxième lecture : il est définitivement adopté, sans droit opposable.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "date": "2026-05-26",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-404 du 26 mai 2026, publiée au Journal officiel le 27 mai. Elle crée une stratégie nationale pluriannuelle, des « maisons d'accompagnement et de soins palliatifs » et un plan personnalisé d'accompagnement, et programme de 150 à 244 millions d'euros de mesures nouvelles par an de 2026 à 2034, mais ne prévoit aucun recours devant le juge pour obtenir des soins palliatifs.",
+      "sources": ["s6", "s5"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V5450",
+      "numero": 5450,
+      "date": "2026-02-17",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques rétablissant le droit opposable aux soins palliatifs (deuxième lecture), rejetés"
+    },
+    {
+      "uid": "VTANR5L17V1637",
+      "numero": 1637,
+      "date": "2025-05-13",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement supprimant le droit opposable aux soins palliatifs (première lecture), rejeté"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 5450 (17 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5450",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 3 à l'article 4, deuxième lecture (11 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2457/AN/3.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'article 4 (17 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N153",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — La loi en clair : égal accès de tous à l'accompagnement et aux soins palliatifs",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-garantir-legal-acces-de-tous-a-laccompagnement-et-aux-soins-palliatifs.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif de la proposition de loi visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-662.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Légifrance — Loi n° 2026-404 visant à garantir l'égal accès de tous à l'accompagnement et aux soins palliatifs (26 mai 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/5/26/2026-404/jo/texte",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Texte adopté en première lecture n° 121 (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0121_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Cour des comptes — Les soins palliatifs : une offre de soins à renforcer (5 juillet 2023)",
+      "url": "https://www.ccomptes.fr/fr/publications/les-soins-palliatifs",
+      "kind": "officiel"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 1637 (13 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1637",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 5728 (25 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5728",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 13 mai 2025 (première lecture, article 4)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N190",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Amendements identiques déposés par des députés Socialistes (n° 3), GDR (n° 125) et LIOT (n° 199), scrutin public demandé par les groupes Socialistes et LIOT ; avis défavorable de la commission et du Gouvernement. Scrutin du 17 février 2026 (222 votants) : pour — LFI-NFP, GDR, Écologiste et social, LIOT (unanimes) et Socialistes (35 pour, 1 abstention) ; contre — RN (52 contre, 1 pour), UDR, Droite républicaine (12 contre, 1 abstention), Horizons (12 contre, 1 abstention) et Ensemble pour la République (19 contre, 1 pour) ; Les Démocrates surtout contre (7 contre, 3 pour, 1 abstention). Dans la même discussion, des amendements voisins rétablissant ce droit ont aussi été rejetés : n° 124 (70 voix contre 108, scrutin n° 5448) et n° 154 (98 voix contre 116, scrutin n° 5449). Changement de position : en première lecture, le 13 mai 2025, le RN, l'UDR et la Droite républicaine avaient voté avec la gauche et LIOT contre l'amendement qui supprimait ce droit opposable, soutenu par Ensemble pour la République et Horizons (scrutin n° 1637, rejeté par 148 voix contre 40). En deuxième lecture, le RN a expliqué son vote par l'inefficacité d'un droit qui ne crée pas de places ; des députés favorables au droit opposable lui ont reproché de vouloir ainsi fragiliser le texte sur l'aide à mourir, examiné en parallèle. Ce scrutin ne porte pas sur l'aide à mourir, objet d'un texte distinct. LFI-NFP s'est ensuite abstenu sur l'ensemble du texte (25 février 2026), adopté sans aucune voix contre.",
+  "lastVerified": "2026-09-26"
+}

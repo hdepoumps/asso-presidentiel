@@ -1,0 +1,220 @@
+{
+  "id": "soutien-europeen-ukraine-avoirs-russes",
+  "theme": "international",
+  "question": "Faut-il appeler l'Europe et ses alliés à accroître l'aide militaire, économique et politique à l'Ukraine, à saisir les avoirs russes gelés et à lui étendre dès maintenant des garanties de sécurité ?",
+  "explainer": {
+    "title": "C'est quoi, cette résolution européenne ?",
+    "text": "Une résolution européenne permet à l'Assemblée de donner son avis sur une question européenne : elle n'oblige pas le Gouvernement, mais elle a une portée politique. Celle-ci, en 41 points, condamne l'invasion russe et appelle l'Union européenne, l'OTAN et les pays alliés à accroître leur soutien militaire, économique et politique à l'Ukraine et à durcir les sanctions. Elle demande de saisir « sans délai » les avoirs russes gelés et immobilisés en Europe (plus de 200 milliards d'euros, surtout des réserves de la banque centrale russe bloquées depuis 2022) pour financer le soutien militaire à l'Ukraine, sa reconstruction et la sécurité du continent. Elle appelle aussi à étendre dès maintenant à l'Ukraine des « garanties de sécurité » occidentales, c'est-à-dire des engagements des pays alliés à la protéger contre une nouvelle attaque, que le texte ne détaille pas. Elle invite enfin à accompagner l'adhésion de l'Ukraine à l'Union, à étudier l'envoi d'une force européenne de maintien de la paix et à organiser une conférence internationale pour la paix sous l'égide des Nations unies. Le vote porte sur l'ensemble de ces 41 points.",
+    "sources": ["s4", "s5", "s11", "s14"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, une guerre contre une puissance nucléaire ne se gagnera pas par les armes seules : miser sur la reprise militaire de tout le territoire et le réarmement nourrirait les hostilités au lieu de préparer la paix.",
+      "sources": ["s6", "s3"]
+    },
+    {
+      "text": "Saisir les avoirs d'une banque centrale enfreindrait le droit international, qui protège les biens des États et impose de les restituer ; la Russie pourrait riposter sur des biens européens et les investisseurs se détourner de l'Europe.",
+      "sources": ["s11", "s6", "s3"]
+    },
+    {
+      "text": "Étendre dès maintenant des garanties de sécurité occidentales à l'Ukraine, en pleine guerre, pourrait entraîner directement la France dans un conflit ouvert contre la Russie.",
+      "sources": ["s9", "s6", "s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la Russie est l'agresseur et sa menace ne s'arrêterait pas à l'Ukraine : figer le front récompenserait l'agression, et seules des garanties de sécurité solides dissuaderaient une nouvelle attaque.",
+      "sources": ["s6", "s4"]
+    },
+    {
+      "text": "En mars 2025, face au rapprochement entre Washington et Moscou et à la suspension temporaire de l'aide américaine, l'Europe devrait prendre le relais pour qu'aucun cessez-le-feu ne soit imposé à l'Ukraine sans son accord.",
+      "sources": ["s4", "s6", "s3"]
+    },
+    {
+      "text": "Saisir les avoirs russes gelés ferait payer la guerre à l'agresseur plutôt qu'aux Européens : ce serait une avance sur les réparations que la Russie devrait à l'Ukraine, et un levier dans les négociations de paix.",
+      "sources": ["s8", "s3"]
+    }
+  ],
+  "details": {
+    "kind": "resolution",
+    "textKind": "Proposition de résolution européenne (article 88-4 de la Constitution)",
+    "textTitle": "Proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine",
+    "summary": "Déposée le 6 février 2025, la proposition a été examinée par la commission des affaires européennes puis par celle des affaires étrangères, avant plus de six heures de débat en séance le 12 mars 2025. Le texte de la commission invitait déjà à « utiliser dès à présent » les avoirs russes gelés et leurs intérêts ; l'appel à les saisir « sans délai » a été ajouté en séance par un amendement, adopté par 150 voix contre 103 après qu'un sous-amendement en a retiré le financement de la défense européenne pour s'en tenir au soutien à l'Ukraine, à sa reconstruction et à la sécurité du continent. Des amendements supprimant l'extension immédiate des garanties de sécurité ont été rejetés par 162 voix contre 110.",
+    "sources": ["s7", "s18", "s12", "s6", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2025-03-12",
+      "label": "Adoption",
+      "text": "La résolution est adoptée (texte adopté n° 70). Elle exprime la position de l'Assemblée mais n'oblige pas le Gouvernement.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "date": "2025-12-12",
+      "label": "Union européenne",
+      "text": "Par une procédure d'urgence (article 122 du traité sur le fonctionnement de l'UE), les Vingt-Sept interdisent tout retour vers la Russie des avoirs de sa banque centrale immobilisés dans l'Union ; un seul État ne peut plus y mettre fin en bloquant le renouvellement des sanctions tous les six mois. C'est un gel prolongé, pas une saisie : celle-ci exigerait l'unanimité.",
+      "sources": ["s11", "s14"]
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Conseil européen",
+      "text": "Faute d'accord sur l'utilisation des avoirs russes gelés, jugée trop risquée juridiquement par plusieurs États dont la Belgique, les dirigeants européens décident un prêt à taux zéro de 90 milliards d'euros à l'Ukraine pour 2026-2027, remboursable seulement si la Russie verse des réparations. Il est financé par un emprunt commun auquel participent 24 États : la Hongrie, la Slovaquie et la République tchèque en sont exemptées.",
+      "sources": ["s10", "s13"]
+    },
+    {
+      "date": "2026-04-23",
+      "label": "Union européenne",
+      "text": "Le Conseil de l'UE adopte le dernier texte nécessaire au prêt de 90 milliards d'euros, dont les versements commencent au deuxième trimestre 2026. Les avoirs russes restent immobilisés, mais leur saisie, réclamée par la résolution, n'a pas été décidée.",
+      "sources": ["s13", "s11"]
+    },
+    {
+      "date": "2026-08-27",
+      "label": "Union européenne",
+      "text": "La Suède, les Pays-Bas, l'Espagne et la Pologne demandent de rouvrir le dossier de l'utilisation des quelque 210 milliards d'euros d'avoirs russes immobilisés. Début septembre, la Belgique, où se trouve l'essentiel de ces fonds, réaffirme son opposition. Au 26 septembre 2026, aucune saisie n'a été décidée : seuls les revenus exceptionnels produits par ces avoirs servent, depuis 2024, à soutenir l'Ukraine.",
+      "sources": ["s15", "s16", "s14"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V988",
+      "numero": 988,
+      "date": "2025-03-12",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de résolution européenne"
+    },
+    {
+      "uid": "VTANR5L17V981",
+      "numero": 981,
+      "date": "2025-03-12",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement demandant la saisie « sans délai » des avoirs russes gelés, au lieu de leur « utilisation »"
+    },
+    {
+      "uid": "VTANR5L17V984",
+      "numero": 984,
+      "date": "2025-03-12",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendements supprimant l'appel à étendre immédiatement les garanties de sécurité occidentales à l'Ukraine (rejetés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 988 (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Scrutin n° 981 sur l'amendement relatif aux avoirs russes gelés (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/981",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : avoirs gelés, garanties de sécurité, explications de vote (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N128",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Résolution européenne appelant au renforcement du soutien à l'Ukraine, texte adopté n° 70 (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0070_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Fiche de synthèse n° 67 : l'Assemblée nationale et les questions européennes",
+      "url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/questions-europeennes-internationales/l-assemblee-nationale-et-les-questions-europeennes",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la première séance : présentation, discussion générale et premiers amendements (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N127",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif « Renforcement du soutien à l'Ukraine »",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_soutien_ukraine",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Amendement n° 5 sur la saisie des avoirs russes gelés (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1001/AN/5",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Amendement n° 34 supprimant l'extension des garanties de sécurité (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1001/AN/34",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Toute l'Europe — Faute d'accord sur les avoirs russes, les Vingt-Sept débloquent un prêt de 90 milliards d'euros pour l'Ukraine (décembre 2025)",
+      "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/faute-d-accord-sur-les-avoirs-russes-les-vingt-sept-debloquent-un-pret-de-90-milliards-d-euros-pour-l-ukraine/",
+      "kind": "presse"
+    },
+    {
+      "id": "s11",
+      "label": "Toute l'Europe — Cinq questions sur les avoirs russes gelés en Europe (mis à jour le 23 avril 2026)",
+      "url": "https://www.touteleurope.eu/economie-et-social/aubaine-pour-l-ukraine-et-casse-tete-pour-l-ue-cinq-questions-sur-les-avoirs-russes-geles-en-europe/",
+      "kind": "presse"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Sous-amendement n° 71 à l'amendement n° 5 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1001/AN/71",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Conseil de l'UE — Le Conseil finalise l'établissement d'un prêt de soutien à l'Ukraine de 90 milliards d'euros (communiqué, 23 avril 2026)",
+      "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/04/23/council-finalises-90-billion-support-loan-to-ukraine/",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Conseil de l'UE — Soutien financier de l'UE en faveur de l'Ukraine (avoirs russes immobilisés, prêt de 90 milliards ; page réexaminée le 24 septembre 2026)",
+      "url": "https://www.consilium.europa.eu/fr/policies/ukraine-solidarity-financial-support/",
+      "kind": "officiel"
+    },
+    {
+      "id": "s15",
+      "label": "Euronews — Quatre pays de l'UE relancent la proposition d'utiliser les 210 milliards russes gelés pour l'Ukraine (27 août 2026)",
+      "url": "https://fr.euronews.com/2026/08/27/quatre-pays-de-lue-relancent-la-proposition-dutiliser-les-210-milliards-russes-geles-pour-",
+      "kind": "presse"
+    },
+    {
+      "id": "s16",
+      "label": "Euronews — Pour l'Ukraine, le déblocage anticipé du prêt de l'UE ne serait pas « une solution miracle » (4 septembre 2026)",
+      "url": "https://fr.euronews.com/2026/09/04/pour-lukraine-le-deblocage-anticipe-du-pret-de-lue-ne-serait-pas-une-solution-miracle",
+      "kind": "presse"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Scrutin n° 984 sur les amendements relatifs aux garanties de sécurité (12 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/984",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s18",
+      "label": "Assemblée nationale — Texte de la commission des affaires étrangères n° 1001-A0 (19 février 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1001_texte-adopte-commission",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote sur l'ensemble, 12 mars 2025 (474 votants : 288 pour, 54 contre, 132 abstentions). Pour : Ensemble pour la République, Socialistes, Droite républicaine, Écologiste et social, Les Démocrates, Horizons, LIOT. Contre : LFI-NFP et GDR (9 contre, 3 abstentions), qui défendaient une paix négociée sous l'égide de l'ONU ou de l'OSCE et rejetaient l'orientation militaire et européenne du texte ; GDR citait aussi le soutien à l'adhésion de l'Ukraine à l'Union. Abstention : RN et UDR, qui disaient soutenir le peuple ukrainien mais refusaient l'adhésion de l'Ukraine à l'Union ; le RN rejetait aussi la saisie des avoirs russes et l'extension des garanties de sécurité, l'UDR une « Europe de la défense ». Pour le calcul, une abstention compte comme une position neutre. L'amendement ajoutant la saisie « sans délai » des avoirs gelés avait été adopté par 150 voix contre 103 : pour, EPR, Démocrates, Horizons, Droite républicaine, Socialistes, Écologiste et social, LIOT ; contre, RN, UDR et LFI-NFP ; GDR partagé. Les amendements supprimant l'extension immédiate des garanties de sécurité avaient été rejetés par 162 voix contre 110 : pour la suppression, RN, UDR, LFI-NFP et GDR ; contre, EPR, Socialistes, Droite républicaine, Écologiste et social, Les Démocrates, Horizons et LIOT. Le soutien à l'adhésion de l'Ukraine, qui a pesé sur le vote de plusieurs groupes, fait l'objet d'une carte distincte (scrutin n° 973).",
+  "lastVerified": "2026-09-26"
+}

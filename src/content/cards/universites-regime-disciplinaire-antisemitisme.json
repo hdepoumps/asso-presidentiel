@@ -1,0 +1,194 @@
+{
+  "id": "universites-regime-disciplinaire-antisemitisme",
+  "theme": "education",
+  "question": "Faut-il lister dans la loi les fautes des étudiants (violence, antisémitisme, racisme, atteinte à l'ordre, même hors campus) et pouvoir les juger dans une instance régionale présidée par un juge ?",
+  "explainer": {
+    "title": "Que changeait cet article ?",
+    "text": "Jusqu'ici, les sanctions contre les étudiants relevaient de la section disciplinaire de chaque université, composée de membres élus, et la liste des fautes figurait surtout dans des textes réglementaires. L'article inscrit dans la loi les faits passibles de sanction : non-respect des règles de la vie universitaire ou du règlement intérieur, fraude, violence ou harcèlement, faits antisémites, racistes, discriminatoires ou d'incitation à la haine, atteintes à l'ordre ou au bon fonctionnement de l'établissement, y compris hors de l'établissement s'ils ont un « lien suffisant » avec lui. Le président de l'université peut prendre des mesures provisoires (par exemple interdire à l'étudiant l'accès à tout ou partie des locaux), à condition d'assurer la continuité de sa formation, par exemple à distance. Il peut aussi confier le dossier à une section disciplinaire commune aux établissements de la région, créée par le recteur et présidée par un juge administratif. Les victimes sont informées de la procédure.",
+    "sources": ["s2", "s12", "s3", "s7"]
+  },
+  "contre": [
+    {
+      "text": "Des motifs larges comme l'atteinte « à l'ordre » ou « au bon fonctionnement » de l'établissement, y compris pour des faits hors campus, pourraient servir à sanctionner des mobilisations étudiantes et brider la liberté d'expression.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Le pouvoir disciplinaire appartenait jusqu'ici aux universités, par des sections élues ; une instance régionale créée par le recteur, dont le choix des membres est renvoyé à un décret, porterait atteinte à leur autonomie.",
+      "sources": ["s3", "s5"]
+    },
+    {
+      "text": "Selon ses opposants, le texte met l'accent sur la sanction sans moyens nouveaux pour la prévention : aucun budget n'accompagne les formations et les référents contre l'antisémitisme et le racisme prévus par ses autres articles.",
+      "sources": ["s3", "s5"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, former et signaler ne suffit pas sans sanctions effectives : les universités ont recensé 67 actes antisémites d'octobre 2023 au printemps 2024, le double de 2022-2023, et les victimes doivent être informées.",
+      "sources": ["s5", "s3"]
+    },
+    {
+      "text": "Les sections disciplinaires des universités seraient lentes et démunies face aux avocats des mis en cause ; une instance présidée par un juge administratif serait plus indépendante et moins exposée aux pressions locales.",
+      "sources": ["s3", "s5"]
+    },
+    {
+      "text": "L'autonomie serait préservée : seul le président de l'université peut saisir l'instance régionale, les motifs reprennent en grande partie des règles existantes et toute sanction reste contestable devant le tribunal administratif.",
+      "sources": ["s3", "s12"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement rétablissant un article d'une proposition de loi d'origine sénatoriale, première lecture",
+    "textTitle": "Proposition de loi relative à la lutte contre l'antisémitisme dans l'enseignement supérieur",
+    "summary": "Supprimé en commission à l'Assemblée, l'article 3 (régime disciplinaire) a été rétabli en séance le 7 mai 2025 par un amendement des rapporteurs, modifié pour que seul le président de l'établissement puisse saisir l'instance régionale et pour retirer l'atteinte au « bon déroulement des activités » des motifs de sanction. Un sous-amendement garantissant des droits de la défense (information sur les faits reprochés, droit d'être assisté, recours) a aussi été adopté, puis abandonné en commission mixte paritaire. Le reste du texte (formation obligatoire, référents, signalement) était moins contesté ; l'ensemble a été adopté le même jour par 131 voix contre 28.",
+    "sources": ["s2", "s3", "s14", "s7", "s10"]
+  },
+  "suite": [
+    {
+      "date": "2025-05-27",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun qui conserve l'instance disciplinaire régionale. Le Sénat l'adopte le 19 juin 2025 sans aucune voix contre (326 pour, 16 abstentions), l'Assemblée le 2 juillet par 366 voix contre 88.",
+      "sources": ["s9", "s13", "s4", "s5"]
+    },
+    {
+      "date": "2025-07-29",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-890 DC : saisi par plus de soixante députés, le Conseil juge conformes, sans réserve, les deux points contestés : le renvoi à un décret pour fixer la composition et le fonctionnement de la section disciplinaire régionale, et la liste des fautes, y compris pour des faits commis hors de l'établissement s'ils ont un « lien suffisant » avec lui, critère jugé assez précis pour éviter l'arbitraire. Il ne s'est pas prononcé sur les autres dispositions.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2025-07-31",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-732 du 31 juillet 2025 relative à la lutte contre l'antisémitisme dans l'enseignement supérieur.",
+      "sources": ["s7"]
+    },
+    {
+      "date": "2026-01-29",
+      "label": "Décret",
+      "text": "Le décret n° 2026-36 organise les sections régionales. Elles sont présidées par un juge administratif désigné par le président du tribunal administratif. Les enseignants et les étudiants sont tirés au sort parmi les membres des sections disciplinaires des établissements, et les agents administratifs sur une liste proposée par les chefs d'établissement. Elles ne peuvent être saisies que de faits commis à partir du 1er mai 2026.",
+      "sources": ["s8"]
+    },
+    {
+      "date": "2026-09-09",
+      "label": "Conseil d'État",
+      "text": "Saisi d'un recours contre ce décret, le Conseil d'État refuse de transmettre au Conseil constitutionnel deux questions visant la section disciplinaire régionale : la simple possibilité d'y renvoyer un dossier ne porte pas, par elle-même, atteinte à l'égalité. Le recours contre le décret reste à juger.",
+      "sources": ["s15"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1593",
+      "numero": 1593,
+      "date": "2025-05-07",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement rétablissant l'article 3 (régime disciplinaire et section disciplinaire régionale), en première lecture"
+    },
+    {
+      "uid": "VTANR5L17V2880",
+      "numero": 2880,
+      "date": "2025-07-02",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1593 (7 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1593",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 46 à l'article 3 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1357/AN/46.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la séance : débat sur l'article 3 (7 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N185",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Scrutin n° 2880 (2 juillet 2025, texte de la commission mixte paritaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la séance : texte de la commission mixte paritaire (2 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N003",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Décision n° 2025-890 DC (29 juillet 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025890DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2025-732 relative à la lutte contre l'antisémitisme dans l'enseignement supérieur (31 juillet 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052018661",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Décret n° 2026-36 relatif à la procédure disciplinaire dans les établissements publics à caractère scientifique, culturel et professionnel (29 janvier 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053417379",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Dossier législatif de la proposition de loi",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50724",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Datan — Vote n° 1593 (7 mai 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_1593",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Sous-amendement n° 96 du Gouvernement (saisine réservée au président de l'établissement)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1357/AN/96.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Sénat — Scrutin n° 327 sur le texte de la commission mixte paritaire (19 juin 2025)",
+      "url": "https://www.senat.fr/scrutin-public/2024/scr2024-327.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Sous-amendement n° 92 (droits de la personne poursuivie)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1357/AN/92.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Légifrance — Conseil d'État, décision n° 514140 sur les questions prioritaires de constitutionnalité visant la section disciplinaire commune (9 septembre 2026)",
+      "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054832488",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote du 7 mai 2025 (179 votants). Pour le rétablissement de l'article : RN, Ensemble pour la République, Socialistes, Les Démocrates, Horizons, Droite républicaine, UDR, LIOT. Contre : LFI-NFP, Écologiste et social, GDR. Les socialistes, qui avaient fait supprimer l'article en commission, l'ont voté après l'adoption de leurs sous-amendements (saisine réservée au président de l'université, retrait du « bon déroulement des activités »). Les opposants disaient partager l'objectif de lutte contre l'antisémitisme mais contestaient ce régime disciplinaire (autonomie des universités, libertés d'expression et de manifestation) ; certains jugeaient aussi que le texte ne servait pas réellement cet objectif. Sur l'ensemble du texte en première lecture, les écologistes ont pourtant voté pour. Sur le texte final (2 juillet 2025, 461 votants) : LFI-NFP contre, GDR surtout contre, écologistes divisés (4 pour, 11 contre, 7 abstentions), tous les autres groupes pour. Le Conseil constitutionnel a été saisi par des députés LFI-NFP, rejoints par un député GDR.",
+  "lastVerified": "2026-09-26"
+}

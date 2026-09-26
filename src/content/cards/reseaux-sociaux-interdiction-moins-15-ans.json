@@ -1,0 +1,247 @@
+{
+  "id": "reseaux-sociaux-interdiction-moins-15-ans",
+  "theme": "numerique",
+  "question": "Faut-il interdire l'accès aux réseaux sociaux aux moins de 15 ans ?",
+  "explainer": {
+    "title": "Que prévoyait cette interdiction ?",
+    "text": "L'article voté interdisait aux mineurs de moins de 15 ans l'accès aux réseaux sociaux proposés par des plateformes en ligne, au sens du droit européen. Restaient autorisés les encyclopédies en ligne, les répertoires éducatifs ou scientifiques et les plateformes de logiciels libres ; selon le Gouvernement, les messageries privées n'étaient pas concernées, mais un ajout qui voulait l'écrire noir sur blanc dans la loi a été rejeté. C'était aux plateformes de faire respecter l'interdiction, donc de vérifier l'âge de leurs utilisateurs, sous le contrôle de l'Arcom, le régulateur de l'audiovisuel et du numérique, dans le cadre du règlement européen sur les services numériques (DSA). L'article imposait aussi aux réseaux de ne pas exposer les mineurs à une « pression commerciale excessive ». L'entrée en vigueur était prévue le 1er septembre 2026 pour les nouveaux comptes et quatre mois plus tard pour les comptes existants.",
+    "sources": ["s4", "s2", "s3"]
+  },
+  "contre": [
+    {
+      "text": "L'interdiction serait contournée (VPN, mensonge sur l'âge, aide d'un proche plus âgé) et pousserait des jeunes vers des plateformes moins surveillées, comme en Australie (interdiction avant 16 ans) dès le premier mois.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Pour l'appliquer, tout utilisateur, adulte compris, devrait prouver son âge : selon ses opposants, cela menacerait l'anonymat en ligne et la protection des données personnelles, avec des outils encore flous.",
+      "sources": ["s3", "s6"]
+    },
+    {
+      "text": "Selon ses opposants, interdire ne toucherait ni aux algorithmes ni au modèle économique des plateformes, nocifs à tout âge ; mieux vaudrait faire appliquer le droit européen et financer la prévention à l'école et auprès des familles.",
+      "sources": ["s2", "s3", "s6"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon un avis de l'Anses de décembre 2025, l'usage des réseaux sociaux chez les adolescents est lié à des symptômes anxiodépressifs, des idées suicidaires, de l'automutilation et des troubles alimentaires.",
+      "sources": ["s2", "s15"]
+    },
+    {
+      "text": "Ces plateformes sont conçues pour capter l'attention et entretenir des comportements de type addictif ; une limite d'âge claire aiderait les parents à dire non et poserait une nouvelle norme sociale.",
+      "sources": ["s2", "s6"]
+    },
+    {
+      "text": "Selon ses défenseurs, un contrôle de l'âge peut fonctionner : depuis qu'il est imposé aux sites pornographiques, leur fréquentation par les mineurs aurait baissé de moitié en un an ; le droit européen permet désormais un âge minimal.",
+      "sources": ["s6", "s2"]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux",
+    "summary": "Vote sur l'article 1er, réécrit en séance par un amendement du Gouvernement : il remplace la version de la commission (liste de réseaux jugés dangereux interdits, accès aux autres avec l'accord d'un parent) par une interdiction générale avant 15 ans. Le texte, qui comporte aussi des règles sur le téléphone portable au lycée et sur la publicité visant les mineurs, a été adopté en première lecture le 26 janvier 2026 par 130 voix contre 21.",
+    "sources": ["s16", "s15", "s3", "s4", "s11"]
+  },
+  "suite": [
+    {
+      "date": "2026-03-31",
+      "label": "Sénat",
+      "text": "Le Sénat remplace l'interdiction générale par un double régime : les réseaux sociaux jugés dangereux, inscrits sur une « liste noire » fixée par arrêté du ministre chargé du numérique après avis de l'Arcom, sont interdits aux moins de 15 ans ; les autres ne leur sont accessibles qu'avec l'accord exprès d'un parent.",
+      "sources": ["s14", "s10"]
+    },
+    {
+      "date": "2026-07-21",
+      "label": "Adoption définitive",
+      "text": "Après un accord en commission mixte paritaire le 20 juillet, le Parlement adopte un texte qui rétablit l'interdiction générale avant 15 ans, avec des exceptions, et interdit le téléphone portable au lycée.",
+      "sources": ["s6", "s11"]
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-911 DC : l'interdiction (article 1er) est censurée. Le Conseil admet qu'on puisse limiter l'accès des mineurs, mais juge l'interdiction disproportionnée : elle vise tous les réseaux sans tenir compte de leurs risques et ne prévoit aucune possibilité d'accord des parents. Il relève aussi qu'elle oblige chacun, adultes compris, à prouver son âge sans que la loi encadre cette vérification, au détriment de la vie privée.",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "date": "2026-08-24",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-813 du 24 août 2026 (Journal officiel du 25 août), publiée sans l'interdiction des réseaux sociaux aux moins de 15 ans. L'interdiction du téléphone portable, déjà en vigueur à l'école et au collège, est étendue au lycée à la rentrée 2026, avec des modalités fixées par le règlement intérieur de chaque établissement.",
+      "sources": ["s9"]
+    },
+    {
+      "date": "2026-09-14",
+      "label": "Nouveau texte en préparation",
+      "text": "Après la censure, le Gouvernement notifie à la Commission européenne la nouvelle rédaction d'un futur texte de loi. Elle ne viserait plus tous les réseaux sociaux, mais ceux qui proposent des fonctionnalités jugées nocives ou addictives (vidéos lancées automatiquement, notifications nocturnes, contacts avec des inconnus…), avec une dérogation possible de 13 à 15 ans sur autorisation des parents.",
+      "sources": ["s13", "s17", "s18"]
+    },
+    {
+      "date": "2026-09-17",
+      "label": "Union européenne",
+      "text": "La Commission européenne propose, pour toute l'Union, un règlement qui interdirait les réseaux sociaux avant 13 ans et n'ouvrirait aux jeunes de 13 à 15 ans que des « mini-comptes » gérés par les parents, aux fonctionnalités et au temps d'usage limités. Le Parlement européen et les États membres doivent encore l'examiner.",
+      "sources": ["s20", "s21"]
+    },
+    {
+      "date": "2026-09-26",
+      "label": "État du texte",
+      "text": "La nouvelle rédaction française n'a pas encore été soumise au Parlement et ne peut pas être adoptée pendant la période d'examen européenne, d'au moins trois mois à compter de sa notification. L'interdiction des réseaux sociaux avant 15 ans ne s'applique donc pas.",
+      "sources": ["s18", "s19", "s11", "s22"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V5167",
+      "numero": 5167,
+      "date": "2026-01-26",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'article 1er (interdiction des réseaux sociaux avant 15 ans), en première lecture"
+    },
+    {
+      "uid": "VTANR5L17V8431",
+      "numero": 8431,
+      "date": "2026-07-21",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire (interdiction avant 15 ans et téléphone au lycée)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 5167 (26 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5167",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : discussion générale et article 1er (26 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N125",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : suite de l'article 1er et vote (26 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N126",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Texte adopté n° 217 en première lecture (26 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0217_texte-adopte-provisoire.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Scrutin n° 8431 (21 juillet 2026, texte de la commission mixte paritaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la première séance : texte de la commission mixte paritaire (21 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Conseil constitutionnel — Décision n° 2026-911 DC (14 août 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026911DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Conseil constitutionnel — Communiqué de presse sur la décision n° 2026-911 DC",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-911-dc-du-14-aout-2026-communique-de-presse",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Loi n° 2026-813 visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (24 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054743001",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Communiqué : le Sénat adopte la liste noire des réseaux sociaux interdits aux enfants de moins de 15 ans (31 mars 2026)",
+      "url": "https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/31-03-2026/le-senat-adopte-la-liste-noire-des-reseaux-sociaux-interdits-aux-enfants-de-moins-de-15-ans.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Datan — Vote n° 5167 (26 janvier 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_5167",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "franceinfo — Le gouvernement soumet une nouvelle version de l'interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne (14 septembre 2026)",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/le-gouvernement-soumet-une-nouvelle-version-de-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-a-la-commission-europeenne-apres-la-censure-d-un-precedent-texte-par-le-conseil-constitutionnel_8191493.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Texte n° 79 (2025-2026) modifié par le Sénat en première lecture (31 mars 2026)",
+      "url": "https://www.senat.fr/leg/tas25-079.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Amendement n° 46 du Gouvernement réécrivant l'article 1er (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2341/AN/46.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Texte de la commission des affaires culturelles et de l'éducation (n° 2341, 14 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2341_texte-adopte-commission.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Europe 1 — Interdiction des réseaux sociaux aux moins de 15 ans : que dit la nouvelle version du texte proposée à la Commission européenne ? (14 septembre 2026)",
+      "url": "https://www.europe1.fr/societe/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-que-dit-la-nouvelle-version-du-texte-proposee-par-le-gouvernement-a-la-commission-europeenne-1077167",
+      "kind": "presse"
+    },
+    {
+      "id": "s18",
+      "label": "Toute l'Europe — Réseaux sociaux : la France notifie à Bruxelles son nouveau projet pour les moins de 15 ans (14 septembre 2026)",
+      "url": "https://www.touteleurope.eu/economie-et-social/reseaux-sociaux-la-france-notifie-a-bruxelles-son-nouveau-projet-pour-les-moins-de-15-ans/",
+      "kind": "presse"
+    },
+    {
+      "id": "s19",
+      "label": "Commission européenne (TRIS) — La procédure de notification des règles techniques en bref (période de statu quo)",
+      "url": "https://technical-regulation-information-system.ec.europa.eu/en/about-the-20151535/the-notification-procedure-in-brief1",
+      "kind": "officiel"
+    },
+    {
+      "id": "s20",
+      "label": "Toute l'Europe — Réseaux sociaux interdits aux moins de 13 ans, limite d'une heure, mini-comptes… que prévoit l'EU Kids Act ? (23 septembre 2026)",
+      "url": "https://www.touteleurope.eu/societe/reseaux-sociaux-interdits-aux-moins-de-13-ans-limite-d-une-heure-mini-comptes-que-prevoit-l-eu-kids-act/",
+      "kind": "presse"
+    },
+    {
+      "id": "s21",
+      "label": "Euronews — EU Kids Act : le plan de l'UE pour rendre internet plus sûr pour les enfants (22 septembre 2026)",
+      "url": "https://euronews.com/my-europe/2026/09/22/eu-kids-act-the-eus-plan-to-make-the-internet-safer-for-kids",
+      "kind": "presse"
+    },
+    {
+      "id": "s22",
+      "label": "Assemblée nationale — Conférence des présidents : relevé de conclusions de la réunion du 22 septembre 2026 (ordre du jour jusqu'au 16 octobre 2026)",
+      "url": "https://www2.assemblee-nationale.fr/17/la-conference-des-presidents/releve-de-conclusions/reunion-du-mardi-22-septembre-2026",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote du lundi 26 janvier 2026 à participation limitée (147 votants) : chaque position de groupe repose sur les députés présents. Pour l'article : RN, Ensemble pour la République, Droite républicaine, Horizons, Les Démocrates, UDR, LIOT, GDR et la plupart des écologistes ; les socialistes présents se sont surtout abstenus (3 pour, 7 abstentions). Contre : LFI-NFP. Le vote final du 21 juillet 2026 (426 votants) a été choisi comme simple repère, car plusieurs groupes s'y sont divisés : le RN, qui avait voté l'article en janvier, avait annoncé son abstention en invoquant les risques de la vérification d'âge pour les libertés, et seuls 16 de ses 122 députés ont pris part au vote (14 abstentions, 2 contre) ; les socialistes se sont partagés entre pour et abstention ; écologistes et GDR se sont divisés ; l'UDR avait laissé la liberté de vote. LFI-NFP a voté contre à chaque étape. Le Conseil constitutionnel a été saisi par des députés LFI-NFP (23 juillet) et socialistes (24 juillet).",
+  "lastVerified": "2026-09-26"
+}

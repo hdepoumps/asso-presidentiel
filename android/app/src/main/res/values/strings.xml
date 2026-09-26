@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Cartes sur Table</string>
+    <string name="title_activity_main">Cartes sur Table</string>
+    <string name="package_name">fr.cartessurtable.app</string>
+    <string name="custom_url_scheme">fr.cartessurtable.app</string>
+</resources>

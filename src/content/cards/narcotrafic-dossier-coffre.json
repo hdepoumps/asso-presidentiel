@@ -1,0 +1,206 @@
+{
+  "id": "narcotrafic-dossier-coffre",
+  "theme": "justice",
+  "question": "Faut-il pouvoir, contre le crime organisé, placer dans un « dossier-coffre », fermé à la défense, où, quand et par qui des micros ont été posés, si le révéler mettait une personne en grave danger ?",
+  "explainer": {
+    "title": "C'est quoi, un dossier-coffre ?",
+    "text": "Dans la loi, il s'agit d'un procès-verbal versé dans un « dossier distinct ». Quand les enquêteurs installent un micro, une caméra ou un logiciel de captation dans une affaire de crime organisé, un juge peut autoriser que la date, l'heure et le lieu de l'installation, ainsi que l'identité des personnes qui l'ont réalisée, soient rangés à part, dans un dossier que la défense ne peut pas consulter. Les enregistrements obtenus restent, eux, au dossier ; en principe, ils ne peuvent servir à condamner que si le dossier-coffre y est finalement versé. Cette possibilité est réservée aux cas où la divulgation mettrait gravement en danger la vie ou l'intégrité physique d'une personne.",
+    "sources": [
+      "s2",
+      "s4"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la défense doit pouvoir contester comment une preuve a été recueillie, comme l'a rappelé le Conseil constitutionnel en 2014 : par exemple vérifier qu'une personne enregistrée était bien au lieu et à l'heure indiqués.",
+      "sources": [
+        "s3",
+        "s11",
+        "s4"
+      ]
+    },
+    {
+      "text": "La mesure jetterait la suspicion sur l'ensemble des avocats, alors que leur profession prête serment et que les fautes graves sont déjà sanctionnées par leur ordre et par la justice pénale.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Des protections existent déjà (témoins anonymes, agents infiltrés, repentis) ; selon ses opposants, aucune enquête n'aurait échoué faute de dossier-coffre, et la procédure prévue nourrirait les contentieux.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Il s'agit de protéger la vie des enquêteurs et des personnes qui posent les dispositifs d'écoute, face à des réseaux qui tuent, enlèvent et torturent, et d'éviter les représailles.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Le recours est encadré : requête motivée d'un magistrat, autorisation d'un juge indépendant, contestation possible devant la cour d'appel ; consulté, le Conseil d'État n'y a vu, sous réserve d'ajustements, aucun obstacle constitutionnel.",
+      "sources": [
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "text": "Le procédé existe déjà depuis 2001 pour les témoins anonymes et depuis 2014 pour la géolocalisation ; selon ses défenseurs, des magistrats et des enquêteurs spécialisés le réclament.",
+      "sources": [
+        "s3",
+        "s10",
+        "s11"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement (sous-amendé) rétablissant un article d'une proposition de loi d'origine sénatoriale, première lecture",
+    "textTitle": "Proposition de loi visant à sortir la France du piège du narcotrafic",
+    "summary": "Adopté par le Sénat le 4 février 2025 puis supprimé par la commission des lois de l'Assemblée, le dossier-coffre (article 16) a été rétabli en séance le 21 mars 2025 par un amendement réécrit et un sous-amendement du Gouvernement reprenant l'avis du Conseil d'État du 13 mars 2025. Cette version, limitée aux cas de danger grave pour une personne, prévoyait aussi une dérogation exceptionnelle permettant de condamner sur ces preuves, censurée ensuite. Le texte entier, qui comporte de nombreuses autres mesures, a été adopté le 1er avril 2025.",
+    "sources": [
+      "s2",
+      "s9",
+      "s3",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-04-29",
+      "label": "Adoption définitive",
+      "text": "Après un accord en commission mixte paritaire le 10 avril 2025, le Sénat (28 avril) puis l'Assemblée (29 avril) adoptent définitivement le texte, dossier-coffre compris.",
+      "sources": [
+        "s14",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-885 DC : le dossier-coffre est validé sous deux réserves d'interprétation qui renforcent les possibilités de contestation : le délai de dix jours pour le contester ne court qu'une fois la décision du juge formellement portée à la connaissance de la personne, et la juridiction d'appel saisie d'une demande d'annulation (chambre de l'instruction) peut aussi contrôler son usage et le faire verser au dossier. Est censurée la dérogation qui aurait permis, à titre exceptionnel, de condamner sur ces preuves sans que la défense accède au dossier-coffre : aucune condamnation ne peut donc reposer sur elles tant que ce dossier n'est pas versé à la procédure.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-532 du 13 juin 2025 (article 40) : le dossier-coffre figure aux articles 706-104 et 706-104-1 du code de procédure pénale, en vigueur depuis le 15 juin 2025. Ces articles doivent être remplacés au 1er janvier 2029 par le code de procédure pénale réécrit par l'ordonnance n° 2025-1091 du 19 novembre 2025.",
+      "sources": [
+        "s5",
+        "s12",
+        "s13"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1103",
+      "numero": 1103,
+      "date": "2025-03-21",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement n° 939 rectifié, sous-amendé par le Gouvernement, rétablissant le dossier-coffre (article 16) dans une version limitée aux cas de danger grave pour une personne"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1103 (21 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1103",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 939 rectifié à l'article 16 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1043/AN/939",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur l'article 16 (21 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N140",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Conseil constitutionnel — Décision n° 2025-885 DC, § 339 à 363 (12 juin 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025885DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi n° 2025-532 visant à sortir la France du piège du narcotrafic (13 juin 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051734851",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50169",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "LCP — Narcotrafic : l'Assemblée rétablit la création du « dossier-coffre » (21 mars 2025)",
+      "url": "https://lcp.fr/actualites/narcotrafic-l-assemblee-retablit-la-creation-du-dossier-coffre-qui-avait-ete-supprimee",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Datan — Vote n° 1103 (21 mars 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_1103",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Sous-amendement n° 1004 du Gouvernement à l'amendement n° 939 rectifié (article 16)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1043/AN/1004",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2001-1062 relative à la sécurité quotidienne, protection des témoins (15 novembre 2001)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000222052",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2014-693 DC, loi relative à la géolocalisation (25 mars 2014)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2014/2014693DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Article 706-104 du code de procédure pénale (version en vigueur)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051742921",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Ordonnance n° 2025-1091 portant réécriture du code de procédure pénale, partie législative (19 novembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052650320",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl23-735)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-735.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du vendredi 21 mars 2025 à faible participation (88 votants) : chaque position de groupe repose sur les quelques députés présents. Pour le rétablissement : RN, Ensemble pour la République, Les Démocrates, Horizons, Droite républicaine (et le seul député UDR présent). Contre : Socialistes, LFI-NFP, Écologiste et social, GDR. LIOT n'a pas pris part au vote. Sur le texte entier (1er avril 2025, 436 voix contre 75), les socialistes ont voté pour malgré leur opposition au dossier-coffre, LFI-NFP contre ; la plupart des écologistes (28 sur 32 votants) et 8 des 14 votants GDR se sont abstenus. Le Conseil constitutionnel a été saisi trois fois : par des députés LFI-NFP ; par ces mêmes députés avec des députés Écologiste et social et GDR ; par des députés socialistes. Les deuxième et troisième saisines contestaient le dossier-coffre.",
+  "lastVerified": "2026-09-26"
+}

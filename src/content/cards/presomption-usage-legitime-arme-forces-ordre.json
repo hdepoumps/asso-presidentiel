@@ -1,0 +1,206 @@
+{
+  "id": "presomption-usage-legitime-arme-forces-ordre",
+  "theme": "securite",
+  "question": "Faut-il présumer que les policiers et les gendarmes qui font usage de leur arme ont agi dans le cadre prévu par la loi, sauf preuve du contraire ?",
+  "explainer": {
+    "title": "Que changerait cette présomption ?",
+    "text": "Depuis 2017, la loi autorise policiers et gendarmes à se servir de leur arme dans cinq situations précises, en cas d'absolue nécessité et de façon strictement proportionnée. Après un tir, une enquête vérifie aujourd'hui que ces conditions étaient réunies. Le texte ajoute que l'agent est présumé les avoir respectées : la présomption peut être renversée « à tout moment » et « par tout élément de preuve contraire ». La liste des cinq situations reste la même, mais pour l'une d'elles (tirer pour empêcher qu'une personne venant de commettre un meurtre ou une tentative de meurtre ne recommence dans un temps rapproché), les agents n'ont plus à être en uniforme ou à porter un signe visible de leur qualité.",
+    "sources": [
+      "s2",
+      "s3",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "La présomption inverserait la logique du contrôle : ce serait à l'enquête, et en pratique aux familles des victimes, de démontrer qu'un tir n'était pas justifié, avec peu de moyens pour le faire.",
+      "sources": [
+        "s12",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, elle fragiliserait les premières heures de l'enquête (garde à vue, saisie de l'arme, auditions séparées), qui sont décisives pour établir la vérité après un tir mortel.",
+      "sources": [
+        "s4",
+        "s11"
+      ]
+    },
+    {
+      "text": "Dans un avis sur la version initiale, le Défenseur des droits y voit un risque pour le droit à la vie et les recours des victimes ; selon ses opposants, les tirs mortels sur des véhicules en mouvement auraient quintuplé depuis 2017.",
+      "sources": [
+        "s5",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Policiers et gendarmes doivent décider en une fraction de seconde ; selon ses défenseurs, face à des agressions en forte hausse contre eux, la présomption leur donnerait un cadre juridique clair plutôt qu'une suspicion de principe.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, c'est une présomption simple, renversable à tout moment : elle n'empêcherait ni l'enquête ni la garde à vue, qui cesserait seulement d'être quasi automatique.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon le Gouvernement, sur 14 enquêtes ouvertes en 2024 après un tir mortel, la justice a reconnu un tir légitime dans 12 cas (2 en cours) : la présomption traduirait cette réalité et éviterait une mise en cause de principe des agents.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi à article unique, vote sur l'ensemble en première lecture",
+    "textTitle": "Proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+    "summary": "Déposée le 3 décembre 2024, la proposition de loi inscrivait d'abord dans le code pénal une présomption de légitime défense, qui visait aussi les policiers municipaux. Rejetée par la commission des lois (rapport du 14 janvier 2026), elle a été réécrite en séance le 22 janvier par un amendement du Gouvernement en « présomption d'usage légitime de l'arme », réservée aux policiers et gendarmes ; son intitulé officiel n'a pas changé. Arrêtée ce soir-là sur les amendements au titre, la discussion a repris le 7 juillet 2026, jour du vote sur l'ensemble.",
+    "sources": [
+      "s10",
+      "s3",
+      "s12",
+      "s7",
+      "s4"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-07-07",
+      "label": "Sénat",
+      "text": "Le texte est transmis au Sénat le jour même. Au 26 septembre 2026, il n'y a pas encore été examiné : il n'est donc pas en vigueur.",
+      "sources": [
+        "s8",
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "label": "Pétition",
+      "text": "Une pétition contre le texte, déposée sur le site de l'Assemblée, a dépassé 720 000 signatures. La commission des lois l'a classée le 21 juillet 2026 : elle ne sera pas débattue en séance.",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7987",
+      "numero": 7987,
+      "date": "2026-07-07",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en première lecture"
+    },
+    {
+      "uid": "VTANR5L17V5147",
+      "numero": 5147,
+      "date": "2026-01-22",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement du Gouvernement réécrivant l'article unique en présomption d'usage légitime de l'arme"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7987 (7 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Texte adopté n° 328 (7 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0328_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : présentation et discussion générale (22 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N122",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : fin de la discussion, explications de vote et vote (7 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N005",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Défenseur des droits — Avis 26-05 sur la proposition de loi, version initiale (26 juin 2026)",
+      "url": "https://www.defenseurdesdroits.fr/avis-sur-la-proposition-de-loi-visant-reconnaitre-une-presomption-de-legitime-defense-pour-les-1199",
+      "kind": "officiel"
+    },
+    {
+      "id": "s6",
+      "label": "Le Club des juristes — Ce que changerait la présomption de légitime défense pour les forces de l'ordre (10 juillet 2026)",
+      "url": "https://www.leclubdesjuristes.com/societe/ce-que-changerait-la-presomption-de-legitime-defense-pour-les-forces-de-lordre-16913/",
+      "kind": "analyse"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Dossier législatif (texte n° 866, 2025-2026)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-866.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 5147 (22 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5147",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Proposition de loi n° 691 (texte initial, 3 décembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0691_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Défenseur des droits — Texte intégral de l'avis 26-05 (26 juin 2026, version initiale de la proposition de loi)",
+      "url": "https://juridique.defenseurdesdroits.fr/doc_num.php?explnum_id=23281",
+      "kind": "officiel"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : adoption de l'amendement de réécriture (22 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N123",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Commission des lois : décision de classement de la pétition n° 6334 (21 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/lois/actualites/decision-de-classement-de-la-petition-contre-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "LCP — L'Assemblée classe la pétition contre la présomption de légitime défense (juillet 2026)",
+      "url": "https://lcp.fr/actualites/contre-la-presomption-de-legitime-defense-pour-les-forces-de-l-ordre-l-assemblee-classe",
+      "kind": "presse",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Proposition de loi déposée par des députés Droite républicaine et soutenue par le Gouvernement après sa réécriture. Le 7 juillet 2026, RN, Droite républicaine, UDR et Horizons ont voté pour en bloc ; LFI-NFP, GDR, Écologiste et social et Socialistes contre en bloc. Le bloc central était partagé : Ensemble pour la République 55 pour et 12 contre, Les Démocrates 28 pour, 1 contre et 5 abstentions ; LIOT s'est divisé (9 pour, 8 contre). Le 22 janvier 2026, l'amendement de réécriture du Gouvernement avait été adopté par 103 voix contre 74 (177 votants) : les quatre groupes de gauche contre, tous les autres groupes présents pour ; LIOT n'avait pas pris part au vote. Le 21 juillet 2026, la commission des lois a classé la pétition contre le texte : les quatre groupes de gauche souhaitaient qu'elle soit examinée plus avant.",
+  "lastVerified": "2026-09-26"
+}

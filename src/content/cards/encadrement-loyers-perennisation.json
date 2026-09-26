@@ -1,0 +1,177 @@
+{
+  "id": "encadrement-loyers-perennisation",
+  "theme": "logement",
+  "question": "Faut-il rendre permanent l'encadrement des loyers, aujourd'hui expérimental, et laisser les élus locaux l'appliquer, sans accord de l'État, dans toute commune où il est difficile de se loger ?",
+  "explainer": {
+    "title": "Comment fonctionne l'encadrement des loyers ?",
+    "text": "Dans les villes qui l'appliquent (près de 70 communes, dont Paris, Lille, Lyon, Bordeaux, Montpellier, Grenoble, des communes de Seine-Saint-Denis et du Pays basque), le préfet fixe chaque année des loyers de référence selon le quartier et le type de logement. À la signature du bail, le loyer ne peut pas dépasser le loyer de référence majoré de 20 %, sauf « complément de loyer » justifié par des caractéristiques exceptionnelles. Jusqu'en novembre 2022, une collectivité volontaire pouvait se porter candidate si elle remplissait des critères fixés par la loi (loyers élevés, faible construction…), puis l'État délimitait le territoire par décret ; depuis, aucune nouvelle commune de métropole ne peut y entrer. Prévue par une loi de 2018, cette expérimentation s'arrête fin novembre 2026. Le texte la rend permanente, la rouvre à toute commune où le marché locatif est tendu et supprime le décret au profit d'une décision des élus locaux. Il abaisse aussi certains plafonds : la majoration passe de 20 % à 10 % dans les quartiers où le loyer médian dépasse de 10 % celui de l'agglomération, et le complément de loyer est limité à 20 % du loyer de référence majoré.",
+    "sources": ["s8", "s6", "s11", "s12", "s3", "s2"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la crise vient d'abord d'un manque de logements : plafonner les loyers pousse des bailleurs à vendre ou à louer aux touristes. Une évaluation publiée depuis, en 2026, relève moins d'annonces dans certains territoires.",
+      "sources": ["s3", "s6"]
+    },
+    {
+      "text": "Ils jugent trop rapide de passer d'une expérimentation à un dispositif permanent, ouvert au-delà des villes les plus tendues et sans examen des candidatures par l'État, alors que ses effets restent très inégaux selon les territoires.",
+      "sources": ["s3", "s6"]
+    },
+    {
+      "text": "Ils font valoir que l'encadrement ne tient pas compte des revenus ; une évaluation publiée depuis, en 2026, confirme qu'il profite davantage à des locataires plutôt aisés à Paris et qu'un tiers de son coût pèse sur les finances publiques.",
+      "sources": ["s3", "s6"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'encadrement freine la hausse des loyers ; une évaluation publiée depuis, en 2026, chiffre cet effet à 2 à 5 % par rapport à des villes comparables, soit environ 600 millions d'euros par an restés aux locataires.",
+      "sources": ["s3", "s6"]
+    },
+    {
+      "text": "Ils font valoir que la baisse du nombre de logements à louer touche aussi, parfois plus fortement, des villes sans encadrement : elle aurait d'autres causes, en particulier l'effondrement de la construction.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Ils veulent laisser décider les élus locaux : une ville remplissant les critères a pu être bloquée par sa métropole ou par l'État. Le texte renforce aussi la lutte contre les compléments de loyer abusifs.",
+      "sources": ["s3", "s2"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, vote sur l'ensemble en première lecture",
+    "textTitle": "Proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs",
+    "summary": "Outre la pérennisation de l'encadrement, l'article 1er double les amendes des bailleurs qui ne le respectent pas (jusqu'à 10 000 euros pour un particulier et 30 000 euros pour une société) et plafonne le complément de loyer ; l'article 2 permet à un locataire congédié pour vente ou reprise du logement de demander au bailleur, trois à six mois après son départ, les preuves de cette vente ou de cette reprise. Avant ce vote, l'Assemblée avait rejeté la suppression de l'article 1er et un amendement qui remplaçait la pérennisation par une prolongation de deux ans de l'expérimentation.",
+    "sources": ["s2", "s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-12-12",
+      "label": "Sénat",
+      "text": "Le texte est transmis au Sénat et renvoyé à sa commission des affaires économiques.",
+      "sources": ["s5"]
+    },
+    {
+      "date": "2026-05",
+      "label": "Évaluation",
+      "text": "Les deux économistes chargés par le Gouvernement d'évaluer l'expérimentation publient leurs résultats : des loyers modérés de 2 à 5 % par rapport à des villes comparables, des gains très inégaux selon les territoires et une baisse des annonces de location dans certains d'entre eux, dont le lien avec l'encadrement reste à confirmer.",
+      "sources": ["s6", "s7"]
+    },
+    {
+      "date": "2026-06-23",
+      "label": "Gouvernement",
+      "text": "Le ministre du logement dit envisager de prolonger l'expérimentation dans les communes qui l'appliquent déjà, sans en ajouter de nouvelles. Selon l'auteur du texte, le Gouvernement compte le faire examiner par le Sénat à la rentrée ; la presse évoque une prolongation de deux ans, par amendement.",
+      "sources": ["s7"]
+    },
+    {
+      "date": "2026-07-08",
+      "label": "Sénat",
+      "text": "La commission des affaires économiques désigne son rapporteur ; l'examen en séance publique est prévu le 21 octobre 2026. Sans nouvelle loi d'ici là, l'expérimentation s'arrêtera à la fin du mois de novembre 2026.",
+      "sources": ["s5", "s8"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4745",
+      "numero": 4745,
+      "date": "2025-12-11",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi, première lecture"
+    },
+    {
+      "uid": "VTANR5L17V4724",
+      "numero": 4724,
+      "date": "2025-12-11",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement de suppression de l'article 1er (pérennisation et extension de l'encadrement), rejeté"
+    },
+    {
+      "uid": "VTANR5L17V4725",
+      "numero": 4725,
+      "date": "2025-12-11",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement remplaçant la pérennisation par une prolongation de deux ans de l'expérimentation, rejeté"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4745 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4745",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs, texte adopté n° 196 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0196_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retrouver_confiance_equilibre_rapports_locatifs_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-217.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Institut des politiques publiques — L'encadrement des loyers : effets redistributifs et économiques, note n° 125 (mai 2026)",
+      "url": "https://www.ipp.eu/actualites/lencadrement-des-loyers-effets-redistributifs-et-economiques/",
+      "kind": "analyse"
+    },
+    {
+      "id": "s7",
+      "label": "Banque des Territoires — L'encadrement des loyers pourrait être prolongé pendant deux ans (24 juin 2026)",
+      "url": "https://www.banquedesterritoires.fr/lencadrement-des-loyers-pourrait-etre-prolonge-pendant-deux-ans",
+      "kind": "presse"
+    },
+    {
+      "id": "s8",
+      "label": "Service-public.gouv.fr — En quoi consiste l'encadrement des loyers à respecter en zone tendue ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1314",
+      "kind": "officiel"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 4724 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4724",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 4725 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4725",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Rapport n° 2197 de la commission des affaires économiques sur la proposition de loi (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2197.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "ANIL — Expérimentation de l'encadrement du niveau des loyers dans les zones tendues",
+      "url": "https://www.anil.org/aj-experimentation-encadrement-niveau-loyers-zones-tendues/",
+      "kind": "officiel"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Texte déposé par des députés du groupe Socialistes ; le Gouvernement appelait à attendre l'évaluation en cours. Scrutin du 11 décembre 2025 (165 votants) : pour — Socialistes, LFI-NFP, Écologiste et social, GDR (unanimes) et le seul député LIOT ayant pris part au vote ; contre — RN (28 contre, 1 abstention), UDR, Horizons, Les Démocrates, Ensemble pour la République (13 contre, 3 abstentions) et la Droite républicaine, dont la position ne repose que sur 2 votants. Voter contre ce texte ne revenait pas forcément à vouloir la fin de l'encadrement : juste avant, un amendement LIOT remplaçant la pérennisation par une prolongation de deux ans de l'expérimentation a été soutenu par LIOT, Les Démocrates, Ensemble pour la République, Horizons, la Droite républicaine, l'UDR et la majorité du RN (22 pour, 5 contre), et rejeté par les quatre groupes de gauche, qui voulaient un dispositif permanent (scrutin n° 4725). L'amendement de suppression de l'article 1er avait été soutenu par le RN, l'UDR, la Droite républicaine, Horizons et une partie d'Ensemble pour la République (9 pour, 4 contre), Les Démocrates s'abstenant (scrutin n° 4724). En juin 2026, le ministre du logement a dit envisager une prolongation de l'expérimentation sans nouvelles communes (de deux ans, selon la presse).",
+  "lastVerified": "2026-09-26"
+}

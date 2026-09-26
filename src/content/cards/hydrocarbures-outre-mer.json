@@ -1,0 +1,155 @@
+{
+  "id": "hydrocarbures-outre-mer",
+  "theme": "energie",
+  "question": "Faut-il lever, en Guyane, à Mayotte, dans les autres départements d'outre-mer et à Saint-Pierre-et-Miquelon, l'interdiction de chercher et d'exploiter du pétrole et du gaz votée en 2017 ?",
+  "explainer": {
+    "title": "Que changeait ce texte ?",
+    "text": "Depuis une loi du 30 décembre 2017, la France ne délivre plus, sauf exceptions transitoires, de nouveaux permis de recherche ni de nouvelles concessions d'exploitation de pétrole, de gaz ou de charbon ; les exploitations existantes, toutes situées dans l'Hexagone, ne peuvent en principe pas être prolongées au-delà de 2040. L'article voté levait cette interdiction dans les cinq départements et régions d'outre-mer (Guadeloupe, Guyane, Martinique, La Réunion, Mayotte), sur terre comme en mer selon le rapport de la commission, ainsi qu'à Saint-Pierre-et-Miquelon. Il ne lançait aucun forage : il rendait de nouveau possible la délivrance de permis de recherche, puis de concessions d'exploitation.",
+    "sources": [
+      "s3",
+      "s4"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Rouvrir la recherche de pétrole et de gaz irait à rebours de l'accord de Paris sur le climat : selon l'Agence internationale de l'énergie (2021), aucun nouveau gisement de pétrole ou de gaz ne devait plus être approuvé pour le respecter.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Les forages menés au large de la Guyane depuis les années 1960, jusqu'au dernier abandonné en 2019, n'ont débouché sur aucune exploitation ; selon ses opposants, aucune production ne serait possible avant vingt ans.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, les habitants supporteraient les risques (pollution en mer, atteintes à la pêche et au tourisme) sans garantie d'en profiter : au Guyana voisin, près de la moitié des habitants vit avec moins de 5,50 dollars par jour.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "La Guyane et Mayotte comptent parmi les territoires les plus pauvres de France, alors que leurs voisins (Guyana, Suriname, Brésil, Mozambique) exploitent pétrole et gaz ; la moitié des redevances irait aux collectivités.",
+      "sources": [
+        "s4",
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, on ne trouve pas ce qu'on s'interdit de chercher : neuf forages seulement ont eu lieu en Guyane, quand le Guyana voisin a dû forer plus de vingt fois avant de trouver du pétrole.",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "La France importe 99 % de son pétrole et de son gaz : en produire une part réduirait cette dépendance, et les élus de Guyane, unanimes, demandent à pouvoir décider eux-mêmes de leur développement.",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article d'une proposition de loi d'origine sénatoriale (seul article restant du texte), première lecture",
+    "textTitle": "Proposition de loi visant à lever dans les territoires d'outre-mer l'interdiction de recherche, d'exploration et d'exploitation des hydrocarbures",
+    "summary": "Déposée au Sénat le 3 décembre 2025 par 23 sénateurs de plusieurs groupes, la proposition de loi y a été adoptée le 29 janvier 2026 par 227 voix contre 105, puis rejetée le 3 juin 2026 par la commission des affaires économiques de l'Assemblée. En séance, le 11 juin, les députés ont d'abord retiré de l'article les Terres australes et antarctiques françaises et Wallis-et-Futuna, puis supprimé, par 71 voix contre 57, l'une des deux mentions de Saint-Pierre-et-Miquelon ; l'autre, qui levait l'interdiction dans le code minier, a été maintenue. L'article étant le seul du texte, son rejet a entraîné celui de toute la proposition de loi.",
+    "sources": [
+      "s5",
+      "s4",
+      "s2",
+      "s3"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-06-11",
+      "label": "Retour au Sénat",
+      "text": "Le texte rejeté (n° 738, 2025-2026) est transmis au Sénat le jour même et renvoyé à sa commission des affaires économiques pour une deuxième lecture. Au 26 septembre 2026, il ne figure pas à l'ordre du jour prévisionnel du Sénat, publié jusqu'à fin octobre, et l'interdiction de 2017 reste en vigueur dans les outre-mer concernés.",
+      "sources": [
+        "s8",
+        "s5",
+        "s9"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7386",
+      "numero": 7386,
+      "date": "2026-06-11",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 1er levant l'interdiction dans les départements et régions d'outre-mer et à Saint-Pierre-et-Miquelon, tel que modifié en séance"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7386 (11 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : discussion de la proposition de loi (11 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Proposition de loi adoptée par le Sénat, n° 2415 (texte transmis le 30 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2415_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 2868 de la commission des affaires économiques (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2868.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl25-185)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-185.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "La 1ère (France Télévisions) — À l'Assemblée nationale, rejet de la proposition de loi sur la recherche d'hydrocarbures en Guyane et à Mayotte (11 juin 2026)",
+      "url": "https://la1ere.franceinfo.fr/a-l-assemblee-nationale-rejet-de-la-proposition-de-loi-sur-l-autorisation-de-recherche-d-hydrocarbures-en-guyane-et-a-mayotte-1709632.html",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Datan — Vote n° 7386 (11 juin 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_7386",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53304",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Ordre du jour des prochaines séances (consulté le 26 septembre 2026)",
+      "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du jeudi 11 juin 2026, pendant la journée réservée au groupe GDR, dont est issu le rapporteur, député de Guyane (139 votants). Pour la levée de l'interdiction : GDR, Horizons, Droite républicaine, UDR, RN. Contre : LFI-NFP, Écologiste et social, Socialistes (10 contre, 1 pour, 1 abstention), Ensemble pour la République (15 contre, 2 pour). Les Démocrates sont partagés (3 contre, 2 pour). Aucun député LIOT n'a voté, alors que l'orateur du groupe avait annoncé le soutien de sa majorité. Même vote, motivations différentes : les élus ultramarins invoquaient le développement de leurs territoires et le droit d'en décider localement ; RN et UDR voulaient aller plus loin et lever l'interdiction sur tout le territoire national (amendements rejetés par 79 voix contre 43 et par 93 voix contre 43). À gauche, seul le groupe GDR a soutenu le texte.",
+  "lastVerified": "2026-09-26"
+}

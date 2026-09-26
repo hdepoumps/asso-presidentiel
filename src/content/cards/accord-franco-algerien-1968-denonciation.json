@@ -1,0 +1,185 @@
+{
+  "id": "accord-franco-algerien-1968-denonciation",
+  "theme": "immigration",
+  "question": "Faut-il que la France dénonce, c'est-à-dire quitte, l'accord franco-algérien de 1968, qui fixe des règles particulières d'entrée, de séjour et de travail pour les Algériens ?",
+  "explainer": {
+    "title": "C'est quoi, l'accord franco-algérien de 1968 ?",
+    "text": "Signé le 27 décembre 1968, six ans après l'indépendance de l'Algérie, cet accord régit la circulation, l'emploi et le séjour des Algériens en France, à la place du droit commun des étrangers. Il prévoit des titres de séjour propres, les « certificats de résidence », et des règles particulières, par exemple pour le regroupement familial. Il a été modifié par des avenants en 1985, 1994 et 2001. Le retour des Algériens en situation irrégulière relève, lui, d'un autre texte, un protocole de 1994. « Dénoncer » un traité, c'est s'en retirer ; cet accord ne prévoit pas de procédure pour le faire. La résolution votée par l'Assemblée est un appel adressé à l'exécutif : elle n'a pas de valeur contraignante.",
+    "sources": [
+      "s3",
+      "s2",
+      "s11",
+      "s7"
+    ]
+  },
+  "contre": [
+    {
+      "text": "L'accord ne contient aucune clause de dénonciation : le rompre seul pourrait exposer la France à un recours devant la Cour internationale de justice, et certains juristes évoquent un retour à la libre circulation prévue en 1962.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, l'accord désavantage aussi les Algériens sur certains points (étudiants, « passeport talent ») ; le dénoncer serait sans effet sur le renvoi des Algériens en situation irrégulière, régi par un protocole de 1994.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Rompre aggraverait la crise diplomatique : coopération contre le terrorisme et les trafics, exportations vers l'Algérie déjà en baisse de 21 % depuis début 2025 selon des députés, sort de deux Français alors détenus dans ce pays.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Sur plusieurs points, l'accord est plus favorable aux Algériens que le droit commun : titre de dix ans obtenu plus vite, regroupement familial facilité, retrait du titre plus difficile pour des motifs d'ordre public.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon le rapport d'un député de la commission des finances (octobre 2025), ce régime dérogatoire coûterait environ 2 milliards d'euros par an, surtout en prestations sociales, un chiffre que le rapport juge lui-même difficile à fiabiliser.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, seul un rapport de force fera céder l'Algérie : début 2025, à peine 3 % des mesures d'éloignement visant des Algériens étaient exécutées de force, et les retours sont ensuite tombés à zéro.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "resolution",
+    "textKind": "Proposition de résolution (article 34-1 de la Constitution)",
+    "textTitle": "Proposition de résolution visant à dénoncer les accords franco-algériens du 27 décembre 1968",
+    "summary": "Une résolution de l'article 34-1 permet à l'Assemblée d'exprimer un avis sans obliger le Gouvernement à agir. Le texte adopté « appelle les autorités en ayant la compétence à dénoncer » l'accord ; il invoque aussi le manque de coopération de l'Algérie pour reprendre ses ressortissants en situation irrégulière, la situation des droits de l'homme en Algérie et l'emprisonnement d'un écrivain franco-algérien et d'un journaliste français. Il a été adopté à une voix d'écart.",
+    "sources": [
+      "s2",
+      "s4"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-04",
+      "label": "Réponse du Gouvernement",
+      "text": "La résolution n'oblige pas l'exécutif, seul compétent pour les traités. Interrogé à l'Assemblée, le Gouvernement rappelle que le texte voté est « une résolution et seulement une résolution » ; il écarte l'abrogation de l'accord et souhaite sa renégociation, déjà envisagée par les deux pays en 2022.",
+      "sources": [
+        "s10",
+        "s3"
+      ]
+    },
+    {
+      "date": "2026-02-16",
+      "label": "Reprise du dialogue",
+      "text": "Le ministre de l'intérieur se rend à Alger les 16 et 17 février 2026 pour relancer la coopération, notamment sur le retour des Algériens en situation irrégulière.",
+      "sources": [
+        "s6",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "label": "Rencontre à Paris",
+      "text": "Les ministres de l'intérieur des deux pays se rencontrent à Paris. Ils confirment la reprise de la coopération sur les retours et décident de travailler, sur la base de propositions françaises, à faire évoluer l'accord de 1968.",
+      "sources": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "label": "Situation",
+      "text": "Dans une réponse publiée au Journal officiel du Sénat, le ministère de l'intérieur indique qu'un travail de révision de l'accord est engagé. L'accord n'a pas été dénoncé : il reste en vigueur, et aucune nouvelle règle n'est entrée en application.",
+      "sources": [
+        "s11"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3260",
+      "numero": 3260,
+      "date": "2025-10-30",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur la proposition de résolution appelant à dénoncer l'accord franco-algérien de 1968"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3260 (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Résolution adoptée n° 177 (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0177_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur la résolution (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-30-octobre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Proposition de résolution n° 1778 (9 septembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1778_proposition-resolution",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Rapport d'information n° 1963 de la commission des finances sur les implications juridiques et budgétaires des accords bilatéraux conclus en matière de circulation, de séjour, de santé et d'emploi : l'exemple de l'Algérie (15 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b1963_rapport-information",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Ministère de l'Intérieur — Communiqué sur la rencontre des ministres de l'intérieur français et algérien (2 juin 2026)",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/ministre-de-linterieur-laurent-nunez-a-rencontre-a-paris-son-homologue-algerien-said-sayoud-ministre",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Public Sénat — Dénonciation de l'accord franco-algérien : le socle commun se fracture sur une résolution RN (30 octobre 2025)",
+      "url": "https://www.publicsenat.fr/actualites/politique/denonciation-de-laccord-franco-algerien-le-socle-commun-se-fracture-sur-une-resolution-rn",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Euronews — Migration, sécurité, trafics : la France et l'Algérie renouent des liens de coopération (2 juin 2026)",
+      "url": "https://fr.euronews.com/2026/06/02/migration-securite-trafics-la-france-et-lalgerie-renouent-des-liens-de-cooperation",
+      "kind": "presse"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Compte rendu de la première séance : questions au Gouvernement (4 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-04-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Question écrite n° 01567 et réponse du ministère de l'intérieur (JO Sénat du 3 septembre 2026)",
+      "url": "https://www.senat.fr/questions/base/2024/qSEQ241001567.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du 30 octobre 2025 (374 votants), lors de la journée réservée au groupe RN : adopté par 185 voix contre 184. Pour : RN, UDR, Droite républicaine, Horizons, 3 non-inscrits ; LIOT n'a compté que 3 votants (2 pour, 1 contre), alors que son orateur avait annoncé un vote majoritairement contre. Contre : LFI-NFP, GDR, Écologiste et social, Socialistes, Ensemble pour la République (3 abstentions), Les Démocrates (2 abstentions). Même vote, motivations différentes : Ensemble pour la République et Les Démocrates se sont dits favorables à une remise en cause ou à une renégociation de l'accord, mais ont refusé une dénonciation « sèche » ; les groupes de gauche rejetaient la démarche elle-même. Participation faible dans le groupe Ensemble pour la République : 33 votants sur 85 députés pouvant voter (7 autres étaient membres du Gouvernement ou présidente de l'Assemblée). Après le vote, deux députés Droite républicaine ont indiqué avoir voulu voter pour et un troisième, compté pour, n'avoir pas pris part au vote, sans effet sur le résultat officiel.",
+  "lastVerified": "2026-09-26"
+}

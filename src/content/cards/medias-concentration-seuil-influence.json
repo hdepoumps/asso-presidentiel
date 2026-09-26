@@ -1,0 +1,203 @@
+{
+  "id": "medias-concentration-seuil-influence",
+  "theme": "societe",
+  "question": "Faut-il remplacer les plafonds de concentration de l'audiovisuel par un seuil d'influence cumulée (presse, radio, télé, web) au-delà duquel l'Arcom contrôle le pluralisme et peut sanctionner ?",
+  "explainer": {
+    "title": "Que changerait ce seuil d'influence ?",
+    "text": "Depuis 1986, la loi limite la concentration des médias par des plafonds propres à chaque support : nombre d'autorisations de télévision, population couverte par les réseaux de radio, règles de cumul entre télévision, radio et presse et, pour les quotidiens, 30 % de la diffusion. Ces règles ignorent internet ; dans le débat, partisans comme opposants du texte les ont jugées dépassées : le désaccord porte sur ce qui doit les remplacer. Le texte remplace les plafonds de la radio, de la télévision et du cumul par une « part d'influence cumulée », calculée d'après l'audience sur tous les supports (réseaux sociaux compris), la nature des contenus et les synergies entre médias. Au-delà d'un seuil fixé par décret, l'Arcom, régulateur de l'audiovisuel et du numérique, contrôle le respect du pluralisme et peut émettre des recommandations, des injonctions et des sanctions.",
+    "sources": [
+      "s4",
+      "s5",
+      "s7"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la « part d'influence » serait très difficile à calculer : fixer un coefficient par support comporterait une part d'arbitraire, et ce dispositif complexe ne reprendrait pas tous les critères du règlement européen.",
+      "sources": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "text": "Le Conseil d'État a prévenu que le seuil ne pouvait être entièrement renvoyé à un décret et qu'abroger les plafonds de 1986 exigeait d'en analyser l'impact : selon ses opposants, le texte, sans étude d'impact, laisse trop au décret.",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la concentration, moindre en France qu'en moyenne en Europe, sauve souvent des titres fragiles face aux plateformes ; juger les médias sur leur « influence » ouvrirait la voie à un contrôle des opinions.",
+      "sources": [
+        "s7",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Les règles de 1986 ignorent internet, où se fait plus de 70 % de la diffusion de la presse payante, et les réseaux sociaux : selon ses défenseurs, seul un seuil tous supports confondus mesurerait l'influence réelle des groupes multimédias.",
+      "sources": [
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, quatre groupes privés réunissent près de 60 % de l'audience de la télévision et un seul groupe presque toute la presse économique nationale : une telle concentration menacerait l'indépendance des rédactions.",
+      "sources": [
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, le texte suit l'avis du Conseil d'État, qui juge pertinent de mesurer l'audience réelle, en ligne comprise : contrôle et sanctions graduées, pas d'interdiction. Le droit européen exige d'évaluer les concentrations.",
+      "sources": [
+        "s6",
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article 1er d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à empêcher la constitution de monopoles économiques dans le secteur des médias d'information",
+    "summary": "L'article 1er remplace les plafonds anti-concentration de la radio, de la télévision et du cumul entre médias par ce seuil de « part d'influence cumulée » (le plafond propre aux quotidiens, fixé par une autre loi, n'est pas modifié) ; il prévoit aussi que l'Autorité de la concurrence recueille l'avis motivé et public de l'Arcom avant de se prononcer sur le rachat d'un média d'information. Réécrit en commission pour suivre l'avis du Conseil d'État, qui déconseillait une interdiction pure et simple au-delà du seuil, il a été adopté en séance le 12 février 2026 ; mais l'examen du texte n'a pu être achevé avant minuit, fin de la journée d'initiative parlementaire où il était inscrit, et l'ensemble n'a pas été voté.",
+    "sources": [
+      "s5",
+      "s4",
+      "s9"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-01-29",
+      "label": "Conseil d'État",
+      "text": "Saisi pour avis, le Conseil d'État juge pertinent de tenir compte de l'audience réelle des médias, y compris en ligne, mais estime qu'une interdiction au-delà du seuil porterait une atteinte disproportionnée à la liberté d'entreprendre ; il recommande un contrôle de l'Arcom, des critères fixés par la loi et une véritable étude d'impact avant d'abroger les règles de 1986.",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-02-04",
+      "label": "Commission des affaires culturelles et de l'éducation",
+      "text": "La commission adopte le texte, réécrit pour suivre l'avis du Conseil d'État : le dépassement du seuil déclenche un contrôle de l'Arcom au lieu d'une interdiction.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Assemblée nationale",
+      "text": "L'article 1er est adopté, mais la séance s'achève à minuit avant la fin de l'examen : le texte n'est pas voté dans son ensemble ni transmis au Sénat.",
+      "sources": [
+        "s9",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "label": "Conseil d'État",
+      "text": "Saisi par des organisations de journalistes après un rachat dans la presse économique, le Conseil d'État rejette leur demande : il revient au législateur, et non au Gouvernement par décret, de mettre en œuvre l'obligation européenne d'évaluer l'effet des concentrations sur le pluralisme.",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Assemblée nationale",
+      "text": "Au 26 septembre 2026, l'examen du texte n'a pas repris : les plafonds de 1986 restent applicables.",
+      "sources": [
+        "s9"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V5412",
+      "numero": 5412,
+      "date": "2026-02-12",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 1er créant le seuil de « part d'influence cumulée » contrôlé par l'Arcom (première lecture)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 5412 (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5412",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 5412 (12 février 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_5412",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Proposition de loi n° 2216 visant à empêcher la constitution de monopoles économiques dans les secteurs des médias (9 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2216_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 2429 de la commission des affaires culturelles et de l'éducation (4 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b2429_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte de la commission n° 2429-A0 (4 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2429_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Conseil d'État — Avis sur une proposition de loi visant à empêcher la constitution de monopoles économiques dans les secteurs des médias (29 janvier 2026)",
+      "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-une-proposition-de-loi-visant-a-empecher-la-constitution-de-monopoles-economiques-dans-les-secteurs-des-medias",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : présentation et discussion générale (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-12-fevrier-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : discussion et vote de l'article 1er (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-12-fevrier-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif : empêcher la constitution de monopoles économiques dans les secteurs des médias",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/monopoles_economiques_medias_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Affiches Parisiennes — Challenges racheté par LVMH : le Conseil d'État déboute RSF et des syndicats de journalistes (29 juillet 2026)",
+      "url": "https://mesinfos.fr/75000-paris/challenges-rachete-par-lvmh-le-conseil-d-etat-deboute-rsf-et-des-syndicats-de-journalistes-336241.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s11",
+      "label": "SNJ-CGT — Concentration des médias : le Conseil d'État renvoie la balle… au Parlement (30 juillet 2026)",
+      "url": "https://www.snjcgt.fr/2026/07/30/concentration-des-medias-le-conseil-detat-renvoie-la-balle-au-parlement/",
+      "kind": "analyse"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte déposé par le groupe Écologiste et social et examiné lors de sa journée réservée. Pour l'article 1er : les quatre groupes de gauche, unanimes (LFI-NFP, GDR, Écologiste et social, Socialistes), et les 5 députés Démocrates présents. Contre : Droite républicaine, RN et UDR, unanimes ; Horizons surtout contre (2 contre, 1 abstention). Les 3 députés EPR présents se sont abstenus, leur groupe ayant annoncé une abstention sur un texte jugé inabouti. Aucun député LIOT n'a voté : aucune position n'est calculée pour ce groupe, dont l'oratrice avait décrit des membres partagés. Le Gouvernement était défavorable. Participation modeste (155 votants) : le vote de l'article est intervenu tard dans la soirée, après l'examen de nombreux amendements, et la séance s'est achevée à minuit sans vote sur l'ensemble. Le bloc central n'a donc pas de position nette sur ce scrutin (Démocrates pour, EPR abstenu, Horizons contre).",
+  "lastVerified": "2026-09-26"
+}

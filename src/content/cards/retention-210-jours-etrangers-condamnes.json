@@ -1,0 +1,202 @@
+{
+  "id": "retention-210-jours-etrangers-condamnes",
+  "theme": "immigration",
+  "question": "Faut-il pouvoir retenir jusqu'à 210 jours, au lieu de 90, avant leur expulsion, des étrangers interdits du territoire, condamnés pour certains crimes ou délits ou jugés très dangereux ?",
+  "explainer": {
+    "title": "C'est quoi, la rétention administrative ?",
+    "text": "Quand un étranger en situation irrégulière doit quitter la France mais ne peut pas partir tout de suite, par exemple parce que son pays n'a pas encore délivré de « laissez-passer consulaire » (le document de voyage qui permet de le renvoyer), le préfet peut le placer dans un centre de rétention administrative (CRA). Ce n'est pas une peine de prison : il s'agit de le garder le temps d'organiser son départ. Chaque prolongation doit être autorisée par un juge. La durée maximale est en principe de 90 jours ; jusqu'à la loi du 27 juillet 2026, seuls les étrangers liés au terrorisme pouvaient être retenus 180 jours, voire 210 jours à titre exceptionnel.",
+    "sources": ["s4", "s7", "s8"]
+  },
+  "contre": [
+    {
+      "text": "Allonger la rétention ne réglerait pas le principal blocage, le laissez-passer, qui dépend du pays d'origine ; les précédents allongements n'auraient pas amélioré les expulsions, et la prison devrait servir à les préparer.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "La mesure étendrait à des crimes et délits sans lien avec le terrorisme un régime d'exception, alors que la personne a déjà purgé sa peine et serait enfermée pour des raisons administratives : un centre de rétention n'est pas une prison.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Selon ses opposants, le critère de « menace d'une particulière gravité pour l'ordre public » serait trop flou ; et les centres, conçus pour de courts séjours, verraient la santé des retenus et le travail des agents se dégrader.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Identifier la personne et obtenir un laissez-passer de son pays prend du temps ; dans l'affaire du meurtre d'une étudiante en 2024, ce document serait arrivé trois jours après la sortie de rétention de l'homme mis en cause.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "La directive européenne « retour » autorise jusqu'à 18 mois de rétention, durée prévue notamment en Allemagne et aux Pays-Bas, alors que la France s'en tient à 90 jours en règle générale.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Le régime de 210 jours existe déjà pour le terrorisme et reste peu utilisé (37 personnes en 2024, 117 jours en moyenne) ; chaque prolongation, de 30 jours en 30 jours, doit être autorisée par un juge.",
+      "sources": ["s3"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi d'origine sénatoriale, vote sur l'ensemble en première lecture à l'Assemblée",
+    "textTitle": "Proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d'une particulière gravité et présentant de forts risques de récidive",
+    "summary": "Adopté par le Sénat le 18 mars 2025. Dans la version votée par l'Assemblée le 8 juillet 2025, la rétention jusqu'à 180 puis 210 jours pouvait viser les étrangers condamnés à une interdiction du territoire ou visés par une décision d'expulsion ou d'interdiction administrative du territoire, ceux définitivement condamnés pour l'un des crimes ou délits énumérés (16 catégories, du meurtre ou du viol au trafic de stupéfiants et à certaines menaces) et ceux représentant une menace d'une particulière gravité pour l'ordre public. Le texte prévoyait aussi le maintien automatique en rétention pendant l'appel (du parquet ou du préfet) contre une remise en liberté, la prise d'empreintes sans consentement et la rétention de certains demandeurs d'asile.",
+    "sources": ["s2", "s10", "s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-07-09",
+      "label": "Sénat",
+      "text": "Le Sénat adopte en deuxième lecture le texte voté par l'Assemblée : la loi est définitivement adoptée.",
+      "sources": ["s2"]
+    },
+    {
+      "date": "2025-08-07",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-895 DC : l'allongement à 180 ou 210 jours est censuré. Il n'était pas réservé à des cas exceptionnels et pouvait viser des condamnations pour des faits pas forcément graves, parfois non définitives, sans que l'administration ait à prouver une menace actuelle. Le maintien automatique pendant l'appel est aussi censuré ; la prise d'empreintes est validée, la rétention des demandeurs d'asile l'est avec une réserve.",
+      "sources": ["s4"]
+    },
+    {
+      "date": "2025-08-11",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-796 du 11 août 2025, publiée sans les dispositions censurées : la durée maximale reste alors de 90 jours hors terrorisme.",
+      "sources": ["s5", "s4"]
+    },
+    {
+      "date": "2026-05-05",
+      "label": "Nouveau texte à l'Assemblée",
+      "text": "La mesure revient, réécrite, dans une proposition de loi « sécurité, rétention administrative et prévention des risques d'attentat ». Modifiée en séance le 16 avril 2026, elle est rétablie le 5 mai dans la version de la commission, lors d'une seconde délibération, puis le texte est adopté en première lecture.",
+      "sources": ["s6", "s11"]
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Adoption définitive",
+      "text": "Dans la loi adoptée définitivement le 16 juin 2026 (article 9), l'allongement est réservé, à titre exceptionnel, aux étrangers définitivement condamnés pour certains crimes ou délits punis d'au moins cinq ans de prison (atteintes aux personnes, vols avec violence, extorsions…) et représentant une menace réelle, actuelle et d'une particulière gravité pour l'ordre public. La même loi (article 10) permet aussi de replacer une même personne en rétention, cinq fois au plus, pour exécuter la même mesure d'éloignement, dans la limite de 360 jours cumulés, portée à 540 jours pour les étrangers relevant de ce régime.",
+      "sources": ["s6", "s12"]
+    },
+    {
+      "date": "2026-07-23",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-906 DC : ces deux dispositions sont validées. L'allongement est jugé proportionné car réservé à des cas exceptionnels, justifié par une menace actuelle, limité à des infractions graves punies d'au moins cinq ans, subordonné à une perspective raisonnable d'éloignement et contrôlé par le juge à chaque prolongation.",
+      "sources": ["s7"]
+    },
+    {
+      "date": "2026-07-27",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-667 du 27 juillet 2026, publiée au Journal officiel du 28 juillet 2026.",
+      "sources": ["s8", "s6"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2958",
+      "numero": 2958,
+      "date": "2025-07-08",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en première lecture"
+    },
+    {
+      "uid": "VTANR5L17V6317",
+      "numero": 6317,
+      "date": "2026-05-05",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement rétablissant, en seconde délibération, l'allongement de la rétention sous sa forme restreinte (texte de 2026, première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V7405",
+      "numero": 7405,
+      "date": "2026-06-16",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote final sur la loi « sécurité, rétention administrative et prévention des risques d'attentat », qui reprend la mesure sous une forme plus restreinte parmi d'autres dispositions"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2958 (8 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi (maintien en rétention)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51429",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : discussion générale (1er juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/deuxieme-seance-du-mardi-01-juillet-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Conseil constitutionnel — Décision n° 2025-895 DC (7 août 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025895DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi n° 2025-796 (11 août 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052075884",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif « sécurité, rétention administrative et prévention des risques d'attentat »",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Conseil constitutionnel — Décision n° 2026-906 DC, § 120 à 154 (23 juillet 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026906DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Loi n° 2026-667 (27 juillet 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054496919",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 7405 (16 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Texte adopté n° 163 (8 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0163_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Compte rendu de la première séance : seconde délibération de l'article 8 et vote sur l'ensemble (5 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-05-mai-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Texte adopté n° 315 (16 juin 2026, texte définitif)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0315_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 6317 (5 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6317",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote du 8 juillet 2025 (472 votants), sur une proposition de loi déposée au Sénat par une sénatrice Les Républicains. Pour : RN, Droite républicaine, UDR, Horizons, Ensemble pour la République, Les Démocrates, LIOT (19 pour, 1 contre). Contre : LFI-NFP, GDR, Écologiste et social, Socialistes. Le Conseil constitutionnel a été saisi le 18 juillet 2025 par les députés Socialistes et Écologiste et social et, le même jour, par les députés LFI-NFP et GDR. Le 5 mai 2026, sur la mesure seule dans sa version restreinte (scrutin n° 6317), le clivage est le même : pour RN, UDR, Droite républicaine, Horizons, Ensemble pour la République, Les Démocrates ; contre LFI-NFP, GDR, Écologiste et social, Socialistes ; LIOT partagé (2 pour, 2 contre). Le 16 juin 2026, la loi « sécurité, rétention et attentats » a été soutenue par les mêmes groupes, sauf LIOT, partagé (12 pour, 9 abstentions) ; ce texte comporte aussi d'autres mesures (rétention de sûreté pour terrorisme, soins psychiatriques), si bien qu'il n'est affiché qu'à titre d'historique.",
+  "lastVerified": "2026-09-26"
+}

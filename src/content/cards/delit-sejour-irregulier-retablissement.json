@@ -1,0 +1,145 @@
+{
+  "id": "delit-sejour-irregulier-retablissement",
+  "theme": "immigration",
+  "question": "Faut-il rétablir le délit de séjour irrégulier, puni d'une amende pouvant aller jusqu'à 3 750 euros et d'une possible interdiction du territoire, pour les étrangers majeurs sans titre de séjour ?",
+  "explainer": {
+    "title": "C'est quoi, le délit de séjour irrégulier ?",
+    "text": "Jusqu'en 2012, séjourner en France sans titre était un délit puni d'un an de prison et de 3 750 € d'amende, ce qui permettait la garde à vue. La justice européenne (2011) puis la Cour de cassation (juillet 2012) ayant jugé la prison et la garde à vue pour ce seul motif contraires à la priorité donnée au retour, ce délit a été supprimé par une loi du 31 décembre 2012. Il a été remplacé par une « retenue pour vérification du droit au séjour » (16 heures au plus à l'origine, 24 heures aujourd'hui). La justice européenne admet en revanche qu'un séjour irrégulier soit puni d'une simple amende. Aujourd'hui, un étranger en situation irrégulière peut faire l'objet d'une mesure d'éloignement, comme une obligation de quitter le territoire, mais sa seule présence n'est plus une infraction pénale ; l'entrée irrégulière, elle, reste un délit. Le texte proposait une amende, sans prison, et une interdiction du territoire de trois ans en peine complémentaire.",
+    "sources": [
+      "s4",
+      "s7",
+      "s3",
+      "s5"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Entre 2007 et 2012, seules 500 à 600 condamnations par an étaient prononcées pour ce délit, et les interpellations d'étrangers sans titre auraient même augmenté après sa suppression, pour dépasser 145 000 en 2024.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Une amende ne donnerait aucun pouvoir d'enquête de plus que la retenue actuelle (empreintes, photos) ; selon ses opposants, elle occuperait juges et policiers au détriment de la lutte contre les filières et des expulsions.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, beaucoup de personnes perdent leur droit au séjour à cause des retards des préfectures pour renouveler leur titre : le texte punirait une situation administrative plutôt qu'un comportement.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, enfreindre les règles d'entrée et de séjour doit avoir une conséquence claire et dissuasive, alors que seules 15 % environ des obligations de quitter le territoire seraient exécutées.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, une interdiction du territoire prononcée par un juge, inscrite au casier, serait directement exécutable, alors qu'une obligation de quitter le territoire ancienne doit être réexaminée par la préfecture.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    },
+    {
+      "text": "Puni d'une simple amende, sans prison, le délit respecterait le droit européen, comme l'a admis la Cour de justice de l'Union européenne en 2012 ; le Parlement l'avait d'ailleurs voté fin 2023, avant une censure pour raison de procédure.",
+      "sources": [
+        "s4",
+        "s6",
+        "s5"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques de suppression de l'article unique d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant au rétablissement du délit de séjour irrégulier",
+    "summary": "L'article unique prévoyait de punir d'une amende pouvant aller jusqu'à 3 750 € tout étranger de plus de 18 ans séjournant en France au-delà de la durée de son visa ou sans titre de séjour, avec une possible peine complémentaire de trois ans d'interdiction du territoire. La commission des lois avait rejeté le texte (rapport n° 1987 du 22 octobre 2025). En séance, le 30 octobre 2025, sept amendements identiques ont supprimé cet article : voter « pour » ces amendements revenait à refuser le rétablissement du délit.",
+    "sources": [
+      "s5",
+      "s2",
+      "s3"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-10-30",
+      "label": "Retrait du texte",
+      "text": "Son article unique ayant été supprimé, l'auteure retire la proposition de loi au cours de la séance, comme le permet le Règlement de l'Assemblée. Le texte s'arrête là, sans examen au Sénat : le délit de séjour irrégulier n'est pas rétabli.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3261",
+      "numero": 3261,
+      "date": "2025-10-30",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements identiques supprimant l'article unique, c'est-à-dire le rétablissement du délit de séjour irrégulier"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3261 (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3261",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retablissement_du_delit_de_sejour_irregulier_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : examen de l'article unique (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-30-octobre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : présentation du texte et discussion générale (30 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-30-octobre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Proposition de loi n° 1839 (texte et exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1839_proposition-loi.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Décision n° 2023-863 DC, § 83 à 86 (25 janvier 2024)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2024/2023863DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2012-1560 relative à la retenue pour vérification du droit au séjour (31 décembre 2012)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026871211",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du 30 octobre 2025 (379 votants), lors de la journée réservée au groupe RN, qui avait déposé le texte. Pour la suppression, donc contre le délit : LFI-NFP, GDR, Écologiste et social, Socialistes, Ensemble pour la République, Les Démocrates (11 pour, 1 contre). Contre la suppression, donc pour le délit : RN, UDR, Droite républicaine, Horizons (4 contre, 1 pour), ainsi que 2 non-inscrits. LIOT a très peu participé (1 contre, 1 abstention). Même vote, motivations en partie différentes : le Gouvernement a jugé la mesure conforme au droit européen mais inefficace ; Ensemble pour la République et Les Démocrates ont surtout mis en avant son inefficacité (un député Ensemble pour la République l'a aussi jugée contraire aux principes européens), Les Démocrates y ajoutant une opposition de principe ; les groupes de gauche l'ont jugée à la fois inutile, contraire au droit européen et stigmatisante pour les étrangers. Lors du débat, des députés RN ont rappelé que de nombreux députés du groupe présidentiel avaient voté, fin 2023, la loi immigration qui contenait ce délit.",
+  "lastVerified": "2026-09-26"
+}

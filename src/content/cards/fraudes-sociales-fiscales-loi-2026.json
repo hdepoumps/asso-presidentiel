@@ -1,0 +1,162 @@
+{
+  "id": "fraudes-sociales-fiscales-loi-2026",
+  "theme": "social",
+  "question": "Faut-il adopter la loi contre les fraudes sociales et fiscales : accès élargi des contrôleurs aux données, allocations suspendues sur indices sérieux, avoirs gelés en cas de travail dissimulé ?",
+  "explainer": {
+    "title": "Que contient cette loi ?",
+    "text": "La loi compte 115 articles, dont trois censurés. Pour les allocations : quand des contrôleurs ont réuni plusieurs indices sérieux de fraude, les caisses de sécurité sociale (deux mois au plus) et France Travail (trois mois au plus) pourront suspendre provisoirement un versement, le temps de vérifier ; les contrôleurs pourront accéder à davantage de données (patrimoine, données de connexion) ; les allocations chômage devront être versées sur un compte en France ou dans l'espace européen de paiement en euros (SEPA). Pour les entreprises et les impôts : gel rapide des avoirs d'une entreprise prise en flagrant délit de travail dissimulé (« flagrance sociale »), déclarations renforcées pour les trusts (structures qui gèrent des biens pour le compte d'autres personnes), saisie directe par le Trésor public de cryptomonnaies détenues chez des intermédiaires, garde à vue jusqu'à 96 heures pour les fraudes les plus graves. Beaucoup de ces mesures attendent encore leurs décrets d'application.",
+    "sources": ["s3", "s2", "s4"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le texte vise surtout les allocataires alors que la fraude fiscale, estimée entre 80 et 100 milliards d'euros par an, coûte bien plus ; des mesures contre l'optimisation fiscale des multinationales ont été rejetées.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses opposants, une allocation pourrait être suspendue sur de simples soupçons, avant toute condamnation, privant des ménages de ressources essentielles ; le droit à l'erreur serait mal protégé.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses opposants, élargir les échanges de données, y compris de santé avec les mutuelles et assureurs complémentaires, menacerait la vie privée et multiplierait les risques de fuite, alors que les fuites de données publiques se répètent.",
+      "sources": ["s2", "s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la fraude sociale coûte au moins 13 milliards d'euros par an, mais seuls 2,9 milliards ont été détectés en 2024 et 900 millions récupérés : mieux croiser les données permettrait d'en récupérer davantage.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon le Gouvernement, 64 % des montants de la fraude sociale viennent de fraudes aux cotisations d'entreprises : la loi permet de geler vite leurs avoirs et renforce les outils contre la fraude fiscale (trusts, cryptoactifs).",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses défenseurs, la suspension est encadrée : décision motivée, possibilité de s'expliquer sous deux semaines et de saisir le juge, deux ou trois mois au plus, et un minimum égal au RSA préservé pour les chômeurs.",
+      "sources": ["s3", "s2"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Projet de loi, vote sur le texte de la commission mixte paritaire",
+    "textTitle": "Projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
+    "summary": "Projet de loi déposé au Sénat le 14 octobre 2025 avec 27 articles, porté à 115 articles au fil des débats. Le vote porte sur le texte de compromis établi par sept députés et sept sénateurs (commission mixte paritaire) ; l'Assemblée avait adopté le texte en première lecture le 7 avril 2026 par 363 voix contre 194.",
+    "sources": ["s4", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-18",
+      "label": "Sénat",
+      "text": "Le Sénat, saisi en premier, adopte le projet de loi en première lecture.",
+      "sources": ["s4"]
+    },
+    {
+      "date": "2026-04-07",
+      "label": "Assemblée nationale",
+      "text": "L'Assemblée adopte le texte modifié en première lecture, par 363 voix contre 194.",
+      "sources": ["s4", "s7"]
+    },
+    {
+      "date": "2026-04-28",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "date": "2026-05-11",
+      "label": "Adoption définitive",
+      "text": "Le Sénat adopte à son tour le texte de compromis, par 244 voix contre 99.",
+      "sources": ["s5"]
+    },
+    {
+      "date": "2026-06-18",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi les 18 et 19 mai par plus de soixante députés et plus de soixante sénateurs, le Conseil valide pour l'essentiel les dispositions contestées (décision n° 2026-904 DC), dont les deux suspensions conservatoires : trois mois pour France Travail, avec un minimum de ressources égal au RSA ; deux mois pour les caisses de sécurité sociale, sous réserve de préserver la prise en charge des soins essentiels. Autres réserves : France Travail ne pourra exploiter les données de connexion qu'en cas d'indices sérieux de fraude, et le remboursement des sommes indues devra laisser des moyens convenables d'existence. Sont censurés, faute de garanties, le recours à un intermédiaire pour les échanges de données de santé avec les complémentaires, ainsi que trois articles sans lien avec le texte initial (expertise comptable, identification des associations, transmission d'informations du parquet financier aux services de renseignement). Le Conseil ne s'est pas prononcé sur les autres articles.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "date": "2026-06-25",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-534 du 25 juin 2026, publiée au Journal officiel du 26 juin 2026.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2026-09",
+      "label": "Application",
+      "text": "Au 26 septembre 2026, aucun des décrets d'application n'est publié (78 mesures attendues selon le baromètre de l'Assemblée nationale). Selon l'échéancier du Gouvernement, ceux qui encadrent la suspension des allocations sont prévus pour décembre 2026 (France Travail) et avril 2027 (caisses de sécurité sociale) ; la flagrance sociale entrera en vigueur à une date fixée par décret, au plus tard le 1er janvier 2027.",
+      "sources": ["s4", "s8"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V6319",
+      "numero": 6319,
+      "date": "2026-05-05",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire"
+    },
+    {
+      "uid": "VTANR5L17V6023",
+      "numero": 6023,
+      "date": "2026-04-07",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du projet de loi en première lecture"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 6319 (5 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6319",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la séance : texte de la commission mixte paritaire (5 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N220",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Conseil constitutionnel — Décision n° 2026-904 DC (18 juin 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026904DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi relatif à la lutte contre les fraudes sociales et fiscales",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52985",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — La loi en clair : lutte contre les fraudes sociales et fiscales",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-relatif-a-la-lutte-contre-les-fraudes-sociales-et-fiscales.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Légifrance — Loi n° 2026-534 relative à la lutte contre les fraudes sociales et fiscales (25 juin 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054309429",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 6023 (7 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6023",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Vie publique — Loi n° 2026-534 : échéancier de mise en application (mis à jour le 11 août 2026)",
+      "url": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000052390061?detailType=CONTENU&detailId=2",
+      "kind": "officiel"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Texte large (115 articles) : ce vote d'ensemble mesure l'adhésion à l'approche globale plutôt qu'à une mesure isolée ; les votes sur les articles, trop peu fréquentés (souvent moins de 70 votants), n'ont pas été retenus. Pour : EPR, Les Démocrates, Horizons, Droite républicaine, UDR et RN ; le RN jugeait toutefois le texte insuffisant et promettait d'« aller plus loin ». Contre : LFI-NFP, GDR, Écologiste et social et Socialistes, qui jugeaient le texte tourné contre les allocataires et trop faible sur la fraude fiscale ; leurs députés et sénateurs ont saisi le Conseil constitutionnel. LIOT s'est partagé (10 pour, 7 contre, 4 abstentions). Mêmes positions en première lecture (scrutin n° 6023, 7 avril 2026), sauf LIOT, alors majoritairement pour (13 pour, 1 contre, 8 abstentions).",
+  "lastVerified": "2026-09-26"
+}

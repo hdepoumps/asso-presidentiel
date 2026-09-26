@@ -1,0 +1,14 @@
+node_modules
+dist
+dev-dist
+data-raw/*.zip
+data-raw/index.json
+data-raw/deputes.json
+*.local
+.DS_Store
+coverage
+android/app/build
+android/.gradle
+ios/App/Pods
+release/
+.claude/settings.local.json

@@ -1,0 +1,103 @@
+{
+  "bords": [
+    {
+      "id": "gauche",
+      "name": "Gauche",
+      "description": "Groupes issus de l'alliance du Nouveau Front populaire aux législatives de 2024 : La France insoumise, Gauche démocrate et républicaine, Écologiste et social, Socialistes."
+    },
+    {
+      "id": "centre",
+      "name": "Bloc central",
+      "description": "Groupes issus de la coalition Ensemble aux législatives de 2024 : Ensemble pour la République, Les Démocrates, Horizons."
+    },
+    {
+      "id": "droite",
+      "name": "Droite républicaine",
+      "description": "Groupe Droite républicaine, formé par les députés Les Républicains."
+    },
+    {
+      "id": "rn",
+      "name": "RN et alliés",
+      "description": "Rassemblement national et Union des droites pour la République, alliés aux législatives de 2024."
+    }
+  ],
+  "groups": [
+    {
+      "id": "LFI",
+      "organeRefs": ["PO845413"],
+      "name": "La France insoumise – Nouveau Front populaire",
+      "short": "LFI-NFP",
+      "bord": "gauche"
+    },
+    {
+      "id": "GDR",
+      "organeRefs": ["PO845514"],
+      "name": "Gauche démocrate et républicaine",
+      "short": "GDR",
+      "bord": "gauche"
+    },
+    {
+      "id": "ECOS",
+      "organeRefs": ["PO845439"],
+      "name": "Écologiste et social",
+      "short": "EcoS",
+      "bord": "gauche"
+    },
+    {
+      "id": "SOC",
+      "organeRefs": ["PO845419"],
+      "name": "Socialistes et apparentés",
+      "short": "SOC",
+      "bord": "gauche"
+    },
+    {
+      "id": "LIOT",
+      "organeRefs": ["PO845485"],
+      "name": "Libertés, indépendants, outre-mer et territoires",
+      "short": "LIOT",
+      "bord": null
+    },
+    {
+      "id": "DEM",
+      "organeRefs": ["PO845454"],
+      "name": "Les Démocrates",
+      "short": "Dem",
+      "bord": "centre"
+    },
+    {
+      "id": "EPR",
+      "organeRefs": ["PO845407"],
+      "name": "Ensemble pour la République",
+      "short": "EPR",
+      "bord": "centre"
+    },
+    {
+      "id": "HOR",
+      "organeRefs": ["PO845470"],
+      "name": "Horizons & indépendants",
+      "short": "HOR",
+      "bord": "centre"
+    },
+    {
+      "id": "DR",
+      "organeRefs": ["PO845425"],
+      "name": "Droite républicaine",
+      "short": "DR",
+      "bord": "droite"
+    },
+    {
+      "id": "UDR",
+      "organeRefs": ["PO847173", "PO872880"],
+      "name": "Union des droites pour la République",
+      "short": "UDR",
+      "bord": "rn"
+    },
+    {
+      "id": "RN",
+      "organeRefs": ["PO845401"],
+      "name": "Rassemblement national",
+      "short": "RN",
+      "bord": "rn"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "nationalite-mayotte-droit-du-sol",
+  "theme": "immigration",
+  "question": "Faut-il exiger, pour qu'un enfant né à Mayotte de parents étrangers devienne français, que ses deux parents, et non plus un seul, résident légalement en France depuis plus d'un an à sa naissance ?",
+  "explainer": {
+    "title": "C'est quoi, le droit du sol à Mayotte ?",
+    "text": "En France, un enfant né sur le sol français de parents étrangers devient français à 18 ans, ou dès 13 ou 16 ans sur demande, s'il a vécu en France au moins cinq ans depuis l'âge de 8 ou 11 ans selon le cas. À Mayotte, une règle particulière s'applique depuis une loi de 2018 : ce n'est possible que si, à la naissance de l'enfant, l'un de ses parents au moins résidait en France de façon régulière depuis plus de trois mois. La loi votée en 2025 exige désormais que ce soit le cas des deux parents, depuis plus d'un an. Pour faire inscrire cette résidence sur l'acte de naissance, ce qui facilite la preuve, le parent doit présenter un titre de séjour et un passeport biométrique. Si la filiation n'est établie qu'avec un seul parent (par exemple, un père qui n'a pas reconnu l'enfant), la condition ne porte que sur ce parent.",
+    "sources": [
+      "s4",
+      "s7"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, on viendrait à Mayotte pour survivre, pas pour la nationalité : la restriction de 2018 n'a pas endigué la pression migratoire, et les naissances de mères étrangères auraient crû de 14 % de 2018 à 2022.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, un droit de la nationalité à part pour un seul département romprait l'égalité entre territoires et l'indivisibilité de la République, et laisserait étrangers des enfants nés et élevés à Mayotte.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Exiger les deux parents pousserait des pères sans titre à ne pas reconnaître l'enfant, ou favoriserait les fausses reconnaissances ; et le passeport biométrique, que certains pays ne délivrent pas, compliquerait la preuve.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Mayotte connaît une forte pression migratoire : environ la moitié de ses quelque 320 000 habitants seraient étrangers et, sur les 10 770 enfants nés en 2022, trois sur quatre avaient une mère étrangère.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la perspective de la nationalité attire l'immigration irrégulière ; exiger un séjour régulier des deux parents limiterait aussi les fausses reconnaissances de paternité, parfois monnayées.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "L'article 73 de la Constitution permet d'adapter la loi aux contraintes des outre-mer ; le Conseil constitutionnel avait validé la règle de 2018 et, selon ses défenseurs, une durée d'un an resterait proportionnée.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, vote sur le texte de la commission mixte paritaire",
+    "textTitle": "Proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte",
+    "summary": "En première lecture, le 6 février 2025, l'Assemblée avait exigé trois ans de résidence régulière des deux parents et un passeport biométrique pour inscrire cette résidence sur l'acte de naissance. Le 25 mars 2025, le Sénat a ramené la durée à un an, en ne l'exigeant que d'un parent comme depuis 2018, et a supprimé le passeport. La commission mixte paritaire (7 députés et 7 sénateurs chargés de trouver un texte commun) a retenu un an pour les deux parents (ou pour le seul parent à l'égard duquel la filiation est établie) et a rétabli le titre de séjour accompagné d'un passeport biométrique. Le Sénat a adopté ce compromis le 3 avril 2025, l'Assemblée le 8 avril.",
+    "sources": [
+      "s2",
+      "s5",
+      "s10",
+      "s3"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-05-07",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-881 DC : la loi est jugée conforme à la Constitution, l'article 73 permettant d'adapter le droit de la nationalité à la situation migratoire particulière de Mayotte. Le Conseil refuse aussi de reconnaître un principe constitutionnel qui garantirait à toute personne née en France l'accès à la nationalité « sans restriction » : les lois de 1889 et de 1927 sur le droit du sol répondaient notamment aux besoins de la conscription. Réserve d'interprétation : le passeport biométrique ne peut pas être exigé des ressortissants de pays qui n'en délivrent pas, qui peuvent produire une autre pièce d'identité.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-05-12",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-412 du 12 mai 2025, publiée au Journal officiel le 13 mai et en vigueur depuis le 14 mai 2025 : elle modifie les articles 2493 et 2495 du code civil. Elle s'applique directement, sans décret d'application.",
+      "sources": [
+        "s7",
+        "s12",
+        "s11"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1308",
+      "numero": 1308,
+      "date": "2025-04-08",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire (un an de résidence régulière des deux parents)"
+    },
+    {
+      "uid": "VTANR5L17V738",
+      "numero": 738,
+      "date": "2025-02-06",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte en première lecture (version exigeant trois ans de résidence régulière des deux parents et un passeport biométrique)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1308 (8 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_conditions_acces_nationalite_francaise_mayotte",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : texte de la commission mixte paritaire (8 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-08-avril-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Conseil constitutionnel — Décision n° 2025-881 DC (7 mai 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025881DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Rapport n° 466 (2024-2025) de la commission des lois, première lecture (19 mars 2025)",
+      "url": "https://www.senat.fr/rap/l24-466/l24-466_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Communiqué de presse sur la décision n° 2025-881 DC (7 mai 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-881-dc-du-7-mai-2025-communique-de-presse",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2025-412 visant à renforcer les conditions d'accès à la nationalité française à Mayotte (12 mai 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051582188",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 738 (6 février 2025, première lecture)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/738",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Texte n° 92 (2024-2025) modifié par le Sénat (25 mars 2025)",
+      "url": "https://www.senat.fr/leg/tas24-092.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Contrôle de l'application de la loi n° 2025-412 du 12 mai 2025",
+      "url": "https://www.senat.fr/application-des-lois/ppl24-315.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Code civil, articles 2493 à 2495 (version en vigueur depuis le 14 mai 2025)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006118228/",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du 8 avril 2025 (524 votants), sur une proposition de loi déposée par un député Droite républicaine et cosignée par la quasi-totalité de son groupe. Pour : RN, Droite républicaine, UDR, Horizons, Ensemble pour la République, LIOT et Les Démocrates (très majoritairement). Contre : LFI-NFP, GDR, Écologiste et social, Socialistes (3 abstentions). En première lecture (6 février 2025, version à trois ans), Les Démocrates étaient divisés (8 pour, 2 contre, 3 abstentions). Lors du débat, les orateurs RN et UDR ont jugé le texte insuffisant et plaidé pour la suppression du droit du sol partout en France. Le Conseil constitutionnel a été saisi à trois reprises : par plus de soixante députés LFI-NFP (10 avril 2025), par plus de soixante députés Socialistes et Écologiste et social (14 avril) et par plus de soixante sénateurs socialistes, communistes et écologistes (16 avril).",
+  "lastVerified": "2026-09-26"
+}

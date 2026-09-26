@@ -1,0 +1,207 @@
+{
+  "id": "franchises-medicales-dentiste-dispositifs",
+  "theme": "sante",
+  "question": "Faut-il étendre les franchises médicales, ces sommes forfaitaires laissées à la charge des patients, aux soins chez le dentiste et aux dispositifs médicaux (pansements, béquilles…) ?",
+  "explainer": {
+    "title": "C'est quoi, une franchise médicale ?",
+    "text": "On appelle couramment ainsi des sommes forfaitaires laissées à la charge des patients, que les complémentaires santé dites « responsables », qui couvrent 93 % de la population, n'ont pas le droit de rembourser. Au moment du vote, on payait 2 € de « participation forfaitaire » par consultation ou acte médical, 1 € de « franchise » par boîte de médicament ou acte paramédical et 4 € par transport sanitaire, dans la limite de 50 € par an pour chacun des deux mécanismes. Environ un tiers des assurés en sont exonérés : moins de 18 ans, bénéficiaires de la complémentaire santé solidaire, femmes enceintes à partir du 6e mois… Les soins chez le dentiste et les dispositifs médicaux (pansements, béquilles, orthèses…) en étaient exclus. Le même article créait aussi un plafond annuel séparé pour les franchises sur les transports sanitaires.",
+    "sources": ["s2", "s3", "s4"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, ces nouvelles franchises pèseraient surtout sur les malades chroniques, les personnes âgées ou handicapées, qui cumulent soins et dispositifs médicaux, et pousseraient des ménages modestes à renoncer à se soigner.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Les soins dentaires sont parmi ceux auxquels on renonce le plus pour raisons financières ; selon eux, freiner les visites chez le dentiste nuirait à la prévention, et rien n'indiquerait que les patients y vont trop.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Pour eux, les franchises font payer les malades au lieu de répartir l'effort selon les moyens de chacun, et leur montant a déjà doublé en 2024.",
+      "sources": ["s3", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la France garde l'un des restes à charge les plus faibles au monde : environ 9 % des dépenses de santé payées directement par les patients, contre 18 % en moyenne dans les pays de l'OCDE.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Un tiers des assurés, dont les plus modestes, resteraient exonérés : selon eux, demander un effort à ceux qui le peuvent les responsabiliserait et aiderait à préserver l'Assurance maladie pour les plus fragiles.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Rien ne justifierait, selon ses défenseurs, que les soins dentaires et les dispositifs médicaux échappent aux règles déjà appliquées aux consultations et aux médicaments.",
+      "sources": ["s2"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article du projet de loi de financement de la sécurité sociale pour 2026, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "L'article 18 du projet du Gouvernement créait ces deux nouvelles participations, ajoutait un plafond annuel distinct pour les franchises sur les transports sanitaires et permettait qu'un décret organise leur paiement directement auprès du professionnel de santé ; ces mesures devaient entrer en vigueur au plus tard le 1er janvier 2027. Déjà rejeté en commission des affaires sociales, l'article a été supprimé en séance : voter pour au scrutin revenait à refuser la mesure. L'Assemblée n'ayant pas achevé sa première lecture dans le délai prévu, le Gouvernement a transmis le texte au Sénat en conservant cette suppression. Le doublement des montants et des plafonds des franchises et participations existantes, annoncé en parallèle, relevait d'un décret et n'était pas soumis à ce vote.",
+    "sources": ["s2", "s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-15",
+      "label": "Sénat (commission)",
+      "text": "La commission des affaires sociales du Sénat propose de maintenir la suppression de l'article, jugeant notamment inopportun de freiner l'accès aux soins dentaires.",
+      "sources": ["s4"]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le projet en première lecture sans rétablir l'article : l'extension des franchises reste supprimée. Le même jour, la commission mixte paritaire, chargée de trouver un texte commun aux deux assemblées, échoue.",
+      "sources": ["s10", "s11"]
+    },
+    {
+      "date": "2025-12-05",
+      "label": "Gouvernement",
+      "text": "Après avoir déclaré la veille à l'Assemblée qu'il ne passerait « pas en force » sur les franchises, le Gouvernement renonce à doubler par décret les franchises et participations forfaitaires en 2026.",
+      "sources": ["s7", "s12"]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après une nouvelle lecture (Assemblée le 9 décembre, rejet par le Sénat le 12 décembre), l'Assemblée adopte définitivement le texte. L'article n'a été rétabli à aucune étape.",
+      "sources": ["s10", "s13"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-1403 du 30 décembre 2025, après la décision n° 2025-899 DC du Conseil constitutionnel (censure partielle d'articles sans lien avec les franchises) : l'extension des franchises aux soins dentaires et aux dispositifs médicaux n'y figure pas.",
+      "sources": ["s5", "s6", "s9"]
+    },
+    {
+      "date": "2026-08-21",
+      "label": "Décrets",
+      "text": "Par deux décrets, des décisions du Gouvernement qui ne passent pas par un vote du Parlement, la part des soins dentaires courants et de nombreux dispositifs médicaux que l'Assurance maladie ne rembourse pas (le « ticket modérateur ») sera fixée entre 50 et 60 % à partir du 1er janvier 2027, contre 35 à 50 % auparavant. Il ne s'agit pas de franchises : cette part est en principe prise en charge par les complémentaires santé, et les patients en affection de longue durée comme les bénéficiaires de la complémentaire santé solidaire restent protégés.",
+      "sources": ["s14", "s15", "s17"]
+    },
+    {
+      "date": "2026-09-11",
+      "label": "Décret",
+      "text": "Après avoir envisagé en juillet de doubler les plafonds annuels, le Gouvernement les relève par décret de 50 à 70 € à partir du 1er octobre 2026, pour tenir compte de l'inflation depuis 2005 : 70 € pour les franchises et 70 € pour les participations forfaitaires, soit 140 € au total. Les montants unitaires ne changent pas ; les plafonds suivront l'inflation à partir de 2028.",
+      "sources": ["s8", "s16"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3598",
+      "numero": 3598,
+      "date": "2025-11-08",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements supprimant l'article 18 (extension des franchises et participations forfaitaires aux soins dentaires et aux dispositifs médicaux)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3598 (8 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3598",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Projet de loi de financement de la sécurité sociale pour 2026, n° 1907 (article 18 et exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B1907.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'article 18 (8 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N041",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — Rapport n° 131 (2025-2026) de la commission des affaires sociales, examen des articles (15 novembre 2025)",
+      "url": "https://www.senat.fr/rap/l25-131-22/l25-131-220.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi n° 2025-1403 de financement de la sécurité sociale pour 2026 (30 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053226384",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Caducée.net — PLFSS 2026 : le Gouvernement renonce au doublement des franchises médicales (7 décembre 2025)",
+      "url": "https://www.caducee.net/actualite-medicale/16714/plfss-2026-le-gouvernement-renonce-au-doublement-des-franchises-medicales.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Décret n° 2026-858 relatif à la participation annuelle maximale des assurés aux frais de santé (11 septembre 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054833929",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — La loi en clair : projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "L'Information dentaire — PLFSS 2026 : profondément remanié au Sénat, le texte revient à l'Assemblée nationale (1er décembre 2025)",
+      "url": "https://www.information-dentaire.fr/actualites/plfss-2026-profondement-remanie-au-senat-le-texte-revient-a-l-assemblee-nationale/",
+      "kind": "presse"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : nouvelle lecture (4 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N081",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "L'Information dentaire — Le PLFSS 2026 approuvé à l'Assemblée nationale, les mesures qui fâchent à la trappe (11 décembre 2025)",
+      "url": "https://www.information-dentaire.fr/actualites/le-plfss-2026-approuve-a-l-assemblee-nationale-les-mesures-qui-fachent-a-la-trappe/",
+      "kind": "presse"
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Décret n° 2026-809, prise en charge des soins dentaires (21 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733581",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Légifrance — Décret n° 2026-810, prise en charge de certains dispositifs médicaux (21 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054733591",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Vidal — Franchises médicales : le plafond annuel passe à 140 euros le 1er octobre (12 septembre 2026)",
+      "url": "https://www.vidal.fr/actualites/38296-franchises-medicales-le-plafond-annuel-passe-a-140-euros-le-1er-octobre.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s17",
+      "label": "Caducée.net — Déremboursements en 2027 : les nouvelles bornes sont fixées, les taux restent à décider (9 septembre 2026)",
+      "url": "https://www.caducee.net/actualite-medicale/16954/deremboursements-en-2027-les-nouvelles-bornes-sont-fixees-les-taux-restent-a-decider.html",
+      "kind": "presse"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Attention au sens : le scrutin portait sur la suppression de l'article, donc « pour » au scrutin = contre l'extension des franchises. Pour la suppression : RN (72 voix), LFI-NFP, Socialistes, Écologiste et social, GDR, LIOT et UDR (unanimes), Droite républicaine (11 pour, 2 abstentions). Contre la suppression, donc pour l'extension : Horizons (13 contre, 2 abstentions), avec le Gouvernement. Ensemble pour la République s'est surtout abstenu (23 abstentions, 4 contre, 3 pour) ; Les Démocrates se sont partagés (3 pour, 6 contre, 6 abstentions). Ces deux groupes avaient annoncé leur abstention, en exprimant des doutes sur les soins visés et sur le paiement au comptoir (Ensemble pour la République) ou sur une franchise chez le dentiste (Les Démocrates). Même vote, motivations en partie différentes : défense de l'universalité de l'Assurance maladie et refus d'un transfert du financement vers les assurés pour les groupes de gauche, refus de faire payer des Français qui cotisent déjà pour le RN, reste à charge des malades chroniques et prévention pour la Droite républicaine, poids sur les personnes âgées, handicapées ou malades chroniques pour LIOT. La commission avait rejeté l'article ; le rapporteur général s'en est remis à la « sagesse » de l'Assemblée. Les hausses décidées en 2026 (plafonds des franchises, ticket modérateur) l'ont été par décret, sans vote du Parlement.",
+  "lastVerified": "2026-09-26"
+}

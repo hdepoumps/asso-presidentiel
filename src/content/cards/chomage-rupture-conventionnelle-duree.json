@@ -1,0 +1,169 @@
+{
+  "id": "chomage-rupture-conventionnelle-duree",
+  "theme": "travail",
+  "question": "Faut-il réduire la durée maximale d'indemnisation chômage des salariés dont le contrat prend fin par une rupture conventionnelle (15 mois au lieu de 18 avant 55 ans) ?",
+  "explainer": {
+    "title": "C'est quoi, une rupture conventionnelle ?",
+    "text": "Créée en 2008, la rupture conventionnelle permet à un employeur et à un salarié en CDI de mettre fin au contrat d'un commun accord. Contrairement à une démission, elle donne droit à une indemnité de départ et à l'assurance chômage, dans les mêmes conditions qu'un licenciement jusqu'au 1er septembre 2026. Environ 515 000 ruptures conventionnelles ont été signées en 2024.",
+    "sources": ["s4", "s2", "s6"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, une rupture conventionnelle serait souvent un licenciement déguisé ou l'issue d'une relation de travail dégradée : réduire les droits pénaliserait les salariés, sans rien changer pour les employeurs qui y recourent.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Les demandeurs d'emploi de 57 ans et plus, qui retrouvent difficilement du travail, perdraient jusqu'à six mois et demi d'indemnisation, soit environ un quart de leurs droits.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses opposants, l'accord a été signé sous la menace de coupes plus lourdes envisagées par l'État, et deux syndicats l'ont refusé ; le déficit du régime viendrait surtout des 12 milliards d'euros prélevés par l'État depuis 2023.",
+      "sources": ["s2", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Le texte applique un accord signé par les trois organisations patronales et trois syndicats de salariés : selon ses défenseurs, le Parlement doit respecter l'équilibre trouvé par ceux qui connaissent le mieux le monde du travail.",
+      "sources": ["s2", "s4"]
+    },
+    {
+      "text": "En 2024, les ruptures conventionnelles pesaient 26 % des dépenses d'allocations pour 19 % des nouveaux indemnisés. Selon ses défenseurs, un départ le plus souvent négocié n'a pas à être indemnisé comme un licenciement.",
+      "sources": ["s4", "s2"]
+    },
+    {
+      "text": "Selon le Gouvernement, la mesure économiserait jusqu'à 800 millions d'euros par an à l'horizon 2029 et permettrait 15 000 retours à l'emploi de plus chaque année. Les 55 ans et plus pourront demander une prolongation de leurs droits.",
+      "sources": ["s2", "s4"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Projet de loi, vote sur l'ensemble en deuxième lecture (adoption définitive)",
+    "textTitle": "Projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage",
+    "summary": "Texte d'un article unique qui autorise à moduler la durée d'indemnisation selon le mode de rupture du contrat, pour appliquer l'avenant du 25 février 2026, signé par les trois organisations patronales et trois des cinq syndicats représentatifs. Après une rupture conventionnelle, la durée maximale passe à 15 mois avant 55 ans (au lieu de 18) et à 20,5 mois à partir de 55 ans (au lieu de 22,5 à 27 mois selon l'âge), avec des durées plus longues outre-mer. À partir de 55 ans, une prolongation peut être demandée, sous réserve de démarches effectives de retour à l'emploi.",
+    "sources": ["s4", "s6", "s2"]
+  },
+  "suite": [
+    {
+      "date": "2026-04-01",
+      "label": "Sénat",
+      "text": "Le Sénat, saisi en premier, adopte le projet de loi.",
+      "sources": ["s5", "s7"]
+    },
+    {
+      "date": "2026-04-16",
+      "label": "Assemblée nationale",
+      "text": "En première lecture, les députés suppriment l'article unique : le texte est rejeté.",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Sénat",
+      "text": "Le Sénat adopte de nouveau le texte, sans modification, en deuxième lecture.",
+      "sources": ["s7", "s2"]
+    },
+    {
+      "date": "2026-05-26",
+      "label": "Assemblée nationale",
+      "text": "En deuxième lecture, les députés rejettent les amendements de suppression et adoptent l'article unique (186 voix contre 60) ; le vote sur l'ensemble est fixé au 2 juin.",
+      "sources": ["s2"]
+    },
+    {
+      "date": "2026-06-02",
+      "label": "Adoption définitive",
+      "text": "L'Assemblée adopte le texte dans les mêmes termes que le Sénat, ce qui vaut adoption définitive.",
+      "sources": ["s7", "s5"]
+    },
+    {
+      "date": "2026-06-11",
+      "label": "Promulgation",
+      "text": "Le Conseil constitutionnel n'ayant pas été saisi, la loi n° 2026-470 du 11 juin 2026 est promulguée et publiée au Journal officiel du 12 juin 2026.",
+      "sources": ["s5", "s7"]
+    },
+    {
+      "date": "2026-09-01",
+      "label": "Entrée en vigueur",
+      "text": "La loi n'appelle pas de décret d'application : un arrêté du 19 juin 2026 (Journal officiel du 23 juin) agrée l'avenant qui modifie la convention d'assurance chômage en conséquence. Les nouvelles durées s'appliquent aux salariés dont le contrat est rompu à partir du 1er septembre 2026 (hors Mayotte).",
+      "sources": ["s9", "s7", "s6"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7260",
+      "numero": 7260,
+      "date": "2026-06-02",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du projet de loi en deuxième lecture (adoption définitive)"
+    },
+    {
+      "uid": "VTANR5L17V6283",
+      "numero": 6283,
+      "date": "2026-04-16",
+      "role": "historique",
+      "sens": -1,
+      "label": "Suppression de l'article unique en première lecture (rejet du texte)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7260 (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7260",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la séance : discussion en deuxième lecture (26 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N246",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la séance : explications de vote et vote solennel (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — Rapport de la commission des affaires sociales sur le projet de loi (n° 488, 2025-2026)",
+      "url": "https://www.senat.fr/rap/l25-488/l25-488_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi n° 2026-470 portant transposition de l'avenant n° 3 relatif à l'assurance chômage (11 juin 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054237287",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Service-public.fr — Rupture conventionnelle : ce qui change au 1er septembre 2026 (mis à jour le 2 septembre 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18945",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 6283 (16 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6283",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Arrêté du 19 juin 2026 portant agrément de l'avenant n° 2 du 10 avril 2026 à la convention d'assurance chômage (JO du 23 juin 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054297458",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Pour : RN, UDR, Droite républicaine, EPR, Les Démocrates, Horizons et LIOT (19 pour, 2 contre). Contre : LFI-NFP, GDR et Écologiste et social. Le groupe socialiste s'est divisé : 37 abstentions, 18 voix contre et 1 pour. Il conteste le fond (réduction des droits, notamment des seniors) mais a revendiqué une « abstention de responsabilité », pour ne pas laisser le Gouvernement durcir seul les règles. En première lecture, le 16 avril 2026, l'article unique avait été supprimé par 77 voix contre 32, avec 8 abstentions socialistes (scrutin n° 6283), ce qui a entraîné le rejet du texte, dans un hémicycle presque vide : la plupart des groupes favorables étaient peu présents, d'où l'intérêt du vote solennel du 2 juin (504 votants). Absent n'est pas neutre.",
+  "lastVerified": "2026-09-26"
+}

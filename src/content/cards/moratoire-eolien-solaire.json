@@ -1,0 +1,214 @@
+{
+  "id": "moratoire-eolien-solaire",
+  "theme": "energie",
+  "question": "Faut-il suspendre tout nouveau projet d'éoliennes ou de panneaux photovoltaïques jusqu'à une étude indépendante sur le « mix énergétique optimal », sans renouvellement des parcs existants ?",
+  "explainer": {
+    "title": "Que prévoyait cette suspension ?",
+    "text": "Le « mix énergétique », c'est la part de chaque source (nucléaire, barrages, éolien, solaire, gaz…) dans la production d'énergie. La mesure gelait, dès la promulgation de la loi, l'instruction, l'autorisation et la mise en service de tout nouveau projet d'éoliennes, sur terre comme en mer, et de panneaux solaires produisant de l'électricité (photovoltaïques), sauf ceux déjà autorisés. Aucune demande d'autorisation, de permis ou de raccordement ne pouvait être déposée tant que l'étude n'était pas réalisée, sans durée fixée et sans préciser qui la réaliserait. Les installations existantes pouvaient fonctionner jusqu'au terme de leur autorisation, mais sans renouvellement ni extension.",
+    "sources": [
+      "s2"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, tous les scénarios du gestionnaire du réseau électrique (RTE) exigent une forte hausse de l'éolien et du solaire pour gagner en souveraineté, alors que l'énergie importée pèse deux tiers du déficit commercial.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Le gel frapperait les entreprises et les salariés de la filière, des fabricants de panneaux aux équipes de raccordement, et les parcs existants ne pourraient pas être renouvelés en fin d'autorisation.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, le coût de l'éolien a fortement baissé (Cour des comptes, 2023) et il a rapporté de l'argent à l'État pendant la flambée des prix ; une étude de RTE sur les coûts, associant des parlementaires, était déjà en cours.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, certains territoires ruraux ou côtiers arrivent à saturation et ces installations empiètent sur les terres agricoles : une pause s'impose, le temps d'une étude chiffrée qui pourrait ne durer que quelques mois.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "Une fois comptés le raccordement au réseau et les moyens de compenser leur production variable, l'éolien et le solaire feraient monter le coût global de l'électricité payé par les ménages.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, leur soutien public coûte cher : l'électricité éolienne est rachetée à prix garanti 102 € le mégawattheure sur terre et 195 € en mer, et 100 milliards d'euros d'aides aux renouvelables sont estimés sur quinze ans.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement (article additionnel) à une proposition de loi d'origine sénatoriale, première lecture",
+    "textTitle": "Proposition de loi portant programmation nationale et simplification normative dans le secteur économique de l'énergie",
+    "summary": "Ce texte du Sénat fixait les grands objectifs énergétiques de la France jusqu'en 2035 (nucléaire, renouvelables, rénovation des bâtiments…). En séance, le 19 juin 2025, un premier amendement du même auteur, qui arrêtait définitivement tout nouveau projet éolien, a été rejeté par 69 voix contre 57. Son auteur a ensuite défendu cette suspension comme une solution de repli, plus souple et sans durée fixée.",
+    "sources": [
+      "s2",
+      "s12",
+      "s3",
+      "s10"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-06-24",
+      "label": "Assemblée nationale",
+      "text": "L'ensemble de la proposition de loi, qui contenait toujours la suspension, est rejeté par 377 voix contre 142. La mesure disparaît avec le texte.",
+      "sources": [
+        "s10",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "label": "Sénat",
+      "text": "En deuxième lecture, le Sénat adopte une version resserrée du texte, sans suspension de l'éolien et du solaire. Le texte est transmis à l'Assemblée le 9 juillet 2025.",
+      "sources": [
+        "s4",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Décret",
+      "text": "Sans attendre la fin du parcours parlementaire, le Gouvernement fixe la programmation de l'énergie 2026-2035 par le décret n° 2026-76, publié le 13 février : pas de suspension, mais le rythme des aides publiques à l'éolien terrestre et au solaire ne peut dépasser celui de la programmation précédente jusqu'à fin 2028. Le décret privilégie le renouvellement des parcs éoliens terrestres existants et prévoit un rapport du Gouvernement d'ici fin 2026, en vue d'une éventuelle révision en 2027.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "label": "État du texte",
+      "text": "Annoncée pour les 22 et 23 septembre 2025, la deuxième lecture de la proposition de loi à l'Assemblée n'a pas eu lieu : au 26 septembre 2026, le texte n'a pas été réexaminé en séance et ne figure pas à l'ordre du jour de l'Assemblée, fixé jusqu'au 16 octobre 2026.",
+      "sources": [
+        "s10",
+        "s4",
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2580",
+      "numero": 2580,
+      "date": "2025-06-19",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement n° 486 instaurant une suspension des nouveaux projets éoliens et photovoltaïques (article additionnel après l'article 5)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2580 (19 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2580",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 486 après l'article 5 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1522/AN/486",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'amendement n° 486 (19 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-jeudi-19-juin-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl23-555)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-555.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Décret n° 2026-76 relatif à la programmation pluriannuelle de l'énergie (12 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053464980",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Scrutin n° 2653 sur l'ensemble de la proposition de loi (24 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2653",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "LCP — Énergie : un moratoire sur l'éolien et le photovoltaïque voté de justesse à l'Assemblée (19 juin 2025)",
+      "url": "https://lcp.fr/actualites/energie-un-moratoire-sur-l-eolien-et-le-photovoltaique-vote-de-justesse-a-l-assemblee",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Public Sénat — En commission, les sénateurs ne reprennent pas le moratoire sur l'éolien et le photovoltaïque (1er juillet 2025)",
+      "url": "https://www.publicsenat.fr/actualites/politique/programmation-de-lenergie-en-commission-les-senateurs-ne-reprennent-pas-le-moratoire-sur-leolien-et-le-photovoltaique",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Banque des Territoires — Programmation énergétique : la proposition de loi largement rejetée par les députés (25 juin 2025)",
+      "url": "https://www.banquedesterritoires.fr/programmation-energetique-la-proposition-de-loi-gremillet-largement-rejetee-par-les-deputes",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Datan — Vote n° 2580 (19 juin 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2580",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Compte rendu de la première séance : amendement n° 447 (19 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-jeudi-19-juin-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "LCP — Rentrée parlementaire : un automne chargé pour les députés, à haut risque pour le gouvernement (24 juillet 2025)",
+      "url": "https://lcp.fr/actualites/rentree-parlementaire-un-automne-charge-pour-les-deputes-a-haut-risque-pour-le",
+      "kind": "presse"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Conférence des présidents : relevé de conclusions de la réunion du 22 septembre 2026 (ordre du jour jusqu'au 16 octobre 2026)",
+      "url": "https://www2.assemblee-nationale.fr/17/la-conference-des-presidents/releve-de-conclusions/reunion-du-mardi-22-septembre-2026",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Vote du jeudi 19 juin 2025 à faible participation (131 votants) : chaque position de groupe repose sur les députés présents. Pour : RN (57), UDR (4) et Droite républicaine (4), groupe auteur de l'amendement. Contre : LFI-NFP, Écologiste et social, Socialistes, Ensemble pour la République (20 contre, 1 abstention), Les Démocrates, Horizons (4 contre, 2 abstentions). GDR (un seul votant) et LIOT (une abstention) : position non calculable. Peu avant, le même jour, un amendement du même auteur arrêtant définitivement tout nouveau projet éolien avait été rejeté par 69 voix contre 57 (scrutin n° 2579 : RN, UDR et Droite républicaine pour, les autres groupes présents contre) : l'adoption du n° 486 tient en partie aux députés présents. Le 24 juin 2025, le texte entier, qui contenait encore la suspension, a été rejeté par 377 voix contre 142 : RN et UDR pour, Droite républicaine abstention (46 sur 48 votants), tous les autres groupes contre ; le bloc central avait notamment invoqué la suspension pour justifier son rejet.",
+  "lastVerified": "2026-09-26"
+}

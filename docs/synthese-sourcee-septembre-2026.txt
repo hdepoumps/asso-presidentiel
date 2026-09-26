@@ -1,0 +1,314 @@
+===== PAGE 1 =====
+Cartes sur Table
+Synthèse sourcée : format des cartes, nombre de cartes, pièges des scrutins et quatre cartes
+d'exemple. Chaque fait renvoie à une source numérotée (liste cliquable en fin de document). Les
+recommandations de conception, qui ne sont pas des faits vérifiables, sont marquées [avis]. Les
+erreurs relevées en vérifiant mes réponses précédentes sont signalées en orange.
+1. Ce que tu as décidé
+• Mécanique « Tinder-like » : une carte = une question tirée d'un vrai scrutin de l'Assemblée
+nationale.
+• Trois écrans par carte : 1) la question, 2) les arguments pour et contre, dont la lecture est
+obligatoire avant de voter, 3) détails, sources et liens.
+• Les arguments sont obligatoires parce qu'ils neutralisent une question qui serait mal cadrée ou
+orientée.
+• Quatre réponses : pour, contre, neutre, ne se prononce pas.
+• Résultat progressif : d'abord le bord politique, puis affinage jusqu'au candidat ; une première idée
+dès une dizaine de cartes.
+• Matériau : projets de loi, propositions de loi et amendements votés.
+• Aucune mention de parti ou de groupe sur les cartes (question, arguments, détails). La position
+des groupes n'apparaît qu'à l'écran de résultats.
+• Les textes à vote libre, où les groupes sont divisés en interne, sont écartés. Exemple : l'aide à
+mourir, adoptée par 305 voix pour, 199 contre et 57 abstentions [28].
+2. Recommandations de conception
+Quand un outil existant fait déjà la même chose, la source est indiquée ; sinon c'est un avis à discuter.
+• Aligner le côté sur le geste. Dans Elyze, on swipe à droite pour retenir une proposition et à
+gauche pour la rejeter [37]. Si droite = pour, les arguments « pour » vont à droite. [avis]
+• Pas deux colonnes de texte côte à côte sur mobile : deux cartes qu'on fait défiler, ou deux
+onglets. [avis]
+• « Neutre » et « ne se prononce pas » sont deux réponses différentes. Le Wahl-O-Mat
+distingue lui aussi « neutre » et « passer la thèse » [31], et smartvote ne prend pas en compte les
+questions sans réponse dans le calcul [34]. Proposition : neutre compte dans le score, ne se
+prononce pas en est exclu. [avis]
+• Gestes : swipe gauche / droite pour contre / pour, deux boutons pour neutre et ne se prononce
+pas. [avis]
+• Bouton « important pour moi ». Dans le Wahl-O-Mat, une thèse marquée importante compte
+double [31] ; smartvote permet aussi de pondérer ses réponses [33].
+• Positions des groupes révélées seulement à la fin, pour éviter qu'on vote « pour son camp »
+carte après carte. [avis]
+• Arguments équilibrés : même nombre, même longueur, même type de source des deux côtés.
+Trois arguments contre un, c'est un biais plus discret que la question elle-même. [avis]
+• Vocabulaire du résultat : l'étiquette « extrême » est contestée ; afficher une proximité par
+groupe et laisser l'utilisateur interpréter est plus défendable. [avis]
+• Anticiper les candidats sans groupe cohérent (dissidents, candidats hors Assemblée) avant
+d'écrire le modèle de données. [avis]
+• Leçon de sécurité d'Elyze. En 2022, une faille de permissions a permis à un ingénieur de
+modifier des propositions et de s'ajouter lui-même comme candidat [39]. Elyze a ensuite supprimé
+les données de ses utilisateurs et publié son code en open source [38], après avoir dépassé le
+million de téléchargements en moins de deux semaines [38].
+Cartes sur Table · synthèse de travail · septembre 2026 1
+===== PAGE 2 =====
+3. Combien de cartes pour un début d'orientation ?
+Outil Nombre de questions Source
+Wahl-O-Mat (Allemagne, 2025) 38 thèses [30]
+smartvote (Suisse) 30 à 75 selon la version ; 75 pour les fédérales [32] [33]
+2023
+Boussole (CEVIPOF / 20 Minutes, une vingtaine [35]
+européennes)
+Simulateur Le Parisien (présidentielle 30, puis jusqu'à 60 [36]
+2022)
+Elyze (présidentielle 2022) résultat au bout d'une dizaine de minutes [39]
+• Les outils établis vont d'une vingtaine à 75 questions (tableau). Viser 25 à 30 cartes pour un score
+solide, avec un premier résultat dès 10 cartes accompagné d'un indicateur de fiabilité « faible ».
+[avis]
+• Le vrai levier est le choix des cartes : un scrutin où tous les groupes votent pareil n'apporte aucune
+information. Couvrir les grands thèmes (économie, social, immigration, écologie, institutions,
+international, sécurité) avec des scrutins qui séparent les groupes. [avis]
+• Tirage adaptatif possible : la carte suivante est celle où les groupes en tête sont le plus divisés.
+Garder pour la fin les cartes qui ne départagent que deux voisins. [avis]
+• Durée avec deux écrans obligatoires : environ 20 à 30 secondes par carte, soit 10 à 15 minutes
+pour 30 cartes. Estimation, pas une mesure. [avis]
+4. Les pièges des scrutins, constatés sur les exemples
+• Absent n'est pas neutre. Sur la taxe Zucman en février 2025, le groupe présidentiel a largement
+boudé le vote tout en jugeant la mesure confiscatoire [10]. Compter ces absents comme « neutres
+» fausserait le score.
+• Un groupe peut changer de position sur la même mesure. Le RN s'est abstenu sur la taxe
+Zucman en février 2025 [10], puis a voté contre en octobre 2025 lors du budget 2026 [13]. Chaque
+position doit être datée et rattachée à un scrutin précis.
+• Même vote, raisons opposées. La suppression des ZFE a été votée à la fois par des groupes de
+gauche et de droite [16], avec des motivations différentes : liberté de circulation d'un côté,
+injustice pour les ménages modestes de l'autre [16] [21].
+• Les amendements d'appel. Certains amendements ne visent pas à être adoptés ; leur auteur
+l'écrit parfois lui-même dans l'exposé des motifs [29]. À filtrer.
+• Texte consensuel, amendements clivants. La loi narcotrafic a été approuvée par 436 voix
+contre 75 [23] : une carte « pour ou contre la loi » ne départage presque personne. Certains de ses
+amendements, eux, séparent nettement les groupes [27].
+• La censure après le vote. Trois des quatre exemples ont été totalement ou partiellement
+censurés par le Conseil constitutionnel après leur adoption [4] [20] [25]. D'où un champ « suite du
+texte » sur chaque carte.
+• Les sources secondaires divergent, même sur des faits simples. L'interdiction des
+néonicotinoïdes est datée de 2016 [3], 2018 [5] ou 2020 [4] selon les articles ; le rejet de la taxe
+Zucman d'octobre 2025 est donné à 172 pour / 228 contre [13] ou 168 pour / 231 contre [15].
+Règle : remonter à la source primaire (Assemblée nationale, Légifrance, décision du Conseil
+constitutionnel) avant publication.
+Cartes sur Table · synthèse de travail · septembre 2026 2
+===== PAGE 3 =====
+5. Les quatre cartes d'exemple, version corrigée
+Chaque argument est sourcé ; dans l'app, ils seront remplacés par des extraits anonymisés des comptes
+rendus de séance. Contre à gauche, pour à droite, pour suivre le sens du swipe.
+CARTE 1 · AGRICULTURE · PROPOSITION DE LOI · VOTE DU 8 JUILLET 2025
+Faut-il autoriser, à titre dérogatoire et sous conditions, la réintroduction de
+l'acétamipride, un insecticide de la famille des néonicotinoïdes ?
+CONTRE POUR
+• Les néonicotinoïdes ont des effets documentés sur • Des filières, notamment la betterave, se disent
+les pollinisateurs [6] [4]. dans une impasse technique sans ce produit [6]
+• Selon l'Anses, des alternatives à cet insecticide [7].
+existent [9]. • L'acétamipride reste autorisé dans l'Union
+• Le texte n'aborde pas les enjeux de fond : européenne jusqu'en 2033 ; l'interdire en France
+transition écologique, adaptation climatique, favoriserait les importations [8] [7].
+foncier [3]. • Selon ses défenseurs, la mesure ne concernerait
+qu'une faible part des surfaces agricoles [2].
+Détails. Proposition de loi d'origine sénatoriale, adoptée définitivement par 316 voix pour, 223 contre et 25
+abstentions [2].
+Suite du texte. Le 7 août 2025, le Conseil constitutionnel censure la réintroduction de l'acétamipride, jugée
+contraire à la Charte de l'environnement faute d'encadrement suffisant [4] [5]. La loi est promulguée le 11 août
+2025 sans cette mesure [8].
+Écran de résultats uniquement, jamais sur la carte · la gauche s'est fortement opposée au texte [2] ;
+positions nominatives et par groupe sur Datan [1].
+Correction · J'avais écrit « durée limitée, réévaluation prévue » comme argument pour. C'est l'inverse : le
+Conseil constitutionnel a sanctionné l'absence de limite claire dans le temps et dans l'usage [5]. J'avais aussi
+cité la noisette, que je n'ai pas pu vérifier : retirée.
+CARTE 2 · FISCALITÉ · PROPOSITION DE LOI · VOTE DU 20 FÉVRIER 2025
+Faut-il créer un impôt plancher de 2 % sur les patrimoines supérieurs à 100
+millions d'euros ?
+CONTRE POUR
+• Mesure jugée confiscatoire et inefficace par ses • Les 0,0002 % de contribuables les plus riches
+opposants [10]. paient en moyenne 26 % d'impôts au total, contre
+• Méthodes de calcul contestées et risque de départ 46 % pour les 0,1 % les plus fortunés [10].
+des plus fortunés [14]. • Recette estimée entre 15 et 25 milliards d'euros,
+• Sa conformité à la Constitution fait débat [11]. payée par moins de 1 800 foyers fiscaux
+(estimation de l'économiste) [11].
+• Un mécanisme maintient l'imposition même en
+cas de départ à l'étranger [10].
+Détails. Adoptée par 116 voix pour et 39 contre [10], puis rejetée par le Sénat le 12 juin 2025 [11] [12].
+Suite du texte. Réintroduite par amendements dans le budget 2026 et rejetée le 31 octobre 2025 [13] [15].
+Écran de résultats uniquement, jamais sur la carte · février 2025 : gauche pour, RN abstention, groupe
+présidentiel largement absent [10]. Octobre 2025 : les quatre groupes de gauche pour ; EPR, Démocrates,
+Horizons, LR et RN contre [13]. Attention : absent ≠ neutre.
+Cartes sur Table · synthèse de travail · septembre 2026 3
+===== PAGE 4 =====
+Correction · Ma version précédente s'arrêtait au Sénat. Le rejet d'octobre 2025, avec un changement de vote
+du RN, est un cas d'école pour le modèle de données [13].
+CARTE 3 · MOBILITÉ · ARTICLE AJOUTÉ PAR AMENDEMENT · VOTE DU 28 MAI 2025
+Faut-il supprimer les zones à faibles émissions (ZFE), qui restreignent la
+circulation des véhicules les plus polluants dans certaines agglomérations ?
+CONTRE POUR
+• Les ZFE visent à réduire les particules fines, • Le dispositif limiterait la liberté de circulation et
+responsables de maladies respiratoires et de couperait l'accès des grandes villes aux habitants
+décès [21]. des zones rurales [16].
+• Un compromis rendant les ZFE facultatives pour • Il serait injuste pour les ménages qui n'ont pas les
+les collectivités a été rejeté au profit d'une moyens de changer de véhicule [21].
+suppression totale [18]. • La qualité de l'air s'améliorerait déjà avec le
+• Ajoutée à un texte de simplification économique, renouvellement du parc automobile [16].
+la mesure risquait d'être censurée comme «
+cavalier législatif », un risque relevé pendant les
+débats [19].
+Détails. Article adopté par 98 voix pour, 51 contre et 6 abstentions ; on comptait 25 ZFE en France depuis
+janvier 2025 [16]. Le projet de loi entier a été adopté en première lecture par 275 voix contre 252 [17], puis
+adopté avec la suppression des ZFE le 14 avril 2026 [18].
+Suite du texte. Le 21 mai 2026, le Conseil constitutionnel censure la suppression des ZFE comme cavalier
+législatif, sans se prononcer sur le fond (décision n° 2026-903 DC) [20] [21] [22]. Les ZFE restent donc en
+vigueur.
+Écran de résultats uniquement, jamais sur la carte · pour : LIOT, Droite républicaine, LFI, RN, UDR ;
+contre : PS, Écologiste et social, Ensemble pour la République, Horizons [16]. Même vote, motivations
+différentes.
+Correction · Ma carte s'arrêtait au vote de juin 2025 ; la censure du 21 mai 2026 change entièrement la fiche
+« détails » [20]. J'avais aussi écrit « 25 agglomérations » : la source parle de 25 ZFE [16].
+CARTE 4 · JUSTICE · DISPOSITION D'UNE PROPOSITION DE LOI · MARS 2025
+Dans les enquêtes sur le crime organisé, faut-il permettre de placer certains
+éléments dans un « dossier-coffre » inaccessible aux avocats de la défense ?
+C'est quoi, un dossier-coffre ?
+Le nom officiel est « procès-verbal distinct » : une partie du dossier d'enquête mise à part et rendue
+inaccessible aux avocats de la défense, pour éviter de mettre en danger des personnes comme les enquêteurs
+ou les informateurs [24]. La défense voit les preuves, mais pas certains détails sur la façon dont elles ont été
+obtenues. Le dispositif est réservé à la criminalité organisée, et seulement quand la divulgation mettrait
+gravement en danger la vie ou l'intégrité physique d'une personne [24].
+CONTRE POUR
+• Atteinte au principe du contradictoire et aux droits • Protéger la vie des enquêteurs et des informateurs
+de la défense [24] [25]. [24].
+• Dispositif jugé complexe et mal conçu par ses • Présenté par ses défenseurs comme « essentiel et
+opposants [24]. vital » contre le narcotrafic [24].
+• Suspicion jetée sur la profession d'avocat [24]. • Usage limité aux cas de danger grave pour une
+personne, avec une rédaction revue après les
+remarques du Conseil d'État [24].
+Cartes sur Table · synthèse de travail · septembre 2026 4
+===== PAGE 5 =====
+Détails. Disposition de la proposition de loi visant à sortir la France du piège du narcotrafic, approuvée dans
+son ensemble par 436 voix contre 75 [23]. Supprimé en commission, le dossier-coffre a été rétabli en séance le
+21 mars 2025 [24].
+Suite du texte. Le 12 juin 2025, le Conseil constitutionnel valide le principe à condition que ces éléments
+servent seulement à orienter l'enquête, et censure la possibilité de condamner sur leur base [25] [26]. Loi
+promulguée le 13 juin 2025 [26].
+Écran de résultats uniquement, jamais sur la carte · les groupes de gauche ont tenté d'empêcher la
+réintroduction [24]. Position des autres groupes : à relever sur le scrutin précis (Datan / Assemblée nationale).
+Correction · Je t'avais donné « bloc central, droite et RN pour » sur ce vote sans l'avoir vérifié scrutin par
+scrutin. Seule l'opposition de la gauche est sourcée, et le numéro exact du scrutin reste à retrouver.
+6. Conséquences pour le modèle de données
+Champs suggérés [avis], chacun justifié par un cas réel de ce document.
+Champ Rôle Cas réel
+type texte entier, article, amendement, sous-amendement [16] [29]
+vote_libre exclure les textes sans consigne de groupe [28]
+position_groupe (datée) pour / contre / abstention / non-votant, par scrutin [10] [13]
+amendement_appel écarter les votes qui ne portent pas sur le fond [29]
+pouvoir_discriminant écart entre groupes ; écarter les votes quasi unanimes [23]
+suite_du_texte Sénat, CMP, Conseil constitutionnel, promulgation [4] [20] [25]
+source_primaire lien AN / Légifrance / décision CC, prioritaire sur la [3] [5] [4]
+presse
+7. Ce que je t'avais dit et qui était faux ou non vérifié
+• Pondération « important pour moi » : j'avais cité Elyze et la Boussole, sans vérification. Les
+exemples vérifiés sont le Wahl-O-Mat [31] et smartvote [33].
+• Nombre de questions : j'avais dit environ 30 pour la Boussole et pour Vote Compass. La source
+trouvée parle d'une vingtaine de questions pour la Boussole [35] ; Vote Compass n'est pas vérifié
+et est retiré.
+• Elyze : j'avais dit qu'un résultat s'affichait dès les premières cartes. La source indique un résultat
+au bout d'une dizaine de minutes [39].
+• Loi Duplomb : « durée limitée, réévaluation prévue » était inexact [5] ; « noisette » non vérifié.
+• ZFE et taxe Zucman : j'avais omis la suite des textes, à savoir la censure du 21 mai 2026 [20] et
+le rejet du 31 octobre 2025 [13].
+• Dossier-coffre : répartition des groupes non vérifiée (voir carte 4).
+• Amendements « d'obstruction », places officielles des groupes dans l'hémicycle et vote «
+par posture » de l'opposition : je les ai présentés comme des faits sans source. À vérifier avant
+d'en faire une règle.
+8. Sources
+[1] Datan — Vote n° 2957 : loi Duplomb (8 juillet 2025)
+https://datan.fr/votes/legislature-17/vote_2957
+[2] LCP — Loi agricole « Duplomb » définitivement adoptée (8 juillet 2025)
+https://lcp.fr/actualites/a-revoir-loi-agricole-duplomb-le-texte-definitivement-adopte-par-le-parlement-a-l-issue
+[3] Générations Futures — Ce que les députés ont voté le 8 juillet
+https://www.generations-futures.fr/actualites/pour-contre-duplomb/
+Cartes sur Table · synthèse de travail · septembre 2026 5
+===== PAGE 6 =====
+[4] LCP — Le Conseil constitutionnel censure la réintroduction de l'acétamipride (7 août 2025)
+https://lcp.fr/actualites/loi-agricole-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-de-l
+[5] consoGlobe — Pourquoi l'acétamipride a été censuré (12 août 2025)
+https://www.consoglobe.com/?p=10410706
+[6] consoGlobe — La réintroduction de l'acétamipride censurée (8 août 2025)
+https://www.consoglobe.com/?p=10410666
+[7] macommune.info / AFP — Le Conseil constitutionnel censure la réintroduction (8 août 2025)
+https://www.macommune.info/loi-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-du-pesticide-aceta
+mipride/
+[8] Réussir — Réaction FNSEA, autorisation UE jusqu'en 2033, promulgation du 11 août
+https://www.reussir.fr/agriculture-massif-central/loi-duplomb-la-censure-injuste-du-conseil-constitutionnel-un-coup
+-dur-pour-lagriculture-francaise
+[9] Reporterre — Dossier loi Duplomb (dont : alternatives à l'acétamipride selon l'Anses)
+https://reporterre.net/Loi-Duplomb
+[10] Previssima — La taxe Zucman adoptée à l'Assemblée (20 février 2025)
+https://www.previssima.fr/actualite/la-taxe-zucman-sur-les-patrimoines-des-ultra-riches-adoptee-a-lassemblee-nati
+onale.html
+[11] Wikipédia — Taxe Zucman
+https://fr.wikipedia.org/wiki/Taxe_Zucman
+[12] Public Sénat — Le Sénat rejette la taxe Zucman
+https://www.publicsenat.fr/actualites/economie/taxe-zucman-le-senat-rejette-la-creation-dun-nouvel-impot-sur-les-
+ultra-riches
+[13] LCP — Budget 2026 : la taxe Zucman rejetée (31 octobre 2025)
+https://lcp.fr/actualites/budget-2026-la-taxe-zucman-rejetee-par-l-assemblee-nationale-413632
+[14] Reporterre — Budget 2026 : la taxe Zucman rejetée (arguments du gouvernement)
+https://reporterre.net/Budget-2026-la-taxe-Zucman-rejetee-par-l-Assemblee-nationale
+[15] Maddyness — La taxe Zucman rejetée par les députés (31 octobre 2025)
+https://www.maddyness.com/2025/10/31/la-taxe-zucman-rejetee-par-les-deputes-a-lassemblee-nationale/
+[16] Datan — Vote n° 2190 : supprimer les ZFE (28 mai 2025)
+https://datan.fr/votes/legislature-17/vote_2190
+[17] Acteurs publics — Loi « simplification » adoptée par 275 voix contre 252 (18 juin 2025)
+https://acteurspublics.fr/articles/le-projet-de-loi-simplification-adopte-par-les-deputes-un-texte-cavalier-le-projet-d
+e-loi-simplification-un-texte-cavalier/
+[18] Athlon — ZFE : le tournant politique de la loi de simplification
+https://www.athlon.com/fr/informations-du-secteur/zfe-vers-une-suppression-inattendue-le-tournant-politique-de-l
+a-loi-de-simplification/
+[19] Mondial.paris — Suppression des ZFE votée : risque de cavalier législatif (avril 2026)
+https://mondial.paris/actualites/auto-pratique/suppression-zfe-2026-cest-officiel-l-assemblee-nationale-la-vote-618
+22.html
+[20] LCP — Le Conseil constitutionnel censure la suppression des ZFE (21 mai 2026)
+https://lcp.fr/actualites/zfe-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions
+[21] Weka / AFP — Le Conseil constitutionnel censure la suppression des ZFE (22 mai 2026)
+https://www.weka.fr/actualite/?p=214483
+[22] Banque des Territoires — Décision n° 2026-903 DC, un tiers de la loi censuré
+https://www.banquedesterritoires.fr/loi-de-simplification-les-zfe-remises-en-piste-apres-la-decision-du-conseil-cons
+titutionnel
+[23] Europe 1 — Narcotrafic : texte approuvé par 436 voix contre 75
+https://www.europe1.fr/politique/narcotrafic-les-deputes-approuvent-le-texte-en-premiere-lecture-670615
+[24] LCP — L'Assemblée rétablit le « dossier-coffre » (21 mars 2025)
+https://lcp.fr/actualites/narcotrafic-l-assemblee-retablit-la-creation-du-dossier-coffre-qui-avait-ete-supprimee
+[25] LCP — Loi narcotrafic : décision du Conseil constitutionnel (12 juin 2025)
+https://lcp.fr/actualites/loi-narcotrafic-le-conseil-constitutionnel-valide-le-regime-carceral-d-isolement-mais
+[26] Le Club des juristes — Le dossier-coffre partiellement retoqué (promulgation le 13 juin 2025)
+https://www.leclubdesjuristes.com/justice/loi-narcotrafic-le-dossier-coffre-partiellement-retoque-11212/
+[27] Datan — Vote n° 1111 : amendement à la loi narcotrafic (21 mars 2025)
+https://datan.fr/votes/legislature-17/vote_1111
+[28] LCP — Droit à l'aide à mourir adopté en première lecture (27 mai 2025)
+https://lcp.fr/actualites/la-creation-d-un-droit-a-l-aide-a-mourir-approuvee-en-premiere-lecture-par-l-assemblee
+[29] Datan — Vote n° 2159 : sous-amendement présenté comme « amendement d'appel »
+https://datan.fr/votes/legislature-17/vote_2159
+Cartes sur Table · synthèse de travail · septembre 2026 6
+===== PAGE 7 =====
+[30] bpb — Le Wahl-O-Mat 2025 est en ligne (38 thèses)
+https://www.bpb.de/die-bpb/presse/pressemitteilungen/559069/wahl-o-mat-zur-bundestagswahl-2025-geht-online/
+[31] Stuttgarter Zeitung — Fonctionnement du Wahl-O-Mat (neutre, passer, pondération double)
+https://www.stuttgarter-zeitung.de/politik/wo-ist-der-wahlomat-mhsd-79208304.html
+[32] Wikipedia — smartvote (questionnaire de 30 à 75 questions)
+https://en.wikipedia.org/wiki/Smartvote
+[33] smartvote — Module pédagogique 2023 (75 questions, pondération)
+https://blog.smartvote.ch/wp-content/uploads/2025/11/smartvote_Lernmodul_2023_fr.pdf
+[34] smartvote Australia — Méthodologie (questions sans réponse non prises en compte)
+https://act.smartvote.org/assets/pdf/Positional_matching_methodology_ACT.pdf
+[35] CB News — 20 Minutes et le CEVIPOF lancent la Boussole (« une vingtaine de questions »)
+https://www.cbnews.fr/node/43410
+[36] macommune.info — Comparateurs 2022 (Le Parisien : 30 puis jusqu'à 60 questions)
+https://www.macommune.info/presidentielle-200-comparatif-programme-candidat-comparateur
+[37] CIDJ — Présidentielle 2022 : les outils (Elyze, swipe droite / gauche)
+https://www.cidj.com/s-engager/s-engager-pour-une-cause/presidentielle-2022-les-bons-outils-pour-choisir-son-ca
+ndidat
+[38] L'Éclaireur Fnac — Elyze s'explique après des failles (1 million en moins de deux semaines, open source)
+https://leclaireur.fnac.com/article/62547-elyze-le-tinder-de-la-presidentielle-sexplique-apres-des-failles-informatiq
+ues/
+[39] iPhoneSoft — Elyze : résultats contournés par un utilisateur (faille de permissions)
+https://iphonesoft.fr/2022/01/19/elyze-presidentielle-2022-resultats-hacke-utilisateur
+Cartes sur Table · synthèse de travail · septembre 2026 7

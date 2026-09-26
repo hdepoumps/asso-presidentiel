@@ -1,0 +1,217 @@
+{
+  "id": "gel-pensions-prestations-2026",
+  "theme": "social",
+  "question": "Faut-il geler en 2026 les retraites de base et la plupart des prestations sociales (RSA, AAH, allocations familiales…), puis revaloriser ces retraites moins vite que l'inflation jusqu'en 2030 ?",
+  "explainer": {
+    "title": "C'est quoi, une « année blanche » ?",
+    "text": "Chaque année, les pensions de retraite de base et la plupart des prestations sociales (RSA, allocation aux adultes handicapés ou AAH, prestations familiales…) sont revalorisées pour suivre l'inflation. Une « année blanche » consiste à ne pas les revaloriser pendant un an : les montants restent identiques alors que les prix augmentent. L'article en débat prévoyait cette année blanche en 2026, puis une revalorisation des pensions de base inférieure à l'inflation de 2027 à 2030.",
+    "sources": ["s2"]
+  },
+  "contre": [
+    {
+      "text": "Selon l'Institut des politiques publiques, un gel global (pensions, prestations, barème de l'impôt) serait « régressif », pesant plus sur les modestes. Cité en séance : 257 € perdus en un an pour une pension de 1 500 €, 81 € au RSA.",
+      "sources": ["s3", "s2"]
+    },
+    {
+      "text": "Selon ses opposants, une pension est la contrepartie des cotisations versées pendant toute une vie de travail : la geler reviendrait à rompre le contrat social passé avec ceux qui ont travaillé et cotisé.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses opposants, d'autres économies ou recettes seraient possibles sans toucher aux pensions ni aux minima sociaux, par exemple réduire certaines exonérations de cotisations ou lutter davantage contre la fraude.",
+      "sources": ["s2"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Le gel rapporterait 3,6 milliards d'euros en 2026, dont 2,5 milliards pour la Sécurité sociale, en déficit de plus de 20 milliards. Sans cet effort, ce sont les actifs qui paieraient, selon ses défenseurs.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses défenseurs, les retraites ont été revalorisées de 1,8 point de plus que l'inflation depuis 2022, plus vite que les salaires : même avec une année blanche, les retraités ne perdraient pas de pouvoir d'achat par rapport à 2022.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses défenseurs, des gels ou sous-indexations ont déjà eu lieu en 2012, 2014, 2015, 2019 et 2020 : face au déficit, un effort partagé entre actifs et retraités serait une forme de solidarité.",
+      "sources": ["s2"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article du projet de loi de financement de la sécurité sociale pour 2026, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Le vote portait sur la suppression de l'article 44, qui prévoyait de geler en 2026 les pensions de retraite de base et d'invalidité, les prestations familiales, le RSA, l'AAH et d'autres aides, puis de sous-indexer les pensions de base de 2027 à 2030 : voter « pour » revenait à refuser le gel. Économie attendue selon le Gouvernement : 3,6 milliards d'euros en 2026. L'article avait déjà été rejeté en commission. Avant le vote, le Gouvernement s'était dit prêt à accepter des amendements dégelant les pensions et les minima sociaux et demandait de garder l'article pour en débattre ; plusieurs de ses défenseurs proposaient de le transformer en gel ciblé, épargnant par exemple les petites pensions.",
+    "sources": ["s2", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-13",
+      "label": "Assemblée nationale",
+      "text": "Faute de vote de l'Assemblée sur l'ensemble du texte dans le délai de 20 jours prévu par la Constitution, le Gouvernement transmet le projet au Sénat sans l'article sur le gel, supprimé par les députés.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2025-11-25",
+      "label": "Sénat",
+      "text": "Le Sénat rétablit un gel en 2026 (198 voix contre 120), dont il exclut l'allocation aux adultes handicapés et les pensions de 1 400 euros brut par mois ou moins ; il ne reprend pas la sous-indexation des pensions de 2027 à 2030.",
+      "sources": ["s9", "s10", "s5"]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur un texte commun.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2025-12-05",
+      "label": "Assemblée nationale",
+      "text": "En nouvelle lecture, les députés suppriment de nouveau le gel.",
+      "sources": ["s7", "s4"]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (12 décembre), l'Assemblée adopte définitivement la loi, sans gel ni sous-indexation.",
+      "sources": ["s6", "s11"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-899 DC : censure partielle de la loi, sur d'autres dispositions ; aucune ne porte sur la revalorisation des pensions ou des prestations. La loi n° 2025-1403 est promulguée le même jour.",
+      "sources": ["s12", "s6"]
+    },
+    {
+      "date": "2026-01-01",
+      "label": "Application",
+      "text": "Les pensions de retraite de base sont revalorisées de 0,9 %, selon la règle habituelle d'indexation sur l'inflation.",
+      "sources": ["s8"]
+    },
+    {
+      "date": "2026-04-01",
+      "label": "Application",
+      "text": "Pas de gel non plus pour les prestations : le RSA d'une personne seule est porté à 651,69 € par mois, contre environ 646 € auparavant.",
+      "sources": ["s13", "s2"]
+    },
+    {
+      "date": "2026-09-21",
+      "label": "À suivre",
+      "text": "Le budget de la Sécurité sociale pour 2027, qui doit être présenté le 1er octobre 2026, demandera un effort aux retraités selon le Gouvernement : un gel ou une revalorisation inférieure à l'inflation des pensions les plus élevées est envisagé, le choix du seuil étant laissé au Parlement. Une « année blanche » pour l'ensemble des prestations a été écartée.",
+      "sources": ["s14", "s15"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3685",
+      "numero": 3685,
+      "date": "2025-11-12",
+      "role": "principal",
+      "sens": -1,
+      "label": "Suppression de l'article instaurant le gel (voter pour = refuser le gel), première lecture"
+    },
+    {
+      "uid": "VTANR5L17V4641",
+      "numero": 4641,
+      "date": "2025-12-05",
+      "role": "historique",
+      "sens": -1,
+      "label": "Nouvelle suppression de l'article en nouvelle lecture, après son rétablissement partiel par le Sénat"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3685 (12 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : article 44 (12 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Institut des politiques publiques — Effets budgétaires et redistributifs des mesures socio-fiscales 2025",
+      "url": "https://www.ipp.eu/publication/effets-budgetaires-et-redistributifs-des-mesures-socio-fiscales/",
+      "kind": "analyse"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — La loi en clair : projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 4641 (5 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4641",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Direction de l'information légale et administrative — Pensions de retraite de base : quelle revalorisation au 1er janvier 2026 ? (30 décembre 2025)",
+      "url": "https://www.dila.gouv.fr/home/article/pensions-de-retraite-de-base-quelle-revalorisation-au-1er-janvier-2026",
+      "kind": "officiel"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Scrutin n° 57 : rétablissement de l'article 44 (25 novembre 2025)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-57.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Texte adopté n° 23 (2025-2026), projet de loi de financement de la sécurité sociale pour 2026 (26 novembre 2025)",
+      "url": "https://www.senat.fr/leg/tas25-023.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Texte définitif du projet de loi de financement de la sécurité sociale pour 2026 (T.A. n° 199 rect., 16 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0199_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Service-public.fr — Revenu de solidarité active (RSA) : montant (vérifié le 1er avril 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F19778",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "LCP — Budget 2027 : ce que l'on sait des mesures qui font « partie des pistes » du gouvernement (24 août 2026)",
+      "url": "https://lcp.fr/actualites/budget-2027-ce-que-l-on-sait-des-mesures-qui-font-partie-des-pistes-du-gouvernement",
+      "kind": "presse"
+    },
+    {
+      "id": "s15",
+      "label": "Public Sénat — « Il nous faut des sommes considérables en termes d'économies » : le chemin difficile du budget 2027 de la Sécurité sociale (21 septembre 2026)",
+      "url": "https://www.publicsenat.fr/actualites/sante/il-nous-faut-des-sommes-considerables-en-termes-deconomies-le-chemin-difficile-du-budget-2027-de-la-securite-sociale",
+      "kind": "presse"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Sens inversé : au scrutin n° 3685, voter « pour » signifiait supprimer le gel. Pour la suppression : LFI-NFP, GDR, Écologiste et social, Socialistes, Droite républicaine, UDR et RN. Contre : EPR, Les Démocrates et Horizons, qui voulaient surtout conserver l'article pour le transformer en gel ciblé (épargnant les petites pensions ou les minima sociaux, comme le Gouvernement s'y était dit prêt), plutôt que défendre le gel général tel qu'il était rédigé. LIOT s'est divisé. Même vote, motivations différentes : les groupes de gauche défendaient les minima sociaux et proposaient d'autres recettes (exonérations de cotisations, hauts patrimoines) ; la Droite républicaine, l'UDR et le RN mettaient en avant le pouvoir d'achat des retraités qui ont cotisé toute leur vie, la Droite républicaine préconisant plutôt des économies sur la fraude, l'« assistanat », la bureaucratie et l'immigration. Certains de ses membres se disaient toutefois prêts à geler les minima sociaux, mais pas les retraites. Positions confirmées le 5 décembre 2025 en nouvelle lecture (scrutin n° 4641, 285 votants), sur la version partielle du gel votée par le Sénat ; Horizons y était moins uni (1 pour, 11 contre, 2 abstentions).",
+  "lastVerified": "2026-09-26"
+}

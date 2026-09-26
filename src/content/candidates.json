@@ -1,0 +1,597 @@
+{
+  "updatedAt": "2026-09-26",
+  "intro": "Liste arrêtée au 26 septembre 2026 : elle réunit les personnalités qui ont déclaré leur candidature ou ont été désignées par leur parti, ainsi que celles largement présentées comme candidates possibles, dès lors que leur parti est représenté au Parlement français ou européen ou qu'elles sont testées dans les sondages. D'autres personnes ont annoncé leur candidature sans remplir ces critères (par exemple Florian Philippot, François Asselineau, Anasse Kazib, Selma Labib ou Francis Lalanne) : elles ne figurent pas dans cette liste. Aucune de ces candidatures n'est encore officielle : le Conseil constitutionnel n'arrêtera la liste officielle des candidats qu'après la clôture de la collecte des 500 parrainages d'élus, le 12 mars 2027, soit quelques semaines avant le premier tour du 18 avril 2027.",
+  "candidates": [
+    {
+      "id": "nathalie-arthaud",
+      "name": "Nathalie Arthaud",
+      "party": "Lutte ouvrière",
+      "status": "investi",
+      "statusText": "Désignée par le congrès de Lutte ouvrière, candidate déclarée depuis le 8 décembre 2025.",
+      "groups": [],
+      "acteurRef": null,
+      "note": "N'est pas députée et Lutte ouvrière ne forme pas de groupe à l'Assemblée nationale : sa proximité ne peut pas être calculée à partir des votes.",
+      "sources": [
+        {
+          "label": "franceinfo — Nathalie Arthaud, porte-parole de Lutte ouvrière, annonce sa candidature",
+          "url": "https://www.franceinfo.fr/politique/nathalie-arthaud/presidentielle-2027-nathalie-arthaud-porte-parole-de-lutte-ouvriere-annonce-sa-candidature_7665874.html",
+          "date": "2025-12-08"
+        }
+      ]
+    },
+    {
+      "id": "gabriel-attal",
+      "name": "Gabriel Attal",
+      "party": "Renaissance",
+      "status": "investi",
+      "statusText": "Le conseil national de Renaissance l'a appelé le 12 mai 2026 à être candidat (motion adoptée à 91 %) ; désigné par les instances de son parti, il est candidat déclaré depuis le 22 mai 2026.",
+      "groups": [
+        "EPR"
+      ],
+      "acteurRef": "PA722190",
+      "note": "Député et président du groupe Ensemble pour la République : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — Gabriel Attal se déclare candidat à l'élection présidentielle de 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/j-aime-passionnement-la-france-et-j-aime-profondement-les-francais-gabriel-attal-se-declare-candidat-a-l-election-presidentielle-de-2027_8020769.html",
+          "date": "2026-05-22"
+        },
+        {
+          "label": "franceinfo — Gabriel Attal se rapproche d'une candidature après un vote interne de soutien",
+          "url": "https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-se-rapproche-d-une-candidature-apres-un-vote-interne-de-soutien_8000732.html",
+          "date": "2026-05-13"
+        }
+      ]
+    },
+    {
+      "id": "delphine-batho",
+      "name": "Delphine Batho",
+      "party": "Génération écologie",
+      "status": "declare",
+      "statusText": "Candidate déclarée depuis le 25 novembre 2025.",
+      "groups": [
+        "ECOS"
+      ],
+      "acteurRef": "PA335999",
+      "note": "Députée du groupe Écologiste et social : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'elle n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — L'ex-ministre Delphine Batho candidate à la présidentielle",
+          "url": "https://www.franceinfo.fr/politique/eelv/l-ex-ministre-delphine-batho-candidate-a-la-presidentielle-pour-reconstruire-une-ecologie-capable-de-gouverner_7639496.html",
+          "date": "2025-11-25"
+        }
+      ]
+    },
+    {
+      "id": "olivier-becht",
+      "name": "Olivier Becht",
+      "party": "Agir et Renaissance (sans investiture)",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 24 septembre 2026, sans investiture : son parti, Renaissance, a désigné Gabriel Attal.",
+      "groups": [
+        "EPR"
+      ],
+      "acteurRef": "PA642935",
+      "note": "Député apparenté au groupe Ensemble pour la République : ses votes personnels servent au calcul, complétés par ceux de ce groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-24"
+        },
+        {
+          "label": "Wikipédia — Olivier Becht (partis, groupe parlementaire, candidature du 24 septembre 2026)",
+          "url": "https://fr.wikipedia.org/wiki/Olivier_Becht",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "xavier-bertrand",
+      "name": "Xavier Bertrand",
+      "party": "Les Républicains (mouvement Nous France)",
+      "status": "declare",
+      "statusText": "A annoncé dès février 2024 son intention d'être candidat et l'a confirmé le 27 août 2026, « en candidat indépendant », alors que son parti a désigné un autre candidat ; il prévoit une déclaration officielle à la fin de 2026.",
+      "groups": [
+        "DR"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe Droite républicaine, formé par les députés Les Républicains, parti dont il est membre mais qui a investi un autre candidat.",
+      "sources": [
+        {
+          "label": "LCP — Xavier Bertrand confirme qu'il sera candidat à l'élection présidentielle",
+          "url": "https://lcp.fr/actualites/2027-figure-de-la-droite-xavier-bertrand-confirme-qu-il-sera-candidat-a-l-election",
+          "date": "2026-08-27"
+        },
+        {
+          "label": "Wikipédia — Xavier Bertrand (« bien l'intention d'être candidat », 3 février 2024)",
+          "url": "https://fr.wikipedia.org/wiki/Xavier_Bertrand",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "karim-bouamrane",
+      "name": "Karim Bouamrane",
+      "party": "Parti socialiste",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 9 juin 2026 ; a refusé de participer à la primaire organisée par son parti.",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe Socialistes et apparentés, formé autour des députés de son parti.",
+      "sources": [
+        {
+          "label": "franceinfo — Karim Bouamrane, maire PS de Saint-Ouen, annonce sa candidature à la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/karim-bouamrane-maire-ps-de-saint-ouen-annonce-sa-candidature-a-la-presidentielle_8051630.html",
+          "date": "2026-06-09"
+        },
+        {
+          "label": "LCP — Qui sont les candidats sur la ligne de départ de la primaire de gauche ?",
+          "url": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "bernard-cazeneuve",
+      "name": "Bernard Cazeneuve",
+      "party": "La Convention",
+      "status": "pressenti",
+      "statusText": "A présenté le 16 juillet 2026 son projet présidentiel, en refusant de passer par la primaire socialiste ; le 30 juillet, il a décrit ses démarches comme destinées à « préfigurer une candidature, si toutefois le projet rencontre les circonstances ». Sa candidature reste donc conditionnelle.",
+      "groups": [],
+      "acteurRef": null,
+      "note": "N'est pas député et son mouvement, La Convention, ne forme pas de groupe à l'Assemblée nationale : ses députés siègent dans plusieurs groupes différents (Socialistes, Ensemble pour la République, LIOT, Les Démocrates…). Sa proximité ne peut donc pas être calculée à partir des votes.",
+      "sources": [
+        {
+          "label": "LCP — Prêt à se lancer dans la course à l'Élysée, Bernard Cazeneuve décline la primaire socialiste",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-pret-a-se-lancer-dans-la-course-a-l-elysee-bernard-cazeneuve-decline",
+          "date": "2026-07-16"
+        },
+        {
+          "label": "France 24 — « Mon objectif est de devenir président de la République », dit Bernard Cazeneuve",
+          "url": "https://www.france24.com/fr/info-en-continu/20260730-mon-objectif-est-de-devenir-pr%C3%A9sident-de-la-r%C3%A9publique-dit-bernard-cazeneuve",
+          "date": "2026-07-30"
+        },
+        {
+          "label": "LCP — « L'objectif » de Bernard Cazeneuve est de « devenir président de la République »",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-l-objectif-de-bernard-cazeneuve-est-de-devenir-president-de-la",
+          "date": "2026-07-30"
+        },
+        {
+          "label": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-24"
+        },
+        {
+          "label": "Wikipédia — La Convention (parlementaires du mouvement)",
+          "url": "https://fr.wikipedia.org/wiki/La_Convention",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "nicolas-dupont-aignan",
+      "name": "Nicolas Dupont-Aignan",
+      "party": "Debout la France",
+      "status": "declare",
+      "statusText": "Candidat déclaré : avait annoncé son intention le 8 mars 2025 et a officialisé sa candidature le 19 septembre 2026.",
+      "groups": [],
+      "acteurRef": null,
+      "note": "N'est plus député depuis 2024 et Debout la France ne forme pas de groupe à l'Assemblée nationale : sa proximité ne peut pas être calculée à partir des votes.",
+      "sources": [
+        {
+          "label": "franceinfo — Nicolas Dupont-Aignan se lance dans sa quatrième campagne présidentielle",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/je-serai-le-seul-candidat-qui-propose-de-sortir-de-l-union-europeenne-dit-nicolas-dupont-aignan-qui-se-lance-dans-sa-quatrieme-campagne-presidentielle_8201024.html",
+          "date": "2026-09-19"
+        },
+        {
+          "label": "franceinfo — Le souverainiste Nicolas Dupont-Aignan se lance pour la 4e fois dans la course à l'Élysée",
+          "url": "https://www.franceinfo.fr/politique/nicolas-dupont-aignan/le-souverainiste-nicolas-dupont-aignan-se-lance-pour-la-4e-fois-dans-la-course-a-l-elysee_7118136.html",
+          "date": "2025-03-08"
+        }
+      ]
+    },
+    {
+      "id": "olivier-faure",
+      "name": "Olivier Faure",
+      "party": "Parti socialiste",
+      "status": "declare",
+      "statusText": "Candidat depuis le 30 août 2026 à la primaire du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026).",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": "PA609332",
+      "note": "Député du groupe Socialistes et apparentés : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — Olivier Faure confirme sa candidature à la primaire de son camp",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html",
+          "date": "2026-08-30"
+        },
+        {
+          "label": "franceinfo — Cinq candidats participeront à la primaire à gauche pour la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "raphael-glucksmann",
+      "name": "Raphaël Glucksmann",
+      "party": "Place publique",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 23 août 2026 ; participe à la primaire du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026).",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député (il siège au Parlement européen) : estimation à partir des votes du groupe Socialistes et apparentés, où siège le seul député de Place publique ; son parti organise la primaire avec le Parti socialiste et la Gauche républicaine et socialiste.",
+      "sources": [
+        {
+          "label": "LCP — Raphaël Glucksmann officialise sa candidature et participera à la primaire sociale-démocrate",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-raphael-glucksmann-officialise-sa-candidature-et-participera-a-la",
+          "date": "2026-08-23"
+        },
+        {
+          "label": "franceinfo — Cinq candidats participeront à la primaire à gauche pour la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html",
+          "date": "2026-09-16"
+        },
+        {
+          "label": "Wikipédia — Place publique (un député à l'Assemblée nationale, au groupe socialiste)",
+          "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "jerome-guedj",
+      "name": "Jérôme Guedj",
+      "party": "Parti socialiste",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 5 février 2026 ; a rejoint en août 2026 la primaire du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026).",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": "PA1567",
+      "note": "Député du groupe Socialistes et apparentés : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — Le député socialiste Jérôme Guedj annonce sa candidature",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-depute-socialiste-jerome-guedj-officialise-sa-candidature_7785572.html",
+          "date": "2026-02-05"
+        },
+        {
+          "label": "franceinfo — Cinq candidats participeront à la primaire à gauche pour la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "francois-hollande",
+      "name": "François Hollande",
+      "party": "Parti socialiste",
+      "status": "pressenti",
+      "statusText": "Pas candidat à ce jour : a refusé de participer à la primaire de son parti et a annoncé qu'il dirait en décembre 2026 s'il se présente.",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": "PA1654",
+      "note": "Député du groupe Socialistes et apparentés : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "LCP — François Hollande propose la retraite à 63 ans et dira « en décembre » s'il est candidat",
+          "url": "https://lcp.fr/actualites/presidentielle-francois-hollande-propose-la-retraite-a-63-ans-et-dira-en-decembre-s-il",
+          "date": "2026-08-27"
+        },
+        {
+          "label": "LCP — Qui sont les candidats sur la ligne de départ de la primaire de gauche ?",
+          "url": "https://lcp.fr/actualites/presidentielle-qui-sont-les-candidats-sur-la-ligne-de-depart-de-la-primaire-de-gauche",
+          "date": "2026-09-16"
+        },
+        {
+          "label": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-24"
+        }
+      ]
+    },
+    {
+      "id": "marine-le-pen",
+      "name": "Marine Le Pen",
+      "party": "Rassemblement national",
+      "status": "declare",
+      "statusText": "Candidate déclarée depuis le 7 juillet 2026, jour où la cour d'appel de Paris l'a condamnée à 45 mois d'inéligibilité dont 30 avec sursis. Les 15 mois ferme ayant été exécutés du 31 mars 2025 au 30 juin 2026, elle est considérée comme éligible, même si des juristes le contestent ; le Conseil constitutionnel tranchera en arrêtant la liste des candidats. Elle s'est pourvue en cassation ; la Cour de cassation a indiqué qu'elle entendait se prononcer avant le premier tour, au plus tard début avril 2027.",
+      "groups": [
+        "RN"
+      ],
+      "acteurRef": "PA720614",
+      "note": "Députée et présidente du groupe Rassemblement national : ses votes personnels servent au calcul, complétés par ceux de son groupe lorsqu'elle n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "Toute l'Europe — Procès des assistants du RN : Marine Le Pen condamnée en appel, mais éligible à l'élection présidentielle 2027",
+          "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/proces-des-assistants-du-rn-marine-le-pen-condamnee-en-appel-mais-eligible-a-l-election-presidentielle-2027/",
+          "date": "2026-07-09"
+        },
+        {
+          "label": "Euronews — « Je suis candidate à l'élection présidentielle », annonce Marine Le Pen sur TF1",
+          "url": "https://fr.euronews.com/my-europe/2026/07/07/je-suis-candidate-a-lelection-presidentielle-annonce-marine-le-pen-sur-tf1",
+          "date": "2026-07-07"
+        },
+        {
+          "label": "Public Sénat — Malgré son pourvoi en cassation, Marine Le Pen est-elle toujours inéligible, comme l'affirment plusieurs juristes ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/condamnation-de-marine-le-pen-malgre-son-pourvoi-en-cassation-est-elle-toujours-ineligible-comme-laffirment-plusieurs-juristes",
+          "date": "2026-07-08"
+        }
+      ]
+    },
+    {
+      "id": "david-lisnard",
+      "name": "David Lisnard",
+      "party": "Nouvelle Énergie",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 31 mars 2026, date de son départ des Républicains ; il plaide pour une primaire ouverte à droite.",
+      "groups": [
+        "DR"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : son parti, Nouvelle Énergie, n'a pas de groupe propre ; ses députés, dont sa secrétaire générale Alexandra Martin, siègent au groupe Droite républicaine, dont les votes servent d'estimation.",
+      "sources": [
+        {
+          "label": "franceinfo — Le maire de Cannes, David Lisnard, annonce sa candidature et officialise son départ des Républicains",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-maire-de-cannes-david-lisnard-annonce-sa-candidature-a-l-election-presidentielle-et-officialise-son-depart-des-republicains_7907063.html",
+          "date": "2026-03-31"
+        },
+        {
+          "label": "Wikipédia — Nouvelle Énergie (élus et groupes parlementaires)",
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie",
+          "date": "2026-09-26"
+        },
+        {
+          "label": "Assemblée nationale — Fiche de la députée Alexandra Martin (groupe Droite républicaine)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793342",
+          "date": "2026-09-26"
+        }
+      ]
+    },
+    {
+      "id": "emmanuel-maurel",
+      "name": "Emmanuel Maurel",
+      "party": "Gauche républicaine et socialiste",
+      "status": "declare",
+      "statusText": "Candidat depuis le 4 septembre 2026 à la primaire du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026).",
+      "groups": [
+        "GDR"
+      ],
+      "acteurRef": "PA842271",
+      "note": "Député siégeant au groupe Gauche démocrate et républicaine : ses votes personnels servent au calcul, complétés par ceux de ce groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — Le député Emmanuel Maurel annonce sa candidature à la primaire socialiste",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/le-depute-emmanuel-maurel-annonce-sa-candidature-a-la-primaire-socialiste-pour-l-election-presidentielle_8176532.html",
+          "date": "2026-09-04"
+        },
+        {
+          "label": "franceinfo — Cinq candidats participeront à la primaire à gauche pour la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "jean-luc-melenchon",
+      "name": "Jean-Luc Mélenchon",
+      "party": "La France insoumise",
+      "status": "investi",
+      "statusText": "Désigné par La France insoumise lors d'une réunion à Paris le 3 mai 2026, jour où il a déclaré sa candidature.",
+      "groups": [
+        "LFI"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe La France insoumise – Nouveau Front populaire.",
+      "sources": [
+        {
+          "label": "franceinfo — « Oui, je suis candidat » à l'élection présidentielle 2027, annonce Jean-Luc Mélenchon",
+          "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-invite-du-20-heures-de-tf1-dimanche-doit-officialiser-sa-candidature-pour-la-presidentielle-2027_7980578.html",
+          "date": "2026-05-03"
+        }
+      ]
+    },
+    {
+      "id": "edouard-philippe",
+      "name": "Édouard Philippe",
+      "party": "Horizons",
+      "status": "declare",
+      "statusText": "Candidat déclaré depuis le 3 septembre 2024.",
+      "groups": [
+        "HOR"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe Horizons & indépendants, dont son parti est la composante principale.",
+      "sources": [
+        {
+          "label": "franceinfo — Édouard Philippe se déclare candidat et acte sa rupture avec Emmanuel Macron",
+          "url": "https://www.franceinfo.fr/politique/edouard-philippe/presidentielle-2027-edouard-philippe-se-declare-candidat-et-acte-sa-rupture-avec-emmanuel-macron_6762466.html",
+          "date": "2024-09-03"
+        }
+      ]
+    },
+    {
+      "id": "bruno-retailleau",
+      "name": "Bruno Retailleau",
+      "party": "Les Républicains",
+      "status": "investi",
+      "statusText": "Désigné candidat des Républicains le 19 avril 2026 par une consultation des adhérents.",
+      "groups": [
+        "DR"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe Droite républicaine, formé par les députés Les Républicains.",
+      "sources": [
+        {
+          "label": "franceinfo — Bruno Retailleau largement désigné candidat par les adhérents du parti Les Républicains",
+          "url": "https://www.franceinfo.fr/politique/les-republicains/presidentielle-2027-bruno-retailleau-largement-designe-candidat-par-les-adherents-du-parti-les-republicains_7949957.html",
+          "date": "2026-04-19"
+        }
+      ]
+    },
+    {
+      "id": "fabien-roussel",
+      "name": "Fabien Roussel",
+      "party": "Parti communiste français",
+      "status": "investi",
+      "statusText": "Désigné par un vote des adhérents du Parti communiste en faveur d'une candidature autonome (« à 72 % », selon lui) ; candidat déclaré depuis le 6 septembre 2026.",
+      "groups": [
+        "GDR"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas député : estimation à partir des votes du groupe Gauche démocrate et républicaine, où siègent les députés communistes.",
+      "sources": [
+        {
+          "label": "franceinfo — Le communiste Fabien Roussel officialise sa candidature à l'élection présidentielle de 2027",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/le-communiste-fabien-roussel-officialise-sa-candidature-a-l-election-presidentielle-de-2027-pour-defendre-un-projet-de-rupture_8179856.html",
+          "date": "2026-09-06"
+        }
+      ]
+    },
+    {
+      "id": "segolene-royal",
+      "name": "Ségolène Royal",
+      "party": "Parti socialiste",
+      "status": "declare",
+      "statusText": "Candidate depuis le 10 juillet 2026 à la primaire du Parti socialiste, de Place publique et de la Gauche républicaine et socialiste (9-10 et 16-17 octobre 2026).",
+      "groups": [
+        "SOC"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas députée : estimation à partir des votes du groupe Socialistes et apparentés, formé autour des députés de son parti.",
+      "sources": [
+        {
+          "label": "franceinfo — Ségolène Royal annonce qu'elle participera à la primaire socialiste",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/segolene-royal-annonce-qu-elle-participera-a-la-primaire-socialiste-en-vue-de-l-election-presidentielle_8102696.html",
+          "date": "2026-07-10"
+        },
+        {
+          "label": "franceinfo — Cinq candidats participeront à la primaire à gauche pour la présidentielle",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/cinq-candidats-participeront-a-la-primaire-de-la-gauche-pour-la-presidentielle-le-depute-philippe-brun-exclu-apres-des-accusations-de-violences_8194955.html",
+          "date": "2026-09-16"
+        }
+      ]
+    },
+    {
+      "id": "francois-ruffin",
+      "name": "François Ruffin",
+      "party": "Debout !",
+      "status": "declare",
+      "statusText": "A annoncé sa candidature en avril 2025, puis confirmé le 26 janvier 2026 qu'il se présenterait à la primaire de la gauche unitaire prévue le 11 octobre 2026 ; cette primaire ayant été abandonnée à l'été 2026, il reste candidat, comme il l'avait annoncé le 12 mai 2026 (« S'il n'y a pas de primaire, moi j'y vais »).",
+      "groups": [
+        "ECOS"
+      ],
+      "acteurRef": "PA722142",
+      "note": "Député siégeant au groupe Écologiste et social : ses votes personnels servent au calcul, complétés par ceux de ce groupe lorsqu'il n'a pas pris part au scrutin.",
+      "sources": [
+        {
+          "label": "franceinfo — Primaire de la gauche : le député François Ruffin confirme qu'il sera bien candidat",
+          "url": "https://www.franceinfo.fr/politique/primaire-de-la-gauche-le-depute-francois-ruffin-confirme-qu-il-sera-bien-candidat_7766543.html",
+          "date": "2026-01-26"
+        },
+        {
+          "label": "LCP — « S'il n'y a pas de primaire, moi j'y vais », annonce François Ruffin",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-s-il-n-y-a-pas-de-primaire-moi-j-y-vais-annonce-francois-ruffin",
+          "date": "2026-05-12"
+        },
+        {
+          "label": "France 24 (AFP) — Aux journées du PS, Ruffin fustige la primaire social-démocrate",
+          "url": "https://www.france24.com/fr/info-en-continu/20260829-aux-journ%C3%A9es-du-ps-ruffin-fustige-la-primaire-social-d%C3%A9mocrate",
+          "date": "2026-08-29"
+        },
+        {
+          "label": "Wikipédia — Primaire de la gauche unitaire de 2026 (abandon de fait depuis juillet 2026)",
+          "url": "https://fr.wikipedia.org/wiki/Primaire_de_la_gauche_unitaire_de_2026",
+          "date": "2026-09-26"
+        },
+        {
+          "label": "Public Sénat — Les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "date": "2026-09-21"
+        }
+      ]
+    },
+    {
+      "id": "marine-tondelier",
+      "name": "Marine Tondelier",
+      "party": "Les Écologistes",
+      "status": "investi",
+      "statusText": "Désignée par les adhérents des Écologistes le 8 décembre 2025 (86 %) pour représenter le parti à la primaire de la gauche unitaire ; cette primaire ayant été abandonnée, un conseil fédéral extraordinaire a maintenu sa candidature le 21 septembre 2026, jusqu'à un vote des adhérents (10-13 décembre 2026) qui choisira entre son maintien et le soutien à un autre candidat de gauche.",
+      "groups": [
+        "ECOS"
+      ],
+      "acteurRef": null,
+      "note": "N'est pas députée : estimation à partir des votes du groupe Écologiste et social, où siègent les députés des Écologistes.",
+      "sources": [
+        {
+          "label": "franceinfo — Marine Tondelier désignée pour représenter Les Écologistes à la primaire de la gauche",
+          "url": "https://www.franceinfo.fr/politique/eelv/presidentielle-2027-sans-surprise-marine-tondelier-a-ete-designee-pour-representer-les-ecologistes-a-la-primaire-de-la-gauche_7666159.html",
+          "date": "2025-12-08"
+        },
+        {
+          "label": "Public Sénat — Les Écologistes reportent l'heure du choix à décembre, Marine Tondelier toujours en lice",
+          "url": "https://www.publicsenat.fr/actualites/politique/presidentielle-2027-les-ecologistes-reportent-lheure-du-choix-a-decembre-marine-tondelier-toujours-en-lice",
+          "date": "2026-09-21"
+        },
+        {
+          "label": "franceinfo — Marine Tondelier, candidate des Écologistes à la présidentielle 2027, a accouché d'un garçon",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/la-candidate-des-ecologistes-a-la-presidentielle-2027-marine-tondelier-a-accouche-d-un-garcon-prenomme-leon_8205839.html",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "id": "dominique-de-villepin",
+      "name": "Dominique de Villepin",
+      "party": "La France humaniste",
+      "status": "pressenti",
+      "statusText": "A déclaré le 30 août 2026 vouloir être candidat (« je me bats pour être candidat ») ; il dit vouloir se déclarer officiellement « quand la campagne électorale aura commencé » et revendique « plusieurs centaines » de parrainages, en deçà des 500 requis.",
+      "groups": [],
+      "acteurRef": null,
+      "note": "N'est pas député et son parti, La France humaniste, ne forme pas de groupe à l'Assemblée nationale : sa proximité ne peut pas être calculée à partir des votes.",
+      "sources": [
+        {
+          "label": "franceinfo — « Je me bats pour être candidat », déclare Dominique de Villepin",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-me-bats-pour-etre-candidat-declare-dominique-de-villepin-qui-revendique-plusieurs-centaines-de-parrainages_8169629.html",
+          "date": "2026-08-30"
+        },
+        {
+          "label": "LCP — Présidentielle 2027 : la liste des candidats déjà en lice et des prétendants",
+          "url": "https://lcp.fr/actualites/presidentielle-2027-la-liste-des-candidats-deja-en-lice-et-des-pretendants-436373",
+          "date": "2026-09-24"
+        },
+        {
+          "label": "franceinfo — Dominique de Villepin lance son propre parti, baptisé La France humaniste",
+          "url": "https://www.franceinfo.fr/politique/dominique-de-villepin-lance-son-propre-parti-baptise-la-france-humaniste_7334352.html",
+          "date": "2025-06-24"
+        }
+      ]
+    },
+    {
+      "id": "eric-zemmour",
+      "name": "Éric Zemmour",
+      "party": "Reconquête",
+      "status": "declare",
+      "statusText": "A annoncé le 17 septembre 2026 qu'il serait candidat ; selon son entourage, la déclaration formelle doit suivre à l'automne.",
+      "groups": [],
+      "acteurRef": null,
+      "note": "N'est pas député et Reconquête ne forme pas de groupe à l'Assemblée nationale : sa proximité ne peut pas être calculée à partir des votes.",
+      "sources": [
+        {
+          "label": "franceinfo — Éric Zemmour, président de Reconquête, annonce sa candidature à l'élection présidentielle",
+          "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-president-du-parti-d-extreme-droite-reconquete-annonce-sa-candidature-a-l-election-presidentielle_8198141.html",
+          "date": "2026-09-17"
+        }
+      ]
+    }
+  ]
+}

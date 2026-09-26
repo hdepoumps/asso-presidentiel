@@ -1,0 +1,222 @@
+{
+  "id": "rave-parties-delit-organisation-participation",
+  "theme": "securite",
+  "question": "Faut-il punir de prison ceux qui organisent ou aident à organiser une rave-party non déclarée ou interdite, et punir aussi les participants quand son caractère illégal a été rendu public ?",
+  "explainer": {
+    "title": "Qu'est-ce qui change ?",
+    "text": "Avant cette loi, les fêtes musicales organisées hors des lieux prévus à cet effet devaient être déclarées au préfet au-delà de 500 participants ; ne pas le faire était une contravention, punie d'une amende. Le texte abaisse ce seuil à 250 personnes et fait un délit (deux ans de prison, 30 000 € d'amende, confiscation du matériel) du fait de contribuer, directement ou indirectement, à la préparation, à l'installation ou au déroulement d'une telle fête non déclarée ou interdite. Il crée aussi un délit de participation (six mois de prison, 7 500 € d'amende) lorsque les autorités ont rendu public le caractère illégal de la fête ; la police peut alors infliger directement une amende forfaitaire de 500 €. Les loueurs de sonorisation puissante doivent vérifier que la fête a été déclarée.",
+    "sources": [
+      "s2",
+      "s3",
+      "s4"
+    ]
+  },
+  "contre": [
+    {
+      "text": "La répression ne ferait pas disparaître ces fêtes : selon ses opposants, des lois plus dures à l'étranger les ont rendues plus grandes, et le seuil de 250 personnes multiplierait les petites fêtes non contrôlées.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Punir de prison la participation à une fête dans un champ serait disproportionné ; le droit actuel permet déjà d'intervenir, et les déclarations se heurteraient souvent à des refus de l'administration.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Le délit viserait toute contribution « directe ou indirecte » : selon ses opposants, il pourrait frapper ceux qui ramassent les déchets ou portent secours, alors qu'il vaudrait mieux encadrer ces fêtes avec des associations de prévention.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Ces rassemblements laissent parfois des terres agricoles saccagées, des déchets et des nuisances pendant plusieurs jours, et les maires des communes rurales se disent démunis pour y faire face.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la simple contravention ne dissuade pas : la déclaration est rarement faite, ce qui oblige le préfet à organiser les secours au dernier moment ; les grandes fêtes mobilisent des centaines de gendarmes et de pompiers.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, le texte vise les organisateurs qui contournent la loi, pas la musique : les participants ne sont punissables que si le caractère illégal de la fête a été rendu public.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques du Gouvernement et de députés rétablissant un article d'un projet de loi, première lecture",
+    "textTitle": "Projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens",
+    "summary": "Adopté par le Sénat le 26 mai 2026, l'article sur les rassemblements musicaux illégaux avait été supprimé par la commission des lois de l'Assemblée ; il a été rétabli en séance le 8 juillet 2026 par des amendements identiques du Gouvernement et de députés. Une proposition de loi adoptée par l'Assemblée le 9 avril 2026 allait dans le même sens avec des peines plus légères (six mois de prison pour l'organisation, simple amende pour la participation) ; elle est restée en attente au Sénat. Le projet de loi comporte de nombreuses autres mesures (rodéos motorisés, protoxyde d'azote, mortiers d'artifice, vidéoprotection algorithmique…).",
+    "sources": [
+      "s2",
+      "s3",
+      "s6",
+      "s8"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-07-15",
+      "label": "Assemblée nationale",
+      "text": "L'Assemblée adopte l'ensemble du projet de loi en première lecture (366 voix pour, 182 contre).",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "label": "Adoption définitive",
+      "text": "Après un accord en commission mixte paritaire le 20 juillet 2026, le Sénat puis l'Assemblée adoptent définitivement le projet de loi le 21 juillet (351 voix pour, 179 contre à l'Assemblée), mesures sur les rave-parties comprises. La commission mixte paritaire n'a pas repris l'exemption, votée par le Sénat, des associations de réduction des risques. La loi rend aussi les organisateurs solidairement responsables des dégâts (avec remise en état des lieux) et leur fait rembourser les dépenses supplémentaires des collectivités.",
+      "sources": [
+        "s9",
+        "s10",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-915 DC : les délits d'organisation et de participation, ainsi que l'amende forfaitaire, sont jugés conformes à la Constitution. L'interdiction faite aux loueurs de sonorisation puissante de louer sans déclaration préalable est validée sous réserve : elle ne vaut que pour une location liée à une fête précise soumise à déclaration.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-798 du 18 août 2026, publiée au Journal officiel du 19 août 2026 (article 3). Cet article n'ayant pas d'entrée en vigueur différée, les nouveaux délits s'appliquent depuis le 20 août 2026.",
+      "sources": [
+        "s11",
+        "s6",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Application",
+      "text": "Au 26 septembre 2026, le décret qui précise quelles fêtes doivent être déclarées n'a pas été modifié : il retient toujours un effectif prévisible de plus de 500 personnes, alors que la loi fixe désormais le seuil à 250. L'arrêté fixant la puissance du matériel dont la location suppose une déclaration n'est pas non plus publié.",
+      "sources": [
+        "s13",
+        "s12"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V8037",
+      "numero": 8037,
+      "date": "2026-07-08",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques (dont celui du Gouvernement), tels que sous-amendés, rétablissant l'article sur les rassemblements musicaux illégaux (délits d'organisation et de participation)"
+    },
+    {
+      "uid": "VTANR5L17V6124",
+      "numero": 6124,
+      "date": "2026-04-09",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble d'une proposition de loi punissant de prison l'organisation d'une rave-party illégale et d'une amende la participation (première lecture)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 8037 (8 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8037",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 884 du Gouvernement à l'article 2 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2984/AN/884",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur l'article 2 (8 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N007",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Conseil constitutionnel — Décision n° 2026-915 DC, § 56 à 92 (14 août 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — La loi en clair : projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-visant-a-offrir-des-reponses-immediates-aux-phenomenes-troublant-lordre-public-la-securite-et-la-tranquillite-de-nos-concitoyens.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 6124 (9 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi visant à renforcer la pénalisation de l'organisation de rave-parties",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/penalisation_rave_party_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Rapport de la commission mixte paritaire n° 904, session 2025-2026 (20 juillet 2026)",
+      "url": "https://www.senat.fr/rap/l25-904/l25-904.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Texte définitif n° 164, session 2025-2026 (21 juillet 2026)",
+      "url": "https://www.senat.fr/leg/tas25-164.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Loi n° 2026-798 du 18 août 2026 (JO du 19 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054707332",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Code de la sécurité intérieure, articles L. 211-5 à L. 211-8 : rassemblements festifs à caractère musical (version en vigueur depuis le 20 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000025503132/LEGISCTA000025505143/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Code de la sécurité intérieure, article R. 211-2 : rassemblements soumis à déclaration (version en vigueur)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028285031",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour le rétablissement (8 juillet 2026) : RN, Ensemble pour la République (37 pour, 2 contre, dont un député ayant ensuite indiqué avoir voulu voter pour), Les Démocrates, Horizons, Droite républicaine, UDR et LIOT. Contre : LFI-NFP, Socialistes, Écologiste et social, GDR. Même clivage sur la proposition de loi du 9 avril 2026, portée par une députée Horizons (UDR n'a pas pris part au vote), et sur l'ensemble du projet de loi (15 juillet : 366 pour, 182 contre ; texte final le 21 juillet : 351 pour, 179 contre). Des amendements de députés UDR (un an de prison et 15 000 € d'amende pour les participants, interdiction de paraître) et RN (amende plus lourde pour les organisateurs, saisie du matériel par les maires) voulaient aller plus loin ; ils ont été rejetés. Le Conseil constitutionnel a été saisi le 24 juillet 2026 par les députés Socialistes d'une part, LFI-NFP, Écologiste et social et GDR d'autre part.",
+  "lastVerified": "2026-09-26"
+}

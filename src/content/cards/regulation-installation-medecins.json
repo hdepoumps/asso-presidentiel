@@ -1,0 +1,158 @@
+{
+  "id": "regulation-installation-medecins",
+  "theme": "sante",
+  "question": "Faut-il soumettre l'installation des médecins à l'accord de l'agence régionale de santé, automatique là où l'on manque de médecins et, ailleurs, donné seulement pour remplacer un départ ?",
+  "explainer": {
+    "title": "Que changerait cette autorisation ?",
+    "text": "Aujourd'hui, un médecin peut ouvrir son cabinet où il le souhaite : c'est la liberté d'installation. Les agences régionales de santé (ARS), qui organisent les soins dans chaque région, classent déjà les territoires selon l'offre de soins. Avec la mesure votée, toute installation d'un médecin en ville, à son compte (libéral) ou salarié, généraliste ou spécialiste, exigerait l'accord de l'ARS, après avis de l'Ordre des médecins, l'instance qui encadre la profession. Cet accord serait automatique dans une zone qui manque de médecins. Ailleurs, il ne serait donné que si un médecin de la même spécialité cesse son activité dans la même zone.",
+    "sources": ["s2", "s3"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, les médecins manquent presque partout : répartir la pénurie ne crée aucun médecin de plus. Il faudrait plutôt en former davantage, rendre le métier attractif et confier des tâches à d'autres soignants.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "La règle serait facile à contourner : un médecin refusé pourrait prendre un poste à l'hôpital ou en Ehpad, racheter la patientèle d'un confrère proche de la retraite ou changer de spécialité, et du temps médical serait perdu.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "La contrainte risquerait de décourager étudiants et jeunes médecins, voire d'en pousser certains à l'étranger ; les opposants citent le Royaume-Uni, la Suisse, le Québec et les Pays-Bas, qui auraient abandonné ce type de régulation.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, les aides financières à l'installation essayées depuis des années n'ont pas suffi : environ 6 millions de Français n'ont pas de médecin traitant et certains attendent des mois pour voir un spécialiste.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses défenseurs, l'accord serait automatique dans les zones qui manquent de médecins, soit 87 % du territoire : seules les installations dans les zones mieux pourvues seraient freinées, sans obligation d'aller exercer ailleurs.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Infirmiers, kinésithérapeutes, pharmaciens et sages-femmes ont déjà des règles d'installation, qui auraient réduit les écarts entre territoires ; selon eux, une contrepartie légitime pour une profession financée par la Sécurité sociale.",
+      "sources": ["s3"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement rétablissant l'article 1er d'une proposition de loi sur l'accès aux soins, première lecture",
+    "textTitle": "Proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane",
+    "summary": "Déposée le 13 février 2025 par des députés de plusieurs groupes, la proposition de loi comptait d'autres mesures sur l'accès aux soins. Son article 1er, qui crée cette régulation, avait été supprimé en commission ; il a été rétabli en séance le 2 avril 2025 par cet amendement et un amendement identique. Le Gouvernement en demandait le retrait, pour se donner le mois d'avril afin de chercher des solutions avec les professionnels de santé et les élus.",
+    "sources": ["s2", "s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2025-05-07",
+      "label": "Assemblée nationale",
+      "text": "Le texte, article 1er compris, est adopté en première lecture par 99 voix contre 9, puis transmis au Sénat.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "date": "2026-06-11",
+      "label": "Sénat",
+      "text": "Le Sénat refuse de revenir à la version de l'Assemblée (236 voix contre 106), puis adopte, par 215 voix contre 118, un article 1er modifié, moins contraignant : dans les zones les mieux dotées, un généraliste pourrait s'installer s'il s'engage à exercer à temps partiel dans une zone qui manque de médecins ; pour les autres spécialités, l'accord resterait lié à un départ, sauf engagement de ce type ou décision motivée de l'ARS. Le temps prévu pour le texte étant écoulé, l'examen des autres articles est suspendu.",
+      "sources": ["s6", "s9", "s10", "s12"]
+    },
+    {
+      "date": "2026-09",
+      "label": "État du texte",
+      "text": "Au 26 septembre 2026, l'examen au Sénat n'a pas repris. Comme les deux assemblées ont adopté des versions différentes de l'article 1er, le texte devra de toute façon revenir devant l'Assemblée. Une autre proposition de loi, d'origine sénatoriale, qui conditionne elle aussi l'installation en zone bien dotée à un exercice partiel en zone qui manque de médecins, a été adoptée par le Sénat le 13 mai 2025 mais n'a pas été examinée en séance à l'Assemblée. La régulation de l'installation des médecins n'est pas en vigueur.",
+      "sources": ["s6", "s8", "s11"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1214",
+      "numero": 1214,
+      "date": "2025-04-02",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement rétablissant l'article 1er : installation des médecins soumise à l'autorisation de l'agence régionale de santé"
+    },
+    {
+      "uid": "VTANR5L17V1607",
+      "numero": 1607,
+      "date": "2025-05-07",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en première lecture (texte comprenant d'autres mesures)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1214 (2 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1214",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° 55 rétablissant l'article 1er (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1180/AN/55.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'article 1er (2 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N158",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/contre_deserts_medicaux_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Scrutin n° 1607 sur l'ensemble du texte (7 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1607",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — La loi en clair : proposition de loi visant à lutter contre les déserts médicaux",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-lutter-contre-les-deserts-medicaux-dinitiative-transpartisane.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Dossier législatif ppl24-605 (mis à jour le 15 septembre 2026)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-605.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Scrutin n° 307 sur l'article 1er (11 juin 2026)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-307.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Scrutin n° 305 sur le rétablissement de la version de l'Assemblée (11 juin 2026)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-305.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi sénatoriale visant à améliorer l'accès aux soins dans les territoires",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51795",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Sénat — Texte adopté, articles déjà examinés (11 juin 2026)",
+      "url": "https://www.senat.fr/petite-loi-ameli/2025-2026/669.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Texte transpartisan, déposé par des députés de tous les groupes sauf le RN et l'UDR : plusieurs groupes se sont divisés. Scrutin du 2 avril 2025 (243 votants) : pour — LFI-NFP, GDR, Écologiste et social (unanimes), Socialistes (50 pour, 1 contre), LIOT (6 pour, 1 contre) et Les Démocrates (7 pour, 1 contre, 2 abstentions). Contre — RN (50 contre, unanime) et Ensemble pour la République (18 contre, 4 pour, 1 abstention). Groupes partagés : Horizons (8 pour, 5 contre), Droite républicaine (8 pour, 6 contre), UDR (2 pour, 2 contre). Le Gouvernement demandait le retrait de l'amendement. Sur l'ensemble du texte (7 mai 2025, 118 votants), le RN s'est abstenu et Ensemble pour la République s'est partagé (4 pour, 4 contre).",
+  "lastVerified": "2026-09-26"
+}

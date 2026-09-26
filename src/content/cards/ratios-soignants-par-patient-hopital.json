@@ -1,0 +1,129 @@
+{
+  "id": "ratios-soignants-par-patient-hopital",
+  "theme": "sante",
+  "question": "Faut-il imposer dans les hôpitaux un nombre minimum de soignants par patient, fixé pour chaque spécialité et chaque type de soins ?",
+  "explainer": {
+    "title": "Comment fonctionneront ces ratios ?",
+    "text": "Pour chaque spécialité et chaque type d'activité, un décret pris après avis de la Haute Autorité de santé (HAS) fixera un nombre minimal de soignants par lit ouvert, ou par nombre de passages pour les soins sans nuit à l'hôpital, en tenant compte de la charge de soins. Ces ratios seront revus au moins tous les cinq ans. Ils visent la « qualité des soins » et se distinguent des normes de sécurité qui existent déjà pour quelques activités, comme la réanimation ou la néonatalogie. La loi ne prévoit pas de sanction : si un service ne peut pas les respecter plus de trois jours, la direction doit prévenir l'agence régionale de santé (ARS). Cette obligation vise les établissements qui assurent le service public hospitalier (hôpitaux publics, établissements privés à but non lucratif…) ; un amendement qui l'étendait à tous les établissements de santé a été rejeté.",
+    "sources": ["s2", "s3", "s7"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le problème n'est pas l'absence de normes mais le manque de soignants à recruter : face à un seuil impossible à atteindre, des hôpitaux pourraient fermer des lits plutôt que d'embaucher.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Ils citent l'Allemagne où, selon une enquête de la fédération des hôpitaux allemands, 62 % des hôpitaux interrogés ont fermé des lits après l'instauration de seuils et 80 % des soignants interrogés disent que leur charge n'a pas baissé.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Des normes nationales seraient trop rigides pour des hôpitaux très différents ; ils demandaient une expérimentation et une étude d'impact avant toute généralisation.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, quand un soignant a trop de patients, les complications augmentent : chutes, escarres, infections, erreurs de médicaments. Là où des ratios existent, la mortalité et les complications auraient baissé.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Selon eux, près de 10 % des postes d'infirmiers ne sont pas pourvus, surtout à cause des conditions de travail ; en Californie, les ratios auraient aidé à faire revenir des infirmières, sans fermeture de services.",
+      "sources": ["s3", "s7"]
+    },
+    {
+      "text": "Ces ratios n'obligeraient pas à fermer des lits : un hôpital sous le seuil doit seulement alerter l'ARS. Fixer un seuil rendrait visible le manque de personnel et pousserait à financer formations et recrutements.",
+      "sources": ["s2", "s3"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi d'origine sénatoriale à article unique, vote sur l'ensemble (adoption définitive)",
+    "textTitle": "Proposition de loi relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé",
+    "summary": "Déposé au Sénat en novembre 2022 et adopté par les sénateurs le 1er février 2023, le texte a été adopté sans modification par la commission des affaires sociales de l'Assemblée, puis examiné en séance le 23 janvier 2025. Les amendements qui proposaient une expérimentation préalable, une étude d'impact, une application progressive selon les territoires ou une extension à tous les établissements de santé ont été rejetés : adopté sans modification, le texte est devenu définitif dès ce vote.",
+    "sources": ["s3", "s4", "s7"]
+  },
+  "suite": [
+    {
+      "date": "2025-01-29",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-74 du 29 janvier 2025, publiée au Journal officiel le 30 janvier, sans saisine du Conseil constitutionnel. Les articles qui créent les ratios entrent en vigueur le 1er janvier 2027, mais chaque ratio doit d'abord être fixé par décret, après avis de la HAS.",
+      "sources": ["s2", "s4", "s5"]
+    },
+    {
+      "date": "2026-06-16",
+      "label": "Haute Autorité de santé",
+      "text": "Saisie par le ministère de la santé en juillet 2025 (saisine rectifiée en avril 2026), la HAS annonce un premier avis en novembre 2026 pour l'obstétrique et la néonatalogie, afin qu'un décret puisse s'appliquer au 1er janvier 2027. Suivront les soins palliatifs et la psychiatrie (propositions attendues à l'été et à l'automne 2027), d'abord pour les infirmiers et les aides-soignants ; aucun calendrier n'est fixé pour les autres spécialités.",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2026-09-03",
+      "label": "Gouvernement",
+      "text": "En réponse à une question écrite au Sénat, le ministère indique attendre les propositions de la HAS et prévoit un déploiement « progressif, réaliste et adapté aux capacités des établissements ». À cette date, aucun décret fixant des ratios n'a été publié.",
+      "sources": ["s8"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V600",
+      "numero": 600,
+      "date": "2025-01-23",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi (article unique), adoptée sans modification"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 600 (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/600",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Légifrance — Loi n° 2025-74 relative à l'instauration d'un nombre minimum de soignants par patient hospitalisé (29 janvier 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051058565",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N080",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N46650",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — La loi en clair : nombre minimum de soignants par patient hospitalisé",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-a-linstauration-dun-nombre-minimum-de-soignants-par-patient-hospitalise.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Haute Autorité de santé — Ratios minimum de soignants : note de cadrage (16 juin 2026)",
+      "url": "https://www.has-sante.fr/jcms/p_4085535/fr/avis-has-sur-les-ratios-minimum-soignants-en-neonatalogie-en-obstetrique-en-soins-palliatifs-et-en-psychiatrie-note-de-cadrage",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Compte rendu de la première séance (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N079",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Question écrite n° 04326 sur l'application de la loi sur les ratios de soignants (réponse publiée le 3 septembre 2026)",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ250404326.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Aucun groupe n'a voté contre : le clivage oppose un vote pour à une abstention. Scrutin du 23 janvier 2025 (211 votants) : pour — Socialistes, LFI-NFP, Écologiste et social, GDR, LIOT (unanimes) et les 2 députés Droite républicaine qui ont pris part au vote (sur 47). Abstention — RN (30 abstentions) et Ensemble pour la République (26 abstentions, 1 contre), qui disaient partager l'objectif mais jugeaient le texte insuffisamment encadré ou inapplicable en l'état ; Les Démocrates (6 abstentions, 1 pour) et Horizons (7 abstentions, 2 contre, 1 pour) se sont aussi surtout abstenus. Le seul député UDR présent s'est abstenu, alors que le groupe avait annoncé un vote pour pendant la discussion générale. Juste avant, le RN avait voté pour son amendement prévoyant une application progressive selon les territoires, rejeté par 158 voix contre 32 (scrutin n° 598).",
+  "lastVerified": "2026-09-26"
+}

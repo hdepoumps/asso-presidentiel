@@ -1,0 +1,248 @@
+{
+  "id": "zfe-suppression",
+  "theme": "mobilite",
+  "question": "Faut-il supprimer les zones à faibles émissions (ZFE), où la circulation des véhicules les plus anciens, classés comme les plus polluants par la vignette Crit'Air, est peu à peu interdite ?",
+  "explainer": {
+    "title": "C'est quoi, une ZFE ?",
+    "text": "Une zone à faibles émissions mobilité (ZFE-m) est un périmètre où la circulation des véhicules les plus anciens, classés comme les plus polluants par la vignette Crit'Air, est progressivement interdite pour lutter contre la pollution de l'air. Prévues par des lois de 2019 et 2021, elles sont obligatoires dans les agglomérations de plus de 150 000 habitants et possibles ailleurs ; les interdictions ne sont toutefois imposées que là où la pollution dépasse régulièrement les seuils (Paris et Lyon, selon le ministère).",
+    "sources": ["s19", "s6"]
+  },
+  "contre": [
+    {
+      "text": "La pollution de l'air causerait environ 40 000 décès prématurés par an en France ; selon les opposants à la suppression, il faut améliorer les ZFE plutôt que retirer un outil de lutte contre la pollution due au trafic routier.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Une étude d'Airparif, citée en séance, estime que l'interdiction des véhicules Crit'Air 3 dans l'agglomération parisienne a réduit de 2,2 % les décès prématurés liés à la pollution et de 5,2 % les nouveaux cas d'asthme.",
+      "sources": ["s5", "s4"]
+    },
+    {
+      "text": "Selon les opposants à la suppression, ce sont les habitants des quartiers populaires qui sont les plus exposés à la pollution de l'air et à l'asthme : supprimer les ZFE pénaliserait d'abord les plus modestes.",
+      "sources": ["s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon les partisans de la suppression, les ZFE porteraient atteinte à la liberté de circulation et fermeraient les grandes villes, où sont les services, aux ménages modestes et aux ruraux qui ne peuvent pas changer de voiture.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "text": "Selon les partisans de la suppression, l'air s'améliore déjà avec le renouvellement des voitures, et la vignette Crit'Air serait mal conçue : elle viserait des diesels équipés de filtres à particules et ignorerait l'usure des pneus.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon les partisans de la suppression, 15 millions de personnes sont déjà en précarité de mobilité ; faute d'aides suffisantes et de transports en commun hors des métropoles, les ZFE les priveraient d'accès à l'emploi et aux soins.",
+      "sources": ["s4"]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article ajouté en commission à un projet de loi du Gouvernement, première lecture",
+    "textTitle": "Projet de loi de simplification de la vie économique",
+    "summary": "Déposé au Sénat en avril 2024, ce projet de loi ne parlait pas des ZFE : leur suppression a été ajoutée par la commission spéciale de l'Assemblée (article 15 ter), contre l'avis du Gouvernement. En séance, le 28 mai 2025, les députés ont d'abord rejeté un amendement qui supprimait cet article et gardait donc les ZFE en l'état (24 voix pour, 115 contre), puis un amendement du Gouvernement qui ne rendait les ZFE obligatoires que là où la pollution dépasse les seuils (40 voix pour, 99 contre), avant d'adopter l'article, avec 155 votants sur 577 députés.",
+    "sources": ["s3", "s4", "s5", "s6", "s7", "s20"]
+  },
+  "suite": [
+    {
+      "date": "2025-06-17",
+      "label": "Assemblée nationale",
+      "text": "Le projet de loi, qui contient la suppression des ZFE, est adopté en première lecture (275 voix contre 252).",
+      "sources": ["s8"]
+    },
+    {
+      "date": "2026-01-20",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun qui maintient la suppression des ZFE ; deux rédactions de compromis (ZFE obligatoires seulement à Paris et Lyon, ou facultatives partout) sont rejetées.",
+      "sources": ["s17", "s8"]
+    },
+    {
+      "date": "2026-04-14",
+      "label": "Assemblée nationale",
+      "text": "Un amendement du Gouvernement supprimant toute obligation et laissant chaque collectivité libre d'avoir ou non une ZFE est rejeté (149 voix contre 192), puis le texte est adopté (275 voix contre 225).",
+      "sources": ["s18", "s8", "s10"]
+    },
+    {
+      "date": "2026-04-15",
+      "label": "Sénat",
+      "text": "Le Sénat adopte définitivement le texte, qui contient toujours la suppression des ZFE.",
+      "sources": ["s8", "s9"]
+    },
+    {
+      "date": "2026-05-21",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi par des députés, le Conseil constitutionnel censure la suppression des ZFE (article 37 de la loi) comme « cavalier législatif » : elle n'a aucun lien, même indirect, avec le projet de loi initial. Il ne se prononce pas sur le fond. Les ZFE restent donc en vigueur.",
+      "sources": ["s11", "s12"]
+    },
+    {
+      "date": "2026-05-26",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique, publiée sans la suppression des ZFE.",
+      "sources": ["s13"]
+    },
+    {
+      "date": "2026-06-23",
+      "label": "Assemblée nationale",
+      "text": "Une proposition de loi visant à abroger les ZFE est déposée à l'Assemblée ; son examen en séance publique est prévu le 8 octobre 2026. D'ici là, les ZFE restent en vigueur.",
+      "sources": ["s21"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2190",
+      "numero": 2190,
+      "date": "2025-05-28",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 15 ter supprimant les zones à faibles émissions (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V2184",
+      "numero": 2184,
+      "date": "2025-05-28",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement du Gouvernement maintenant les ZFE, obligatoires seulement là où les seuils de pollution sont dépassés et facultatives ailleurs (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2190 (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2190",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2190 (28 mai 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2190",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Texte de la commission spéciale n° 1191 rect. (article 15 ter)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1191_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-28-mai-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-28-mai-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° 2599 rectifié du Gouvernement à l'article 15 ter (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1191/AN/2599.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 2184 : amendement du Gouvernement à l'article 15 ter (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2184",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de simplification de la vie économique",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Banque des Territoires — Le Parlement adopte le texte avec la suppression des ZFE (15 avril 2026)",
+      "url": "https://www.banquedesterritoires.fr/projet-de-loi-de-simplification-de-la-vie-economique-le-parlement-adopte-le-texte-avec-la",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "LCP — La suppression des ZFE confirmée lors de l'ultime vote sur la loi de simplification à l'Assemblée (14 avril 2026)",
+      "url": "https://lcp.fr/actualites/la-suppression-des-zfe-confirmee-lors-de-l-ultime-vote-sur-la-loi-de-simplification-a-l",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2026-903 DC (21 mai 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026903DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "LCP — ZFE : le Conseil constitutionnel censure la suppression des zones à faibles émissions (21 mai 2026)",
+      "url": "https://lcp.fr/actualites/zfe-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2026-403 de simplification de la vie économique (26 mai 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000054131304/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Weka — Loi de simplification : le Conseil constitutionnel censure la suppression des zones à faibles émissions (22 mai 2026)",
+      "url": "https://www.weka.fr/actualite/developpement-durable/article/loi-de-simplification-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions-214483/",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Scrutin n° 6184 : ensemble du projet de loi, texte de la commission mixte paritaire (14 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6184",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Scrutin n° 6183 : amendement n° 8 rectifié du Gouvernement (14 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6183",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale et Sénat — Rapport de la commission mixte paritaire n° 2357 (20 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/481/l17b2357_rapport-fond.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Assemblée nationale — Compte rendu de la première séance (14 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mardi-14-avril-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s19",
+      "label": "Ministère de la Transition écologique — Zones à faibles émissions (ZFE) (mise à jour du 13 août 2025)",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/zones-faibles-emissions-zfe",
+      "kind": "officiel"
+    },
+    {
+      "id": "s20",
+      "label": "Assemblée nationale — Scrutin n° 2152 : amendement de suppression de l'article 15 ter (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2152",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s21",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi n° 2970 visant à abroger les zones à faibles émissions-mobilités (déposée le 23 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Même vote, motivations différentes : LFI-NFP a voté la suppression au nom des inégalités sociales et du manque de transports publics ; RN, UDR et Droite républicaine au nom de la liberté de circulation et de l'égalité entre territoires. Contre : Écologiste et social, Socialistes et la plupart des députés EPR présents ; Démocrates entre contre et abstention ; Horizons partagés. GDR n'a pas pris part au vote et un seul député LIOT a voté : aucune position n'est calculée pour ces deux groupes. Participation faible (155 votants). Le 14 avril 2026, sur le texte final, l'amendement du Gouvernement laissant chaque collectivité libre de garder ou non sa ZFE a été rejeté (scrutin n° 6183 : 149 pour, 192 contre) : Socialistes, EPR, Démocrates et la majorité d'Horizons et de LIOT pour ; RN, UDR, Droite républicaine et LFI-NFP contre ; la plupart des écologistes ont aussi voté contre, jugeant qu'il revenait à supprimer les ZFE sans l'assumer ; GDR s'est abstenu. Sur l'ensemble du texte final (scrutin n° 6184), qui portait sur bien d'autres sujets, les quatre groupes de gauche ont voté contre, y compris LFI-NFP, pourtant favorable à la suppression des ZFE ; EPR s'est divisé (25 pour, 30 contre, 19 abstentions). Ces deux votes d'avril 2026 ne servent pas au calcul, car ils ne portent pas seulement sur la suppression des ZFE.",
+  "lastVerified": "2026-09-26"
+}

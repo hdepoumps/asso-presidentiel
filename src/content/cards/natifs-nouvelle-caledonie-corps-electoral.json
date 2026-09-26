@@ -1,0 +1,186 @@
+{
+  "id": "natifs-nouvelle-caledonie-corps-electoral",
+  "theme": "territoires",
+  "question": "Faut-il inscrire d'office et durablement sur la liste électorale provinciale de Nouvelle-Calédonie tous les électeurs nés dans l'archipel, en dehors d'un accord global sur son avenir ?",
+  "explainer": {
+    "title": "C'est quoi, le corps électoral « gelé » ?",
+    "text": "La Nouvelle-Calédonie, archipel français du Pacifique, a un statut particulier issu des accords de Matignon (1988) et de Nouméa (1998), qui ont ramené la paix civile et organisé l'émancipation progressive du territoire, avec trois référendums sur l'indépendance. Pour élire les assemblées des trois provinces et le Congrès, le parlement local, la liste électorale est réservée pour l'essentiel aux électeurs installés avant 1998 et à leurs enfants : elle est « gelée » depuis 2007. Des personnes nées sur place n'y figurent pas, faute de remplir ces conditions. En mai 2024, un projet d'élargissement de cette liste a été suivi d'émeutes qui ont fait quatorze morts. Le texte ajoute à cette liste, pour toutes les élections à venir, les personnes nées sur place et inscrites sur la liste électorale ordinaire. Il a été adopté en dehors d'un « accord global », c'est-à-dire d'un accord d'ensemble sur l'avenir institutionnel du territoire : ses opposants jugeaient un tel accord préalable, ses défenseurs estimaient que les élections, reportées depuis 2024, ne pouvaient plus se tenir en excluant ces électeurs.",
+    "sources": ["s3", "s8", "s2"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le texte ne viserait pas que les natifs actuels : il ouvrirait durablement la liste à tous les futurs natifs, une forme de « droit du sol » que l'accord de Nouméa n'avait pas prévue.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "La liste restreinte est un pilier de l'accord de Nouméa ; ses opposants se disent ouverts au vote des natifs, mais dans un accord d'ensemble : décider sans lui, deux ans après les émeutes de 2024, risquerait de raviver les tensions.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Modifier la liste électorale quelques semaines avant le scrutin, dans des délais très serrés, serait précipité : mieux vaudrait voter avec les règles existantes, puis négocier avec des élus issus de ce nouveau vote.",
+      "sources": ["s2"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Plus de 10 000 personnes nées en Nouvelle-Calédonie, souvent jeunes, qui y vivent et y travaillent, ne pouvaient pas voter pour les provinces et le Congrès ; selon ses défenseurs, l'égalité du droit de vote l'exige.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "La part des électeurs privés du vote provincial serait passée de moins de 8 % en 1998 à 17 % aujourd'hui ; l'ajout des seuls natifs, dont près de quatre sur dix relèvent du statut civil coutumier kanak, ne bouleverserait pas les équilibres.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Le Congrès de Nouvelle-Calédonie a donné un avis favorable (25 voix pour, 14 contre, 13 abstentions) et les natifs ont pu voter aux trois référendums : les écarter des provinciales n'aurait pas de sens, selon ses défenseurs.",
+      "sources": ["s2", "s3"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi organique d'origine sénatoriale, vote sur l'ensemble (adoption définitive)",
+    "textTitle": "Proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie",
+    "summary": "Après le rejet par l'Assemblée, le 2 avril 2026, de la réforme constitutionnelle issue de l'accord de Bougival (conclu en juillet 2025 entre l'État et des représentants des forces politiques calédoniennes), les élections provinciales, reportées depuis 2024, ont été fixées au 28 juin 2026 et cette loi organique (catégorie de loi prévue par la Constitution pour en préciser l'application) a été examinée en urgence : adoptée par le Sénat le 18 mai 2026 (304 voix contre 20), puis votée sans modification par l'Assemblée, elle concernait 10 569 personnes selon le rapporteur, dont 4 145 de statut civil coutumier kanak. La règle vaut aussi pour les élections suivantes : un amendement qui la limitait au scrutin de 2026 a été rejeté (79 voix contre 233). Un amendement du Gouvernement ouvrant aussi ce vote, sur demande, aux personnes mariées ou pacsées depuis au moins cinq ans avec un électeur, déjà écarté au Sénat et en commission, a été rejeté à une voix près (163 voix pour, 164 contre).",
+    "sources": ["s2", "s4", "s6"]
+  },
+  "suite": [
+    {
+      "date": "2026-05-28",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-905 DC : la loi organique est conforme à la Constitution, sans réserve. Le Conseil juge que l'ajout des natifs ne remet pas en cause le caractère restreint du corps électoral prévu par l'accord de Nouméa, la naissance sur place et l'inscription sur la liste électorale ordinaire faisant présumer que ces électeurs sont durablement établis.",
+      "sources": ["s3"]
+    },
+    {
+      "date": "2026-05-28",
+      "label": "Promulgation",
+      "text": "Loi organique n° 2026-410 du 28 mai 2026, publiée au Journal officiel du 29 mai 2026 et entrée en vigueur le lendemain de sa publication.",
+      "sources": ["s5"]
+    },
+    {
+      "date": "2026-06-28",
+      "label": "Élections provinciales",
+      "text": "Le scrutin se tient avec la liste élargie : 192 537 inscrits, dont environ 10 570 natifs ajoutés (5,8 % d'électeurs en plus, près de neuf sur dix en province Sud) ; la participation atteint environ 64 %.",
+      "sources": ["s13", "s7"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V6753",
+      "numero": 6753,
+      "date": "2026-05-20",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi organique (adoption définitive)"
+    },
+    {
+      "uid": "VTANR5L17V6750",
+      "numero": 6750,
+      "date": "2026-05-20",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'article 1er, qui ajoute les natifs à la liste électorale spéciale"
+    },
+    {
+      "uid": "VTANR5L17V6749",
+      "numero": 6749,
+      "date": "2026-05-20",
+      "role": "historique",
+      "sens": -1,
+      "label": "Vote sur un amendement limitant l'inscription aux natifs actuels et aux seules élections de 2026"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 6753 (20 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la séance : corps électoral de Nouvelle-Calédonie (20 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Conseil constitutionnel — Décision n° 2026-905 DC (28 mai 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026905DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — La loi en clair : intégration des natifs dans le corps électoral de Nouvelle-Calédonie",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-organique-portant-integration-des-natifs-dans-le-corps-electoral-pour-les-elections-au-congres-et-aux-assemblees-de-province-de-nouvelle-caledonie.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi organique n° 2026-410 (28 mai 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054148972",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif (corps électoral pour les élections au congrès et aux assemblées de province)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Nouvelle-Calédonie La 1ère — Quel sera le poids politique des 10 575 natifs intégrés aux provinciales 2026 ? (1er juin 2026)",
+      "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/provinciales-2026-que-pesent-reellement-les-10-575-natifs-ajoutes-a-la-liste-speciale-1706050.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Rapport sur le projet de loi constitutionnelle relatif à la Nouvelle-Calédonie (contexte : gel du corps électoral, émeutes de 2024)",
+      "url": "https://www.senat.fr/rap/l25-409/l25-409_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 6751 : amendement sur les conjoints d'électeurs (20 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6751",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 6022 : motion de rejet préalable du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie (2 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6022",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Scrutin n° 3182 : report des élections provinciales (28 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3182",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Datan — Vote n° 6753 (20 mai 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_6753",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Haut-commissariat de la République en Nouvelle-Calédonie — Résultats complets des élections provinciales (28 juin 2026)",
+      "url": "https://www.nouvelle-caledonie.gouv.fr/contenu/telechargement/13500/112224/file/PROVINCIALES_2026_R%C3%A9sultats_COMPLETS.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Scrutin n° 6749 : amendement limitant l'inscription aux natifs actuels (20 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6749",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Pour : EPR, Les Démocrates, Horizons, Droite républicaine, UDR, RN et la grande majorité des Socialistes ; contre : LFI-NFP, GDR et Écologiste et social ; LIOT partagé. Les groupes opposés disent ne pas refuser le vote des natifs en soi, mais une décision prise sans accord global avec les indépendantistes. L'amendement de repli de LFI-NFP, qui limitait l'inscription aux natifs actuels et au scrutin de 2026 (scrutin n° 6749), n'a réuni que les voix de ces trois groupes (79 contre 233). Le même jour, l'amendement du Gouvernement ouvrant le vote aux conjoints d'électeurs a été rejeté par 164 voix contre 163 : EPR, Droite républicaine, UDR et RN pour ; groupes de gauche, LIOT et majorité des Démocrates et d'Horizons contre. Contexte : le 2 avril 2026, la motion de rejet du projet de loi constitutionnelle issu de l'accord de Bougival avait été adoptée par les groupes de gauche, le RN et l'UDR ; en octobre 2025, le report des élections provinciales (scrutin n° 3182) avait été voté par le bloc central, la Droite républicaine, l'UDR et les Socialistes, contre LFI-NFP, GDR, Écologiste et social et RN.",
+  "lastVerified": "2026-09-26"
+}

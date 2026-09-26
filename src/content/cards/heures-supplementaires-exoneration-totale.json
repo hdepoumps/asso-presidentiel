@@ -1,0 +1,193 @@
+{
+  "id": "heures-supplementaires-exoneration-totale",
+  "theme": "fiscalite",
+  "question": "Faut-il exonérer totalement d'impôt sur le revenu la rémunération des heures supplémentaires, aujourd'hui exonérée jusqu'à 7 500 euros par an et par salarié ?",
+  "explainer": {
+    "title": "Comment les heures supplémentaires sont-elles imposées ?",
+    "text": "La rémunération des heures supplémentaires (et des heures complémentaires des salariés à temps partiel) est exonérée d'impôt sur le revenu dans la limite de 7 500 euros par an et par salarié, un plafond relevé de 50 % en 2022. Au-delà, elle est imposée comme le reste du salaire. Selon le Gouvernement, ce plafond correspond à environ 500 heures payées au smic majoré, et les salariés qui font des heures supplémentaires en tirent en moyenne 1 900 euros par an. La mesure votée supprimait ce plafond ; elle ne touchait pas aux cotisations sociales.",
+    "sources": ["s5", "s3", "s6", "s2"]
+  },
+  "contre": [
+    {
+      "text": "Atteindre 7 500 euros d'heures supplémentaires demande environ 500 heures par an au smic majoré : seuls les cadres supérieurs et les dirigeants dépasseraient ce plafond et profiteraient de la mesure, selon ses opposants.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Supprimer le plafond coûterait environ 1 milliard d'euros de recettes par an à l'État, selon l'estimation donnée par le Gouvernement en séance, alors que le budget cherche des économies.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Encourager les heures supplémentaires plutôt que les embauches pourrait freiner la création d'emplois ; mieux vaudrait augmenter les salaires et faire davantage payer la majoration par l'employeur.",
+      "sources": ["s3"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Il s'agit de récompenser ceux qui travaillent davantage et de redonner du pouvoir d'achat aux classes moyennes, sans nouveau chèque public financé par la dette, selon ses défenseurs.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses défenseurs, dans des secteurs qui peinent à recruter (bâtiment, hôtellerie-restauration, agriculture), des salariés dépassent ce plafond : le supprimer les inciterait à faire davantage d'heures là où l'on manque de bras.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses défenseurs, les cadres des grandes entreprises, souvent payés au forfait (en jours, sans décompte d'heures), profiteraient peu de la mesure ; et l'argent laissé aux salariés reviendrait en partie dans l'économie.",
+      "sources": ["s3"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "Les deux amendements identiques suppriment le plafond de 7 500 euros de l'article 81 quater du code général des impôts, ainsi que la règle qui refuse l'exonération lorsque ces heures remplacent d'autres éléments de salaire, pour les heures réalisées à partir du 1er octobre 2025. Une mesure rédigée de la même façon avait été adoptée par l'Assemblée le 23 octobre 2024, lors de l'examen du budget 2025, puis abandonnée : la loi de finances pour 2025 ne l'a pas reprise.",
+    "sources": ["s2", "s6", "s3", "s5"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1), ce qui vaut rejet du texte en première lecture. Le Sénat examine donc la version initiale du Gouvernement, sans les amendements adoptés par l'Assemblée, dont celui-ci.",
+      "sources": ["s9", "s7"]
+    },
+    {
+      "date": "2025-12-15",
+      "label": "Sénat",
+      "text": "Le Sénat adopte sa version du budget, établie à partir du texte initial du Gouvernement : elle ne contient aucune disposition sur les heures supplémentaires.",
+      "sources": ["s9", "s12"]
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur le budget.",
+      "sources": ["s9"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Sécurité sociale",
+      "text": "Mesure distincte : la loi de financement de la sécurité sociale pour 2026 (loi n° 2025-1403) étend aux entreprises d'au moins 250 salariés, dès le 1er janvier 2026, la déduction forfaitaire de cotisations patronales sur les heures supplémentaires. L'impôt sur le revenu n'est pas concerné.",
+      "sources": ["s11", "s13"]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Le budget est adopté sans vote final : le Gouvernement a engagé sa responsabilité (article 49, alinéa 3, de la Constitution) en nouvelle lecture puis en lecture définitive, et les motions de censure ont été rejetées. La suppression du plafond n'a pas été réintroduite.",
+      "sources": ["s9", "s5"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-901 DC : censure partielle de la loi de finances, sans lien avec les heures supplémentaires.",
+      "sources": ["s10"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi de finances pour 2026 (loi n° 2026-103) ne reprend pas la mesure : l'exonération d'impôt sur le revenu des heures supplémentaires reste plafonnée à 7 500 euros par an.",
+      "sources": ["s8", "s5"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3089",
+      "numero": 3089,
+      "date": "2025-10-25",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques supprimant le plafond de 7 500 euros d'exonération d'impôt sur le revenu des heures supplémentaires (budget 2026)"
+    },
+    {
+      "uid": "VTANR5L17V30",
+      "numero": 30,
+      "date": "2024-10-23",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement au projet de loi de finances pour 2025 (première lecture), rédigé de la même façon, supprimant le même plafond"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3089 (25 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3089",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° I-618 au projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/618",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur les heures supplémentaires (25 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N011",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Scrutin n° 30 (23 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/30",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Article 81 quater du code général des impôts (version en vigueur)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046195916",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° I-671 au projet de loi de finances pour 2025 (adopté le 23 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/671",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053508155/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 modifié par le Sénat (n° 2247)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B2247.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC, loi de financement de la sécurité sociale pour 2026, § 19 à 26 (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "25 octobre 2025 (346 votants) : pour, Droite républicaine (auteur des amendements), RN, UDR, Horizons, LIOT et la quasi-totalité des députés Ensemble pour la République présents (46 pour, 1 contre, 4 abstentions) ; contre, LFI-NFP, Socialistes, Écologiste et social et GDR ; Les Démocrates divisés (6 pour, 11 contre). Changement de position daté : le 23 octobre 2024, sur la même mesure (budget 2025, 166 votants seulement), les députés EPR présents avaient majoritairement voté contre (3 pour, 12 contre), de même que Les Démocrates (6 contre) et LIOT (2 contre) ; RN, UDR, Droite républicaine et Horizons étaient déjà pour. Le Gouvernement, qui chiffrait la mesure à environ 1 milliard d'euros, avait proposé de retravailler le sujet pendant la navette parlementaire, par l'impôt ou par les cotisations sociales. Parallèlement, la loi de financement de la sécurité sociale pour 2026 a étendu aux entreprises d'au moins 250 salariés la déduction de cotisations patronales sur les heures supplémentaires.",
+  "lastVerified": "2026-09-26"
+}

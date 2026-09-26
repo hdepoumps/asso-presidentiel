@@ -1,0 +1,198 @@
+{
+  "id": "impot-plancher-patrimoines-100-millions",
+  "theme": "fiscalite",
+  "question": "Faut-il créer un impôt plancher obligeant les foyers dont le patrimoine dépasse 100 millions d'euros à payer chaque année, tous impôts confondus, au moins 2 % de ce patrimoine ?",
+  "explainer": {
+    "title": "C'est quoi, cet impôt plancher ?",
+    "text": "Chaque année, on calculerait 2 % du patrimoine net (biens moins dettes) des foyers qui possèdent plus de 100 millions d'euros, parts d'entreprises comprises. On en retirerait les impôts personnels déjà payés dans l'année : impôt sur le revenu, impôt sur la fortune immobilière, taxe foncière, contributions sociales, impôts équivalents payés à l'étranger… Seule la différence, si elle est positive, serait due. Environ 1 800 foyers seraient concernés, selon les auteurs de l'amendement. Le texte permet aussi de payer en parts de sociétés, avec l'accord préalable de l'État, et prévoit, en cas de départ à l'étranger d'un contribuable domicilié en France au moins six des dix années précédentes, une imposition égale à dix fois l'impôt annuel, payable sur dix ans au plus.",
+    "sources": ["s2", "s3"]
+  },
+  "contre": [
+    {
+      "text": "Ces fortunes sont surtout faites de parts d'entreprises, pas d'argent disponible : pour payer, leurs propriétaires devraient se verser des dividendes, s'endetter ou céder des parts, au détriment des entreprises, selon ses opposants.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Sa conformité à la Constitution est contestée : taxer chaque année 2 % de biens professionnels, sans plafond lié aux revenus réellement perçus, pourrait être jugé confiscatoire par le Conseil constitutionnel, selon ses opposants.",
+      "sources": ["s3"]
+    },
+    {
+      "text": "Le rendement annoncé serait surestimé : un plafonnement selon les revenus le ramènerait à 2 ou 3 milliards d'euros, selon ses opposants. Une étude publique juge les autres réactions à l'impôt (épargne, optimisation…) plus fortes que l'exil.",
+      "sources": ["s3", "s7"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'impôt devient régressif tout en haut : grâce à des montages d'optimisation, les plus grandes fortunes paient proportionnellement moins que les classes moyennes. Recette attendue : 15 à 25 milliards d'euros par an.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Selon ses défenseurs, un ménage aux revenus et au patrimoine médians paie jusqu'à 5,5 % de son patrimoine en impôts : exiger 2 % des plus grandes fortunes ne serait donc ni confiscatoire, ni contraire à la Constitution.",
+      "sources": ["s3", "s2"]
+    },
+    {
+      "text": "Selon une étude publique de 2025, les hausses d'impôt passées n'ont provoqué que peu de départs. Le texte prévoit en outre une taxe en cas d'exil et la possibilité de payer en parts de sociétés, utile aux fortunes peu liquides.",
+      "sources": ["s7", "s2"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "Un impôt plancher de même principe (2 % au-delà de 100 millions d'euros, impôts déjà payés déduits), aux modalités un peu différentes, avait été adopté par l'Assemblée le 20 février 2025, sous forme de proposition de loi, par 116 voix contre 39 (186 votants sur 577 députés). Le 31 octobre 2025, trois amendements identiques le reprennent dans le budget 2026. Le même jour, un amendement très proche est rejeté par 168 voix contre 231, et une variante (3 % dès 10 millions d'euros, hors certains biens professionnels) par 171 voix contre 228.",
+    "sources": ["s4", "s6", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2025-06-12",
+      "label": "Sénat",
+      "text": "Le Sénat rejette la proposition de loi adoptée par l'Assemblée en février (188 voix contre 129). Renvoyée à l'Assemblée pour une deuxième lecture, elle n'y a pas été de nouveau mise aux voix depuis.",
+      "sources": ["s5", "s15", "s8", "s4"]
+    },
+    {
+      "date": "2025-11-28",
+      "label": "Sénat",
+      "text": "Lors de l'examen du budget 2026, le Sénat rejette, sans scrutin public, trois amendements identiques créant cet impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros.",
+      "sources": ["s14", "s9"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi de finances pour 2026 (loi n° 2026-103 du 19 février 2026) est promulguée sans cet impôt plancher. Faute d'avoir été adopté, celui-ci n'a jamais été examiné par le Conseil constitutionnel.",
+      "sources": ["s10"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3300",
+      "numero": 3300,
+      "date": "2025-10-31",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques créant un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros (budget 2026)"
+    },
+    {
+      "uid": "VTANR5L17V3299",
+      "numero": 3299,
+      "date": "2025-10-31",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement très proche créant le même impôt plancher (2 % au-delà de 100 millions d'euros), avec un abattement sur la résidence principale et un paiement en parts réservé aux contribuables sans liquidités (budget 2026)"
+    },
+    {
+      "uid": "VTANR5L17V881",
+      "numero": 881,
+      "date": "2025-02-20",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur les patrimoines de plus de 100 millions d'euros"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3300 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3300",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Amendement n° I-2359 au projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/2359",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur les amendements après l'article 3 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultrariches (intitulé officiel)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl24-380)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-380.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : vote de la proposition de loi (20 février 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Conseil d'analyse économique — Fiscalité du capital : quels sont les effets de l'exil fiscal sur l'économie ? (25 juillet 2025)",
+      "url": "https://cae-eco.fr/fiscalite-du-capital-quels-sont-les-effets-de-lexil-fiscal-sur-leconomie-communique-de-presse",
+      "kind": "officiel"
+    },
+    {
+      "id": "s8",
+      "label": "Public Sénat — Le Sénat rejette l'impôt plancher sur les très hauts patrimoines (12 juin 2025)",
+      "url": "https://www.publicsenat.fr/actualites/economie/taxe-zucman-le-senat-rejette-la-creation-dun-nouvel-impot-sur-les-ultra-riches",
+      "kind": "presse"
+    },
+    {
+      "id": "s9",
+      "label": "Public Sénat — Budget 2026 : le Sénat rejette à nouveau l'impôt plancher sur les très hauts patrimoines (28 novembre 2025)",
+      "url": "https://www.publicsenat.fr/actualites/parlementaire/budget-2026-le-senat-rejette-a-nouveau-la-taxe-zucman",
+      "kind": "presse"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053508155/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Scrutin n° 3299 (31 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3299",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 881 (20 février 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "LCP — Budget 2026 : l'impôt plancher sur les très hauts patrimoines rejeté par l'Assemblée nationale (31 octobre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-la-taxe-zucman-rejetee-par-l-assemblee-nationale-413632",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Compte rendu intégral de la séance : projet de loi de finances pour 2026, après l'article 3 (28 novembre 2025)",
+      "url": "https://www.senat.fr/seances/s202511/s20251128/s20251128_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Scrutin n° 322 : ensemble de la proposition de loi (12 juin 2025)",
+      "url": "https://www.senat.fr/scrutin-public/2024/scr2024-322.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Scrutin n° 3303 (31 octobre 2025, variante à 3 % dès 10 millions d'euros)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3303",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "31 octobre 2025 (406 votants) : pour, les quatre groupes de gauche (LFI-NFP, Socialistes, Écologiste et social, GDR). Les trois amendements identiques venaient des groupes Socialistes, LFI-NFP et GDR ; l'amendement écologiste très proche avait été rejeté juste avant (scrutin n° 3299). Contre : Ensemble pour la République, Les Démocrates, Horizons, Droite républicaine, UDR et RN ; LIOT partagé (5 pour, 5 contre). Changement de position daté : le 20 février 2025, sur la proposition de loi, le RN s'était abstenu (28 abstentions, aucun vote contre) et le bloc central était très largement absent (186 votants seulement) ; en octobre 2025, le RN vote contre. Absent n'est pas neutre : le vote de février ne mesure pas l'opinion des groupes peu présents. Trois scrutins du même jour sont souvent confondus : n° 3300 (amendements identiques socialiste, LFI-NFP et GDR, 172 contre 228), n° 3299 (amendement écologiste très proche, 168 contre 231) et n° 3303 (variante à 3 % dès 10 millions d'euros, 171 contre 228). Ce dispositif est couramment appelé « taxe Zucman », du nom de l'économiste qui l'a proposé.",
+  "lastVerified": "2026-09-26"
+}

@@ -1,0 +1,216 @@
+{
+  "id": "mineurs-isoles-presomption-minorite",
+  "theme": "immigration",
+  "question": "Faut-il qu'un jeune arrivé seul en France et jugé majeur par le département reste hébergé et scolarisé jusqu'à la décision définitive du juge, et que l'âge ne soit plus estimé par examen osseux ?",
+  "explainer": {
+    "title": "Comment l'âge de ces jeunes est-il évalué aujourd'hui ?",
+    "text": "Toute personne qui se dit mineure et privée de sa famille doit être mise à l'abri par le département (accueil provisoire d'urgence de cinq jours, renouvelable deux fois), le temps d'évaluer sa minorité et son isolement, surtout par des entretiens. Un juge peut aussi ordonner, avec son accord, faute de papiers d'identité valables et si l'âge avancé n'est pas vraisemblable, un examen radiologique des os ; le doute doit profiter à la minorité. Si le département le juge majeur, le jeune perd cette prise en charge, même s'il saisit le juge des enfants, dont la décision peut prendre plusieurs mois.",
+    "sources": [
+      "s4",
+      "s11"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la plupart de ces jeunes ne sont pas mineurs (à Paris, en 2024, 17 % des recours ont abouti) : il suffirait de contester pour être hébergé des mois parmi des enfants, ce qui inciterait des adultes à se dire mineurs.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, rendre le recours suspensif saturerait l'accueil des départements, qui paient déjà l'essentiel des 2 milliards d'euros annuels dépensés pour ces jeunes, et retarderait la prise en charge des mineurs reconnus.",
+      "sources": [
+        "s5",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, mieux vaut juger plus vite (100 postes de juges des enfants annoncés en 2025) ; sans examen osseux, déjà encadré et jugé conforme à la Constitution en 2019, il ne resterait souvent que l'entretien pour estimer l'âge.",
+      "sources": [
+        "s5",
+        "s11",
+        "s6"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Pendant leur recours (à Paris, 5 à 12 mois avant l'audience), ces jeunes sont exclus de l'aide sociale à l'enfance et souvent refusés par l'hébergement d'urgence pour adultes, saturé : selon ses défenseurs, plus d'un millier dorment dehors.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon le ministère de la justice, en 2024, plus d'une prise en charge de mineur isolé sur cinq a été décidée par un juge après un refus du département ; selon des associations, près de 60 % des recours aboutiraient.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Les examens osseux « peuvent comporter une marge d'erreur significative » (Conseil constitutionnel, 2019) ; le Comité des droits de l'enfant de l'ONU demande de présumer ces jeunes mineurs (2023) et de renoncer à ces examens (2026).",
+      "sources": [
+        "s11",
+        "s4",
+        "s12"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, vote sur l'ensemble du texte en première lecture",
+    "textTitle": "Proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme",
+    "summary": "Rejeté en commission, le texte a été adopté en séance le 11 décembre 2025, contre l'avis du Gouvernement. Il rend suspensif le recours devant le juge des enfants contre un refus de reconnaître la minorité, l'accueil d'urgence étant maintenu jusqu'à la décision définitive ; il prévoit la scolarisation dès cet accueil et interdit les examens osseux et dentaires pour estimer l'âge. Une clause de gage prévoit de compenser la charge des départements par une hausse de leur dotation de l'État, financée par une taxe sur le tabac. L'article qui créait un observatoire du sans-abrisme a été supprimé en séance.",
+    "sources": [
+      "s7",
+      "s4",
+      "s8"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-12-03",
+      "label": "Commission des affaires sociales",
+      "text": "La commission rejette le texte : la séance publique examine donc la version initiale de la proposition de loi.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "date": "2025-12-11",
+      "label": "Assemblée nationale",
+      "text": "Le texte est adopté en première lecture, puis transmis au Sénat.",
+      "sources": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Sénat",
+      "text": "Au 26 septembre 2026, le Sénat n'a pas examiné le texte, qui n'est donc pas en vigueur : le recours devant le juge des enfants reste non suspensif et les examens osseux restent possibles dans les conditions actuelles.",
+      "sources": [
+        "s9",
+        "s10"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4723",
+      "numero": 4723,
+      "date": "2025-12-11",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V4716",
+      "numero": 4716,
+      "date": "2025-12-11",
+      "role": "historique",
+      "sens": 1,
+      "label": "Réécriture de l'article 1er : le recours devant le juge des enfants suspend le refus du département et l'accueil d'urgence est maintenu (adopté)"
+    },
+    {
+      "uid": "VTANR5L17V4719",
+      "numero": 4719,
+      "date": "2025-12-11",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendements interdisant les examens osseux, dentaires et pubertaires pour estimer l'âge (adoptés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4723 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 4723 (11 décembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4723",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Proposition de loi n° 2021 rectifié visant à protéger les mineurs isolés et à lutter contre le sans-abrisme (28 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2021_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 2194 de la commission des affaires sociales (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-soc/l17b2194_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la première séance : présentation et discussion générale (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-11-decembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : articles, explications de vote et vote (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-11-decembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Texte adopté n° 195 (11 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0195_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif : protéger les mineurs isolés et lutter contre le sans-abrisme",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_isoles_lutter_sans_abrisme_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Dossier législatif : protéger les mineurs isolés et lutter contre le sans-abrisme (mis à jour le 18 juin 2026)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-216.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Texte n° 216 (2025-2026) transmis par l'Assemblée nationale (11 décembre 2025)",
+      "url": "https://www.senat.fr/leg/ppl25-216.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2018-768 QPC sur les examens radiologiques osseux (21 mars 2019)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2019/2018768QPC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Défenseur des droits — Accueil et détermination de l'âge des mineurs non accompagnés : le Comité des droits de l'enfant sanctionne à nouveau la France (6 février 2026)",
+      "url": "https://www.defenseurdesdroits.fr/les-defaillances-dans-laccueil-et-la-determination-de-lage-de-mineurs-non-accompagnes-le-comite-des",
+      "kind": "officiel"
+    },
+    {
+      "id": "s13",
+      "label": "LCP — Mineurs non accompagnés : les députés votent en faveur d'une loi instaurant une « présomption de minorité » (11 décembre 2025)",
+      "url": "https://lcp.fr/actualites/mineurs-non-accompagnes-les-deputes-votent-en-faveur-d-une-loi-instaurant-une",
+      "kind": "presse",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte déposé par le groupe Socialistes et examiné lors de sa journée réservée. Pour : les quatre groupes de gauche, unanimes (LFI-NFP, GDR, Écologiste et social, Socialistes). Contre : EPR, Horizons, Droite républicaine, RN et UDR, unanimes parmi les présents ; Démocrates surtout contre (3 contre, 2 abstentions), leur oratrice ayant laissé chaque député voter en conscience. Un seul député LIOT a voté : aucune position n'est calculée pour ce groupe. Le Gouvernement était défavorable. Lors des votes précédents, l'amendement de suppression de l'article 1er, déposé par l'UDR et voté par le RN et la plupart des députés Horizons présents (4 pour, 2 abstentions), le Gouvernement s'en remettant à la sagesse de l'Assemblée, a été rejeté (scrutin n° 4715 : 35 pour, 118 contre), les députés EPR et Démocrates présents votant contre cette suppression avant de voter contre l'ensemble du texte ; l'interdiction des examens osseux a été adoptée par 133 voix contre 88 (scrutin n° 4719), avec le même clivage. Ce vote porte sur l'ensemble du texte : un utilisateur favorable au maintien de l'hébergement pendant le recours mais pas à l'interdiction des examens osseux (ou l'inverse) peut ne se reconnaître qu'en partie dans la question.",
+  "lastVerified": "2026-09-26"
+}

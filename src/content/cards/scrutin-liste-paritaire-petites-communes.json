@@ -1,0 +1,179 @@
+{
+  "id": "scrutin-liste-paritaire-petites-communes",
+  "theme": "institutions",
+  "question": "Faut-il élire dès 2026 les conseils municipaux des communes de moins de 1 000 habitants sur des listes alternant femmes et hommes, sans pouvoir rayer ni ajouter de noms sur le bulletin ?",
+  "explainer": {
+    "title": "Qu'est-ce qui change dans les petites communes ?",
+    "text": "Avant la réforme, dans les communes de moins de 1 000 habitants, on votait pour des personnes et non pour une liste : les candidats pouvaient se présenter seuls, et l'électeur pouvait rayer des noms ou en ajouter d'autres (le « panachage »). Aucune règle de parité ne s'appliquait. Le texte y étend le système en vigueur depuis 2014 dans toutes les communes de 1 000 habitants et plus : des listes alternant une femme et un homme, que l'électeur ne peut pas modifier. Comme ailleurs, la liste arrivée en tête obtient d'office la moitié des sièges, et le reste est partagé entre les listes selon leur score, ce qui peut donner des élus à une liste minoritaire. Pour tenir compte du manque de candidats, une liste peut compter jusqu'à deux noms de moins que le nombre de sièges.",
+    "sources": ["s2", "s3", "s5"]
+  },
+  "contre": [
+    {
+      "text": "Dans les villages, on choisirait des personnes plus qu'une étiquette : supprimer le panachage et les candidatures individuelles réduirait la liberté de l'électeur et risquerait de politiser la vie municipale, selon ses opposants.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Réunir assez de candidats, autant de femmes que d'hommes, serait difficile dans les plus petites communes ; selon ses opposants, beaucoup n'auraient qu'une seule liste, privant les électeurs de choix, voire aucune.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Changer les règles à moins d'un an du scrutin serait précipité : de nombreux maires, selon ses opposants, demandaient un report à 2032 pour avoir le temps de constituer leurs équipes.",
+      "sources": ["s2"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Dans ces communes, les femmes ne représentent que 37 % des conseillers municipaux, et environ 80 % des maires de France sont des hommes ; la parité, déjà imposée ailleurs, s'arrêterait à leurs portes selon ses défenseurs.",
+      "sources": ["s2"]
+    },
+    {
+      "text": "Selon ses défenseurs, le panachage personnaliserait à l'excès le vote et découragerait l'engagement : des maires sortants se retrouveraient mal élus et fragilisés, alors qu'une liste rassemble une équipe autour d'un projet.",
+      "sources": ["s2", "s3"]
+    },
+    {
+      "text": "Les mêmes craintes existaient en 2013, quand les listes sont devenues obligatoires de 1 000 à 3 500 habitants ; selon ses défenseurs, aucun maire concerné ne voudrait revenir en arrière, et des listes incomplètes restent possibles.",
+      "sources": ["s2"]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi déposée à l'Assemblée nationale, vote sur l'ensemble en deuxième lecture (adoption définitive)",
+    "textTitle": "Proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+    "summary": "Déposé en 2021 et adopté par l'Assemblée en février 2022, le texte a été modifié par le Sénat le 11 mars 2025, puis voté sans modification par l'Assemblée lors de ce scrutin, ce qui l'a rendu définitif. Il concerne près de 25 000 communes, soit plus de 70 % des communes françaises. Pendant la séance, un report de son application à 2032 avait été adopté à une voix près (142 contre 141), puis annulé lors d'un second vote sur le même point (« seconde délibération ») demandé par le Gouvernement (169 contre 146).",
+    "sources": ["s2", "s4", "s6"]
+  },
+  "suite": [
+    {
+      "date": "2025-05-15",
+      "label": "Conseil constitutionnel",
+      "text": "Décisions n° 2025-883 DC et n° 2025-882 DC : les dispositions contestées de la loi (listes paritaires dans les communes de moins de 1 000 habitants, application dès 2026) et l'ensemble de la loi organique qui l'accompagne sont déclarés conformes à la Constitution, sans censure ni réserve. Le Conseil écarte les griefs tirés de la liberté de l'électeur, du risque de communes sans conseil, du calendrier et du déroulement du second vote en séance.",
+      "sources": ["s3", "s8"]
+    },
+    {
+      "date": "2025-05-21",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-444 du 21 mai 2025, accompagnée de la loi organique n° 2025-443 du même jour, publiées au Journal officiel du 22 mai 2025.",
+      "sources": ["s5", "s12"]
+    },
+    {
+      "date": "2026-03-15",
+      "label": "Application",
+      "text": "Premières élections municipales avec ce système, les 15 et 22 mars 2026 : 68 communes n'avaient aucune liste candidate (106 en 2020, 64 en 2014) et devaient revoter sous trois mois. Une seule liste se présentait dans environ 23 700 communes (68 % des communes), le nombre total de candidats a un peu baissé par rapport à 2020, et un second tour a été nécessaire dans 0,8 % des communes de moins de 1 000 habitants.",
+      "sources": ["s6", "s7"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1303",
+      "numero": 1303,
+      "date": "2025-04-07",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi en deuxième lecture (adoption définitive)"
+    },
+    {
+      "uid": "VTANR5L17V1275",
+      "numero": 1275,
+      "date": "2025-04-07",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'article 1er (principe des listes paritaires dans les communes de moins de 1 000 habitants, sans la date d'application)"
+    },
+    {
+      "uid": "VTANR5L17V1296",
+      "numero": 1296,
+      "date": "2025-04-07",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote en seconde délibération sur l'amendement rétablissant l'application dès le prochain renouvellement (2026)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1303 (7 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : mode de scrutin aux élections municipales, deuxième lecture (7 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Conseil constitutionnel — Décision n° 2025-883 DC (15 mai 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025883DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Sénat — Dossier législatif ppl21-451 (harmoniser le mode de scrutin aux élections municipales)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl21-451.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Loi n° 2025-444 visant à harmoniser le mode de scrutin aux élections municipales (21 mai 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051643176",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Ministère de l'Intérieur — Élections municipales et communautaires 2026 : bilan chiffré (24 mars 2026)",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/elections-municipales-et-communautaires-2026-bilan-chiffre-du-premier-et-du-second-tour",
+      "kind": "officiel"
+    },
+    {
+      "id": "s7",
+      "label": "Association des maires de France — Municipales : très peu de communes sans liste et forte augmentation du nombre de femmes candidates (2 mars 2026)",
+      "url": "https://www.amf.asso.fr/documents-municipales-tres-peu-communes-sans-liste-forte-augmentation-du-nombre-femmes-candidates/43043",
+      "kind": "analyse"
+    },
+    {
+      "id": "s8",
+      "label": "Conseil constitutionnel — Décision n° 2025-882 DC, loi organique (15 mai 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025882DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 1294 : report de l'application à 2032 (7 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1294",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 1296 : seconde délibération, application dès 2026 (7 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1296",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Datan — Vote n° 1303 (7 avril 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_1303",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Journal officiel n° 119 : loi organique n° 2025-443 et loi n° 2025-444 (22 mai 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/jo/2025/05/22/0119",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 1275 : article 1er (7 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1275",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Pour : LFI-NFP, GDR, Écologiste et social, Socialistes, EPR et Les Démocrates ; contre : Droite républicaine, RN et UDR ; abstention d'Horizons, qui se disait favorable à la parité (il avait voté pour l'article 1er, scrutin n° 1275) mais demandait un report à 2032 ; LIOT partagé, majoritairement contre (4 pour, 8 contre, 3 abstentions). Pendant la séance, l'amendement de report à 2032 avait été adopté par 142 voix contre 141, avec les voix du RN, de l'UDR, d'Horizons, de la Droite républicaine, du GDR et de quelques députés LIOT, EPR et Démocrates, avant d'être annulé en seconde délibération (169 contre 146, scrutin n° 1296) : le GDR, favorable à la parité mais d'abord au report, a alors voté pour une application dès 2026.",
+  "lastVerified": "2026-09-26"
+}
