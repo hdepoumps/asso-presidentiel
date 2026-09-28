@@ -1,0 +1,244 @@
+{
+  "id": "complementaires-sante-taxe-exceptionnelle",
+  "theme": "sante",
+  "question": "Faut-il créer, pour 2026, une taxe exceptionnelle de 2,25 % sur les cotisations encaissées par les complémentaires santé (mutuelles, assureurs…), soit environ 1,1 milliard d'euros ?",
+  "explainer": {
+    "title": "C'est quoi, une complémentaire santé ?",
+    "text": "Mutuelles, institutions de prévoyance et sociétés d'assurance proposent des contrats de complémentaire santé, qui remboursent une partie des frais que l'Assurance maladie ne prend pas en charge. Ils sont financés par les cotisations des adhérents et, pour les salariés, en partie par l'employeur. La contribution prévue devait être payée par ces organismes, sur les cotisations encaissées en 2026 seulement.",
+    "sources": ["s3"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, les complémentaires répercuteraient la taxe sur des tarifs qui augmentent déjà chaque année : ce serait un impôt déguisé, payé surtout par les retraités, les chômeurs et les jeunes sans contrat d'entreprise.",
+      "sources": ["s4", "s6"]
+    },
+    {
+      "text": "Selon ses opposants, des cotisations plus chères pousseraient certains à renoncer à leur complémentaire, alors que 30 % des Français disent déjà renoncer à des soins ou les reporter pour des raisons financières.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses opposants, rien ne garantit que la taxe resterait exceptionnelle ; en partie destinée à compenser la suspension de la réforme des retraites, elle ferait payer aux assurés une dépense sans rapport avec la santé.",
+      "sources": ["s4", "s5"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la part des dépenses de santé payée par les complémentaires a reculé de 13 % en 2013 à 12,4 % en 2024, l'Assurance maladie prenant en charge plus de maladies de longue durée : la taxe rééquilibrerait l'effort.",
+      "sources": ["s4", "s3"]
+    },
+    {
+      "text": "Selon ses défenseurs, les complémentaires ont relevé leurs tarifs d'environ 6 % en 2025 en prévision d'une hausse de la part des soins à leur charge qui n'a pas eu lieu : la taxe reprendrait une partie de ces gains.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, leurs tarifs ont augmenté de 20 % en quatre ans pour 12,8 % d'inflation, alors qu'elles ont 85 milliards d'euros de réserves, dont 60 imposés par les règles de prudence, et des frais de gestion proches de 20 %.",
+      "sources": ["s4"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article du projet de loi de financement de la sécurité sociale pour 2026, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Le vote portait sur la suppression de l'article 7, qui créait pour la seule année 2026 une contribution des mutuelles, institutions de prévoyance et sociétés d'assurance sur les cotisations de complémentaire santé : voter « pour » revenait à refuser la taxe. Le projet initial prévoyait un taux de 2,05 % (environ 1 milliard d'euros) ; le Gouvernement l'avait porté à 2,25 % (environ 1,1 milliard) par une lettre rectificative du 23 octobre 2025, pour financer en partie la suspension de la réforme des retraites. Le rapporteur général proposait, avec le soutien du Gouvernement, de revenir à 2,05 %, mais l'article a été supprimé avant.",
+    "sources": ["s3", "s4", "s5", "s6", "s19"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-20",
+      "label": "Sénat",
+      "text": "Le Sénat rétablit la taxe au taux de 2,05 % prévu à l'origine, soit environ 1 milliard d'euros, entièrement affectée à l'assurance maladie.",
+      "sources": ["s8", "s7"]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur un texte commun.",
+      "sources": ["s9"]
+    },
+    {
+      "date": "2025-12-04",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Les députés rejettent la suppression de la taxe (139 voix contre 145). Ils y ajoutent l'interdiction d'augmenter en 2026 les cotisations de complémentaire santé par rapport à 2025, et une négociation avec les complémentaires pour que la taxe ne soit pas répercutée. L'article est adopté (151 voix contre 131).",
+      "sources": ["s10", "s11", "s12", "s13"]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (12 décembre), l'Assemblée adopte définitivement la loi, avec la taxe et le gel des cotisations.",
+      "sources": ["s9", "s19"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-899 DC : le Conseil censure d'autres articles et ne se prononce pas sur celui-ci. La loi n° 2025-1403 (article 13) crée la taxe de 2,05 % pour 2026 et interdit d'augmenter les cotisations de 2026 par rapport à celles de 2025.",
+      "sources": ["s15", "s14"]
+    },
+    {
+      "date": "2026-01",
+      "label": "Application",
+      "text": "Selon des chiffres publiés en décembre par la Mutualité française, les cotisations augmentent en 2026 (+4,3 % en moyenne pour les contrats individuels, +4,7 % pour les contrats d'entreprise), malgré le gel voté en décembre.",
+      "sources": ["s16"]
+    },
+    {
+      "date": "2026-04-28",
+      "label": "Application du gel",
+      "text": "Selon une enquête du magazine Que Choisir auprès d'assurés ayant un contrat individuel, la majorité des complémentaires santé n'appliquent pas le gel des cotisations voté pour 2026.",
+      "sources": ["s20"]
+    },
+    {
+      "date": "2026-07-24",
+      "label": "Conseil d'État et Conseil constitutionnel",
+      "text": "À la demande notamment des fédérations des mutuelles et des assureurs, le Conseil d'État transmet les 24 et 27 juillet au Conseil constitutionnel des questions prioritaires de constitutionnalité sur le seul gel des cotisations, pas sur la taxe (affaires n° 2026-1230 et 2026-1231 QPC). L'audience est prévue le 13 octobre 2026.",
+      "sources": ["s17", "s18"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3434",
+      "numero": 3434,
+      "date": "2025-11-05",
+      "role": "principal",
+      "sens": -1,
+      "label": "Suppression de l'article créant la taxe (voter pour = refuser la taxe), première lecture"
+    },
+    {
+      "uid": "VTANR5L17V4559",
+      "numero": 4559,
+      "date": "2025-12-04",
+      "role": "historique",
+      "sens": 1,
+      "label": "Article rétablissant la taxe, au taux de 2,05 % et avec gel des cotisations en 2026 (nouvelle lecture)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3434 (5 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3434",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3434 (5 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3434",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Projet de loi de financement de la sécurité sociale pour 2026, n° 1907 (article 7 et exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B1907.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'article 7 (5 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N033",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Amendement n° 1699 du rapporteur général à l'article 7 (taux de 2,25 % ramené à 2,05 %, exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1907/AN/1699",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° 124 de suppression de l'article 7 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1907/AN/124",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Public Sénat — Le Sénat rétablit la taxe d'un milliard d'euros sur les mutuelles dans le budget 2026 de la Sécurité sociale (20 novembre 2025)",
+      "url": "https://www.publicsenat.fr/actualites/sante/le-senat-retablit-la-taxe-dun-milliard-deuros-sur-les-mutuelles-dans-le-budget-2026-de-la-securite-sociale",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Texte adopté n° 23 (2025-2026), projet de loi de financement de la sécurité sociale pour 2026, article 7 (26 novembre 2025)",
+      "url": "https://www.senat.fr/leg/tas25-023.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Amendement n° 187 à l'article 7, nouvelle lecture (gel des cotisations en 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141/AN/187",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Amendement n° 183 à l'article 7, nouvelle lecture (négociation sur la non-répercussion de la taxe)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141/AN/183",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 4553 : amendements de suppression de l'article 7, nouvelle lecture (4 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4553",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 4559 : article 7, nouvelle lecture (4 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4559",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Loi n° 2025-1403 de financement de la sécurité sociale pour 2026, article 13 (30 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053226458",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Public Sénat — Complémentaires santé : la hausse des tarifs pour 2026 est-elle « illégale » ? (6 janvier 2026, mis à jour le 12 janvier 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/complementaires-sante-la-hausse-des-tarifs-pour-2026-est-elle-illegale",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "Conseil constitutionnel — Affaires en instance : n° 2026-1230 et 2026-1231 QPC (article 13 de la loi n° 2025-1403), consulté le 28 septembre 2026",
+      "url": "https://www.conseil-constitutionnel.fr/decisions/affaires-en-instances",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "AEF info — Le Conseil d'État valide l'envoi au Conseil constitutionnel d'une QPC contestant le gel tarifaire sur les contrats santé (juillet 2026)",
+      "url": "https://www.aefinfo.fr/depeche/754784-le-conseil-detat-valide-lenvoi-au-conseil-constitutionnel-dune-qpc-contestant-le-gel-tarifaire-sur-les-contrats-sante",
+      "kind": "presse"
+    },
+    {
+      "id": "s19",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s20",
+      "label": "AEF info — Selon Que Choisir, la majorité des complémentaires santé n'appliquent pas le gel tarifaire voté en loi de financement (28 avril 2026)",
+      "url": "https://www.aefinfo.fr/depeche/749979-selon-que-choisir-la-majorite-des-complementaires-sante-nappliquent-pas-le-gel-tarifaire-vote-en-loi-de-financement",
+      "kind": "presse"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Sens inversé : au scrutin n° 3434, voter « pour » signifiait supprimer la taxe. Pour la suppression : LFI-NFP, GDR, Écologiste et social, Socialistes, LIOT, Droite républicaine, UDR et RN. Contre : les trois groupes du bloc central, Les Démocrates (14 contre, 1 pour, 2 abstentions), EPR (36 contre, 6 pour, 4 abstentions) et Horizons (11 contre, 2 abstentions). Même vote, motivations en partie différentes : tous craignaient une répercussion de la taxe sur les cotisations des assurés ; à gauche, certains défendaient une meilleure prise en charge par la Sécurité sociale ; la Droite républicaine, l'UDR et le RN refusaient en outre une taxe de plus et préconisaient des économies. Le 4 décembre 2025, en nouvelle lecture (scrutin n° 4559), l'article rétabli au taux de 2,05 % et assorti du gel des cotisations demandé par les Socialistes a été adopté par les Socialistes, LIOT, le bloc central et la Droite républicaine ; LFI-NFP, GDR, Écologiste et social, UDR et RN ont voté contre.",
+  "lastVerified": "2026-09-28"
+}

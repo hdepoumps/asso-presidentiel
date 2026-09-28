@@ -1,0 +1,219 @@
+{
+  "id": "contribution-france-budget-union-europeenne",
+  "theme": "international",
+  "question": "Faut-il approuver le montant de 28,8 milliards d'euros prévu pour la contribution de la France au budget de l'Union européenne en 2026, soit 5,7 milliards de plus qu'en 2025 ?",
+  "explainer": {
+    "title": "Comment la France finance-t-elle le budget européen ?",
+    "text": "Chaque année, la loi de finances évalue le « prélèvement sur recettes » que l'État verse au budget de l'Union européenne. Il se compose d'une part de TVA, d'une contribution sur les emballages plastiques non recyclés et, surtout, d'une contribution calculée sur le revenu national brut de la France, un indicateur de richesse proche du produit intérieur brut. Son montant découle du budget européen de l'année, voté par les États membres et le Parlement européen dans le cadre pluriannuel 2021-2027, lui-même décidé à l'unanimité des États. En 2024, la France a été à la fois le premier pays bénéficiaire des dépenses européennes en volume (mais seulement 22e par habitant) et le deuxième contributeur net après l'Allemagne : selon la méthode comptable, elle a versé 7,9 milliards d'euros de plus qu'elle n'a reçu, et d'autres calculs cités dans le débat vont jusqu'à 12 milliards.",
+    "sources": ["s5", "s6", "s4"]
+  },
+  "contre": [
+    {
+      "text": "La France verse à l'Union bien plus qu'elle n'en reçoit ; selon ses opposants, la hausse de 5,7 milliards d'euros équivaut aux économies demandées aux Français dans le même budget, comme le gel des pensions et des prestations.",
+      "sources": ["s9", "s4"]
+    },
+    {
+      "text": "Cinq pays, dont l'Allemagne et les Pays-Bas, bénéficient de rabais que la France finance en partie (1,5 milliard d'euros) ; ses opposants réclamaient un rabais pour la France ou de retirer au moins cette somme de sa contribution.",
+      "sources": ["s6", "s4"]
+    },
+    {
+      "text": "Selon ses opposants, l'argent européen serait mal employé : des centaines de milliards de crédits votés restent à dépenser, les intérêts de l'emprunt du plan de relance augmentent fortement et la future politique agricole serait réduite.",
+      "sources": ["s9", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "La France est le premier bénéficiaire du budget européen en volume : 16,5 milliards d'euros dépensés sur son sol en 2024, dont près de 10 milliards pour ses agriculteurs, et près de 40 milliards du plan de relance lui sont destinés.",
+      "sources": ["s5", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, ce montant découle de règles adoptées à l'unanimité des États européens : réduire seule sa contribution exposerait la France à une condamnation par la Cour de justice de l'Union et à des pénalités plus coûteuses.",
+      "sources": ["s7", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, la hausse vient surtout d'un rattrapage attendu des aides aux régions et de l'aide à l'Ukraine, imprévue en 2021 ; le budget européen finance ce qu'aucun pays ne peut porter seul : défense, industrie, innovation.",
+      "sources": ["s6", "s4"]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article du projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'article 45 du projet de budget évaluait à 28 781 025 011 euros le prélèvement versé au budget de l'Union en 2026, soit 24,6 % de plus que l'année précédente. Avant de l'adopter, les députés ont rejeté plusieurs amendements qui réduisaient ce montant, de 1,4 à 11,2 milliards d'euros, dont un gel au niveau de 2025, soit environ 23,1 milliards (scrutin n° 3711 : 147 voix pour, 188 contre).",
+    "sources": ["s3", "s9", "s4", "s10"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du projet de budget (1 voix pour, 404 contre) : tout le texte est considéré comme rejeté en première lecture, et le Sénat examine la version initiale du Gouvernement, avec le montant de 28,8 milliards d'euros.",
+      "sources": ["s11", "s12", "s8"]
+    },
+    {
+      "date": "2025-11-27",
+      "label": "Sénat",
+      "text": "Le Sénat adopte l'article, réduit d'environ 341 millions d'euros par un amendement du Gouvernement tirant les conséquences de l'accord du 14 novembre 2025 entre le Parlement européen et les États sur le budget européen pour 2026 ; les amendements qui baissaient davantage la contribution sont rejetés.",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Après l'adoption du texte par le Sénat (15 décembre 2025), l'échec de la commission mixte paritaire et trois recours à l'article 49, alinéa 3, de la Constitution (20, 23 et 30 janvier 2026), le budget pour 2026 est définitivement adopté sans vote des députés sur ce montant.",
+      "sources": ["s13", "s14"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi par le Premier ministre et par des députés, le Conseil constitutionnel censure quelques dispositions de la loi de finances sans rapport avec la contribution européenne, à laquelle il ne touche pas (décision n° 2026-901 DC).",
+      "sources": ["s18"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi de finances pour 2026 (loi n° 2026-103, article 143) évalue la contribution de la France au budget européen pour 2026 à 28 439 880 549 euros, soit environ 28,4 milliards.",
+      "sources": ["s15"]
+    },
+    {
+      "date": "2026-09-18",
+      "label": "À suivre",
+      "text": "Le projet de budget pour 2027, attendu en Conseil des ministres le 30 septembre 2026, doit évaluer la contribution de 2027, que le Sénat prévoyait fin 2025 en nouvelle hausse, à environ 31,2 milliards d'euros. En parallèle, les États européens négocient le budget de l'Union pour 2028-2034, avec l'objectif d'un accord avant la fin de 2026.",
+      "sources": ["s16", "s6", "s17"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3722",
+      "numero": 3722,
+      "date": "2025-11-13",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 45 évaluant à 28,8 milliards d'euros la contribution de la France au budget de l'Union européenne pour 2026 (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V3711",
+      "numero": 3711,
+      "date": "2025-11-13",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement gelant la contribution au niveau de 2025, soit environ 23,1 milliards d'euros (rejeté ; voter pour = refuser le montant de 28,8 milliards)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3722 : article 45 du projet de loi de finances pour 2026 (13 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3722",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3722 (13 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3722",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 n° 1906, article 45 et exposé des motifs",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1906_projet-loi.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 13 novembre 2025 : débat sur le prélèvement européen et vote de l'article 45",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-13-novembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale, commission des affaires européennes — Le prélèvement sur recettes de la France au profit de l'Union européenne (PSR-UE) (communication du 29 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/organes/autres-commissions-permanentes/caeu/actualites/le-prelevement-sur-recettes-de-la-france-au-profit-de-l-union-europeenne-psr-ue",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Rapport général n° 139 (2025-2026) sur le projet de loi de finances pour 2026, annexe « Affaires européennes »",
+      "url": "https://www.senat.fr/rap/l25-139-22/l25-139-22_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Compte rendu de la séance du 27 novembre 2025 : débat sur l'article 45 du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/seances/s202511/s20251127/s20251127009.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Compte rendu de la séance du 27 novembre 2025 : amendements et vote de l'article 45",
+      "url": "https://www.senat.fr/seances/s202511/s20251127/s20251127011.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Amendement n° I-598 à l'article 45 du projet de loi de finances pour 2026 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/598.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 3711 : amendement n° I-598 à l'article 45 (13 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3711",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 : rejet en première lecture (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/projet-de-loi-de-finances-pour-2026-rejet-en-premiere-lecture",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 4241 : première partie du projet de loi de finances pour 2026 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026, article 143 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/article_143",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "LégiFiscal — Projet de loi de finances pour 2027 : les annonces du Gouvernement (18 septembre 2026)",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4639-projet-loi-finances-2027-annonces-sebastien-lecornu.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s17",
+      "label": "Sénat, commission des affaires européennes — Cadre financier pluriannuel de l'Union européenne pour 2028-2034 (9 avril 2026)",
+      "url": "https://www.senat.fr/travaux-parlementaires/commissions/commission-des-affaires-europeennes/controle-en-clair/cadre-financier-pluriannuel-de-lue-pour-2028-2034.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC du 19 février 2026, loi de finances pour 2026",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Pour l'article : EPR, Démocrates, Horizons, LIOT, Droite républicaine (13 pour, 2 contre), Socialistes et Écologiste et social (22 pour, 1 abstention). Contre : RN (97 contre, 1 pour), UDR, LFI-NFP et GDR (4 votants seulement). Les votes contre ne visaient pas le même but : le RN réclamait une baisse de 8,7 milliards d'euros et un « rabais » pour la France, l'UDR une baisse de la « part excédentaire » de la contribution ; LFI-NFP se disait « pas opposé par principe » à une contribution européenne, mais voulait la réduire ou la conditionner, par exemple à l'annulation de la dette française détenue par la Banque centrale européenne ; GDR demandait une « année blanche » au niveau de 2025. Les écologistes ont voté pour en précisant ne pas approuver toutes les politiques de l'Union. Sur l'amendement de gel au niveau de 2025 (scrutin n° 3711, rejeté par 147 voix contre 188), RN, UDR, LFI-NFP et GDR ont voté pour, tous les autres groupes majoritairement contre (Écologiste et social : 3 pour, 18 contre, 3 abstentions). Ce vote d'article n'a pas eu d'effet direct : toute la partie « recettes » du budget a été rejetée le 21 novembre 2025, et le montant final (28,4 milliards d'euros) résulte du texte adopté par l'article 49, alinéa 3.",
+  "lastVerified": "2026-09-28"
+}

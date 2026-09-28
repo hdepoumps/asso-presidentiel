@@ -1,0 +1,274 @@
+{
+  "id": "tva-energie-carburants-taux-reduit",
+  "theme": "fiscalite",
+  "question": "Faut-il baisser de 20 % à 5,5 % le taux de TVA sur l'électricité, le gaz, le fioul et les carburants ?",
+  "explainer": {
+    "title": "C'est quoi, le taux réduit de TVA ?",
+    "text": "La TVA est un impôt compris dans le prix de la plupart des achats. Son taux normal est de 20 % ; un taux réduit de 5,5 % s'applique à une liste de produits, dont la plupart des aliments. En France continentale, l'électricité, le gaz, le fioul et les carburants sont taxés à 20 %. L'abonnement d'électricité et de gaz, longtemps taxé à 5,5 %, l'est aussi à 20 % depuis le 1er août 2025, en application de la loi de finances pour 2025. Le droit européen fixe la liste des produits qui peuvent bénéficier d'un taux réduit.",
+    "sources": [
+      "s11",
+      "s8",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Le Gouvernement chiffrait en 2025 le coût à 10 à 12 milliards d'euros (8 selon ses défenseurs) ; selon ses opposants, rien ne garantit que la baisse soit répercutée sur les prix, comme l'aurait montré la TVA réduite en restauration.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, une baisse générale de la TVA profite d'autant plus que l'on consomme, donc aussi aux plus aisés, sans inciter aux économies d'énergie ; mieux vaudrait des aides ciblées, comme le chèque énergie des ménages modestes.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, le droit européen autorise un taux réduit sur l'électricité et le gaz, mais pas sur le fioul et les carburants ; d'autres refusent d'alléger la taxe sur ces énergies fossiles importées.",
+      "sources": [
+        "s6",
+        "s4",
+        "s17"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'énergie n'est pas un bien comme un autre : sans elle, impossible de se déplacer ou de faire vivre sa famille, en ville comme à la campagne et outre-mer. Elle doit être taxée comme un produit de première nécessité.",
+      "sources": [
+        "s6",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la baisse redonnerait aussitôt du pouvoir d'achat à des ménages touchés depuis des années par la hausse des prix de l'énergie, y compris les classes moyennes, pour qui ces dépenses contraintes pèsent lourd.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la baisse serait répercutée sur les prix et freinerait l'inflation, comme l'aurait montré le Portugal pour des produits de base ; ils citent la Pologne, qui a temporairement baissé la TVA sur les carburants en 2022.",
+      "sources": [
+        "s4",
+        "s6",
+        "s3",
+        "s17"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'amendement ajoute l'électricité, le gaz, le fioul et les carburants à la liste des produits taxés à 5,5 %. Dans la foulée, les députés adoptent le retour à 5,5 % de la TVA sur les seuls abonnements d'électricité (150 voix contre 91) et rejettent deux amendements de repli (gaz seul ; carburants et fioul), un troisième (électricité seule) étant devenu sans objet. La même baisse générale avait été rejetée le 26 octobre 2024, lors de l'examen du budget 2025 (75 voix contre 123).",
+    "sources": [
+      "s3",
+      "s4",
+      "s8",
+      "s9",
+      "s10",
+      "s5",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1), ce qui vaut rejet du texte en première lecture : le retour à 5,5 % sur les abonnements d'électricité, adopté la veille, disparaît avec elle.",
+      "sources": [
+        "s19",
+        "s12",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "Après l'adoption du texte par le Sénat (15 décembre 2025) et l'échec de la commission mixte paritaire (19 décembre), la loi de finances pour 2026 est considérée comme définitivement adoptée le 2 février 2026 (article 49.3), puis validée en partie par le Conseil constitutionnel. Promulguée le 19 février, elle ne baisse la TVA ni sur l'électricité, ni sur le gaz, ni sur le fioul, ni sur les carburants : le taux reste de 20 %, abonnements compris.",
+      "sources": [
+        "s14",
+        "s12",
+        "s20"
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "label": "Gouvernement",
+      "text": "Face à la flambée des prix des carburants liée au conflit au Moyen-Orient commencé en février 2026, le Gouvernement annonce vouloir inscrire dans le budget 2027 une « règle d'or » : rendre aux Français, sous forme d'aides, d'éventuels surplus de TVA sur les carburants. Aucune baisse du taux de TVA n'est décidée à ce jour.",
+      "sources": [
+        "s15",
+        "s16",
+        "s18"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4038",
+      "numero": 4038,
+      "date": "2025-11-20",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement baissant à 5,5 % la TVA sur l'électricité, le gaz, le fioul et les carburants (budget 2026, première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V4044",
+      "numero": 4044,
+      "date": "2025-11-20",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement de repli limitant la baisse à 5,5 % aux seuls carburants et fioul (rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V144",
+      "numero": 144,
+      "date": "2024-10-26",
+      "role": "historique",
+      "sens": 1,
+      "label": "Même baisse générale de la TVA sur l'énergie, lors de l'examen du budget 2025 (rejetée)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4038 (20 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4038",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 4038 (20 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4038",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° I-792 au projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/792",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat et vote sur la TVA de l'énergie (20 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N062",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Scrutin n° 144 : amendement identique (n° I-912) lors de l'examen du budget 2025 (26 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/144",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur la TVA de l'énergie, budget 2025 (26 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N021",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Amendement n° I-912 au projet de loi de finances pour 2025 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/912",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Amendement n° I-599 au projet de loi de finances pour 2026 : TVA des abonnements d'électricité (adopté le 20 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/599",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 4041 : TVA à 5,5 % sur les abonnements d'électricité (20 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4041",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 4044 : amendement de repli sur les carburants et le fioul (20 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4044",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Loi n° 2025-127 du 14 février 2025 de finances pour 2025, article 20 (fiscalité de l'énergie)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2025/2/14/2025-127/jo/article_20",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053508155/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "franceinfo — Cinq questions sur la « règle d'or » envisagée par le Gouvernement face à la hausse des prix des carburants (22 septembre 2026)",
+      "url": "https://www.franceinfo.fr/economie/automobile/essence/ca-se-restitue-comme-on-veut-cinq-questions-sur-la-regle-d-or-envisagee-par-sebastien-lecornu-face-a-la-hausse-des-prix-des-carburants_8204333.html",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Connaissance des Énergies (AFP) — Le gouvernement prépare une règle d'or sur la TVA des carburants (22 septembre 2026)",
+      "url": "https://www.connaissancedesenergies.org/afp/tva-accise-regle-dor-comment-fonctionne-la-fiscalite-sur-les-carburants-260922",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "franceinfo — Vrai ou faux : est-il possible d'abaisser la TVA sur les carburants de 20 % à 5,5 % ? (24 septembre 2026)",
+      "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-est-il-possible-d-abaisser-la-tva-sur-les-carburants-de-20-a-5-5-comme-le-defend-le-rassemblement-national_8185535.html",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s18",
+      "label": "Orange Actu (6Medias) — Carburants : la baisse de la TVA réclamée est-elle la solution ? (21 septembre 2026)",
+      "url": "https://actu.orange.fr/question-du-jour-2026-09-21-CNT000002s0few.html",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s19",
+      "label": "Assemblée nationale — Scrutin n° 4241 : vote sur la première partie du projet de loi de finances pour 2026 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s20",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC, loi de finances pour 2026 (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Le RN (87 pour) et l'UDR (8 pour) ont voté pour, rejoints par une députée socialiste et une non-inscrite. Tous les autres groupes ont voté contre : Droite républicaine (10 contre, 2 abstentions), EPR, Les Démocrates, Horizons, LIOT et les quatre groupes de gauche. La gauche ne rejette pas pour autant toute baisse de TVA sur l'énergie. LFI-NFP défendait un taux de 5,5 % limité à l'abonnement et aux premiers kilowattheures d'électricité et mètres cubes de gaz (amendement rejeté, scrutin n° 4039 : 38 pour, 105 contre ; LFI-NFP et GDR pour, socialistes majoritairement contre, écologistes et RN abstenus) ; selon elle, une baisse générale, sans plafond ni distinction entre énergies, profiterait aussi aux plus gros consommateurs. GDR et les socialistes se disaient favorables à une TVA à 5,5 % sur l'électricité : dans la foulée, l'amendement GDR rétablissant 5,5 % sur les seuls abonnements d'électricité a été adopté (scrutin n° 4041 : 150 pour, 91 contre) grâce à LFI-NFP, GDR, au RN, à l'UDR et à une partie des socialistes (17 pour, 14 abstentions), contre l'avis du Gouvernement ; EPR, Les Démocrates, Horizons et la Droite républicaine ont voté contre. Les écologistes refusent toute baisse sur les énergies fossiles et préfèrent une tarification sociale de l'énergie (premiers kilowattheures gratuits, puis tarif progressif). Sur l'amendement de repli limité aux carburants et au fioul (scrutin n° 4044), le clivage est le même (GDR n'ayant pas pris part au vote). Le 26 octobre 2024 (budget 2025, scrutin n° 144), la même baisse générale avait été rejetée par 75 voix contre 123, avec un partage proche (Les Démocrates : 2 pour, 6 contre ; GDR : 2 abstentions). En septembre 2026, avec la flambée des prix des carburants, le RN réclame toujours cette baisse ; le Gouvernement, qui la chiffre désormais entre 12 et 15 milliards d'euros, s'y oppose et propose une « règle d'or » de restitution des surplus de TVA sur les carburants.",
+  "lastVerified": "2026-09-28"
+}

@@ -19,7 +19,9 @@
     "scrutin": "node scripts/scrutin.mjs",
     "icons": "pwa-assets-generator",
     "cap:sync": "npm run build && cap sync",
-    "android:apk": "npm run cap:sync && node scripts/android-apk.mjs"
+    "android:apk": "npm run cap:sync && node scripts/android-apk.mjs",
+    "equilibre": "node scripts/equilibre.mjs",
+    "profil": "node scripts/profils.mjs"
   },
   "dependencies": {
     "@capacitor-community/text-to-speech": "^8.0.2",

@@ -1,0 +1,272 @@
+{
+  "id": "centres-de-donnees-interet-national-terrains-artificialises",
+  "theme": "ecologie",
+  "question": "Faut-il réserver le statut de « projet d'intérêt national majeur », qui facilite l'implantation des très grands centres de données, à ceux construits sur des terrains déjà artificialisés ?",
+  "explainer": {
+    "title": "C'est quoi, un « projet d'intérêt national majeur » ?",
+    "text": "C'est un statut accordé par décret à de grands projets jugés stratégiques pour le pays, jusque-là des projets industriels. Il permet notamment à l'État d'adapter lui-même les documents d'urbanisme de la commune pour rendre le projet possible. Le projet de loi, déposé en 2024 et examiné par les députés en 2025, l'ouvrait aux très grands centres de données, ces bâtiments remplis de serveurs informatiques qui stockent et traitent les données, par exemple pour l'intelligence artificielle. Dans la version votée par les députés, ce statut facilitait aussi d'autres démarches, comme les dérogations à la protection des espèces protégées et le raccordement électrique. Un terrain artificialisé est un sol déjà bâti, goudronné ou aménagé, comme une friche industrielle.",
+    "sources": [
+      "s4",
+      "s3",
+      "s5"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, ajouter des conditions à ce statut freinerait l'installation de centres jugés stratégiques pour l'intelligence artificielle, alors que des dizaines de milliards d'euros d'investissements ont été annoncés en 2025.",
+      "sources": [
+        "s3",
+        "s8"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, mieux vaut accueillir ces centres en France, où l'électricité est abondante et décarbonée, que les voir s'installer ailleurs : cette électricité serait mieux valorisée ici qu'exportée chez nos voisins.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, l'artificialisation doit être freinée par des règles générales, comme l'objectif de « zéro artificialisation nette » fixé en 2021, et non secteur par secteur ; ce statut n'a pas à dicter le choix des terrains.",
+      "sources": [
+        "s15",
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'artificialisation des sols est la première cause du recul de la biodiversité, alors que la France compterait 90 000 à 150 000 hectares de friches industrielles, selon des chiffres cités en séance.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Ce statut permet à l'État d'adapter lui-même les règles d'urbanisme locales ; selon ses défenseurs, cette faveur appelle une contrepartie : bâtir sur des terrains déjà artificialisés plutôt que sur des terres agricoles ou naturelles.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, ces centres prennent beaucoup de place pour peu d'emplois (un pour 10 000 m² dans un projet cité en séance) et leur empreinte grandit vite : +15 % d'électricité consommée en un an, selon l'Arcep.",
+      "sources": [
+        "s3",
+        "s9"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement à un projet de loi du Gouvernement, première lecture à l'Assemblée",
+    "textTitle": "Projet de loi de simplification de la vie économique",
+    "summary": "Examiné à l'Assemblée au printemps 2025, ce projet de loi comportait un article ouvrant le statut de « projet d'intérêt national majeur » aux très grands centres de données. Entre fin avril et fin mai 2025, en séance, les députés ont rejeté une longue série d'amendements visant à l'encadrer (part minimale d'énergies renouvelables, critères environnementaux chiffrés, transparence, terrains déjà artificialisés), puis adopté l'article le 28 mai (105 voix contre 97).",
+    "sources": [
+      "s4",
+      "s6",
+      "s15",
+      "s3",
+      "s16",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-06-17",
+      "label": "Assemblée nationale",
+      "text": "Le projet de loi est adopté en première lecture (275 voix contre 252), avec l'ouverture du statut aux centres de données et sans condition liée à l'artificialisation des sols.",
+      "sources": [
+        "s7",
+        "s17"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "label": "Sénat",
+      "text": "Le Sénat adopte une proposition de loi visant à encadrer l'implantation des centres de données : elle permet aux schémas de cohérence territoriale d'orienter leur implantation et prévoit, elle aussi, leur accès à ce statut, en le subordonnant à une concertation préalable avec les communes concernées. Transmise à l'Assemblée, elle n'y a pas encore été examinée.",
+      "sources": [
+        "s11",
+        "s18",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "label": "Adoption définitive",
+      "text": "Après un accord entre députés et sénateurs, le Parlement adopte définitivement la loi : les très grands centres de données peuvent recevoir le statut, sans condition d'implantation sur un terrain déjà artificialisé ; un permis peut être refusé là où l'eau manque.",
+      "sources": [
+        "s7",
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "label": "Conseil constitutionnel",
+      "text": "Le Conseil constitutionnel valide ces dispositions : pour un centre de données, le statut permet seulement à l'État d'adapter les documents d'urbanisme locaux ; il ne change pas les conditions des autorisations et ne permet pas de présumer par avance une dérogation à la protection des espèces protégées. Il censure en revanche, pour une raison de procédure, un autre paragraphe du même article qui assouplissait le décompte de l'artificialisation des sols pour certains grands projets industriels.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique (article 35 pour les centres de données).",
+      "sources": [
+        "s10"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2121",
+      "numero": 2121,
+      "date": "2025-05-27",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement réservant le statut de projet d'intérêt national majeur aux centres de données construits sur des terrains déjà artificialisés (rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V2122",
+      "numero": 2122,
+      "date": "2025-05-27",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement voisin obligeant le décret à fixer des critères environnementaux chiffrés (sols, électricité, eau, réemploi du matériel) pour accorder ce statut (rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V2108",
+      "numero": 2108,
+      "date": "2025-05-27",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement de même objet, examiné plus tôt dans la journée : pas de statut pour un centre de données qui artificialiserait des sols (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2121 (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2121",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2121 (27 mai 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2121",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-27-mai-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Texte de la commission spéciale n° 1191 (article 15)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1191_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Conseil constitutionnel — Décision n° 2026-903 DC (21 mai 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026903DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° 2231 à l'article 15 (texte n° 1191), exposé sommaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1191/AN/2231",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de simplification de la vie économique",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Ministère de l'Économie — IA : des investissements records annoncés lors du sommet Choose France 2025",
+      "url": "https://www.economie.gouv.fr/actualites/ia-des-investissements-records-annonces-lors-du-sommet-choose-france-2025",
+      "kind": "officiel"
+    },
+    {
+      "id": "s9",
+      "label": "Arcep — Enquête annuelle « Pour un numérique soutenable », édition 2024 (données 2022)",
+      "url": "https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/impact-environnemental/enquete-annuelle-pour-un-numerique-soutenable-edition-2024.html",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2026-403 du 26 mai 2026 de simplification de la vie économique",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054131304/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Dossier législatif de la proposition de loi visant à encadrer l'implantation des centres de données sur le territoire français",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-348.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi visant à encadrer l'implantation des centres de données sur le territoire français",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51569",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 2122 : amendement sur des critères environnementaux chiffrés (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2122",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Scrutin n° 2139 : article 15 (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2139",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Compte rendu de la première séance (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-27-mai-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Compte rendu de la première séance (28 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-28-mai-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Scrutin n° 2458 : ensemble du projet de loi (17 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2458",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s18",
+      "label": "Sénat — Texte n° 73 (2025-2026) adopté le 25 mars 2026 : proposition de loi visant à encadrer l'implantation des centres de données",
+      "url": "https://www.senat.fr/leg/tas25-073.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s19",
+      "label": "Assemblée nationale — Scrutin n° 2108 : amendement n° 1972 à l'article 15 (27 mai 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2108",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Amendement du groupe LFI-NFP, présenté par ses auteurs comme un amendement « de repli » après ceux qui supprimaient l'ouverture du statut aux centres de données. Pour : LFI-NFP, Écologiste et Social, Socialistes (2 abstentions ; GDR : un seul votant). Contre : LIOT, EPR, Les Démocrates, Horizons, Droite républicaine, UDR et RN. Un amendement écologiste de même objet avait été rejeté plus tôt dans la journée, avec moins de votants (scrutin n° 2108 : 41 voix contre 68, socialistes divisés). L'amendement voisin sur des critères environnementaux chiffrés (scrutin n° 2122 : 62 voix contre 139) a divisé l'hémicycle de façon très proche (LIOT partagé). L'article lui-même a été adopté le lendemain (scrutin n° 2139 : 105 voix contre 97) : les quatre groupes de gauche ont voté contre, LIOT s'est partagé (1 pour, 3 contre) ; Démocrates, Horizons, Droite républicaine, UDR et RN ont voté pour, ainsi qu'EPR (3 voix contre). Participation faible (189 votants).",
+  "lastVerified": "2026-09-28"
+}

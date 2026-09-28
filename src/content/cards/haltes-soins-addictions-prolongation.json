@@ -1,0 +1,262 @@
+{
+  "id": "haltes-soins-addictions-prolongation",
+  "theme": "societe",
+  "question": "Faut-il prolonger jusqu'à fin 2027 l'expérimentation des salles où des usagers de drogue peuvent consommer sous la supervision de professionnels, appelées haltes « soins addictions » ?",
+  "explainer": {
+    "title": "C'est quoi, une halte « soins addictions » ?",
+    "text": "Appelées « salles de consommation à moindre risque » à leur ouverture en 2016, et souvent « salles de shoot » dans le langage courant, ces haltes accueillent des usagers de drogues qui peuvent y consommer les produits qu'ils détiennent pour leur usage personnel, sous la supervision de professionnels qui les conseillent et les orientent vers des soins ; ils n'y sont pas poursuivis pour usage ou détention. Il en existe deux, à Paris, près de la gare du Nord, et à Strasbourg, dans l'enceinte des hôpitaux universitaires. Elles suivent environ 1 600 personnes, pour un coût d'environ 5 millions d'euros par an pris en charge par l'Assurance maladie. Autorisées à titre expérimental, elles devaient fermer fin 2025 faute de prolongation.",
+    "sources": [
+      "s5",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, ces salles attireraient autour d'elles consommateurs et trafiquants : des riverains se plaignent d'insécurité et de nuisances, et les dealers y trouveraient facilement leurs clients.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la politique contre la drogue doit viser l'arrêt de la consommation : ces salles accompagneraient l'addiction au lieu d'organiser le sevrage, qui devrait se faire dans des lieux de soins éloignés des villes.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, le rapport d'évaluation que le Gouvernement devait remettre au Parlement n'avait toujours pas été transmis au moment des débats, et une nouvelle prolongation ne ferait que repousser de deux ans la même décision.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, qui s'appuient sur les évaluations de l'Inserm (2021) et de l'Igas, ces salles réduiraient les nuisances : autour de celle de Paris, le nombre de seringues ramassées a été divisé par quinze depuis 2016.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, ces salles éviteraient des overdoses et des contaminations par le VIH ou l'hépatite C, et seraient souvent la première porte vers les soins pour des personnes très précaires, qu'il faut d'abord garder en vie.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, fermer ces salles ne ferait pas disparaître l'addiction : les usagers retourneraient consommer dans la rue, loin des soignants, et la police devrait gérer seule ces consommations revenues dans l'espace public.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques de suppression d'un article du projet de loi de financement de la sécurité sociale, nouvelle lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Ajouté à l'Assemblée en première lecture, le 8 novembre 2025, par deux amendements identiques soutenus par le Gouvernement, l'article 20 sexies prolongeait jusqu'au 31 décembre 2027 l'expérimentation des haltes « soins addictions », la limitait à deux régions, autorisait l'hébergement d'usagers et élargissait son évaluation. Le Sénat l'a conservé en ajoutant à l'évaluation les retours des forces de l'ordre. En nouvelle lecture, le 5 décembre 2025, les amendements supprimant l'article ont été rejetés : voter « pour » ces amendements revenait à refuser la prolongation.",
+    "sources": [
+      "s3",
+      "s5",
+      "s7",
+      "s4"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-08",
+      "label": "Assemblée nationale",
+      "text": "En première lecture, les députés adoptent à main levée deux amendements identiques prolongeant l'expérimentation, avec l'avis favorable du Gouvernement ; le rapporteur général s'y déclare opposé à titre personnel.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le projet de loi en conservant la prolongation, approuvée par sa commission des affaires sociales ; il ajoute à l'évaluation une analyse des retours des forces de l'ordre sur la délinquance, les troubles à l'ordre public et les nuisances.",
+      "sources": [
+        "s5",
+        "s7"
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur l'ensemble du projet de loi : le texte revient en nouvelle lecture à l'Assemblée.",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-12-05",
+      "label": "Assemblée nationale",
+      "text": "En nouvelle lecture, les députés rejettent la suppression de l'article et reformulent l'évaluation : le rapport final devra analyser les faits de délinquance, les troubles à l'ordre public, les nuisances constatées dans l'espace public ou perçues par les riverains et l'évolution des modes de consommation.",
+      "sources": [
+        "s4",
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après l'adoption du texte en nouvelle lecture le 9 décembre et son rejet par le Sénat le 12 décembre, l'Assemblée adopte définitivement le projet de loi le 16 décembre.",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-12-23",
+      "label": "Rapport au Parlement",
+      "text": "Le Gouvernement transmet au Parlement le rapport d'évaluation de l'expérimentation prévu par la loi de 2016.",
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Le Conseil constitutionnel (décision n° 2025-899 DC) ne censure pas cette disposition. La loi n° 2025-1403 est promulguée : la prolongation figure à son article 58. Un arrêté relatif à l'expérimentation est pris le même jour.",
+      "sources": [
+        "s9",
+        "s8",
+        "s10",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "label": "Application",
+      "text": "Un arrêté du 19 mai 2026, publié le 30 mai, fixe les cahiers des charges nationaux des haltes avec hébergement et des haltes mobiles ; l'expérimentation court jusqu'au 31 décembre 2027.",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "À suivre",
+      "text": "Trois propositions de loi visant à pérenniser ces haltes ont été déposées : deux à l'Assemblée (17 avril et 28 octobre 2025) et une au Sénat (5 novembre 2025). Aucune n'a été examinée. Sans nouvelle loi, l'expérimentation prendra fin le 31 décembre 2027.",
+      "sources": [
+        "s14",
+        "s15",
+        "s11",
+        "s8"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4610",
+      "numero": 4610,
+      "date": "2025-12-05",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements identiques supprimant l'article prolongeant l'expérimentation des haltes « soins addictions » jusqu'à fin 2027 (nouvelle lecture), rejetés"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4610 (5 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4610",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 4610 (5 décembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4610",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : amendements prolongeant les haltes « soins addictions » (8 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-samedi-08-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : article 20 sexies, nouvelle lecture (5 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-vendredi-05-decembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Rapport n° 131 (2025-2026) de la commission des affaires sociales sur le projet de loi de financement de la sécurité sociale pour 2026, tome II, fascicule 2, examen des articles (15 novembre 2025)",
+      "url": "https://www.senat.fr/rap/l25-131-22/l25-131-22_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Amendement n° 1510 rect. bis de suppression de l'article 20 sexies, retiré (19 novembre 2025)",
+      "url": "https://www.senat.fr/enseance/2025-2026/122/Amdt_1510.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Projet de loi de financement de la sécurité sociale pour 2026 adopté par le Sénat, n° 2141 (26 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2141_projet-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Loi n° 2025-1403 de financement de la sécurité sociale pour 2026, article 58 (30 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2025/12/30/2025-1403/jo/article_58",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Arrêté du 19 mai 2026 relatif aux cahiers des charges nationaux de l'expérimentation nationale des haltes « soins addictions »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054152101",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Dossier législatif de la proposition de loi n° 108 visant à pérenniser les haltes « soins addictions » (déposée le 5 novembre 2025)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-108.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Rapport du Gouvernement au Parlement portant sur l'expérimentation « Haltes soins addictions » (JO du 23 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053143714",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Dossier législatif : proposition de loi n° 1325 visant à pérenniser les haltes soins addictions (déposée le 17 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_haltes_soins_addictions",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Dossier législatif : proposition de loi n° 2017 visant à pérenniser le dispositif des haltes soins addictions (déposée le 28 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/perenniser_dispositif_haltes_soins_addictions_17e",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour la suppression, donc contre la prolongation : RN et UDR, unanimes, et Droite républicaine (9 pour, 2 abstentions). Contre la suppression, donc pour la prolongation : LFI-NFP, GDR, Écologiste et social et Socialistes, unanimes, ainsi qu'EPR (32 contre la suppression) et Les Démocrates (10 contre, 1 abstention). Horizons s'est surtout abstenu (5 abstentions, 1 contre la suppression) : sa position est calculée comme partagée. LIOT (3 votants sur 22 : 2 abstentions, 1 contre la suppression) apparaît plutôt favorable à la prolongation. Le Gouvernement était défavorable à la suppression ; le rapporteur général (Droite républicaine), personnellement opposé à la prolongation en première lecture, s'en est remis à la sagesse de l'Assemblée. En première lecture, le 8 novembre 2025, la prolongation avait été adoptée à main levée, à partir de deux amendements identiques, l'un déposé par un député LIOT et cosigné par des députés socialistes et écologistes, l'autre par des députés socialistes. Juste après le scrutin n° 4610, un amendement supprimant l'ajout du Sénat sur les retours des forces de l'ordre (délinquance, troubles à l'ordre public, nuisances) dans l'évaluation, soutenu par LFI-NFP, GDR et Écologiste et social, a été rejeté (scrutin n° 4611 : 36 pour, 133 contre). Au Sénat, un amendement de suppression a été retiré en séance.",
+  "lastVerified": "2026-09-28"
+}

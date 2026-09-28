@@ -1,0 +1,214 @@
+{
+  "id": "allegements-cotisations-patronales-reduction",
+  "theme": "economie",
+  "question": "Faut-il réduire les allègements de cotisations patronales, y compris au niveau du smic, ce qui ferait payer aux employeurs environ 5 milliards d'euros de plus par an au profit de la Sécurité sociale ?",
+  "explainer": {
+    "title": "C'est quoi, les allègements de cotisations patronales ?",
+    "text": "Depuis les années 1990, les employeurs paient moins de cotisations sociales sur les salaires : la réduction est maximale au niveau du smic, où presque aucune cotisation patronale de sécurité sociale n'est due, puis diminue quand le salaire augmente. Destinés à soutenir l'emploi et la compétitivité, ces allègements s'appliquaient jusqu'à 3,5 smic et ont coûté près de 80 milliards d'euros en 2023. L'article en débat les réduisait de 2 points au niveau du smic en 2025, puis de 4 points en 2026, et les supprimait au-delà de 3 smic.",
+    "sources": ["s3", "s5"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la mesure alourdirait de 5 milliards d'euros le coût du travail, une première depuis trente ans, au détriment des marges, de l'investissement et des hausses de salaire, alors que la compétitivité est déjà fragile.",
+      "sources": ["s4", "s6"]
+    },
+    {
+      "text": "Selon ses opposants, les petites entreprises et les secteurs à bas salaires (propreté, aide à la personne…) seraient les plus touchés : l'institut de prévision OFCE estimait que la mesure détruirait 50 000 emplois en trois ans.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "text": "Selon ses opposants, il faudrait plutôt une réforme à coût constant : réduire les allègements sur les salaires élevés pour les renforcer entre 1,2 et 1,9 smic, afin d'encourager les hausses de salaire sans renchérir le travail.",
+      "sources": ["s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, ces allègements coûtent près de 80 milliards d'euros par an, 20 milliards de plus qu'en 2021 : en retirer 4 à 5 milliards aiderait à financer la Sécurité sociale sans réduire les moyens des hôpitaux ou des Ehpad.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, des allègements très forts au smic puis décroissants freinent les hausses de salaire : 20 % des salariés sont payés au smic, et un tiers d'entre eux y restent durablement.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, alors que les ménages, les apprentis et les collectivités sont mis à contribution pour redresser les comptes, il serait normal de demander aussi un effort limité aux entreprises, sans menacer leur compétitivité.",
+      "sources": ["s4"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article du projet de loi de financement de la sécurité sociale pour 2025, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2025",
+    "summary": "Le vote portait sur la suppression de l'article 6, qui réformait les allègements généraux de cotisations patronales : voter « pour » revenait à refuser leur réduction. Le Gouvernement en attendait environ 5 milliards d'euros de recettes par an (4 milliards en net). La commission des affaires sociales avait déjà supprimé l'article ; en séance, le Gouvernement a défendu le principe de la réforme et s'est dit ouvert à en modifier les paramètres pendant la navette, pour ménager les secteurs à bas salaires.",
+    "sources": ["s3", "s4"]
+  },
+  "suite": [
+    {
+      "date": "2024-11-08",
+      "label": "Transmission au Sénat",
+      "text": "L'Assemblée n'ayant pas achevé l'examen du texte dans le délai prévu par la Constitution, le Gouvernement le transmet au Sénat avec l'article dans sa version initiale, sans tenir compte de sa suppression.",
+      "sources": ["s5", "s7"]
+    },
+    {
+      "date": "2024-11-26",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte en supprimant la baisse des allègements au niveau du smic. En contrepartie, ils s'arrêteraient dès 2,05 smic à partir de 2026, au lieu de 3. Le rendement net est ramené de 4 à 3 milliards d'euros en 2025.",
+      "sources": ["s8", "s5", "s7"]
+    },
+    {
+      "date": "2024-11-27",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un rendement de 1,6 milliard d'euros en 2025 ; pour la suite, le niveau des allègements au smic pourra être fixé par décret, et le dispositif s'arrêtera à 3 smic.",
+      "sources": ["s8"]
+    },
+    {
+      "date": "2024-12-04",
+      "label": "Assemblée nationale",
+      "text": "Le Gouvernement ayant engagé sa responsabilité sur ce texte (article 49, alinéa 3), une motion de censure est adoptée : le Gouvernement est renversé et le texte rejeté.",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "date": "2025-02-12",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Après un nouveau vote du Sénat sur le texte de la commission mixte paritaire (23 janvier 2025), et sous un nouveau Gouvernement, le texte, qui reprend ce compromis sur les allègements, est considéré comme adopté après un nouvel engagement de responsabilité (article 49, alinéa 3). Le Sénat l'adopte définitivement le 17 février.",
+      "sources": ["s7", "s8"]
+    },
+    {
+      "date": "2025-02-28",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-875 DC : le Conseil censure d'autres articles et ne se prononce pas sur celui-ci. La loi n° 2025-199 (article 18) réduit les allègements en deux temps : dès 2025, puis, à partir de 2026, par une réduction unique qui s'éteint à 3 smic.",
+      "sources": ["s10", "s9", "s8"]
+    },
+    {
+      "date": "2025-09-04",
+      "label": "Décret",
+      "text": "Le décret n° 2025-887 fixe les paramètres de la réduction unique qui remplace, au 1er janvier 2026, les trois dispositifs d'allègements généraux.",
+      "sources": ["s11"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Loi de financement de la sécurité sociale pour 2026",
+      "text": "Avant son entrée en vigueur, la réforme est ajustée (article 40 de la loi n° 2025-1403) : le seuil de sortie de la réduction unique est fixé par décret, entre 3 fois le smic de 2024 et 3 fois le smic en vigueur, et les anciennes réductions de taux des cotisations maladie et famille sont maintenues pour les employeurs qui bénéficient d'exonérations spécifiques non cumulables avec elle.",
+      "sources": ["s12", "s9"]
+    },
+    {
+      "date": "2025-12-31",
+      "label": "Décret",
+      "text": "Le décret n° 2025-1446 ajuste les paramètres de la réduction unique, qui entre en vigueur le 1er janvier 2026.",
+      "sources": ["s13"]
+    },
+    {
+      "date": "2026-06-12",
+      "label": "Décret",
+      "text": "Pour toute l'année 2026, le calcul de la réduction retient le smic du 1er janvier 2026 (12,02 euros brut de l'heure), et non le smic revalorisé au 1er juin 2026 (décret n° 2026-509).",
+      "sources": ["s14", "s15"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V199",
+      "numero": 199,
+      "date": "2024-10-30",
+      "role": "principal",
+      "sens": -1,
+      "label": "Suppression de l'article réduisant les allègements de cotisations patronales (voter pour = refuser la réduction), première lecture"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 199 (30 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 199 (30 octobre 2024)",
+      "url": "https://datan.fr/votes/legislature-17/vote_199",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Projet de loi de financement de la sécurité sociale pour 2025, n° 325 (article 6 et exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B0325.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat et vote sur l'article 6 (30 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Rapport n° 138 (2024-2025) de la commission des affaires sociales, tome II, examen de l'article 6 (13 novembre 2024)",
+      "url": "https://www.senat.fr/rap/l24-138-2/l24-138-2_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° 249 de suppression de l'article 6 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0325/AN/249",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2025",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2025.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Rapport n° 344 (2024-2025) de la commission des affaires sociales, nouvelle lecture, exposé général (février 2025)",
+      "url": "https://www.senat.fr/rap/l24-344/l24-3446.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Loi n° 2025-199 de financement de la sécurité sociale pour 2025, article 18 (28 février 2025)",
+      "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053280620",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Conseil constitutionnel — Décision n° 2025-875 DC (28 février 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025875DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Décret n° 2025-887 du 4 septembre 2025 relatif aux modalités d'application de différents dispositifs de réduction et d'exonération de cotisations patronales de sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052194026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Loi n° 2025-1403 de financement de la sécurité sociale pour 2026, article 40 (30 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053226610",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Décret n° 2025-1446 du 31 décembre 2025 relatif aux modalités d'application de divers dispositifs d'exonérations de cotisations patronales de sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053276542",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Décret n° 2026-509 du 12 juin 2026 relatif aux modalités d'application de la réduction générale dégressive unique prévue à l'article L. 241-13 du code de la sécurité sociale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054248488",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Service-Public Entreprendre — RGDU : quel est le montant du Smic brut retenu pour 2026 ? (18 juin 2026)",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A18966",
+      "kind": "officiel"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Sens inversé : au scrutin n° 199, voter « pour » signifiait supprimer la réduction des allègements. Pour la suppression : EPR (50 pour, 1 contre), Droite républicaine, UDR, RN et la majorité d'Horizons (10 pour, 3 contre, 1 abstention). Contre la suppression : les quatre groupes de gauche, Les Démocrates (22 contre, 2 pour) et la majorité de LIOT (5 contre, 2 pour). Même vote, motivations différentes : la gauche voulait garder l'article pour aller plus loin (fin des allègements au-dessus de 2 smic, contreparties) ; Les Démocrates voulaient le garder pour le modifier, en ciblant la réduction sur les salaires élevés et en protégeant les bas salaires, et prévenaient qu'ils voteraient contre l'article sans ces changements ; la majorité de LIOT jugeait raisonnable l'effort demandé aux entreprises. EPR, qui défendait une réforme à coût constant pour les entreprises, a voté la suppression avec la Droite républicaine, l'UDR et le RN, contre l'avis du Gouvernement de l'époque, issu du bloc central et de la Droite républicaine. Vote d'octobre 2024 : la composition des groupes a un peu évolué depuis.",
+  "lastVerified": "2026-09-28"
+}

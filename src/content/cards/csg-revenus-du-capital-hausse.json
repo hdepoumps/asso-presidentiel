@@ -1,0 +1,196 @@
+{
+  "id": "csg-revenus-du-capital-hausse",
+  "theme": "fiscalite",
+  "question": "Faut-il relever de 9,2 % à 10,6 % la CSG sur les revenus du patrimoine et des placements (dividendes, loyers, plus-values, intérêts de l'assurance-vie ou de l'épargne logement…) ?",
+  "explainer": {
+    "title": "C'est quoi, la CSG sur les revenus du capital ?",
+    "text": "La contribution sociale généralisée (CSG) est un prélèvement qui finance la Sécurité sociale. Elle porte sur les salaires et les pensions, mais aussi sur les revenus du patrimoine et des placements, au taux de 9,2 % avant ce vote. S'y ajoutent la CRDS (0,5 %) et un prélèvement de solidarité (7,5 %), soit 17,2 % au total. Le livret A, le livret jeune, le livret de développement durable et solidaire (LDDS) et le livret d'épargne populaire (LEP) n'y sont pas soumis ; les dividendes, les loyers, les plus-values, l'assurance-vie, l'épargne logement ou les plans d'épargne en actions le sont.",
+    "sources": ["s4"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la France taxe déjà fortement le capital : les prélèvements sociaux sur ces revenus sont passés de 11 % en 2008 à 17,2 %, et l'ensemble des prélèvements sur le capital pèse 10,4 % du PIB, contre 8,7 % dans la zone euro.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses opposants, la hausse toucherait aussi les petits épargnants et les jeunes qui préparent un achat immobilier : plan d'épargne logement, assurance-vie, épargne salariale, plan d'épargne en actions ou revenus locatifs.",
+      "sources": ["s4", "s5"]
+    },
+    {
+      "text": "Selon ses opposants, il faudrait réduire les dépenses plutôt qu'augmenter encore les prélèvements, et ne pas alourdir la fiscalité de l'épargne au moment où l'on cherche à l'orienter vers le financement des entreprises.",
+      "sources": ["s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, les revenus du capital représentent 12 % des revenus des ménages mais seulement 10 % des recettes de la CSG ; jusqu'en 2018, son taux était d'ailleurs plus élevé sur le capital que sur les salaires.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "La hausse rapporterait environ 2,7 milliards d'euros par an. Selon ses défenseurs, elle aiderait à réduire le déficit de la Sécurité sociale, de 23 milliards d'euros en 2025, sans rogner sur les soins ni sur l'hôpital.",
+      "sources": ["s3", "s4", "s5"]
+    },
+    {
+      "text": "Selon ses défenseurs, les classes moyennes seraient peu touchées : le livret A, le LDDS et le LEP restent exonérés et, pour un plan d'épargne logement moyen de 25 000 euros, la hausse coûterait environ 6 euros par an.",
+      "sources": ["s4"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques au projet de loi de financement de la sécurité sociale pour 2026, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Les amendements portaient de 9,2 % à 10,6 %, sans limite de durée, le taux de la CSG sur l'ensemble des revenus du patrimoine et des placements, pour un rendement estimé à environ 2,7 milliards d'euros par an (2,66 milliards selon leur exposé des motifs). Le Gouvernement a donné sur cette série d'amendements un avis favorable présenté comme un avis « de méthode », pour pouvoir revenir sur la hausse pendant la navette ; juste avant le vote, il a rappelé que ces amendements, contrairement à une variante limitée à 2026, valaient aussi pour les années suivantes. Plus tôt dans la même discussion, les députés avaient rejeté une hausse à 10,6 % en 2026, 11,2 % en 2027 puis 10,2 %, présentée comme finançant la suspension de la réforme des retraites (103 voix contre 148), la même hausse à 10,6 % limitée à 2026 (77 voix contre 215) et des hausses plus fortes (11,2 % et 12 %).",
+    "sources": ["s3", "s4", "s5"]
+  },
+  "suite": [
+    {
+      "date": "2025-11-08",
+      "label": "Assemblée nationale",
+      "text": "Les députés adoptent la partie « recettes » du budget de la Sécurité sociale, qui contient la hausse (176 voix contre 161). Faute de vote sur l'ensemble du texte dans le délai prévu par la Constitution, le Gouvernement le transmet au Sénat le 13 novembre.",
+      "sources": ["s13", "s11"]
+    },
+    {
+      "date": "2025-11-21",
+      "label": "Sénat",
+      "text": "Le Sénat supprime la hausse de la CSG sur les revenus du capital (208 voix contre 133).",
+      "sources": ["s6"]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur un texte commun.",
+      "sources": ["s11"]
+    },
+    {
+      "date": "2025-12-04",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Un amendement du Gouvernement rétablit le taux de 10,6 %, mais seulement pour l'épargne financière (dividendes, intérêts, plus-values sur titres…) : revenus fonciers, plus-values immobilières, assurance-vie, épargne logement et plans d'épargne populaire restent à 9,2 %. Le Gouvernement annonce affecter le supplément à la branche autonomie (personnes âgées et handicapées). Adopté par 177 voix contre 84.",
+      "sources": ["s7", "s8", "s9"]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (12 décembre), l'Assemblée adopte définitivement la loi, avec cette hausse ciblée (247 voix contre 232).",
+      "sources": ["s11", "s12", "s14"]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-899 DC : le Conseil censure d'autres articles et ne se prononce pas sur celui-ci. La loi n° 2025-1403 (article 12) porte la CSG à 10,6 %, soit 18,6 % de prélèvements sociaux au total, sur les revenus concernés : dès les revenus du patrimoine de 2025 et, pour les placements, à partir du 1er janvier 2026.",
+      "sources": ["s10", "s9"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3427",
+      "numero": 3427,
+      "date": "2025-11-05",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques portant de 9,2 % à 10,6 % la CSG sur tous les revenus du patrimoine et des placements (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V4552",
+      "numero": 4552,
+      "date": "2025-12-04",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement du Gouvernement rétablissant la hausse, limitée à l'épargne financière (nouvelle lecture)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3427 (5 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3427",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3427 (5 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3427",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 127 après l'article 6 du projet de loi de financement de la sécurité sociale pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1907/AN/127",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur la CSG sur les revenus du capital (5 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N032",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : vote des amendements (5 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N033",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Scrutin n° 35 : suppression de l'article 6 bis du projet de loi de financement de la sécurité sociale pour 2026 (21 novembre 2025)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-35.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Amendement n° 1104 du Gouvernement à l'article 6 bis, nouvelle lecture (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141/AN/1104",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 4552 : amendement n° 1104 du Gouvernement (4 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4552",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Loi n° 2025-1403 de financement de la sécurité sociale pour 2026, article 12 (30 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053226452",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 3597 : deuxième partie du projet de loi de financement de la sécurité sociale pour 2026 (8 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3597",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Scrutin n° 4758 : ensemble du projet de loi de financement de la sécurité sociale pour 2026, lecture définitive (16 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Vote qui a divisé le bloc central. Pour : LFI-NFP, GDR, Écologiste et social, Socialistes, Les Démocrates (17 pour, 1 contre, 1 abstention) et la majorité des députés EPR présents (21 pour, 1 contre, 12 abstentions). Contre : Horizons (8 contre, 2 abstentions), Droite républicaine, UDR et RN. LIOT s'est divisé (1 pour, 3 contre, 2 abstentions). Les auteurs de ces amendements identiques (Socialistes, GDR, LFI-NFP) présentaient la hausse comme une ressource pour la Sécurité sociale. D'autres amendements socialistes de la même discussion la liaient au financement de la suspension de la réforme des retraites, et les opposants y voyaient le prix d'un accord entre le Gouvernement et le groupe socialiste. Le 4 décembre 2025, sur la version limitée à l'épargne financière (scrutin n° 4552), Socialistes, Écologiste et social, EPR, Les Démocrates et LIOT ont voté pour, RN et UDR contre, tandis que LFI-NFP s'est abstenu, que GDR s'est divisé et qu'Horizons et la Droite républicaine se sont surtout abstenus.",
+  "lastVerified": "2026-09-28"
+}

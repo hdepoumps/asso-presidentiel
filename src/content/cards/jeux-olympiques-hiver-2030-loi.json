@@ -1,0 +1,207 @@
+{
+  "id": "jeux-olympiques-hiver-2030-loi",
+  "theme": "societe",
+  "question": "Faut-il adopter la loi sur les Jeux olympiques et paralympiques d'hiver de 2030 dans les Alpes, avec notamment des dérogations d'urbanisme et la reprise de la vidéosurveillance algorithmique ?",
+  "explainer": {
+    "title": "Que contient cette loi ?",
+    "text": "La France a obtenu en juillet 2024 l'organisation des Jeux olympiques et paralympiques d'hiver de 2030, prévus en février et mars 2030 dans quatre départements alpins. La loi, de 49 articles, reprend en grande partie les règles des Jeux de Paris 2024 : urbanisme et expropriations accélérés, ouverture le dimanche des commerces proches des sites de janvier à mars 2030 avec des salariés volontaires, publicité élargie, possibilité pour les deux régions de couvrir chacune un quart d'un éventuel déficit du comité d'organisation, dans la limite de 75 millions d'euros. Pour la sécurité, elle relance jusqu'à fin 2027 l'expérimentation de la vidéosurveillance « algorithmique », arrêtée en mars 2025, qui analyse les images par logiciel. Elle permet aussi au ministre de l'Intérieur, pour prévenir le terrorisme, d'interdire à une personne jugée gravement menaçante de paraître sur les lieux d'un grand événement pendant sa durée (deux mois au plus) ; cette mesure s'appliquera aussi après les Jeux.",
+    "sources": [
+      "s4",
+      "s5",
+      "s8",
+      "s9"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le coût reste incertain : plus de 2 milliards d'euros de budget d'organisation, dont une part à la charge de l'État et des régions, en pleine période d'économies budgétaires.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, les dérogations d'urbanisme, les expropriations et les chantiers fragiliseraient des montagnes déjà touchées par le réchauffement, sans véritable débat public préalable.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la vidéosurveillance algorithmique et l'interdiction de paraître, décidée sur de simples « raisons sérieuses de penser » qu'une personne est menaçante, porteraient atteinte aux libertés.",
+      "sources": [
+        "s4",
+        "s8"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "La France s'est engagée auprès du Comité international olympique en 2024 : selon ses défenseurs, ces règles reprises de Paris 2024 seraient indispensables pour livrer à temps, et 75 % du budget d'organisation viendrait du privé.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les Jeux apporteraient visibilité et retombées économiques aux vallées alpines, en s'appuyant sur des équipements existants et avec une vingtaine d'hectares artificialisés.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, un événement mondial exposé à la menace terroriste justifierait ces outils : la vidéosurveillance algorithmique, testée à Paris 2024 sans reconnaissance faciale, serait relancée sous contrôle d'un comité indépendant.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Projet de loi du Gouvernement, texte de la commission mixte paritaire",
+    "textTitle": "Projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030",
+    "summary": "Déposé au Sénat le 15 mai 2025 et adopté par lui le 24 juin 2025, le projet de loi a été adopté par l'Assemblée en première lecture le 13 janvier 2026, par 403 voix contre 99. Après un accord entre députés et sénateurs en commission mixte paritaire, les députés se sont prononcés le 3 février 2026 sur le texte final, qui compte 49 articles.",
+    "sources": [
+      "s6",
+      "s7",
+      "s4"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-02-05",
+      "label": "Adoption définitive",
+      "text": "Deux jours après l'Assemblée, le Sénat adopte à son tour le texte de la commission mixte paritaire.",
+      "sources": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi par des députés, le Conseil constitutionnel juge conformes tous les articles contestés, dont la reprise de la vidéosurveillance algorithmique. Il assortit l'interdiction de paraître de deux réserves : l'administration doit veiller à ce qu'elle n'excède pas la rigueur nécessaire, compte tenu des mesures déjà subies par la personne ; et une personne déjà visée par des mesures de surveillance antiterroriste ne peut être interdite de paraître dans un même lieu plus de douze mois au total.",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-03-20",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-201 du 20 mars 2026 relative à l'organisation des jeux Olympiques et Paralympiques de 2030, publiée le lendemain.",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Nouvelle loi",
+      "text": "Une autre loi, sur l'ordre public et la sécurité du quotidien (loi n° 2026-798 du 18 août 2026), repousse au 31 décembre 2030 la fin de l'expérimentation de la vidéosurveillance algorithmique et l'étend à certains bâtiments et lieux ouverts au public. Le Conseil constitutionnel avait jugé ce report conforme le 14 août 2026.",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "date": "2030-02",
+      "label": "À venir",
+      "text": "Les Jeux olympiques doivent se tenir du 1er au 17 février 2030 et les Jeux paralympiques du 1er au 10 mars 2030. L'expérimentation de la vidéosurveillance algorithmique court désormais jusqu'au 31 décembre 2030.",
+      "sources": [
+        "s4",
+        "s11"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V5296",
+      "numero": 5296,
+      "date": "2026-02-03",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du projet de loi, texte de la commission mixte paritaire"
+    },
+    {
+      "uid": "VTANR5L17V4963",
+      "numero": 4963,
+      "date": "2026-01-13",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du projet de loi en première lecture"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 5296 : ensemble du projet de loi, texte de la commission mixte paritaire (3 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5296",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 5296 (3 février 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_5296",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Scrutin n° 4963 : ensemble du projet de loi, première lecture (13 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4963",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : texte de la commission mixte paritaire (3 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-03-fevrier-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — La loi en clair : projet de loi relatif à l'organisation des jeux Olympiques et Paralympiques de 2030",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-relatif-a-lorganisation-des-jeux-olympiques-et-paralympiques-de-2030.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52100",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif du projet de loi (pjl24-630)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl24-630.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Conseil constitutionnel — Décision n° 2026-902 DC (19 mars 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026902DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Loi n° 2026-201 relative à l'organisation des jeux Olympiques et Paralympiques de 2030 (20 mars 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053707088",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Loi n° 2026-798 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens, article 50 (18 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054707596",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Conseil constitutionnel — Décision n° 2026-915 DC (14 août 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026915DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte large, qui ne porte pas sur une seule mesure : les votes mêlent l'avis sur les Jeux eux-mêmes, sur les dérogations et sur les mesures de sécurité. Pour : Socialistes (52 pour, 1 contre, 5 abstentions), qui ont jugé que « le train est parti » et qu'il fallait encadrer les Jeux, tout en qualifiant le volet sécuritaire de « point noir » ; LIOT, Démocrates, EPR, Horizons, Droite républicaine, UDR et RN. Contre : LFI-NFP (67) et Écologiste et social (27), opposés au coût, aux dérogations environnementales et à la vidéosurveillance algorithmique, les écologistes contestant aussi la décision d'accueillir ces Jeux. GDR s'est surtout abstenu (6 abstentions, 4 contre), en dénonçant les dérogations d'urbanisme et de droit du travail et les mesures de sécurité. Même répartition en première lecture le 13 janvier 2026 (scrutin n° 4963 : 403 pour, 99 contre, 18 abstentions).",
+  "lastVerified": "2026-09-28"
+}

@@ -1,0 +1,244 @@
+{
+  "id": "cantines-publiques-produits-origine-francaise",
+  "theme": "agriculture",
+  "question": "Faut-il obliger les cantines publiques (écoles, hôpitaux, administrations…) à ne servir que des produits d'origine française, sauf absence d'offre, au lieu d'une préférence européenne ?",
+  "explainer": {
+    "title": "Que prévoyait le texte avant ce vote ?",
+    "text": "Depuis la loi Égalim de 2018, les restaurants collectifs publics doivent servir au moins 50 % de produits durables et de qualité, dont 20 % de produits bio, sans règle sur leur origine : selon le rapport du Sénat, les règles de la commande publique, issues du droit européen, ne permettent pas de choisir un fournisseur selon une origine locale ou nationale. Le projet de loi du Gouvernement créait une « préférence européenne » : sauf absence d'offre, les restaurants collectifs publics n'auraient servi que des produits originaires de l'Union européenne ou de l'Espace économique européen ; le texte examiné en séance y ajoutait un objectif d'au moins 80 % de produits de filières françaises et, dès 2028, 100 % de viande française dans les restaurants de l'État. Selon le syndicat de la restauration collective cité par le Sénat, 71 % des viandes et 43 % des fruits et légumes qu'elle sert sont d'origine française. L'amendement voté remplace cette préférence européenne par une obligation d'origine française.",
+    "sources": [
+      "s5",
+      "s7"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, réserver les achats publics aux produits français est contraire au droit européen et à l'égalité entre les candidats aux marchés publics : la mesure serait annulée par le juge ou censurée.",
+      "sources": [
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, qui citent les chiffres de la restauration collective, 99 % de la viande fraîche, des œufs et du lait servis en cantine sont déjà français ; l'écart porte surtout sur les fruits, en partie exotiques.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la mesure exposerait les exportations agricoles françaises à des représailles des pays voisins et priverait les cantines de produits que la France ne produit pas assez, comme le riz.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la concurrence vient surtout des autres pays européens, où certains pesticides interdits en France restent autorisés : 39 % des fruits et légumes servis en cantine en proviennent, selon la profession.",
+      "sources": [
+        "s4",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les cantines publiques sont un levier massif pour garantir des débouchés aux producteurs français, alors que l'excédent commercial agroalimentaire, divisé par deux entre 2019 et 2024, s'est presque effacé en 2025.",
+      "sources": [
+        "s4",
+        "s3",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, d'autres pays, comme les États-Unis, donnent la priorité à leurs propres produits dans les achats publics ; l'inscrire dans la loi aiderait à faire changer les règles européennes.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement à un projet de loi du Gouvernement, première lecture",
+    "textTitle": "Projet de loi d'urgence pour la protection et la souveraineté agricoles",
+    "summary": "Ce projet de loi portait aussi sur l'eau, les pesticides, l'élevage, le loup et les prix agricoles ; son article 4 réforme les règles d'achat des restaurants collectifs. Le 29 mai 2026, l'amendement a été adopté contre l'avis de la commission et du Gouvernement, puis un autre amendement a étendu la même obligation d'origine française aux restaurants collectifs privés (cantines d'entreprise, établissements privés…).",
+    "sources": [
+      "s4",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-06-02",
+      "label": "Assemblée nationale",
+      "text": "Le projet de loi est adopté en première lecture (369 voix contre 178). Le texte transmis au Sénat impose aux restaurants collectifs publics et privés de ne servir que des produits originaires du territoire français, sauf absence d'offre pour un produit non substituable.",
+      "sources": [
+        "s6",
+        "s9",
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "label": "Sénat (commission)",
+      "text": "La commission des affaires économiques du Sénat supprime l'obligation d'origine française, jugée à risque au regard du droit européen et de la Constitution, ainsi que l'objectif de 100 % de viande française, et rétablit la préférence européenne pour les seuls restaurants collectifs publics.",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le projet de loi (219 voix contre 111) avec la préférence européenne : produits originaires de l'Union européenne ou de l'Espace économique européen dans les restaurants collectifs publics.",
+      "sources": [
+        "s8",
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs s'accordent sur un texte commun, adopté par l'Assemblée le 20 juillet (296 voix contre 224) puis définitivement par le Sénat le 21 juillet. L'obligation d'origine française n'y figure pas.",
+      "sources": [
+        "s9",
+        "s12",
+        "s16"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-914 DC : le Conseil censure plusieurs autres articles de la loi ; il ne se prononce pas sur l'article relatif aux restaurants collectifs.",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-796 du 18 août 2026 : son article 8 impose aux restaurants collectifs publics de ne servir que des produits originaires de l'Union européenne, de l'Espace économique européen ou des pays et territoires d'outre-mer associés, sauf absence d'offre suffisante d'un produit non substituable, pour les marchés lancés après la promulgation ; la règle ne s'applique ni dans les départements et régions d'outre-mer, ni à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon.",
+      "sources": [
+        "s10",
+        "s13"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7055",
+      "numero": 7055,
+      "date": "2026-05-29",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement imposant des produits d'origine française dans les restaurants collectifs publics, à la place de la préférence européenne (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7055 (29 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7055",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 7055 (29 mai 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_7055",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 173 à l'article 4 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2765/AN/173",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance (29 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-vendredi-29-mai-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte de la commission n° 2765, article 4 (7 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2765_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Texte adopté n° 295 en première lecture, article 4 (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0295_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Rapport n° 762 de la commission des affaires économiques sur le projet de loi (17 juin 2026)",
+      "url": "https://www.senat.fr/rap/l25-762/l25-762_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Texte n° 152 rectifié (2025-2026) modifié par le Sénat en première lecture (2 juillet 2026)",
+      "url": "https://www.senat.fr/leg/tas25-152.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2026-796, article 8 (18 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/8/18/2026-796/jo/article_8",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2026-914 DC (14 août 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026914DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Sénat — Dossier législatif du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl25-689.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Ministère de l'Agriculture — La loi d'urgence pour la protection et la souveraineté agricoles promulguée (19 août 2026)",
+      "url": "https://agriculture.gouv.fr/la-loi-durgence-pour-la-protection-et-la-souverainete-agricoles-promulguee-par-le-president-de-la",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Scrutin n° 7259 : ensemble du projet de loi, première lecture (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7259",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Scrutin n° 327 : ensemble du projet de loi, première lecture (2 juillet 2026)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-327.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Scrutin n° 8427 : ensemble du texte de la commission mixte paritaire (20 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour : LFI-NFP (16 députés) et RN (45). GDR partagé (1 pour, 1 abstention). Socialistes (5 abstentions, 1 contre) et Écologiste et social (3 abstentions, 1 pour) surtout abstenus. Contre : EPR, Démocrates, Horizons et la Droite républicaine (7 contre, 1 pour). LIOT et UDR n'ont eu qu'un votant chacun : aucune position n'est calculée pour eux. Participation faible (105 votants, un vendredi) : les positions des Socialistes, d'Écologiste et social et de GDR ne reposent que sur 6, 4 et 2 députés. En séance, un député du groupe Écologiste et social a expliqué préférer des produits bio et locaux, même venus d'un pays voisin, à une préférence nationale. L'amendement a été supprimé au Sénat et n'a pas été repris dans la loi du 18 août 2026, qui retient la préférence européenne. Sur le texte final de la commission mixte paritaire (scrutin n° 8427, qui porte sur toute la loi), la Droite républicaine, l'UDR, le RN et la majorité d'Horizons et d'EPR (51 pour, 15 contre, 16 abstentions) ont voté pour, Démocrates et LIOT se sont partagés, et les quatre groupes de gauche ont voté contre.",
+  "lastVerified": "2026-09-28"
+}

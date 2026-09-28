@@ -1,0 +1,241 @@
+{
+  "id": "quotient-familial-part-entiere-deuxieme-enfant",
+  "theme": "fiscalite",
+  "question": "Faut-il que le deuxième enfant donne droit, comme les suivants, à une part fiscale entière au lieu d'une demi-part pour le calcul de l'impôt sur le revenu ?",
+  "explainer": {
+    "title": "C'est quoi, le quotient familial ?",
+    "text": "Pour calculer l'impôt sur le revenu, le revenu du foyer est divisé par un nombre de « parts » : une par adulte, une demi-part pour chacun des deux premiers enfants à charge, une part entière à partir du troisième. Plus il y a de parts, plus l'impôt baisse. Cet avantage est plafonné : 1 807 euros au plus par demi-part liée aux enfants, pour l'impôt sur les revenus de 2025. Il ne réduit pas l'impôt des foyers qui ne paient pas d'impôt sur le revenu.",
+    "sources": [
+      "s9",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Chiffrée à 3,5 milliards d'euros par le rapporteur général du budget et le Gouvernement, la mesure n'est pas finançable, selon ses opposants, alors que l'État cherche à réduire son déficit.",
+      "sources": [
+        "s4",
+        "s6",
+        "s14"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la politique familiale doit être repensée dans son ensemble, pas par un amendement isolé ; le Gouvernement met en avant le congé supplémentaire de naissance, qui pourrait coûter à terme près de 1 milliard d'euros.",
+      "sources": [
+        "s4",
+        "s14"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, on ne fait pas des enfants pour un avantage fiscal : ce qui retient les couples, surtout modestes, c'est d'abord le manque de logements adaptés et la précarité de l'emploi.",
+      "sources": [
+        "s4",
+        "s6",
+        "s14"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la règle ne reflète plus les familles d'aujourd'hui : la part entière est réservée au troisième enfant, alors que la plupart des familles ont un ou deux enfants, dont le coût a augmenté sans que le barème suive.",
+      "sources": [
+        "s4",
+        "s6",
+        "s14"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, l'arrivée d'un deuxième enfant fait souvent baisser le niveau de vie (garde, logement, activité réduite d'un parent) ; une part entière rendrait environ 560 euros par an à une famille de classe moyenne.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, avec une natalité au plus bas (1,56 enfant par femme en 2025 selon l'Insee), l'État doit aider les couples qui souhaitent un deuxième enfant : soutenir les familles, c'est investir dans l'avenir.",
+      "sources": [
+        "s4",
+        "s3",
+        "s10"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "Les deux amendements identiques font compter le deuxième enfant pour une part entière, comme le troisième et les suivants ; le premier enfant garde sa demi-part. Concrètement, tout foyer d'au moins deux enfants à charge gagnerait une demi-part, dans la limite du plafonnement, qui n'est pas modifié. La même mesure avait été rejetée le 23 octobre 2024, lors de l'examen du budget 2025 (90 voix contre 130).",
+    "sources": [
+      "s3",
+      "s8",
+      "s4",
+      "s7",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1), ce qui vaut rejet du texte en première lecture. Le Sénat examine la version initiale du Gouvernement, qui ne contient pas cette mesure.",
+      "sources": [
+        "s16",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-11-28",
+      "label": "Sénat",
+      "text": "Les sénateurs rejettent un amendement proposant la même mesure, après un avis défavorable de la commission des finances et du Gouvernement (coût estimé entre 3 et 3,5 milliards d'euros).",
+      "sources": [
+        "s15",
+        "s14"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "Considérée comme définitivement adoptée le 2 février 2026 (article 49.3), puis validée en partie par le Conseil constitutionnel le 19 février, la loi de finances pour 2026 ne reprend pas la mesure : chacun des deux premiers enfants donne toujours droit à une demi-part. Le plafond de l'avantage est porté à 1 807 euros par demi-part pour l'impôt sur les revenus de 2025.",
+      "sources": [
+        "s13",
+        "s17",
+        "s11",
+        "s9"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3092",
+      "numero": 3092,
+      "date": "2025-10-25",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques accordant une part fiscale entière dès le deuxième enfant (budget 2026, première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V51",
+      "numero": 51,
+      "date": "2024-10-23",
+      "role": "historique",
+      "sens": 1,
+      "label": "Même mesure lors de l'examen du budget 2025 (rejetée)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3092 (25 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3092",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3092 (25 octobre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3092",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° I-774 au projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/774",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat et vote sur la part fiscale du deuxième enfant (25 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N011",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Scrutin n° 51 : même mesure lors de l'examen du budget 2025 (23 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/51",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur la part fiscale du deuxième enfant, budget 2025 (23 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N013",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Amendement n° I-845 au projet de loi de finances pour 2025 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/845",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Amendement n° I-951 au projet de loi de finances pour 2026, identique au n° I-774",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/951",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Bofip-Impôts — Plafonnement des effets du quotient familial (BOI-IR-LIQ-20-20-20, 7 avril 2026)",
+      "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP.html/identifiant=BOI-IR-LIQ-20-20-20-20260407",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Insee — Bilan démographique 2025, Insee Première n° 2087 (janvier 2026)",
+      "url": "https://www.insee.fr/fr/statistiques/8719824",
+      "kind": "officiel"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053508155/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Compte rendu de la séance du 28 novembre 2025 : projet de loi de finances pour 2026, débat sur le quotient familial (amendement n° I-890)",
+      "url": "https://www.senat.fr/seances/s202511/s20251128/s20251128_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Amendement n° I-890 au projet de loi de finances pour 2026 : part fiscale entière dès le deuxième enfant (rejeté le 28 novembre 2025)",
+      "url": "https://www.senat.fr/amendements/2025-2026/138/Amdt_I-890.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Scrutin n° 4241 : vote sur la première partie du projet de loi de finances pour 2026 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC, loi de finances pour 2026 (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour : RN (78 pour ; le seul vote « contre » enregistré a été corrigé en « pour » par une mise au point), auteur des deux amendements, et UDR (4 pour). Contre, sans exception : LFI-NFP, GDR, Écologiste et social, Socialistes, LIOT, Les Démocrates et EPR. Horizons partagés (1 pour, 4 contre, 5 abstentions). La Droite républicaine s'est surtout abstenue (3 pour, 7 contre, 16 abstentions), alors que, le 23 octobre 2024 (budget 2025, scrutin n° 51), ses députés présents avaient voté la même mesure (6 pour, 1 abstention) ; ce jour-là, la mesure avait été rejetée par 90 voix contre 130 (les deux voix LFI-NFP enregistrées « pour » ont ensuite été corrigées, les deux députés ayant indiqué avoir voulu voter contre). Changement de position daté pour la Droite républicaine : de « pour » (2024) à une abstention majoritaire (2025). Les rapporteurs généraux ont reconnu le constat (familles plus petites, natalité en baisse) ; en 2024 comme en 2025, rapporteur général et Gouvernement ont opposé le coût de 3,5 milliards d'euros et le besoin d'une réforme d'ensemble de la politique familiale. Le 28 novembre 2025, le Sénat a rejeté la même mesure, défendue par des sénateurs RN.",
+  "lastVerified": "2026-09-28"
+}

@@ -1,0 +1,346 @@
+{
+  "id": "taxe-petits-colis-importes-hors-ue",
+  "theme": "economie",
+  "question": "Faut-il créer une taxe temporaire de 2 euros par type d'article contenu dans les colis de 150 euros ou moins venant de pays hors Union européenne, en attendant une mesure européenne ?",
+  "explainer": {
+    "title": "C'est quoi, un « petit colis » ?",
+    "text": "Les colis d'une valeur de 150 euros au plus importés de pays hors Union européenne sont déclarés selon une procédure simplifiée et, jusqu'au 1er juillet 2026, étaient exonérés de droits de douane. En 2024, plus de 775 millions d'articles sont entrés en France de cette façon, surtout via des plateformes de vente en ligne asiatiques. La TVA est due depuis 2021, mais la valeur déclarée serait souvent sous-estimée selon le Gouvernement. La taxe débattue est due pour chaque article au sens douanier, c'est-à-dire chaque type de marchandise du colis, et non pour chaque objet.",
+    "sources": [
+      "s3",
+      "s2",
+      "s12",
+      "s13"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la taxe serait payée par les consommateurs, souvent modestes, qui achètent sur ces plateformes par nécessité, et non par les plateformes ; mieux vaudrait interdire les produits dangereux que les taxer.",
+      "sources": [
+        "s2",
+        "s21"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, une taxe appliquée par la France seule serait facile à contourner : les plateformes pourraient faire arriver leurs colis dans un autre pays européen qui ne l'applique pas, ou y installer des centres d'assemblage.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, mieux vaudrait attendre l'accord européen et s'attaquer à l'exonération douanière des colis de moins de 150 euros et à la sous-déclaration de leur valeur, qui ferait perdre au moins 2 milliards d'euros de TVA.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, ces plateformes vendent à prix cassés des produits qui ne respectent pas les normes européennes, au détriment des commerces de centre-ville et de l'industrie textile : la taxe rétablirait un peu d'équité.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les contrôles douaniers montreraient qu'une grande partie de ces produits ne respectent pas les normes, notamment de sécurité pour les jouets ; la taxe paierait douaniers et scanners à la place des contribuables.",
+      "sources": [
+        "s2",
+        "s21",
+        "s20"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, cette taxe temporaire anticiperait de quelques mois une mesure européenne ; elle serait appliquée avec la Belgique, le Luxembourg et les Pays-Bas, qui reçoivent avec la France près de 80 % des colis.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article du projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'article 22 du projet de budget créait une taxe temporaire de 2 euros par article contenu dans les colis de faible valeur importés de pays tiers, en attendant un prélèvement européen. Plus tôt dans la soirée, les députés avaient rejeté un amendement supprimant l'article (86 voix pour, 155 contre) ; juste avant le vote de l'article, ils ont adopté un amendement du Gouvernement faisant payer la taxe par la personne redevable de la TVA, le plus souvent la plateforme ou le vendeur, au lieu du déclarant en douane (201 voix contre 89).",
+    "sources": [
+      "s3",
+      "s21",
+      "s4",
+      "s9"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1), ce qui vaut rejet du texte en première lecture : le Sénat examine donc la version initiale du Gouvernement.",
+      "sources": [
+        "s5",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-12-01",
+      "label": "Sénat",
+      "text": "Les sénateurs portent la taxe à 5 euros par article, contre l'avis du Gouvernement, qui craint qu'au-delà de 2 euros elle ne soit assimilée à un droit de douane contestable ; comme les députés, ils la font payer par la personne redevable de la TVA.",
+      "sources": [
+        "s22",
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à s'accorder sur un texte commun.",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-01-15",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Les députés rejettent un nouvel amendement de suppression, ramènent la taxe de 5 à 2 euros par article, reportent son entrée en vigueur au 1er mars 2026, puis adoptent de nouveau l'article (68 voix contre 54).",
+      "sources": [
+        "s20",
+        "s8",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-01-27",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Le Gouvernement ayant engagé sa responsabilité (article 49, alinéa 3, de la Constitution) et les motions de censure ayant été rejetées, le budget est considéré comme adopté en nouvelle lecture.",
+      "sources": [
+        "s17",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-01-29",
+      "label": "Sénat",
+      "text": "Les sénateurs rejettent le texte en nouvelle lecture en adoptant une question préalable.",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Le budget est définitivement adopté selon la procédure de l'article 49, alinéa 3, de la Constitution, sans vote sur le texte ; la taxe y figure, au montant de 2 euros par article.",
+      "sources": [
+        "s5",
+        "s7",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Saisi de la loi, le Conseil constitutionnel (décision n° 2026-901 DC) ne se prononce pas sur la taxe, qui n'était pas contestée. La loi de finances n° 2026-103 (article 82) l'applique à partir du 1er mars 2026, jusqu'à l'entrée en vigueur d'un prélèvement européen et au plus tard jusqu'au 31 décembre 2026.",
+      "sources": [
+        "s10",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-03-01",
+      "label": "Application",
+      "text": "La taxe s'applique : 2 euros par article au sens douanier, dus par la personne redevable de la TVA à l'importation, le plus souvent le vendeur ou la plateforme, à défaut le destinataire du colis.",
+      "sources": [
+        "s12",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "label": "Sénat",
+      "text": "Dans une question écrite, toujours sans réponse du Gouvernement fin septembre 2026, une sénatrice relève, d'après la presse, que la taxe ne rapporterait qu'environ 2,3 millions d'euros par mois, contre 400 millions attendus sur l'année : beaucoup de colis arriveraient désormais par Liège, Amsterdam ou la Pologne avant d'être livrés en France par la route.",
+      "sources": [
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Union européenne",
+      "text": "Un droit de douane européen de 3 euros par catégorie d'articles s'applique aux colis de 150 euros ou moins importés dans l'Union ; la taxe française cesse de s'appliquer, comme le constate le décret n° 2026-589 du 3 juillet 2026. Des frais de gestion européens sur ces petits colis sont en outre prévus à partir du 1er novembre 2026.",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3999",
+      "numero": 3999,
+      "date": "2025-11-19",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 22 créant la taxe sur les petits colis, première lecture (adopté)"
+    },
+    {
+      "uid": "VTANR5L17V3987",
+      "numero": 3987,
+      "date": "2025-11-19",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement supprimant l'article, première lecture (voter pour = refuser la taxe ; rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V5086",
+      "numero": 5086,
+      "date": "2026-01-15",
+      "role": "historique",
+      "sens": 1,
+      "label": "Article 22 en nouvelle lecture, après le passage du texte au Sénat et le retour à 2 euros par article (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3999 (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3999",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : débat sur l'article 22 (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-19-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 (n° 1906), article 22 et exposé des motifs",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B1906.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° I-4086 du Gouvernement à l'article 22 du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/4086",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Public Sénat — Le Sénat relève à 5 euros la taxe sur les petits colis (1er décembre 2025)",
+      "url": "https://www.publicsenat.fr/actualites/economie/le-senat-releve-a-5-euros-la-taxe-sur-les-petits-colis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 5086 : article 22, nouvelle lecture (15 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5086",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 3987 : amendement de suppression de l'article 22 (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3987",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026, article 82 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/article_82",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Douane — Questions-réponses sur la taxe sur les petits colis (février 2026)",
+      "url": "https://www.douane.gouv.fr/sites/default/files/2026-02/27/FAQ-taxe-petits-colis.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s13",
+      "label": "Service-public.fr — La taxe française sur les petits colis remplacée par un droit de douane européen (1er juillet 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18985",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Décret n° 2026-589 du 3 juillet 2026 constatant la date d'entrée en vigueur du prélèvement européen sur certaines importations",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054386802",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Question écrite : contournement de la taxe sur les petits colis et faiblesse de son rendement (21 mai 2026)",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ260508861.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Adoption du projet de loi de finances pour 2026 en nouvelle lecture après l'engagement de la responsabilité du Gouvernement et le rejet des motions de censure (20, 23 et 27 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-du-plf-2026-en-nouvelle-lecture-apres-l-engagement-de-la-responsabilite-du-gouvernement-sur-la-2nde-partie-et-l-ensemble-du-projet-de-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "LCP — Budget 2026 : les députés approuvent la taxe de deux euros sur les « petits colis » (19 novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-les-deputes-approuvent-la-taxe-de-deux-euros-sur-les-petits-colis-417170",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s19",
+      "label": "Datan — Vote n° 3999 (19 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3999",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s20",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance : article 22 en nouvelle lecture (15 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-15-janvier-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s21",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : suite du débat et votes sur l'article 22 (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mercredi-19-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s22",
+      "label": "Sénat — Compte rendu intégral de la séance du 1er décembre 2025 : article 22 du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/seances/s202512/s20251201/s20251201_mono.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour l'article : tous les groupes sauf le RN (0 pour, 82 contre), y compris la Droite républicaine (13 pour, 3 contre) et l'UDR (6 pour). Le RN disait partager l'objectif de lutter contre la concurrence déloyale, mais jugeait la taxe inefficace, contournable et payée par les consommateurs modestes ; il réclamait plutôt un « protectionnisme intelligent » ou l'interdiction des produits dangereux. LFI-NFP a voté l'article tout en le jugeant tardif et en préférant taxer les plateformes plutôt que les consommateurs. Plus tôt dans la soirée, l'amendement du RN supprimant l'article avait été rejeté (scrutin n° 3987 : 86 pour, 155 contre) ; l'UDR s'y était abstenue. En nouvelle lecture, le 15 janvier 2026 (scrutin n° 5086, 122 votants), l'article a de nouveau été adopté (68 contre 54) : contre, le RN et les deux députés UDR présents ; pour, tous les autres groupes présents, dont la Droite républicaine (7 pour).",
+  "lastVerified": "2026-09-28"
+}

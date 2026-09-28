@@ -1,0 +1,168 @@
+{
+  "id": "employeur-interets-credit-immobilier-exoneration",
+  "theme": "travail",
+  "question": "Faut-il exonérer de cotisations sociales, à titre expérimental et jusqu'à environ 3 800 euros par an, l'aide d'un employeur aux intérêts d'emprunt d'un salarié qui accède à la propriété ?",
+  "explainer": {
+    "title": "Comment fonctionnerait cette exonération ?",
+    "text": "Un employeur peut déjà prendre en charge une partie des intérêts d'emprunt immobilier d'un salarié, mais cette aide est soumise aux cotisations sociales, comme un salaire. La mesure l'en aurait exonérée, à titre expérimental jusqu'en 2030, pour les salariés qui achètent ou font construire leur résidence principale sans en avoir été propriétaires au cours des deux années précédentes, dans la limite de 8 % du plafond annuel de la Sécurité sociale (environ 3 770 euros en 2025). La CSG et la CRDS (prélèvements sociaux sur les revenus) ainsi qu'une contribution patronale de 20 % (le « forfait social ») restaient dues.",
+    "sources": [
+      "s3",
+      "s2"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, cette nouvelle exonération (une « niche sociale ») pourrait coûter 100 millions d'euros à la Sécurité sociale, malgré son déficit, par exemple si les banques s'en servaient pour fidéliser leurs 400 000 salariés.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la Sécurité sociale n'a pas vocation à financer la politique du logement ni des intérêts bancaires : ce serait une brèche, chaque problème risquant d'être réglé par une exonération de cotisations.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, cette exonération prendrait la place de hausses de salaire et éviterait d'interroger les banques sur les taux qu'elles pratiquent sur leurs prêts immobiliers.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'achat du premier logement est le moment où les jeunes salariés manquent le plus de pouvoir d'achat, alors que les taux des crédits remontent : l'aide de l'employeur faciliterait l'accès à la propriété.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, quelques milliers de salariés seulement bénéficient aujourd'hui de cette aide, car les cotisations découragent les employeurs ; plafonnée, la mesure coûterait moins de 20 millions d'euros en 2026.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, l'exonération porterait surtout sur des aides nouvelles, que les employeurs renoncent aujourd'hui à verser : elle ne priverait guère la Sécurité sociale de recettes existantes et aiderait à recruter et fidéliser.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements rétablissant un article du projet de loi de financement de la sécurité sociale pour 2026, nouvelle lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Ajouté par les députés en première lecture puis supprimé par le Sénat, l'article 9 bis exonérait de cotisations sociales l'aide d'un employeur aux intérêts d'emprunt d'un salarié accédant à la propriété de sa résidence principale. Les amendements mis aux voix le rétablissaient pour toutes les entreprises, à titre expérimental ; leur rejet a laissé l'article supprimé. Le Gouvernement y était défavorable ; la commission des affaires sociales les avait rejetés, mais son rapporteur général, auteur de l'un d'eux, s'en est remis à la sagesse de l'Assemblée.",
+    "sources": [
+      "s2",
+      "s3",
+      "s4"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-12-09",
+      "label": "Adoption en nouvelle lecture",
+      "text": "Après l'échec de la commission mixte paritaire (26 novembre), l'Assemblée adopte le texte en nouvelle lecture ; l'article 9 bis reste supprimé.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (question préalable, 12 décembre), l'Assemblée adopte définitivement la loi de financement de la sécurité sociale pour 2026, sans cette exonération.",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-899 DC, puis promulgation de la loi n° 2025-1403, qui ne contient pas la mesure : l'aide d'un employeur aux intérêts d'emprunt de ses salariés reste soumise aux cotisations sociales.",
+      "sources": [
+        "s8",
+        "s7"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4486",
+      "numero": 4486,
+      "date": "2025-12-03",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements rétablissant l'exonération, nouvelle lecture (rejetés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4486 (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4486",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : article 9 bis (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-03-decembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 202 rectifié rétablissant l'article 9 bis (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141/AN/202.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Texte définitif du projet de loi de financement de la sécurité sociale pour 2026 (T.A. n° 199 rect., 16 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0199_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053226384",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Datan — Vote n° 4486 (3 décembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4486",
+      "kind": "analyse",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour le rétablissement : la Droite républicaine (17 pour, 0 contre), EPR (29 pour, 5 contre), Horizons (15 pour, 1 contre) et LIOT (6 pour). Contre : les groupes de gauche, le RN (0 pour, 58 contre), l'UDR (0 pour, 5 contre) et la majorité des Démocrates (5 pour, 13 contre). Les amendements mis aux voix venaient de députés de la Droite républicaine (dont le rapporteur général, auteur de l'un d'eux), d'EPR et d'Horizons ; deux amendements voisins, de députés d'Horizons et de LIOT, examinés en même temps, n'ont pas été adoptés. Le Gouvernement y était défavorable et la commission les avait rejetés ; le rapporteur général s'en est remis à titre personnel à la sagesse de l'Assemblée. À gauche, on jugeait que la Sécurité sociale n'a pas à financer le logement ; le RN et l'UDR ne se sont pas exprimés en séance sur ces amendements.",
+  "lastVerified": "2026-09-28"
+}

@@ -1,0 +1,229 @@
+{
+  "id": "elus-locaux-trimestre-retraite-par-mandat",
+  "theme": "institutions",
+  "question": "Faut-il accorder aux maires, adjoints et autres élus exerçant des fonctions exécutives locales un trimestre de retraite supplémentaire par mandat complet, dans la limite de huit par carrière ?",
+  "explainer": {
+    "title": "C'est quoi, un trimestre de retraite supplémentaire ?",
+    "text": "Pour partir à la retraite à taux plein, il faut avoir validé un nombre de trimestres qui dépend de l'année de naissance. On valide un trimestre par tranche de revenu égale à 150 heures payées au smic, dans la limite de quatre par an. Les élus locaux cotisent déjà sur leurs indemnités et peuvent, depuis 2023, cotiser volontairement ou racheter des périodes de mandat. L'article voté par le Sénat ajoutait un trimestre sans cotisation par mandat complet de maire, d'adjoint, de président ou vice-président de département, de région ou d'intercommunalité, ou de conseiller ayant une délégation, sur le modèle de ce que la loi de 2023 a prévu pour les sapeurs-pompiers volontaires.",
+    "sources": [
+      "s4",
+      "s5",
+      "s3"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, ce trimestre accordé sans cotisation rompt le lien entre cotisations et droits et coûterait plus de 45 millions d'euros par an à un système de retraites déjà en déficit.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, un mandat local empêche rarement de valider quatre trimestres par an, puisqu'un revenu égal à 600 heures payées au smic suffit : la mesure profiterait à peu d'élus et à aucun de ceux qui ont une carrière complète.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, ce serait un avantage réservé à une catégorie, injuste envers les bénévoles des associations, alors que des efforts sont demandés aux Français et que beaucoup de maires sont déjà retraités.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, un maire consacre en moyenne 34 heures par semaine à son mandat, souvent en plus de son travail et au détriment de sa carrière : un trimestre par mandat reconnaîtrait cet engagement.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la mesure aligne les élus locaux sur les sapeurs-pompiers volontaires, à qui une loi de 2023 a ouvert des trimestres supplémentaires, et répond à une demande des associations de maires ruraux et de petites villes.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, ce coût est bien moindre que celui de remplacer par des fonctionnaires ces élus presque bénévoles, et la mesure aiderait à susciter des vocations pour l'engagement local.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article d'une proposition de loi d'origine sénatoriale, première lecture à l'Assemblée nationale",
+    "textTitle": "Proposition de loi portant création d'un statut de l'élu local",
+    "summary": "Adoptée à l'unanimité par le Sénat le 7 mars 2024, cette proposition de loi revalorise aussi les indemnités des maires et renforce les droits des élus locaux (congés, remboursement de frais, protection). Le 8 juillet 2025, l'Assemblée a rejeté les amendements du Gouvernement et de deux députés qui supprimaient son article 3, puis deux amendements de repli, avant d'adopter l'article. Voter pour la suppression revenait à s'opposer au trimestre supplémentaire.",
+    "sources": [
+      "s3",
+      "s5",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-07-10",
+      "label": "Assemblée nationale",
+      "text": "La proposition de loi est adoptée en première lecture ; elle prévoit toujours un trimestre supplémentaire par mandat complet, dans la limite de huit.",
+      "sources": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-10-22",
+      "label": "Sénat",
+      "text": "En deuxième lecture, le Sénat limite l'avantage à trois trimestres sur toute la carrière, en exclut les conseillers délégués qui sont aussi parlementaires et assouplit les règles de cumul entre pension et mandat pour les élus locaux.",
+      "sources": [
+        "s6",
+        "s14"
+      ]
+    },
+    {
+      "date": "2025-12-08",
+      "label": "Assemblée nationale",
+      "text": "L'Assemblée adopte le texte sans modification en deuxième lecture (109 voix pour, aucune contre, 22 abstentions) : il est définitivement adopté.",
+      "sources": [
+        "s7",
+        "s12"
+      ]
+    },
+    {
+      "date": "2025-12-22",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-1249 du 22 décembre 2025 : son article 5 accorde un trimestre par mandat complet de maire, d'adjoint, de membre d'un exécutif local ou de conseiller délégué (sauf s'il est aussi parlementaire), dans la limite de trois ; un décret en Conseil d'État doit préciser quel régime de retraite le prend en charge.",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "label": "Application",
+      "text": "Le décret n'est toujours pas publié : il est examiné par le Conseil d'État. Le Gouvernement annonce une entrée en vigueur au 1er janvier 2027, pour les élus qui prendront leur retraite à partir de cette date, et leur a conseillé d'attendre sa publication ; deux ministres ont tenu des propos contradictoires sur la prise en compte des mandats passés.",
+      "sources": [
+        "s7",
+        "s11",
+        "s10",
+        "s9"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2959",
+      "numero": 2959,
+      "date": "2025-07-08",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements identiques supprimant le trimestre de retraite supplémentaire par mandat (rejetés)"
+    },
+    {
+      "uid": "VTANR5L17V2960",
+      "numero": 2960,
+      "date": "2025-07-08",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement de repli supprimant le trimestre supplémentaire mais gardant une mesure technique sur les retraites agricoles des élus (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2959 (8 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2959",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2959 (8 juillet 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2959",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (8 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/deuxieme-seance-du-mardi-08-juillet-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° 865 du Gouvernement supprimant l'article 3 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1603/AN/865",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte de la commission n° 1603, article 3 (18 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1603_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Rapport n° 2071 de la commission des lois, deuxième lecture (12 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2071_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi portant création d'un statut de l'élu local",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49280",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Loi n° 2025-1249 portant création d'un statut de l'élu local, article 5 (22 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2025/12/22/2025-1249/jo/article_5",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Question orale n° 1033S sur le décret d'application relatif aux retraites des élus locaux et réponse du Gouvernement en séance (19 mai 2026)",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26041033S.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Maire-info — Trimestres de bonification pour la retraite des élus : encore loin du compte (18 juin 2026)",
+      "url": "https://www.maire-info.com/elus-locaux/trimestres-de-bonification-pour-la-retraite-des-elus-encore-loin-du-compte-article-30902",
+      "kind": "presse"
+    },
+    {
+      "id": "s11",
+      "label": "Presse Agence — Statut de l'élu local : les premiers décrets d'application publiés (19 septembre 2026)",
+      "url": "https://presseagence.fr/paris-statut-de-lelu-local-neuf-mois-apres-la-loi-les-premiers-decrets-dapplication-sont-publies/",
+      "kind": "presse"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 4691 : ensemble de la proposition de loi, deuxième lecture (8 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4691",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 2960 : amendement de repli à l'article 3 (8 juillet 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2960",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Texte n° 5 (2025-2026) adopté avec modifications par le Sénat en deuxième lecture (22 octobre 2025)",
+      "url": "https://www.senat.fr/leg/tas25-005.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Scrutin à sens inversé : voter pour les amendements de suppression revenait à refuser le trimestre supplémentaire. Contre la suppression, donc pour le trimestre : LFI-NFP, GDR, Écologiste et social, Socialistes, LIOT, RN et UDR. Pour la suppression : Démocrates (8 pour, 1 contre) et Horizons (9 pour, 1 abstention). EPR partagé (12 pour, 7 contre, 4 abstentions), le groupe ayant laissé la liberté de vote ; Droite républicaine partagée (3 pour, 3 contre). L'amendement de repli qui supprimait aussi le trimestre (scrutin n° 2960) a été rejeté avec le même clivage (37 voix contre 135). La version finale, limitée à trois trimestres, a été adoptée en deuxième lecture sans voix contre (scrutin n° 4691), LFI-NFP s'abstenant sur l'ensemble du texte.",
+  "lastVerified": "2026-09-28"
+}

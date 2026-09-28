@@ -1,0 +1,214 @@
+{
+  "id": "kerosene-vols-interieurs-taxation",
+  "theme": "ecologie",
+  "question": "Faut-il taxer le kérosène des vols intérieurs, aujourd'hui exonéré, sauf sur les liaisons avec la Corse et l'outre-mer ?",
+  "explainer": {
+    "title": "C'est quoi, l'exonération du kérosène ?",
+    "text": "L'essence, le gazole ou le fioul supportent une taxe, l'accise sur les énergies (l'ancienne TICPE). Le kérosène des vols commerciaux en est exonéré : son tarif est de zéro. Pour les vols internationaux, cette exonération découle d'accords internationaux ; pour les vols à l'intérieur de la France, elle relève d'un choix national. Les billets d'avion supportent en revanche d'autres taxes, alourdies par le budget 2025.",
+    "sources": [
+      "s4",
+      "s3",
+      "s8"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le budget 2025 a déjà alourdi d'environ 700 millions d'euros la fiscalité du transport aérien et lui impose d'incorporer des carburants moins polluants : l'effort demandé au secteur serait déjà considérable.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, certaines villes ne sont reliées rapidement que par l'avion, comme Clermont-Ferrand, Aurillac ou Castres, citées en séance : renchérir tous les vols de métropole nuirait à l'aménagement du territoire.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, garder l'exonération pour la seule Corse et l'outre-mer pourrait être qualifié d'aide d'État ; des territoires enclavés de métropole la réclameraient aussi, et la concurrence sur les vols internationaux en pâtirait.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon l'Ademe, citée en séance, l'avion émet jusqu'à quarante fois plus de CO2 que le train par kilomètre et par voyageur ; ses défenseurs jugent injustifiable que son carburant soit taxé à zéro quand les automobilistes paient à la pompe.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, l'exonération avantage l'avion face au train sur les trajets intérieurs ; les recettes pourraient financer les transports décarbonés et la recherche sur des avions et carburants moins polluants.",
+      "sources": [
+        "s9",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la mesure rapporterait de l'ordre de 500 millions d'euros par an et toucherait surtout des voyageurs aisés, qui forment selon eux la grande majorité des passagers des vols intérieurs.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "Deux amendements identiques, déposés par des députés de plusieurs groupes, supprimaient dès 2026 le tarif nul de l'accise sur le kérosène pour les vols à l'intérieur de la France, sauf ceux à destination ou en provenance de la Corse et de l'outre-mer. Le projet de budget du Gouvernement ne prévoyait rien sur ce sujet ; la commission des finances et le Gouvernement ont donné un avis défavorable.",
+    "sources": [
+      "s4",
+      "s9",
+      "s3"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du budget 2026 (404 voix contre 1), ce qui vaut rejet du texte en première lecture ; le Sénat examine la version initiale du Gouvernement.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "label": "Sénat",
+      "text": "Le Sénat rejette à son tour un amendement similaire (fin du tarif nul pour les vols intérieurs, hors Corse et outre-mer), après les avis défavorables de sa commission des finances et du Gouvernement. Il adopte sa version du budget le 15 décembre 2025, sans cette mesure.",
+      "sources": [
+        "s10",
+        "s11",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-12-19",
+      "label": "Commission mixte paritaire",
+      "text": "Députés et sénateurs ne parviennent pas à un accord sur le budget.",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Le Gouvernement engage sa responsabilité (article 49, alinéa 3, de la Constitution) en nouvelle lecture puis en lecture définitive : le budget 2026 est considéré comme définitivement adopté, sans vote final.",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-901 DC : censure partielle de la loi de finances, sans lien avec le kérosène.",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi n° 2026-103 de finances pour 2026 est promulguée sans cette mesure : le kérosène des vols intérieurs reste exonéré d'accise.",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3955",
+      "numero": 3955,
+      "date": "2025-11-19",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendements identiques mettant fin à l'exonération d'accise sur le kérosène des vols intérieurs, hors Corse et outre-mer (rejetés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3955 (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3955",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3955 (19 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3955",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-19-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° I-128 après l'article 21 du projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/128",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/texte",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Code des impositions sur les biens et services, articles L. 312-35 à L. 312-87 (niveaux de taxation de l'accise sur les énergies, dont l'article L. 312-58 sur la navigation aérienne)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000044595989/LEGISCTA000044598429/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Amendement identique n° I-3675 après l'article 21 du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/3675",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Amendement n° I-2214 à l'article 5 du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/amendements/2025-2026/138/Amdt_I-2214.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Compte rendu intégral de la séance du 29 novembre 2025",
+      "url": "https://www.senat.fr/seances/s202511/s20251129/s20251129_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Amendement de députés Écologiste et Social, présenté selon son exposé au nom des groupes de gauche et écologiste, identique à un amendement d'une députée Horizons cosigné par des collègues Horizons, Démocrates et EPR. Pour : LFI-NFP, Écologiste et Social, Socialistes (4 abstentions) ; GDR partagé (1 pour, 1 abstention). Contre : LIOT, EPR, Horizons, Droite républicaine (1 voix pour), UDR et RN. Les Démocrates se sont partagés (4 pour, 3 contre), ce qui laisse le bloc central majoritairement contre. Le scrutin public avait été demandé par le groupe EPR. Participation moyenne (239 votants).",
+  "lastVerified": "2026-09-28"
+}

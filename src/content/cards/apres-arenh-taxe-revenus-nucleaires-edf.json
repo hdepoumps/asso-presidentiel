@@ -1,0 +1,252 @@
+{
+  "id": "apres-arenh-taxe-revenus-nucleaires-edf",
+  "theme": "energie",
+  "question": "Faut-il remplacer l'ARENH, prix fixe auquel EDF vendait une part de son électricité nucléaire, par une taxe sur ses revenus au-delà de seuils fixés par le Gouvernement, reversée aux consommateurs ?",
+  "explainer": {
+    "title": "C'est quoi, l'ARENH ?",
+    "text": "Créé par la loi du 7 décembre 2010, l'accès régulé à l'électricité nucléaire historique (ARENH) obligeait EDF à vendre à ses concurrents qui le demandaient une partie de sa production nucléaire, jusqu'à 100 térawattheures par an, au prix fixe de 42 euros le mégawattheure. Ce dispositif prenait fin le 31 décembre 2025. L'article en discussion laissait ensuite EDF vendre librement sa production nucléaire, sur les marchés ou par des contrats de long terme, mais prévoyait que l'État prélève 50 % de ses revenus nucléaires au-delà d'un premier seuil et 90 % au-delà d'un second, pour les reverser à tous les consommateurs sous forme d'une réduction sur leur facture, calculée par mégawattheure consommé. Les seuils devaient être fixés par arrêté pour trois ans, dans des fourchettes situées au-dessus du coût complet de production du nucléaire existant évalué par la Commission de régulation de l'énergie.",
+    "sources": ["s7", "s3", "s21"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, une réforme aussi importante de la politique énergétique n'avait pas sa place dans une loi de budget examinée en quelques semaines, sans véritable étude d'impact : elle méritait un projet de loi spécifique.",
+      "sources": ["s5", "s6", "s4"]
+    },
+    {
+      "text": "Selon ses opposants, les seuils, annoncés à 78 et 110 euros le mégawattheure, seraient fixés par simple arrêté et non par la loi, bien au-dessus du coût de production estimé à environ 61 euros : en dessous, aucune baisse de facture.",
+      "sources": ["s5", "s4"]
+    },
+    {
+      "text": "Selon ses opposants, le mécanisme ne garantirait pas un prix proche du coût de production : avec un marché à 200 euros le mégawattheure, le prix payé resterait de 140 à 170 euros, au risque de tirer les factures vers le haut.",
+      "sources": ["s8", "s19", "s4"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'ARENH prenant fin le 31 décembre 2025, il fallait voter sans attendre un mécanisme de remplacement, faute de quoi les consommateurs resteraient exposés aux hausses et à la volatilité des prix de marché.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, la baisse serait appliquée directement sur la facture de chaque consommateur, particulier ou entreprise, sans que les intermédiaires des marchés de gros puissent la capter, contrairement à l'ARENH.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, le dispositif limiterait les revenus d'EDF quand les prix flambent, tout en lui permettant de financer de nouveaux réacteurs et de conclure des contrats de long terme avec les industriels.",
+      "sources": ["s3", "s4"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression d'un article du projet de loi de finances pour 2025, première lecture",
+    "textTitle": "Projet de loi de finances pour 2025",
+    "summary": "Le vote portait sur six amendements identiques supprimant l'article 4, qui créait le mécanisme destiné à remplacer l'ARENH : voter « pour » revenait à le refuser. En séance, le Gouvernement a indiqué que les seuils seraient de 78 et 110 euros le mégawattheure, sans les inscrire dans le texte ; la commission des finances avait, elle aussi, rejeté l'article. Les amendements ont été adoptés et l'article supprimé en première lecture.",
+    "sources": ["s4", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2024-11-12",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du projet de budget (192 voix pour, 362 contre) : tout le texte est rejeté en première lecture et le Sénat examine la version initiale du Gouvernement, qui contient le mécanisme.",
+      "sources": ["s9", "s10"]
+    },
+    {
+      "date": "2025-02-06",
+      "label": "Adoption définitive",
+      "text": "Le Sénat adopte le budget le 23 janvier 2025 ; après accord en commission mixte paritaire le 31 janvier, le texte est adopté à l'Assemblée par l'article 49, alinéa 3, de la Constitution (5 février), sans vote des députés sur ce mécanisme, puis définitivement par le Sénat.",
+      "sources": ["s11"]
+    },
+    {
+      "date": "2025-02-13",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi par des députés, le Conseil constitutionnel juge que la taxe et la baisse de facture forment un ensemble indivisible qui a sa place dans une loi de finances, et écarte les autres critiques visant cet article (décision n° 2025-874 DC).",
+      "sources": ["s12"]
+    },
+    {
+      "date": "2025-02-14",
+      "label": "Promulgation",
+      "text": "La loi de finances pour 2025 (loi n° 2025-127, article 17) crée la taxe et le « versement nucléaire universel ». Comme dans le texte initial, les seuils sont fixés par arrêté, de 5 à 25 euros le mégawattheure au-dessus du coût complet du nucléaire existant pour le premier, de 35 à 55 euros pour le second.",
+      "sources": ["s13"]
+    },
+    {
+      "date": "2025-09-30",
+      "label": "Commission de régulation de l'énergie",
+      "text": "La Commission de régulation de l'énergie évalue le coût complet de production du nucléaire existant à 60,3 euros le mégawattheure (en euros de 2026) pour la période 2026-2028.",
+      "sources": ["s14"]
+    },
+    {
+      "date": "2026-02-04",
+      "label": "Application",
+      "text": "Un décret du 4 février 2026 organise le « versement nucléaire universel » : la baisse de facture, quand elle s'applique, ne vaut en principe qu'entre le 1er avril et le 31 octobre, donc pas pendant les mois d'hiver, ce qu'un rapport du Sénat juge contestable.",
+      "sources": ["s15"]
+    },
+    {
+      "date": "2026-02-11",
+      "label": "Application",
+      "text": "L'ARENH a pris fin le 31 décembre 2025, mais les principaux textes d'application ne paraissent qu'en février 2026 : un arrêté du 11 février fixe les seuils à 78 et 110 euros le mégawattheure pour 2026, et un décret du même jour prévoit leur indexation sur l'inflation en 2027 et 2028.",
+      "sources": ["s15", "s16", "s18"]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Loi de finances pour 2026",
+      "text": "La loi de finances pour 2026 (article 140) confie la gestion du reversement au gestionnaire du réseau de transport d'électricité. La période de baisse sera fixée chaque année par décret, d'après une prévision de ce gestionnaire, et couvrira au moins les quatre mois où le réseau électrique est le moins sollicité ; la première doit l'être avant la fin de 2026.",
+      "sources": ["s17"]
+    },
+    {
+      "date": "2026-03-27",
+      "label": "Application",
+      "text": "La baisse de facture est fixée à 0 euro pour 2026 : les revenus nucléaires attendus d'EDF, estimés à environ 66 euros le mégawattheure par la Commission de régulation de l'énergie, restent sous le seuil de taxation.",
+      "sources": ["s18"]
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Commission de régulation de l'énergie",
+      "text": "La Commission de régulation de l'énergie estime les revenus nucléaires d'EDF pour 2027 à 63,82 euros le mégawattheure, nettement sous le seuil de taxation : si cette estimation se confirme, la taxe ne se déclencherait pas en 2027 et aucune baisse de facture ne serait versée.",
+      "sources": ["s20"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V99",
+      "numero": 99,
+      "date": "2024-10-25",
+      "role": "principal",
+      "sens": -1,
+      "label": "Suppression de l'article créant la taxe sur les revenus nucléaires d'EDF et la baisse des factures (voter pour = refuser le mécanisme), première lecture"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 99 : amendements de suppression de l'article 4 du projet de loi de finances pour 2025 (25 octobre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/99",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 99 (25 octobre 2024)",
+      "url": "https://datan.fr/votes/legislature-17/vote_99",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2025 n° 324, article 4 et exposé des motifs",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0324_projet-loi.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 25 octobre 2024 : article 4 et vote des amendements de suppression",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-vendredi-25-octobre-2024",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Amendement n° I-1587 de suppression de l'article 4 du projet de loi de finances pour 2025 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/1587.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Amendement n° I-73 de suppression de l'article 4 du projet de loi de finances pour 2025 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/73.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Commission de régulation de l'énergie — La CRE publie le niveau de demande d'ARENH pour 2025 (29 novembre 2024)",
+      "url": "https://www.cre.fr/actualites/toute-lactualite/la-cre-publie-le-niveau-de-demande-dacces-regule-a-lelectricite-nucleaire-historique-arenh-pour-2025.html",
+      "kind": "officiel"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Amendement n° I-2048 de suppression de l'article 4 du projet de loi de finances pour 2025 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/2048.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 438 : première partie du projet de loi de finances pour 2025 (12 novembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/438",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2025",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2025.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Conseil constitutionnel — Décision n° 2025-874 DC (13 février 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025874DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2025-127 de finances pour 2025, article 17 (14 février 2025)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2025/2/14/2025-127/jo/article_17",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Commission de régulation de l'énergie — Évaluation des coûts complets de production des centrales nucléaires historiques pour la période 2026-2028 (30 septembre 2025)",
+      "url": "https://www.cre.fr/actualites/toute-lactualite/la-commission-de-regulation-de-lenergie-publie-son-evaluation-des-couts-complets-de-production-de-lelectricite-au-moyen-des-centrales-electronucleaires-historiques-pour-la-periode-2026-2028.html",
+      "kind": "officiel"
+    },
+    {
+      "id": "s15",
+      "label": "Sénat — Bilan annuel de l'application des lois au 31 mars 2026 : loi de finances pour 2025",
+      "url": "https://www.senat.fr/rap/r25-802/r25-80226.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Légifrance — Décret n° 2026-75 du 11 février 2026 relatif à la taxe sur l'utilisation de combustible nucléaire pour la production d'électricité",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053464941",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Légifrance — Loi n° 2026-103 de finances pour 2026, article 140 (19 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/article_140",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Légifrance — Arrêté du 27 mars 2026 fixant le tarif unitaire de minoration du versement nucléaire universel pour l'année 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053728172",
+      "kind": "primaire"
+    },
+    {
+      "id": "s19",
+      "label": "Assemblée nationale — Amendement n° I-1935 de suppression de l'article 4 du projet de loi de finances pour 2025 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/0324A/AN/1935.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s20",
+      "label": "Commission de régulation de l'énergie — Versement nucléaire universel : estimation des revenus nucléaires d'EDF (mise à jour du 1er juillet 2026)",
+      "url": "https://www.cre.fr/electricite/marche-de-detail-de-lelectricite/vnu-estimation-des-revenus-nucleaires-dedf.html",
+      "kind": "officiel"
+    },
+    {
+      "id": "s21",
+      "label": "Légifrance — Loi n° 2010-1488 du 7 décembre 2010 portant nouvelle organisation du marché de l'électricité",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000023174854",
+      "kind": "primaire"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Sens inversé : au scrutin n° 99, voter « pour » signifiait supprimer le mécanisme. Pour la suppression : RN, UDR, LFI-NFP, GDR, Écologiste et social et Socialistes (20 pour, 1 contre, 1 abstention). Contre : EPR, Démocrates, Horizons et Droite républicaine ; LIOT surtout contre (4 contre, 1 pour, 1 abstention). Participation modérée (221 votants) : la position du bloc central et de la Droite républicaine repose sur peu de députés (2 votants Horizons, 7 Démocrates, 9 Droite républicaine). Même vote, raisons en partie différentes : tous les groupes auteurs des amendements de suppression (RN, LFI-NFP, GDR, Écologiste et social, Socialistes) reprochaient au Gouvernement de faire passer cette réforme par la loi de budget, sans inscrire le niveau des seuils dans la loi ; sur le fond, le RN défendait une sortie des règles de prix du marché européen de l'électricité (l'UDR, qui n'est pas intervenue sur cet article, a voté comme lui, et plusieurs de ses députés ont ensuite contesté devant le Conseil constitutionnel la place de ce mécanisme dans une loi de finances), LFI-NFP et GDR des prix fondés sur les coûts de production (GDR évoquant aussi la sortie du marché européen), tandis que Socialistes et écologistes demandaient surtout un projet de loi dédié. La commission des finances avait elle aussi rejeté l'article. Le mécanisme figurait dans le texte initial examiné par le Sénat et a été conservé dans la loi finale, adoptée par l'article 49, alinéa 3 : les députés n'ont pas revoté sur ce point.",
+  "lastVerified": "2026-09-28"
+}

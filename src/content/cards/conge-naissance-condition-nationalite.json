@@ -1,0 +1,267 @@
+{
+  "id": "conge-naissance-condition-nationalite",
+  "theme": "immigration",
+  "question": "Faut-il réserver le congé supplémentaire de naissance, qui permet à chaque parent de s'arrêter un ou deux mois de plus, aux couples dont au moins un membre est de nationalité française ?",
+  "explainer": {
+    "title": "C'est quoi, le congé supplémentaire de naissance ?",
+    "text": "Créé par la loi de financement de la sécurité sociale pour 2026 et ouvert depuis le 1er juillet 2026, ce congé s'ajoute aux congés de maternité, de paternité et d'adoption, pour les enfants nés ou adoptés depuis le 1er janvier 2026. Chaque parent peut prendre un ou deux mois, après ses congés de maternité, de paternité ou d'adoption ; le congé doit commencer au plus tard neuf mois après la naissance. Pour les salariés, la sécurité sociale verse 70 % du salaire le premier mois et 60 % le second, dans la limite d'un plafond. Il concerne les salariés, les agents publics, les indépendants et les demandeurs d'emploi.",
+    "sources": [
+      "s8",
+      "s9"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le Conseil constitutionnel et les hautes juridictions jugent qu'un étranger en situation stable et régulière a droit aux prestations sociales : on peut exiger une durée de résidence ou d'activité, pas la nationalité.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, ce congé est une prestation financée par les cotisations de ceux qui travaillent : en priver des parents étrangers qui travaillent et cotisent en France romprait avec le principe même de la sécurité sociale.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, beaucoup d'étrangers occupent des métiers indispensables, du soin à la petite enfance ; et la mesure serait incohérente, les aides fiscales aux familles restant ouvertes à tous les résidents.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, ce congé était, au moment du vote, un droit nouveau s'ajoutant aux congés de maternité et de paternité : ceux-ci restaient ouverts à tous, et personne ne perdait un droit déjà acquis.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, dans une situation budgétaire très tendue, un nouvel effort public de cette ampleur doit aller d'abord aux familles qui ont un lien « stable, durable et reconnu » avec la communauté nationale.",
+      "sources": [
+        "s3",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la condition porte sur la citoyenneté, pas sur l'origine : tout parent devenu français en bénéficierait, et la loi distingue déjà Français et étrangers, par exemple pour certains emplois publics.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement au projet de loi de financement de la sécurité sociale pour 2026, première lecture",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "L'amendement proposait d'ajouter à l'article 42, qui crée le congé supplémentaire de naissance, une condition : que l'un au moins des deux membres du couple soit de nationalité française ; les indemnités versées pendant ce congé auraient été soumises à la même condition. Le 5 juin 2025, une condition identique avait été proposée pour les allocations familiales, lors de l'examen d'une proposition de loi visant à les verser dès le premier enfant : elle avait été rejetée par 89 voix contre 36.",
+    "sources": [
+      "s3",
+      "s4",
+      "s7",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-12",
+      "label": "Assemblée nationale",
+      "text": "Les députés adoptent l'article créant le congé, sans condition de nationalité (288 voix contre 15). L'Assemblée n'ayant pas achevé l'examen du texte dans le délai imparti, celui-ci est transmis au Sénat.",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-11-26",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte, sans condition de nationalité, mais réserve le congé aux enfants nés ou adoptés à partir du 1er janvier 2027. Le même jour, députés et sénateurs ne parviennent pas à un accord en commission mixte paritaire.",
+      "sources": [
+        "s17",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-12-09",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Les députés rouvrent le congé aux enfants nés ou adoptés depuis le 1er janvier 2026, à prendre à partir du 1er juillet 2026 (vote du 5 décembre), puis adoptent le texte le 9 décembre.",
+      "sources": [
+        "s18",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Assemblée nationale (lecture définitive)",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (12 décembre), les députés adoptent définitivement le budget de la Sécurité sociale pour 2026 (247 voix contre 232). Il crée le congé supplémentaire de naissance sans aucune condition de nationalité.",
+      "sources": [
+        "s14",
+        "s10",
+        "s12",
+        "s16"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026 : le congé figure à son article 99, que le Conseil constitutionnel n'a pas censuré.",
+      "sources": [
+        "s12",
+        "s11",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Entrée en vigueur",
+      "text": "Après la publication des décrets d'application du 30 mai 2026, le congé peut être pris par les parents d'enfants nés ou adoptés depuis le 1er janvier 2026, quelle que soit leur nationalité.",
+      "sources": [
+        "s9",
+        "s13"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3686",
+      "numero": 3686,
+      "date": "2025-11-12",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement réservant le congé supplémentaire de naissance aux couples dont au moins un membre est français (budget de la Sécurité sociale 2026, première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V2264",
+      "numero": 2264,
+      "date": "2025-06-05",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement réservant les allocations familiales aux familles dont au moins un parent est français (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3686 (12 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3686",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 3686 (12 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3686",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 996 à l'article 42 du projet de loi de financement de la sécurité sociale pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1907/AN/996",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 12 novembre 2025 : débat et vote sur l'amendement n° 996 (article 42)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Scrutin n° 2264 : allocations familiales réservées aux familles dont un parent est français (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2264",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : proposition de loi sur les allocations familiales dès le premier enfant (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Amendement n° 43 à la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1473/AN/43",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Légifrance — Code du travail, articles L. 1225-46-2 à L. 1225-46-7 : congé supplémentaire de naissance",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000053271681/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Service-public.gouv.fr — Congé supplémentaire de naissance : entrée en vigueur et modalités pratiques (3 juin 2026, mis à jour le 23 juin 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18939",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC, loi de financement de la sécurité sociale pour 2026 (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053226384",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Décret n° 2026-425 du 30 mai 2026 relatif au congé supplémentaire de naissance",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054154198",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Scrutin n° 4758 : lecture définitive du projet de loi de financement de la sécurité sociale pour 2026 (16 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Scrutin n° 3690 : vote sur l'article 42 créant le congé supplémentaire de naissance (12 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3690",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Sénat — Texte adopté n° 23 : projet de loi de financement de la sécurité sociale pour 2026, première lecture (26 novembre 2025)",
+      "url": "https://www.senat.fr/leg/tas25-023.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance du 5 décembre 2025 : article 42 en nouvelle lecture",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N084",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Parmi les groupes, seuls le RN (60 pour, 1 abstention) et l'UDR (6 pour) ont voté pour ; deux députés non inscrits aussi (68 voix pour au total). Contre : LFI-NFP, GDR, Écologiste et social, Socialistes, EPR, Les Démocrates et Horizons, sans exception. La Droite républicaine n'a presque pas pris part au vote (un seul député, contre) et LIOT très peu (1 contre, 1 abstention) : aucune position n'est calculée pour la Droite républicaine. Juste après, un amendement de repli réservant le congé aux parents ayant cotisé au moins six mois sur les 24 derniers a aussi été rejeté (scrutin n° 3687 : 74 pour, 110 contre) : RN et UDR pour ; LFI-NFP, GDR, écologistes, socialistes, EPR, Les Démocrates et Horizons contre ; Droite républicaine partagée (3 contre, 4 abstentions). Le 5 juin 2025 (scrutin n° 2264), la même condition de nationalité appliquée aux allocations familiales avait été rejetée par 89 voix contre 36, avec le même partage (RN et UDR pour, tous les autres groupes présents contre ; Droite républicaine et LIOT absents) ; un amendement de repli, réservant ces allocations aux familles dont un parent au moins cotise, sauf parent français, avait aussi été rejeté (scrutin n° 2265), la Droite républicaine votant cette fois contre (3 voix).",
+  "lastVerified": "2026-09-28"
+}

@@ -1,0 +1,238 @@
+{
+  "id": "malus-cotisations-emploi-seniors",
+  "theme": "travail",
+  "question": "Faut-il appliquer un malus sur les cotisations retraite des entreprises d'au moins 300 salariés qui ne négocient pas sur l'emploi des seniors ou, faute d'accord, n'ont pas de plan d'action ?",
+  "explainer": {
+    "title": "Que prévoit la loi sur l'emploi des seniors ?",
+    "text": "Une loi du 24 octobre 2025, qui reprend des accords conclus entre syndicats et organisations patronales, oblige les entreprises d'au moins 300 salariés dotées d'une section syndicale représentative à négocier sur l'emploi des salariés « expérimentés » : leur recrutement, leur maintien dans l'emploi et l'aménagement de leur fin de carrière. Elle ne prévoit pas de sanction spécifique si cette négociation n'a pas lieu. Le malus débattu augmenterait les cotisations patronales d'assurance vieillesse des entreprises qui ne négocient pas ou, faute d'accord, n'adoptent pas de plan d'action annuel ; son montant serait fixé par décret.",
+    "sources": [
+      "s13",
+      "s3",
+      "s5",
+      "s14"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, les syndicats et le patronat signataires de l'accord sur l'emploi des seniors, repris par une loi d'octobre 2025, n'y ont pas prévu de sanction : il faudrait respecter ce dialogue social et lui laisser le temps d'agir.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, le malus pourrait alourdir de plusieurs milliards d'euros le coût du travail selon des critères mal définis, et se retourner contre les seniors, que des entreprises hésiteraient davantage à embaucher.",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, sanctionner l'absence de négociation plutôt que les résultats serait disproportionné, et moduler les cotisations retraite n'aurait pas de lien direct avec l'emploi des seniors.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, seuls 42 % des 60-64 ans ont un emploi en France, bien moins que dans les pays voisins ; relever de 10 points l'emploi des seniors pourrait effacer le déficit de la branche retraite d'ici 2030.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la loi de 2025 oblige à négocier, mais pas à conclure un accord ni à le respecter, et ne prévoit aucune sanction : sans malus, cette obligation resterait sans effet.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, dix ans d'incitations n'auraient pas donné de résultats probants ; et puisqu'on demande de travailler plus longtemps, les grandes entreprises devraient au moins négocier sur les conditions de travail des seniors.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement du Gouvernement supprimant un article du projet de loi de financement de la sécurité sociale pour 2026, nouvelle lecture (seconde délibération)",
+    "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
+    "summary": "Le vote portait sur un amendement du Gouvernement supprimant l'article 5 quater, qui créait ce malus : voter « pour » revenait à refuser le malus. Ajouté par les députés en première lecture puis supprimé par le Sénat, l'article avait été rétabli le 3 décembre 2025 (168 voix contre 73). Deux jours plus tard, le Gouvernement a demandé un nouveau vote (seconde délibération) pour le supprimer.",
+    "sources": [
+      "s4",
+      "s2",
+      "s3",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-12-09",
+      "label": "Assemblée nationale (nouvelle lecture)",
+      "text": "Les députés adoptent l'ensemble du texte en nouvelle lecture, avec le malus.",
+      "sources": [
+        "s7"
+      ]
+    },
+    {
+      "date": "2025-12-16",
+      "label": "Adoption définitive",
+      "text": "Après le rejet du texte par le Sénat en nouvelle lecture (12 décembre), l'Assemblée adopte définitivement la loi, qui contient le malus.",
+      "sources": [
+        "s8",
+        "s9"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Conseil constitutionnel et promulgation",
+      "text": "Décision n° 2025-899 DC : censure partielle de la loi sur d'autres points ; la décision ne se prononce pas sur le malus. La loi n° 2025-1403 (article 11) l'inscrit dans le code de la sécurité sociale.",
+      "sources": [
+        "s10",
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Application",
+      "text": "Le malus ne peut s'appliquer qu'une fois son montant fixé par décret. Au 28 septembre 2026, ce décret n'a toujours pas été publié au Journal officiel : le malus n'est donc pas encore appliqué.",
+      "sources": [
+        "s12",
+        "s14",
+        "s16"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4592",
+      "numero": 4592,
+      "date": "2025-12-05",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendement du Gouvernement supprimant le malus, nouvelle lecture, seconde délibération (voter pour = refuser le malus ; rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V4475",
+      "numero": 4475,
+      "date": "2025-12-03",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendements rétablissant l'article créant le malus, nouvelle lecture (adoptés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4592 (5 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4592",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la première séance : seconde délibération de l'article 5 quater (5 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-vendredi-05-decembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance : rétablissement de l'article 5 quater (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-03-decembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° 8 du Gouvernement supprimant l'article 5 quater, seconde délibération (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141S/AN/8.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Amendement n° 151 rétablissant l'article 5 quater (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2141/AN/151.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Scrutin n° 4475 : rétablissement de l'article 5 quater (3 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4475",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Texte définitif du projet de loi de financement de la sécurité sociale pour 2026 (T.A. n° 199 rect., 16 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0199_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Loi n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026 (article 11)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053226384",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Légifrance — Code de la sécurité sociale, article L. 241-3-3 (en vigueur depuis le 31 décembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053266997",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2025-989 du 24 octobre 2025 portant transposition des accords nationaux interprofessionnels en faveur de l'emploi des salariés expérimentés et relatif à l'évolution du dialogue social",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052430940/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Éditions Tissot — Emploi des seniors : nouvelle négociation obligatoire, diagnostic et sanctions (14 janvier 2026)",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/emploi-des-seniors-nouvelle-negociation-obligatoire-diagnostic-et-sanctions",
+      "kind": "presse"
+    },
+    {
+      "id": "s15",
+      "label": "Datan — Vote n° 4592 (5 décembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4592",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "NosParlementaires — Emploi des seniors : une obligation de négocier, une sanction sans décret (14 août 2026)",
+      "url": "https://nosparlementaires.fr/actualites/emploi-seniors-negociation-obligatoire-malus-sans-decret",
+      "kind": "analyse",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Sens inversé : au scrutin n° 4592, voter « pour » revenait à supprimer le malus. Pour la suppression, comme le Gouvernement : EPR (62 pour, 1 contre), Les Démocrates (20 pour, 1 contre), Horizons (19 pour) et la Droite républicaine (20 pour, 0 contre). Contre : les quatre groupes de gauche, LIOT (6 contre, 1 pour, 1 abstention), à l'origine de la mesure en première lecture, le RN (0 pour, 65 contre) et l'UDR (0 pour, 6 contre). Même vote, motivations différentes : la gauche veut contraindre les grandes entreprises à agir pour l'emploi des seniors ; le RN présente le chômage des seniors comme l'un des angles morts de la réforme des retraites de 2023. Le 3 décembre 2025, lors du rétablissement de l'article (scrutin n° 4475 : 254 votants, 168 pour, 73 contre), les groupes de gauche et le RN (73 pour) avaient voté pour ; EPR (34 contre), la Droite républicaine (15 contre) et Horizons (12 contre, 4 abstentions) contre ; l'UDR s'était abstenue (7 abstentions), et LIOT comme Les Démocrates s'étaient divisés.",
+  "lastVerified": "2026-09-28"
+}

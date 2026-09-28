@@ -1,0 +1,267 @@
+{
+  "id": "repas-un-euro-tous-etudiants",
+  "theme": "social",
+  "question": "Faut-il inscrire dans la loi un repas à 1 euro maximum au restaurant universitaire pour tous les étudiants, boursiers ou non ?",
+  "explainer": {
+    "title": "Où en est le repas à 1 euro ?",
+    "text": "Créé à la rentrée 2020 pour les étudiants boursiers, puis étendu à tous les étudiants de janvier à l'été 2021 pendant la crise sanitaire, le repas à 1 euro des restaurants universitaires gérés par les Crous a ensuite été réservé, à partir de la rentrée 2021, aux boursiers et aux non-boursiers reconnus en situation de précarité après une démarche auprès des services sociaux. Les autres étudiants payaient 3,30 euros, un tarif inchangé depuis 2019, pour un repas qui coûte de 7 à 10 euros selon les chiffres cités en séance. Le texte voté en janvier 2025 inscrivait dans la loi un prix maximal de 1 euro pour tous, dans tous les sites des Crous et chez leurs partenaires conventionnés, avec une offre à emporter. Il n'a pas été adopté définitivement, mais depuis le 4 mai 2026 le Gouvernement applique ce tarif à tous les étudiants dans le cadre du budget, sans qu'il soit inscrit dans la loi.",
+    "sources": [
+      "s3",
+      "s4",
+      "s5",
+      "s9",
+      "s10"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la mesure profiterait autant aux étudiants aisés qu'aux boursiers et précaires, qui avaient déjà droit au repas à 1 euro ; mieux vaudrait un tarif progressif selon les ressources qu'un prix unique fixé par la loi.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Le coût, estimé à 90 millions d'euros par an par la rapporteure du texte, serait selon ses opposants mieux employé à construire des logements étudiants, première source d'inégalités, ou de nouvelles places de restauration.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, l'afflux d'étudiants saturerait des restaurants universitaires déjà engorgés : les files d'attente s'allongeraient au détriment des boursiers, alors que construire de nouvelles places prend des années.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, la précarité étudiante s'aggrave : 22 % des jeunes déclarent sauter des repas faute de moyens, et les distributions alimentaires et les épiceries solidaires se multiplient sur les campus.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, l'accès réservé aux précaires fonctionnait mal : environ 40 000 non-boursiers y recouraient, sur plus de 400 000 qui en auraient eu besoin, à cause de démarches longues et jugées stigmatisantes.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, un tarif unique efface les effets de seuil des bourses, calculées sur les revenus des parents, et profiterait d'abord aux étudiants modestes, principaux usagers des restaurants universitaires.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro",
+    "summary": "L'article 1er, cœur du texte, plafonnait à 1 euro le prix du repas proposé par les Crous dans tous leurs sites de restauration et par leurs partenaires conventionnés, et imposait une offre à emporter. Adoptée en commission le 4 décembre 2024, la proposition de loi a été adoptée dans son ensemble le 23 janvier 2025 (149 voix pour, 5 contre, 19 abstentions). Coût estimé en séance : environ 90 millions d'euros par an selon la rapporteure ; plus de 50 millions d'euros de recettes perdues pour les Crous selon le Gouvernement.",
+    "sources": [
+      "s3",
+      "s4",
+      "s5",
+      "s6"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-01-23",
+      "label": "Assemblée nationale",
+      "text": "La proposition de loi est adoptée en première lecture, après le rejet de deux amendements qui remplaçaient le repas à 1 euro pour tous, l'un par un tarif progressif selon les ressources, l'autre par un tarif de 2 euros pour les étudiants non boursiers.",
+      "sources": [
+        "s4",
+        "s7"
+      ]
+    },
+    {
+      "date": "2025-01-24",
+      "label": "Sénat",
+      "text": "Le texte est transmis au Sénat, qui ne l'a pas examiné.",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Loi de finances 2026",
+      "text": "La loi de finances pour 2026 est promulguée. Le Gouvernement, qui s'était engagé en janvier, pendant les négociations budgétaires, à étendre le repas à 1 euro à tous les étudiants, y prévoit 50 millions d'euros pour baisser le prix à partir de mai et renforcer les équipes des Crous, sans que la proposition de loi ait été adoptée définitivement.",
+      "sources": [
+        "s14",
+        "s9",
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "label": "Mise en œuvre",
+      "text": "Le repas à 1 euro est ouvert à tous les étudiants, aux doctorants et aux volontaires du service civique dans les restaurants universitaires.",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Assemblée nationale",
+      "text": "Dans un rapport d'information de la commission des finances, le député rapporteur spécial juge la généralisation « impréparée et imparfaite ». Il relève que plusieurs évaluations chiffrent le besoin de financement entre 61 et 89 millions d'euros en 2026, au-delà des 50 millions prévus, et à 116 millions en année pleine. Il juge la mesure réversible et lui préfère une tarification progressive selon les ressources.",
+      "sources": [
+        "s16",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "label": "Budget 2027",
+      "text": "Face à une fréquentation en hausse, parfois très forte selon les sites, le Gouvernement prévoit 143 millions d'euros pour la mesure dans le projet de budget pour 2027 et prévient qu'il ne pourrait pas l'assurer sans loi de finances adoptée d'ici la fin de l'année.",
+      "sources": [
+        "s12"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V603",
+      "numero": 603,
+      "date": "2025-01-23",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 1er fixant à 1 euro le prix du repas pour tous les étudiants (première lecture), adopté"
+    },
+    {
+      "uid": "VTANR5L17V602",
+      "numero": 602,
+      "date": "2025-01-23",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendement réservant le repas à 1 euro aux boursiers et précaires et fixant à 2 euros celui des autres étudiants, rejeté"
+    },
+    {
+      "uid": "VTANR5L17V606",
+      "numero": 606,
+      "date": "2025-01-23",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi (première lecture), adoptée"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 603 (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/603",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 603 (23 janvier 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_603",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Texte de la commission des affaires culturelles et de l'éducation n° 701-A0 (4 décembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0701_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 23 janvier 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N080",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Rapport n° 701 de la commission des affaires culturelles et de l'éducation (4 décembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-cedu/l17b0701_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi visant à rendre accessible à tous les étudiants le repas à 1 euro",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accessibilite_repas_un_euro_etudiants",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Texte adopté n° 28 (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0028_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Dossier législatif de la proposition de loi n° 268 (2024-2025) visant à rendre accessible à tous les étudiants le repas à 1 euro",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-268.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Ministère de l'Enseignement supérieur — Repas à 1 euro dans les restaurants universitaires : une mesure au service du pouvoir d'achat des étudiants (12 février 2026)",
+      "url": "https://www.enseignementsup-recherche.gouv.fr/fr/repas-1-euro-dans-les-restaurants-universitaires-une-mesure-au-service-du-pouvoir-d-achat-des-100930",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Réseau des Crous — Le repas à 1 euro pour tous les étudiants déployé à partir du 4 mai 2026 (14 avril 2026)",
+      "url": "https://www.lescrous.fr/2026/04/le-repas-a-1-euro-pour-tous-les-etudiants-deploye-a-partir-du-4-mai-2026/",
+      "kind": "officiel"
+    },
+    {
+      "id": "s11",
+      "label": "LCP — Généralisation du repas à 1 euro à tous les étudiants : une « réponse impréparée et imparfaite » (2 juillet 2026)",
+      "url": "https://lcp.fr/actualites/generalisation-du-repas-a-1-euro-a-tous-les-etudiants-une-reponse-impreparee-et",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "LCP — Université : pas de repas à 1 euro pour tous si le budget 2027 n'est pas adopté, prévient le Gouvernement (21 septembre 2026)",
+      "url": "https://lcp.fr/actualites/universite-pas-de-repas-a-1-euro-pour-tous-si-le-budget-2027-n-est-pas-adopte-previent",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 606 sur l'ensemble de la proposition de loi (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/606",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Légifrance — Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/CPPX2524517L/jo/texte",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "ICI — Budget : Sébastien Lecornu promet la généralisation des repas universitaires à 1 euro (16 janvier 2026)",
+      "url": "https://www.ici.fr/infos/economie-social/budget-sebastien-lecornu-promet-la-generalisation-des-repas-universitaires-a-1-euro-1828602",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Rapport d'information n° 3008 de la commission des finances sur la mise en œuvre des repas Crous à 1 euro (2 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b3008_rapport-information",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Scrutin n° 602 sur l'amendement fixant à 2 euros le repas des étudiants non boursiers (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/602",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte déposé par le groupe Socialistes et apparentés. La gauche, LIOT et le RN ont voté pour l'article. Le RN a toutefois défendu des amendements, rejetés, pour étendre la mesure aux étudiants de BTS éloignés des restaurants universitaires (scrutin n° 604) et pour la réserver aux étudiants français, européens ou venant de pays liés à la France par un accord (scrutin n° 605) ; avant d'adopter l'article, il avait aussi voté son propre amendement, rejeté, qui réservait le repas à 1 euro aux boursiers et aux précaires et fixait à 2 euros celui des autres étudiants (scrutin n° 602, en historique). Au centre, EPR et Les Démocrates se sont surtout abstenus : ils défendaient un tarif progressif selon les ressources (amendement rejeté, scrutin n° 601). Horizons a voté contre. Seuls 2 députés de la Droite républicaine ont voté (contre l'article, puis abstention sur l'ensemble) : la position de ce bord repose sur très peu de votes. Aucun député UDR n'a voté sur l'article ni sur l'ensemble, alors que ce groupe s'était déclaré opposé au texte en séance : la position du bord RN et alliés est donc celle des seuls députés RN. La mesure a finalement été appliquée à partir du 4 mai 2026 par le Gouvernement, qui l'avait négociée avec les députés socialistes lors de l'examen de la loi de finances pour 2026.",
+  "lastVerified": "2026-09-28"
+}

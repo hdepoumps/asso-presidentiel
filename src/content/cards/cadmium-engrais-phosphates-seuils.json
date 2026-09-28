@@ -1,0 +1,192 @@
+{
+  "id": "cadmium-engrais-phosphates-seuils",
+  "theme": "sante",
+  "question": "Faut-il interdire dès 2027 les engrais phosphatés contenant plus de 40 mg de cadmium, un métal lourd, par kilo de phosphate, puis plus de 20 mg dès 2030 (contre 90 mg autorisés aujourd'hui) ?",
+  "explainer": {
+    "title": "C'est quoi, le cadmium des engrais ?",
+    "text": "Le cadmium est un métal lourd classé cancérogène, qui abîme aussi les reins et les os. Il est présent dans les roches phosphatées dont on tire des engrais : épandu sur les champs, il s'accumule dans les sols, puis dans le pain, les céréales, les pommes de terre ou les légumes. Selon l'Anses, l'alimentation explique jusqu'à 98 % de l'imprégnation des non-fumeurs ; selon Santé publique France (étude publiée en 2021), 47,6 % des adultes dépassaient le niveau jugé critique. La France importe presque tout son phosphate, surtout du Maroc, dont les gisements sont naturellement riches en cadmium. La teneur se mesure en milligrammes de cadmium par kilo d'anhydride phosphorique (la forme sous laquelle on compte le phosphate des engrais) : la France en tolère aujourd'hui jusqu'à 90, contre 60 pour les engrais aux normes européennes.",
+    "sources": ["s5", "s4"]
+  },
+  "contre": [
+    {
+      "text": "Selon un rapport d'inspection des ministères de l'écologie et de l'agriculture (2026), la France importe tout son phosphore minéral, surtout du Maroc : baisser les seuils pèserait sur l'approvisionnement et sans doute sur les prix.",
+      "sources": ["s15", "s4"]
+    },
+    {
+      "text": "Selon ses opposants, seuls 12 % des sols seraient trop chargés et, à faible teneur, le cadmium ne passerait pas dans les plantes en proportion : une interdiction uniforme priverait sans nécessité de nombreuses cultures de ces engrais.",
+      "sources": ["s4", "s7"]
+    },
+    {
+      "text": "Selon ses opposants, aller seul au-delà de la norme européenne (60 mg), sans étude d'impact, fragiliserait des agriculteurs déjà en difficulté et favoriserait les importations d'aliments produits avec des engrais plus chargés.",
+      "sources": ["s4", "s6", "s7"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon l'Anses (2026), si l'exposition actuelle se maintient, des effets néfastes sont probables pour une part croissante de la population, enfants en tête ; elle recommande d'appliquer au plus vite la limite de 20 mg dans les engrais.",
+      "sources": ["s5", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, le seuil français de 90 mg est le plus élevé d'Europe de l'Ouest et les Français seraient plus de deux fois plus imprégnés de cadmium que les Italiens, alors que la Hongrie ou la Slovaquie appliquent déjà 20 mg.",
+      "sources": ["s4", "s5", "s6"]
+    },
+    {
+      "text": "Selon ses défenseurs, le principal fournisseur de la France, marocain, serait déjà capable de livrer des engrais à moins de 20 mg, et retirer le cadmium coûterait environ 2 euros par hectare de blé, moins de 0,2 % du coût de la culture.",
+      "sources": ["s4", "s6"]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article unique d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à réduire les risques sanitaires liés aux contaminations au cadmium dans l'alimentation",
+    "summary": "Déposée le 14 avril 2026 par des députés de plusieurs groupes, après la publication, le 25 mars, d'une expertise de l'Anses sur la surexposition de la population, la proposition de loi tient en un article : elle interdit l'importation, la vente, la distribution gratuite et l'utilisation des engrais phosphatés minéraux ou organo-minéraux contenant plus de 40 mg de cadmium par kilo d'anhydride phosphorique au 1er janvier 2027, puis plus de 20 mg au 1er janvier 2030. Le Gouvernement défendait une baisse plus lente (60 mg en 2027, 40 mg en 2030, puis 20 mg entre 2032 et 2038 après une étude) ; les amendements fixant une trajectoire plus lente ont été retirés ou rejetés. Le texte a ensuite été adopté dans son ensemble (144 voix pour, 22 contre).",
+    "sources": ["s14", "s3", "s4", "s6", "s8", "s13"]
+  },
+  "suite": [
+    {
+      "date": "2026-05-26",
+      "label": "Gouvernement",
+      "text": "Le Gouvernement soumet à consultation publique, jusqu'au 30 juin, un projet d'arrêté qui prolonge le passage à 60 mg prévu au 1er janvier 2027 par un autre arrêté, alors en cours de publication : 40 mg en 2030, puis un rapport d'ici 2032 pour fixer le passage à 20 mg, au plus tard en 2038.",
+      "sources": ["s9", "s10"]
+    },
+    {
+      "date": "2026-06-03",
+      "label": "Assemblée nationale",
+      "text": "Le texte est adopté en première lecture, puis transmis au Sénat le 4 juin.",
+      "sources": ["s11", "s12"]
+    },
+    {
+      "date": "2026-09",
+      "label": "Sénat",
+      "text": "Au 28 septembre 2026, le Sénat n'a pas examiné le texte, qui n'est donc pas en vigueur ; son dossier n'annonce aucune date d'examen.",
+      "sources": ["s12"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V7302",
+      "numero": 7302,
+      "date": "2026-06-03",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article unique : interdiction des engrais phosphatés dépassant 40 mg de cadmium par kilo d'anhydride phosphorique en 2027, puis 20 mg en 2030 (adopté)"
+    },
+    {
+      "uid": "VTANR5L17V7303",
+      "numero": 7303,
+      "date": "2026-06-03",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V7296",
+      "numero": 7296,
+      "date": "2026-06-03",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendements fixant une baisse plus lente : 60 mg en 2027, 40 mg en 2030, 20 mg au plus tard en 2035 (rejetés)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 7302 (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7302",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 7302 (3 juin 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_7302",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Texte adopté n° 300 : proposition de loi visant à réduire les risques sanitaires liés aux contaminations au cadmium dans l'alimentation (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0300_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 2839 de la commission des affaires économiques (27 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b2839_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Anses — Avis et rapport : le cadmium, priorisation des leviers d'action pour réduire l'imprégnation de la population française (février 2026, publié le 25 mars 2026)",
+      "url": "https://www.anses.fr/system/files/ERCA-2023-AUTO-0150-RA.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la première séance (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-mercredi-03-juin-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mercredi-03-juin-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 7296 : amendements n° 14 rectifié et identique (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7296",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Ministère de l'agriculture — Consultation publique : projet d'arrêté modifiant la teneur maximale en cadmium de certaines matières fertilisantes (26 mai 2026)",
+      "url": "https://agriculture.gouv.fr/consultation-publique-projet-darrete-modifiant-la-teneur-maximale-en-cadmium",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Réussir — Cadmium dans les engrais : l'arrêté sur les teneurs maximales mis en consultation publique par le ministère de l'Agriculture (27 mai 2026)",
+      "url": "https://www.reussir.fr/articles/cadmium-dans-les-engrais-larrete-sur-les-teneurs-maximales-mis-en-consultation-publique",
+      "kind": "presse"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif : réduire les risques sanitaires liés aux contaminations au cadmium dans l'alimentation",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_reduire_risques_sanitaires_lies_aux_contaminations_au_cadmium_dans_alimentation_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Sénat — Dossier législatif de la proposition de loi n° 704 visant à réduire les risques sanitaires liés aux contaminations au cadmium",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-704.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 7303 : ensemble de la proposition de loi (3 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7303",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Proposition de loi n° 2678 (14 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2678_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "IGEDD et CGAAER — Effets prévisibles d'un abaissement de la teneur en cadmium des engrais phosphatés et des boues d'épuration sur les approvisionnements en matières fertilisantes (février 2026)",
+      "url": "https://portail.documentation.developpement-durable.gouv.fr/pub/CGE00001267-effets-previsibles-abaissement-teneur-cadmium-des.html",
+      "kind": "officiel"
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Pour : LFI-NFP, GDR, Écologiste et social, Socialistes, EPR, Démocrates et Horizons (au centre, 3 abstentions et 1 vote contre). Contre : RN (25 contre) et UDR (4 contre), qui réclamaient une baisse plus lente et une clause permettant de déroger aux seuils en cas de crise d'approvisionnement (sous-amendements identiques du RN et de la Droite républicaine, soutenus par le Gouvernement, rejetés au scrutin n° 7295 ; amendement du RN rejeté au scrutin n° 7300). La Droite républicaine avait annoncé en séance un vote contre, jugeant la trajectoire irréaliste, mais seuls 3 de ses députés ont voté, sur l'article (1 pour, 2 contre) comme sur l'ensemble (1 pour, 1 contre, 1 abstention) : sa position repose sur très peu de votes, et une de ses députées a salué en explication de vote l'adoption du texte. Un seul député LIOT a voté l'article : aucune position n'est calculée pour ce groupe. Le Gouvernement souhaitait une baisse plus lente : l'amendement EPR en ce sens, retiré par son auteur puis repris par des députés UDR, a été rejeté avec un amendement identique d'Horizons (scrutin n° 7296 : 10 pour, 126 contre, 37 abstentions, dont les 31 députés RN présents). Sur le site de l'Assemblée, ce scrutin porte par erreur le titre d'une précédente proposition de loi sur le cadmium ; il s'agit bien du texte n° 2678.",
+  "lastVerified": "2026-09-28"
+}

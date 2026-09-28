@@ -12,3 +12,4 @@ android/.gradle
 ios/App/Pods
 release/
 .claude/settings.local.json
+.claude/scheduled_tasks.lock

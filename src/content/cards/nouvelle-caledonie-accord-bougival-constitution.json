@@ -1,0 +1,186 @@
+{
+  "id": "nouvelle-caledonie-accord-bougival-constitution",
+  "theme": "territoires",
+  "question": "Faut-il inscrire dans la Constitution l'accord de Bougival (un « État de la Nouvelle-Calédonie » dans la République), si les Calédoniens l'approuvent, et reporter encore les élections provinciales ?",
+  "explainer": {
+    "title": "C'est quoi, l'accord de Bougival ?",
+    "text": "Après trois référendums (2018, 2020, 2021) où le « non » à l'indépendance l'a emporté, le dernier ayant été boycotté par les indépendantistes, et après les émeutes de mai 2024, l'État et les forces politiques calédoniennes ont signé le 12 juillet 2025 à Bougival un accord sur l'avenir du territoire ; le principal mouvement indépendantiste s'en est ensuite retiré. Complété le 19 janvier 2026 par l'accord « Élysée-Oudinot », il prévoit un « État de la Nouvelle-Calédonie » inscrit dans la Constitution sans quitter la France, doté d'une loi fondamentale et d'une nationalité calédonienne s'ajoutant à la nationalité française. Les compétences régaliennes (défense, monnaie, justice, ordre public) pourraient lui être transférées après un vote du Congrès local à la majorité qualifiée (36 élus sur 56) et une consultation des électeurs. Pour la première élection provinciale suivante, le vote serait ouvert aux natifs et aux personnes installées depuis quinze ans.",
+    "sources": [
+      "s5",
+      "s4",
+      "s9"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, l'accord, rejeté par le principal mouvement indépendantiste, n'est pas consensuel et risquerait de raviver les violences ; le texte reporterait encore les élections provinciales, qu'il faudrait tenir d'abord.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Pour une partie des opposants, le texte rompt avec la décolonisation prévue par l'accord de Nouméa : l'« État » resterait français, les transferts régaliens quasi impossibles et l'autonomie des provinces ferait craindre une partition.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Pour d'autres opposants, à l'inverse, créer un État et une nationalité calédonienne revient à préparer une indépendance déguisée, contraire à l'unité de la République, alors que les électeurs ont choisi trois fois de rester dans la France.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'accord est le seul compromis issu de plusieurs mois de négociations entre l'État et les forces politiques calédoniennes, dont une partie des indépendantistes ; le rejeter ramènerait le territoire au point mort.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, après des référendums qui ont coupé le territoire en deux camps, le texte propose d'en sortir : tout transfert de compétences régaliennes exigerait une large majorité au Congrès et l'accord des électeurs.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, le texte laisse le dernier mot aux Calédoniens, consultés avant toute entrée en vigueur, et donnerait la stabilité nécessaire pour relancer une économie dont le PIB a chuté de 13,5 % en 2024.",
+      "sources": [
+        "s4",
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "motion",
+    "textKind": "Motion de rejet préalable d'un projet de loi constitutionnelle du Gouvernement, adopté par le Sénat, première lecture à l'Assemblée nationale",
+    "textTitle": "Projet de loi constitutionnelle relatif à la Nouvelle-Calédonie",
+    "summary": "Le projet de loi constitutionnelle prévoyait de consulter les électeurs calédoniens sur les deux accords au plus tard le 26 juillet 2026, puis, en cas d'approbation, de réécrire le titre de la Constitution consacré à la Nouvelle-Calédonie. Le Sénat l'avait adopté le 24 février 2026 (215 voix contre 41) en y ajoutant un nouveau report des élections provinciales, au plus tard au 20 décembre 2026 ; la commission des lois de l'Assemblée avait ensuite supprimé tous ses articles. Le 2 avril 2026, l'Assemblée a adopté une motion de rejet préalable, qui rejette le texte sans examiner ses articles : voter pour la motion revenait à s'opposer à cette révision de la Constitution.",
+    "sources": [
+      "s4",
+      "s5",
+      "s10"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-04-03",
+      "label": "Sénat",
+      "text": "Le texte rejeté par l'Assemblée est transmis au Sénat pour une deuxième lecture. Une révision de la Constitution doit être votée dans les mêmes termes par les deux assemblées ; au 1er septembre 2026, le Sénat n'avait pas réexaminé le texte.",
+      "sources": [
+        "s7",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "label": "Élections provinciales",
+      "text": "Les élections provinciales, reportées depuis 2024, se tiennent sans révision de la Constitution. Sur les 54 sièges du Congrès, la principale alliance non indépendantiste en obtient 24, des listes indépendantistes 26 au total et une autre liste 4.",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "label": "À suivre",
+      "text": "Reçus à l'Élysée, des élus calédoniens, dont la présidente du Congrès, disent ne pas souhaiter rouvrir les discussions sur l'avenir institutionnel avant la prochaine législature et la prochaine élection présidentielle ; les échanges portent surtout sur l'économie et le nickel.",
+      "sources": [
+        "s12"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V6022",
+      "numero": 6022,
+      "date": "2026-04-02",
+      "role": "principal",
+      "sens": -1,
+      "label": "Motion de rejet préalable du projet de loi constitutionnelle issu des accords de Bougival et Élysée-Oudinot (adoptée : le texte est rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 6022 (2 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6022",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 6022 (2 avril 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_6022",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la séance du 2 avril 2026 (motion de rejet préalable et explications de vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N191",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Projet de loi constitutionnelle adopté par le Sénat, n° 2529 (25 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2529_projet-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Rapport n° 2579 de la commission des lois sur le projet de loi constitutionnelle (25 mars 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2579_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52984",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif du projet de loi constitutionnelle relatif à la Nouvelle-Calédonie (mis à jour le 1er septembre 2026)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl25-023.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Accord de Bougival (Journal officiel du 6 septembre 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052197304",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Projet de loi constitutionnelle rejeté par l'Assemblée nationale, T.A. n° 262 (2 avril 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0262_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Haut-commissariat de la République en Nouvelle-Calédonie — Résultats complets des élections provinciales (28 juin 2026)",
+      "url": "https://www.nouvelle-caledonie.gouv.fr/contenu/telechargement/13500/112224/file/PROVINCIALES_2026_R%C3%A9sultats_COMPLETS.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s12",
+      "label": "Nouvelle-Calédonie La 1ère — Les élus calédoniens reçus à l'Élysée : une rencontre sans annonce concrète (4 septembre 2026)",
+      "url": "https://la1ere.franceinfo.fr/les-elus-caledoniens-recus-par-emmanuel-macron-une-rencontre-sans-annonce-concrete-1735436.html",
+      "kind": "presse"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Scrutin à sens inversé : voter pour la motion de rejet revenait à s'opposer à la révision. Pour la motion : LFI-NFP, GDR, Écologiste et social, la quasi-totalité des Socialistes (29 pour, 2 contre), RN et UDR, ainsi que 3 des 5 votants LIOT. Contre la motion : EPR, Démocrates, Horizons et Droite républicaine. Même vote, raisons opposées : les groupes de gauche jugent l'accord non consensuel et contraire à la décolonisation prévue par l'accord de Nouméa, et refusent un nouveau report des élections provinciales, ajouté par le Sénat ; l'UDR y voit une indépendance déguisée, le RN un texte dangereux pour l'unité nationale, sans urgence institutionnelle. Les Socialistes ont dit ne « fermer aucune porte » à un accord négocié après les élections provinciales. Parmi les opposants à la motion, Horizons a défendu le « chemin tracé » par l'accord et les Démocrates l'esprit de négociation qui l'a produit ; la Droite républicaine a surtout justifié son vote par le refus de l'obstruction (plus de 3 000 amendements déposés) et la nécessité du débat, sans se prononcer sur le contenu de l'accord : sa position calculée est donc à lire avec prudence. Sur la loi organique de mai 2026 ouvrant le vote provincial aux natifs (voir la carte sur le corps électoral calédonien), le RN et l'UDR ont au contraire voté avec le bloc central et la Droite républicaine.",
+  "lastVerified": "2026-09-28"
+}

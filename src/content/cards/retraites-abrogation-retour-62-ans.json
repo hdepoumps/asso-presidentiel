@@ -1,0 +1,222 @@
+{
+  "id": "retraites-abrogation-retour-62-ans",
+  "theme": "travail",
+  "question": "Faut-il revenir à un âge légal de départ à la retraite de 62 ans, au lieu des 64 ans prévus par la réforme de 2023, et à 42 ans de cotisation pour une retraite à taux plein, au lieu de 43 ?",
+  "explainer": {
+    "title": "Que changeait cette abrogation ?",
+    "text": "La réforme de 2023 relève peu à peu l'âge légal de départ de 62 à 64 ans et accélère la hausse de la durée de cotisation exigée pour une retraite à taux plein : 43 ans (172 trimestres) dès les personnes nées en 1965, au lieu de celles nées en 1973 comme le prévoyait une loi de 2014. Le texte examiné revenait à 62 ans et fixait à 42 ans (168 trimestres) la durée exigée pour toutes les personnes nées à partir de 1961, à compter du 1er septembre 2025. Il allait donc plus loin que la suspension de la réforme de 2023, votée fin 2025, qui fait l'objet d'une autre carte.",
+    "sources": [
+      "s3",
+      "s4"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, on ne compte plus que 1,7 cotisant par retraité, contre plus de 4 en 1960, et 1,4 attendu en 2070 : revenir à 62 ans creuserait un système de retraite déjà déficitaire.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "Le coût atteindrait 20 milliards d'euros par an dès 2030 selon le rapporteur du texte, 30 milliards en 2030 selon le Gouvernement ; il faudrait selon ses opposants le financer par la dette ou par des cotisations pesant sur l'emploi.",
+      "sources": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la France partirait alors bien plus tôt que ses voisins (65 ans en Belgique, 67 ans en Italie), au risque de ne plus pouvoir garantir aux retraités un niveau de vie comparable à celui des actifs.",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, reculer l'âge pèse d'abord sur ceux qui ont commencé tôt, ont un métier pénible ou sont sans emploi en fin de carrière, et sur les femmes, dont le départ serait plus retardé que celui des hommes.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, parmi les 5 % les plus pauvres, 25 % des hommes et 13 % des femmes meurent avant 62 ans : reculer l'âge légal réduirait encore la retraite de ceux dont l'espérance de vie est la plus courte.",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, des recettes peuvent financer la mesure au lieu de deux ans de travail en plus : un point de cotisation rapporte environ 10 milliards d'euros, et les exonérations de cotisations patronales approchent 80 milliards.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements de suppression de l'article 1er d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi d'abrogation de la retraite à 64 ans",
+    "summary": "Le vote portait sur des amendements supprimant l'article 1er, cœur du texte : voter « pour » revenait à refuser l'abrogation. Adoptée en commission des affaires sociales le 20 novembre 2024, la proposition de loi a été examinée en séance le 28 novembre 2024. Près de 1 000 amendements avaient été déposés sur le texte : la séance a été levée à minuit sans que l'article 1er ni l'ensemble du texte aient pu être mis aux voix.",
+    "sources": [
+      "s4",
+      "s6",
+      "s7",
+      "s8"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2024-11-28",
+      "label": "Assemblée nationale",
+      "text": "Après le rejet des amendements de suppression, l'examen se poursuit jusqu'à minuit sans vote sur l'article 1er ni sur le texte, qui n'a pas été réinscrit à l'ordre du jour depuis. Il n'a donc jamais été transmis au Sénat.",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-06-05",
+      "label": "Assemblée nationale",
+      "text": "L'Assemblée adopte une résolution invitant à abroger la réforme de 2023 (198 voix contre 35). Une résolution exprime une position mais n'a pas de force obligatoire.",
+      "sources": [
+        "s10",
+        "s9"
+      ]
+    },
+    {
+      "date": "2025-12-30",
+      "label": "Promulgation",
+      "text": "La loi de financement de la sécurité sociale pour 2026 suspend jusqu'au 1er janvier 2028 la hausse de l'âge légal et de la durée de cotisation, qui reprendra ensuite avec une génération de retard. La réforme de 2023 n'est pas abrogée.",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "label": "Dialogue social",
+      "text": "La conférence sur le travail, l'emploi et les retraites, qui réunissait syndicats et organisations patronales (sans le Medef, qui l'a boycottée), s'achève sur des pistes pour de futures négociations et la campagne présidentielle, sans changer aucune règle. Sauf nouvelle loi, la hausse de l'âge légal reprendra en 2028.",
+      "sources": [
+        "s13",
+        "s11",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V468",
+      "numero": 468,
+      "date": "2024-11-28",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements supprimant l'article 1er (retour à 62 ans et à 42 ans de cotisation), rejetés : voter pour revenait à refuser l'abrogation"
+    },
+    {
+      "uid": "VTANR5L17V2257",
+      "numero": 2257,
+      "date": "2025-06-05",
+      "role": "historique",
+      "sens": 1,
+      "label": "Résolution, sans force obligatoire, invitant à abroger la réforme des retraites de 2023, adoptée"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 468 (28 novembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/468",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 468 (28 novembre 2024)",
+      "url": "https://datan.fr/votes/legislature-17/vote_468",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Texte de la commission des affaires sociales n° 613-A0 (20 novembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0613_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 613 de la commission des affaires sociales (20 novembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-soc/l17b0613_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 28 novembre 2024 (présentation et discussion générale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N055",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 28 novembre 2024 (amendements de suppression de l'article 1er)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N056",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance du 28 novembre 2024 (séance levée à minuit)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N057",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi d'abrogation de la retraite à 64 ans",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abrogation_retraite_64",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 2257 sur la résolution invitant à abroger la réforme des retraites (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2257",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Résolution adoptée n° 133 visant à abroger la loi du 14 avril 2023 (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0133_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Conseil constitutionnel — Décision n° 2025-899 DC sur la loi de financement de la sécurité sociale pour 2026 (30 décembre 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025899DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de financement de la sécurité sociale pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Centre de documentation de l'INSP (vie-publique.fr) — Conférence sur le travail, l'emploi et les retraites : synthèse et document final (16 septembre 2026)",
+      "url": "https://documentation.insp.gouv.fr/insp/doc/VIEPUBLIQUE/C04BE76981D51091A14421EFE34CC679/conference-sur-le-travail-l-emploi-et-les-retraites-synthese-et-document-final",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "La Gazette France (AFP) — Fin de la conférence Travail Emploi Retraites, des pistes sur la table pour candidats et partenaires sociaux (18 septembre 2026)",
+      "url": "https://www.lagazettefrance.fr/article/fin-de-la-conference-travail-emploi-retraites-des-pistes-sur-la-table-pour-candidats-et-partenaires-sociaux",
+      "kind": "presse"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte examiné lors de la journée réservée au groupe LFI-NFP, dont est issu le rapporteur. Le vote portait sur la suppression de l'article 1er : les groupes qui ont voté pour la suppression (EPR, Les Démocrates, Horizons, Droite républicaine avec 13 voix pour et 1 abstention, et les 3 députés UDR ayant voté) refusaient l'abrogation ; LFI-NFP, GDR, Écologiste et social, Socialistes, LIOT (2 votants) et RN ont voté contre la suppression, donc pour l'abrogation. Nuances : les Socialistes et LIOT se disaient attachés à la hausse de la durée de cotisation votée en 2014 et voulaient retirer du texte le retour à 42 ans de cotisation ; LFI-NFP défend à terme la retraite à 60 ans (objectif que son rapporteur attribue au Nouveau Front populaire) ; l'UDR, qui jugeait la réforme de 2023 injuste, refusait le retour à 62 ans et défend une part de retraite par capitalisation. Le 5 juin 2025, la résolution invitant à abroger la réforme de 2023 (scrutin n° 2257, en historique) a été adoptée par la gauche et le RN ; EPR, Les Démocrates, Horizons et UDR ont voté contre, LIOT s'est partagé et la Droite républicaine n'avait qu'un votant. Cette carte complète celle sur la suspension de la réforme, où LFI-NFP et GDR avaient voté contre parce qu'ils réclamaient l'abrogation.",
+  "lastVerified": "2026-09-28"
+}

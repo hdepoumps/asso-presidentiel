@@ -1,0 +1,245 @@
+{
+  "id": "parquet-national-anti-criminalite-organisee",
+  "theme": "securite",
+  "question": "Faut-il créer un parquet national contre la criminalité organisée, pouvant se saisir partout en France des affaires de narcotrafic et de crime organisé les plus complexes ?",
+  "explainer": {
+    "title": "C'est quoi, un parquet national ?",
+    "text": "Le parquet réunit les procureurs, qui dirigent les enquêtes et décident des poursuites : la France compte environ 160 procureurs de la République, un par tribunal. Deux parquets nationaux, installés à Paris, traitent déjà dans tout le pays les affaires financières et terroristes les plus lourdes. Le crime organisé relevait jusqu'ici de juridictions interrégionales spécialisées et, pour les dossiers les plus complexes, d'une juridiction nationale créée en 2019 au tribunal de Paris. Le nouveau parquet peut se saisir des affaires d'une très grande complexité, en concurrence avec les autres parquets, y compris les juridictions interrégionales spécialisées.",
+    "sources": [
+      "s4",
+      "s3",
+      "s5",
+      "s11",
+      "s10"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Une juridiction nationale contre le crime organisé existe déjà depuis 2019 : selon ses opposants, son problème est le manque de moyens, qu'un nouveau parquet ne réglerait pas.",
+      "sources": [
+        "s4",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, concentrer les grandes affaires à Paris éloignerait la justice des territoires où les trafics s'implantent, au détriment des juridictions interrégionales spécialisées qui les connaissent.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, ce procureur choisirait lui-même ses affaires, au risque de laisser de côté des dossiers moins visibles, et brouillerait le partage des compétences avec le parquet financier pour le blanchiment.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, un procureur national pourrait se saisir des affaires les plus graves et complexes, comme le parquet antiterroriste, sans retirer le reste des dossiers aux juridictions interrégionales spécialisées.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Beaucoup de trafiquants agissent depuis l'étranger : selon ses défenseurs, un interlocuteur national unique faciliterait la coopération avec les autres pays, au lieu de 160 procureurs agissant chacun de leur côté.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, ce parquet coordonnerait l'action de la justice, du renseignement à l'exécution des peines, avec une trentaine de magistrats, tandis que les juridictions interrégionales spécialisées seraient renforcées.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article d'une proposition de loi d'origine sénatoriale, première lecture",
+    "textTitle": "Proposition de loi visant à sortir la France du piège du narcotrafic",
+    "summary": "Adoptée par le Sénat le 4 février 2025, cette proposition de loi renforce la lutte contre le narcotrafic (renseignement, fermetures administratives, gel des avoirs, procédure pénale). Son article 2 crée un procureur national anti-criminalité organisée, installé au tribunal de Paris, compétent pour les crimes et délits en bande organisée d'une très grande complexité, en concurrence avec les autres parquets. Le 18 mars 2025, les députés ont rejeté un amendement qui supprimait cet article (27 voix pour, 184 contre), puis l'ont adopté. Le statut de ce procureur a été fixé par une loi organique distincte.",
+    "sources": [
+      "s5",
+      "s3",
+      "s4",
+      "s6",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-04-01",
+      "label": "Assemblée nationale",
+      "text": "La proposition de loi est adoptée en première lecture par 436 voix contre 75, et la loi organique fixant le statut du nouveau procureur par 472 voix contre 70.",
+      "sources": [
+        "s6",
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-04-29",
+      "label": "Adoption définitive",
+      "text": "Après un accord en commission mixte paritaire le 10 avril 2025, le Sénat (28 avril) puis l'Assemblée (29 avril) adoptent définitivement la loi et la loi organique, qui maintiennent le parquet national anti-criminalité organisée.",
+      "sources": [
+        "s7",
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-06-12",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2025-885 DC : saisi par des députés, le Conseil constitutionnel juge conformes la compétence concurrente du nouveau parquet sur les affaires d'une très grande complexité et la possibilité pour les services de renseignement de lui transmettre directement des informations ; d'autres articles de la loi sont censurés. La loi organique avait été validée le 5 juin (décision n° 2025-884 DC).",
+      "sources": [
+        "s9",
+        "s14"
+      ]
+    },
+    {
+      "date": "2025-06-13",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-532 et loi organique n° 2025-531 du 13 juin 2025 : l'article 3 de la loi crée le procureur de la République anti-criminalité organisée, qui doit entrer en fonction le 5 janvier 2026.",
+      "sources": [
+        "s10",
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-01-05",
+      "label": "Entrée en fonction",
+      "text": "Le parquet national anti-criminalité organisée est installé au tribunal judiciaire de Paris avec 16 magistrats ; le ministère de la justice annonçait alors une montée progressive à 30 magistrats d'ici septembre 2026. Il coordonne l'action des juridictions interrégionales spécialisées.",
+      "sources": [
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "label": "Premier bilan",
+      "text": "Six mois après son installation, le parquet a repris 170 dossiers suivis jusque-là par le parquet de Paris ; il n'est pas encore à pleine capacité et attend dix magistrats supplémentaires à la rentrée 2026.",
+      "sources": [
+        "s16"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V1053",
+      "numero": 1053,
+      "date": "2025-03-18",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article 2 créant le parquet national anti-criminalité organisée (première lecture)"
+    },
+    {
+      "uid": "VTANR5L17V1195",
+      "numero": 1195,
+      "date": "2025-04-01",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi organique fixant le statut du procureur anti-criminalité organisée (première lecture)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 1053 : article 2 (18 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1053",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 1053 (18 mars 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_1053",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 365 de suppression de l'article 2 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1043/AN/365.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : débat sur l'article 2 (18 mars 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-mars-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte de la commission des lois n° 1043 (article 2)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1043_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50169",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl23-735)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-735.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 1195 : ensemble de la proposition de loi organique (1er avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1195",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Conseil constitutionnel — Décision n° 2025-885 DC (12 juin 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025885DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2025-532 visant à sortir la France du piège du narcotrafic (13 juin 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051734851",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Ministère de la justice — Le parquet national anticriminalité organisée entre en fonction (janvier 2026)",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/parquet-national-anticriminalite-organisee-entre-fonction",
+      "kind": "officiel"
+    },
+    {
+      "id": "s13",
+      "label": "Sénat — Dossier législatif de la proposition de loi organique fixant le statut du procureur de la République anti-criminalité organisée (ppl24-197)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-197.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Conseil constitutionnel — Décision n° 2025-884 DC (5 juin 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025884DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Légifrance — Loi organique n° 2025-531 fixant le statut du procureur de la République anti-criminalité organisée (13 juin 2025)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051734847",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Franceinfo — « Pas là pour piquer les dossiers des autres » : six mois après sa prise de fonction, la procureure en charge du crime organisé dresse un premier bilan (14 juillet 2026)",
+      "url": "https://www.franceinfo.fr/replay-radio/ils-ont-fait-l-actu/pas-la-pour-piquer-les-dossiers-des-autres-6-mois-apres-sa-prise-de-fonction-la-procureure-en-charge-du-crime-organise-dresse-un-premier-bilan_8063738.html",
+      "kind": "presse"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Sur l'article 2, le groupe LFI-NFP est le seul à avoir voté contre (34 des 39 voix contre ; 4 députés EPR, dont 3 ont ensuite indiqué avoir voulu voter pour, et 1 député LIOT ont aussi voté contre), en proposant plutôt de donner plus de moyens aux juridictions spécialisées existantes. Tous les autres groupes ont voté pour, y compris GDR (5), Écologiste et social (19) et Socialistes (41) ; le groupe Écologiste et social avait lié son soutien à une prise en compte spécifique des mineurs, à laquelle le Gouvernement s'est dit favorable. Même clivage sur la loi organique fixant le statut du procureur (scrutin n° 1195, 1er avril 2025 : 472 pour, 70 contre) : LFI-NFP contre (67), GDR partagé (7 pour, 1 contre, 4 abstentions), tous les autres groupes pour. Sur l'ensemble de la loi contre le narcotrafic, qui contenait aussi le « dossier-coffre » et bien d'autres mesures (scrutin n° 1194 : 436 pour, 75 contre), LFI-NFP a voté contre, GDR (8 abstentions, 5 contre, 1 pour) et Écologiste et social (28 abstentions) se sont surtout abstenus, les Socialistes ont voté pour.",
+  "lastVerified": "2026-09-28"
+}

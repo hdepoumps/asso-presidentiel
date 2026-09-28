@@ -172,7 +172,8 @@ export default function Home() {
             <InstallPrompt />
           </div>
           <p className="mt-5 text-sm text-ink-3">
-            10 à 15 minutes · premier résultat dès {THRESHOLDS.bords} réponses · vos réponses ne quittent pas votre appareil
+            Premier résultat dès {THRESHOLDS.bords} réponses, puis chaque carte l’affine : jouez autant que vous voulez · vos réponses
+            ne quittent pas votre appareil
           </p>
         </div>
         <Deck />

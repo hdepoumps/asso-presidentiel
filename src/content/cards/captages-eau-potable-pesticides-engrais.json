@@ -1,0 +1,209 @@
+{
+  "id": "captages-eau-potable-pesticides-engrais",
+  "theme": "ecologie",
+  "question": "Faut-il imposer un plan d'action autour de chaque captage d'eau potable et, d'ici 2030, limiter ou interdire pesticides et engrais de synthèse là où ils polluent le plus les captages prioritaires ?",
+  "explainer": {
+    "title": "C'est quoi, un captage prioritaire ?",
+    "text": "Un captage est un point de prélèvement (source, forage, rivière) qui sert à produire l'eau du robinet ; son « aire d'alimentation » regroupe les terres d'où l'eau de pluie s'infiltre ou ruisselle jusqu'à lui. La France compte près de 33 000 captages, dont un peu plus d'un millier ont été désignés « prioritaires » en 2009 et 2013 parce que leur eau était dégradée par les nitrates ou les pesticides. Au moment du vote, délimiter l'aire d'alimentation d'un captage et y mener un plan d'action n'était pas obligatoire : moins de la moitié des captages en avaient une, et le préfet imposait rarement des mesures.",
+    "sources": [
+      "s4",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, seuls 3 070 captages sur 33 000 dépassent un seuil de qualité pour au moins un pesticide : imposer partout les mêmes obligations serait disproportionné, il faudrait agir au cas par cas.",
+      "sources": [
+        "s6",
+        "s7"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, 20 à 25 % des terres agricoles pourraient être touchées : limiter ou interdire engrais et pesticides à date fixe, sans solution de rechange ni compensation, ferait chuter les rendements et monter les importations.",
+      "sources": [
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, les outils existent déjà et l'État préparait une démarche ciblée avec les agriculteurs ; ce texte sans étude d'impact alourdirait les coûts et les formalités des collectivités chargées de l'eau.",
+      "sources": [
+        "s4",
+        "s6",
+        "s7"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "En 2024, 19,2 millions d'habitants ont reçu au moins une fois une eau du robinet non conforme pour les pesticides ; selon ses défenseurs, cela confirme l'« échec global » de la prévention constaté en 2024 par une mission d'inspection.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Depuis 1980, 14 300 captages ont été fermés, dont environ un tiers à cause des nitrates ou des pesticides ; selon ses défenseurs, dépolluer coûterait 750 millions à 1,3 milliard d'euros par an, payés surtout sur la facture d'eau.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les démarches volontaires ont échoué : 40 % des captages prioritaires n'ont aucun programme d'action et moins de 1 % sont en zone où des mesures peuvent être imposées ; prévenir coûterait moins que dépolluer.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendements identiques de suppression de l'article 1er d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi pour protéger l'eau potable",
+    "summary": "Déposée le 23 décembre 2025, la proposition de loi prévoyait d'abord d'interdire à partir de 2030 les pesticides de synthèse et les engrais azotés minéraux dans les aires d'alimentation des captages dits « sensibles » ; la commission l'a recentrée le 4 février 2026. Dans cette version, l'article 1er rendait obligatoires, pour tous les captages, la délimitation de leur aire d'alimentation et un plan d'action sous deux ans ; il obligeait le préfet à classer chaque aire d'alimentation en zone à contraintes environnementales, dotée d'un programme d'actions obligatoire, puis, avant 2030, à limiter ou interdire ces produits dans les zones qui polluent le plus les captages prioritaires. En séance, le 12 février 2026, les amendements supprimant cet article ont été rejetés : voter « pour » ces amendements revenait à refuser l'article.",
+    "sources": [
+      "s3",
+      "s5",
+      "s4",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-02-04",
+      "label": "Commission du développement durable",
+      "text": "La commission adopte le texte après l'avoir recentré sur les captages prioritaires : l'interdiction générale prévue en 2030 devient une obligation, pour le préfet, de limiter ou d'interdire les produits en cause dans les zones qui polluent le plus ces captages.",
+      "sources": [
+        "s4",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Assemblée nationale",
+      "text": "Après le rejet de la suppression, plusieurs amendements allègent l'article 1er : ils suppriment une nouvelle obligation de planification, la référence aux schémas locaux de gestion de l'eau et le classement automatique de toutes les aires d'alimentation en zones à contraintes. En fin d'après-midi, l'auteur retire le texte, estimant qu'il a été réduit à « une simple déclaration d'intention » : il n'est ni adopté ni transmis au Sénat.",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Conseil constitutionnel et promulgation d'une autre loi",
+      "text": "La loi n° 2026-796 d'urgence pour la protection et la souveraineté agricoles (article 29) crée un dispositif voisin : autour des captages « prioritaires », le préfet arrête un programme d'actions qui « encadre, limite ou peut interdire » certaines pratiques agricoles et l'usage d'intrants, en tenant compte de leurs incidences économiques, sans échéance fixée. Elle oblige aussi les producteurs d'eau à contribuer à la protection de la ressource, avec des exonérations selon la qualité de l'eau brute, et exclut des captages prioritaires ceux dont la pollution vient de substances interdites lorsque les produits autorisés n'y sont présents qu'en faible quantité ; le Conseil constitutionnel a jugé cette exclusion conforme le 14 août (décision n° 2026-914 DC). Ses décrets doivent être pris dans les six mois.",
+      "sources": [
+        "s10",
+        "s11",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "label": "Application",
+      "text": "Un projet de décret présenté aux acteurs de l'eau classerait « prioritaires » les captages dont l'eau brute dépasse les normes de potabilité : environ 1 900 à 2 300 captages selon les seuils retenus. Le financement doit être discuté début octobre 2026.",
+      "sources": [
+        "s12"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V5359",
+      "numero": 5359,
+      "date": "2026-02-12",
+      "role": "principal",
+      "sens": -1,
+      "label": "Amendements identiques supprimant l'article 1er (protection obligatoire des captages, limitation ou interdiction des pesticides et engrais de synthèse d'ici 2030), rejetés"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 5359 (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5359",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 5359 (12 février 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_5359",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Proposition de loi n° 2308 pour protéger l'eau potable (23 décembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2308_proposition-loi",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 2427 de la commission du développement durable et de l'aménagement du territoire (4 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-dvp/l17b2427_rapport-fond",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte de la commission n° 2427-A0 (4 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2427_texte-adopte-commission",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Compte rendu de la première séance : présentation, discussion générale et début de l'article 1er (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-12-fevrier-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : vote sur la suppression de l'article 1er et retrait du texte (12 février 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-12-fevrier-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Dossier législatif : protéger l'eau potable",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/_proteger_eau_portable_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Amendement n° 1 de suppression de l'article 1er (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2427/AN/1",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2026-796 d'urgence pour la protection et la souveraineté agricoles, article 29 (18 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/8/18/2026-796/jo/article_29",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Texte adopté n° 337, projet de loi d'urgence pour la protection et la souveraineté agricoles, texte de la commission mixte paritaire (20 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0337_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Agra — Agra Fil du 21 septembre 2026",
+      "url": "https://www.agra.fr/fil/agra-fil-du-21-septembre-2026",
+      "kind": "presse"
+    },
+    {
+      "id": "s13",
+      "label": "Conseil constitutionnel — Décision n° 2026-914 DC du 14 août 2026, loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026914DC.htm",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte déposé par le groupe Écologiste et social et examiné lors de sa journée réservée. Contre la suppression, donc pour l'article 1er : LFI-NFP, GDR, Écologiste et social et Socialistes, unanimes, ainsi que la majorité des députés EPR votants (16 contre la suppression, 6 pour). Pour la suppression : RN, UDR et Droite républicaine, unanimes, et Les Démocrates (8 pour, 1 contre). Horizons partagé (3 pour, 2 contre, 2 abstentions). Un seul député LIOT a voté : aucune position n'est calculée pour ce groupe. Le bloc central n'a donc pas de position nette (EPR plutôt pour l'article, près des trois quarts de ses votants, 16 sur 22, s'étant opposés à la suppression ; Démocrates contre ; Horizons partagé). Le Gouvernement était défavorable à la suppression, tout en jugeant le texte trop uniforme ; avec le rapporteur, il a ensuite soutenu des amendements l'allégeant, dont celui supprimant une nouvelle obligation de planification (scrutin n° 5363 : 160 pour, 59 contre) et celui supprimant le classement automatique des aires de captage en zones à contraintes (amendement n° 113, adopté à main levée). Le texte a été retiré dans l'après-midi même, sans vote sur l'article ni sur l'ensemble. La loi d'urgence agricole promulguée en août 2026 a ensuite retenu un dispositif voisin mais moins contraignant (interdiction possible et non obligatoire, sans échéance) : ce vote ne s'y rapporte pas.",
+  "lastVerified": "2026-09-28"
+}

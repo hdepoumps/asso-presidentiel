@@ -5,7 +5,7 @@ import type { AnswerValue, Card } from '../types';
 import { useGame, type Side } from '../store';
 import { useMediaQuery, useReducedMotionPref } from '../lib/hooks';
 import { jitter } from '../lib/adaptive';
-import { THEMES } from '../lib/themes';
+import { THEMES, fr } from '../lib/themes';
 import { useSettings } from '../settings';
 import { play } from '../lib/audio';
 import { speak, speechSupported, stopSpeaking, useSpeaking } from '../lib/speech';
@@ -366,7 +366,7 @@ export function GameCard({
                     Lisez d’abord les deux camps
                   </p>
                   <p className="mt-2 text-[0.98rem] text-ink-2">
-                    Le vote se débloque dès que vous avez ouvert les arguments « Contre » et « Pour ».
+                    {fr('Le vote se débloque dès que vous avez ouvert les arguments « Contre » et « Pour ».')}
                   </p>
                   <div className="mt-4 flex flex-wrap justify-center gap-2 text-sm">
                     {(['contre', 'pour'] as const).map((s) => (

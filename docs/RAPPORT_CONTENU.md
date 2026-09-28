@@ -2,6 +2,8 @@
 
 Arrêté au 26 septembre 2026. Ce rapport fait le point sur l'ensemble des cartes de `src/content/cards/` après trois étapes : la relecture thème par thème, la curation (34 cartes), puis le cycle de rééquilibrage et de revérification décrit au § 5.1 (4 cartes ajoutées, 21 cartes revérifiées en ligne).
 
+> Mise à jour du 28 septembre 2026 : 27 cartes ajoutées pour équilibrer le paquet (65 cartes au total). Voir la section 11.
+
 ## 1. En bref
 
 - **38 cartes retenues** : les 34 cartes de la curation précédente et 4 cartes ajoutées pour rééquilibrer le jeu (encadrement des loyers, droit opposable aux soins palliatifs, mineurs isolés, concentration des médias). Le plafond de 34 cartes fixé lors de la curation précédente est donc dépassé : c'est au porteur de projet de dire s'il le maintient (candidates au retrait au § 2).
@@ -331,3 +333,80 @@ Constat au moment de ce bilan (fichiers modifiés le 26 septembre 2026 par un au
 - `src/components/GameCard.tsx` affiche, quand on fait glisser nettement une carte verrouillée à gauche ou à droite (ou qu'on tente de voter), un grand encadré sur la carte : cadenas, titre « Lisez d'abord les deux camps », état « lu » ou « à lire » de chaque camp et bouton « Lire les arguments ».
 
 Ces éléments n'ont pas été testés dans le cadre de ce bilan : un essai sur téléphone reste à faire pour confirmer que la demande est satisfaite.
+
+## 11. Série du 28 septembre 2026 : 27 cartes pour équilibrer le paquet
+
+Demande du porteur de projet : ajouter des cartes pertinentes en gardant un bon rapport entre les camps, pour que chaque bord ait des « pour » et des « contre », sans s'arrêter à une trentaine de questions. Dix lots de trois cartes ont chacun visé un profil de vote précis (outil npm run profil), puis chaque carte a suivi la chaîne habituelle : vérification factuelle adversariale, audit de neutralité, correction. Le paquet passe de 38 à **65 cartes**. L'équilibre se mesure avec npm run equilibre.
+
+### 11.1 Équilibre avant et après
+
+| Bord | « pour » avant → après | « contre » avant → après | Proximité d'un « oui » partout, avant → après |
+| --- | --- | --- | --- |
+| Gauche | 10 → 26 | 18 → 25 | 40 % → 50 % |
+| Bloc central | 23 → 35 | 8 → 18 | 68 % → 62 % |
+| Droite républicaine | 26 → 36 | 10 → 23 | 71 % → 60 % |
+| RN et alliés | 23 → 34 | 12 → 28 | 65 % → 55 % |
+
+L'écart entre le bord le plus favorisé et le moins favorisé par un « oui » systématique passe de 31 points à 12 points.
+
+Groupes voisins départagés (cartes où leurs positions diffèrent d'au moins 1), avant → après : LFI/GDR 5 → 8 · GDR/ECOS 6 → 8 · ECOS/SOC 5 → 7 · DEM/EPR 4 → 8 · EPR/HOR 3 → 5 · DR/UDR 2 → 11 · UDR/RN 3 → 6 · DR/RN 6 → 20.
+
+### 11.2 Nouvelles cartes
+
+Profil : position des bords gauche / centre / droite / RN et alliés sur le scrutin principal (+ pour, − contre, 0 partagé).
+
+| id | thème | question | scrutin principal | profil |
+| --- | --- | --- | --- | --- |
+| allegements-cotisations-patronales-reduction | economie | Faut-il réduire les allègements de cotisations patronales, y compris au niveau du smic, ce qui ferait payer aux employeurs environ 5 milliards d'euros de plus par an au profit de la Sécurité sociale ? | n° 199 (2024-10-30) | +0−− |
+| apres-arenh-taxe-revenus-nucleaires-edf | energie | Faut-il remplacer l'ARENH, prix fixe auquel EDF vendait une part de son électricité nucléaire, par une taxe sur ses revenus au-delà de seuils fixés par le Gouvernement, reversée aux consommateurs ? | n° 99 (2024-10-25) | −++− |
+| cadmium-engrais-phosphates-seuils | sante | Faut-il interdire dès 2027 les engrais phosphatés contenant plus de 40 mg de cadmium, un métal lourd, par kilo de phosphate, puis plus de 20 mg dès 2030 (contre 90 mg autorisés aujourd'hui) ? | n° 7302 (2026-06-03) | ++0− |
+| cantines-publiques-produits-origine-francaise | agriculture | Faut-il obliger les cantines publiques (écoles, hôpitaux, administrations…) à ne servir que des produits d'origine française, sauf absence d'offre, au lieu d'une préférence européenne ? | n° 7055 (2026-05-29) | +−−+ |
+| captages-eau-potable-pesticides-engrais | ecologie | Faut-il imposer un plan d'action autour de chaque captage d'eau potable et, d'ici 2030, limiter ou interdire pesticides et engrais de synthèse là où ils polluent le plus les captages prioritaires ? | n° 5359 (2026-02-12) | +0−− |
+| centres-de-donnees-interet-national-terrains-artificialises | ecologie | Faut-il réserver le statut de « projet d'intérêt national majeur », qui facilite l'implantation des très grands centres de données, à ceux construits sur des terrains déjà artificialisés ? | n° 2121 (2025-05-27) | +−−− |
+| complementaires-sante-taxe-exceptionnelle | sante | Faut-il créer, pour 2026, une taxe exceptionnelle de 2,25 % sur les cotisations encaissées par les complémentaires santé (mutuelles, assureurs…), soit environ 1,1 milliard d'euros ? | n° 3434 (2025-11-05) | −+−− |
+| concours-talents-haute-fonction-publique | education | Faut-il prolonger jusqu'en 2028 le concours « Talents », qui ouvre à des boursiers issus d'une prépa dédiée l'équivalent de 10 à 15 % des places du concours externe de cinq écoles, dont l'ex-ENA ? | n° 840 (2025-02-18) | +++− |
+| conge-naissance-condition-nationalite | immigration | Faut-il réserver le congé supplémentaire de naissance, qui permet à chaque parent de s'arrêter un ou deux mois de plus, aux couples dont au moins un membre est de nationalité française ? | n° 3686 (2025-11-12) | −−?+ |
+| contribution-france-budget-union-europeenne | international | Faut-il approuver le montant de 28,8 milliards d'euros prévu pour la contribution de la France au budget de l'Union européenne en 2026, soit 5,7 milliards de plus qu'en 2025 ? | n° 3722 (2025-11-13) | 0++− |
+| csg-revenus-du-capital-hausse | fiscalite | Faut-il relever de 9,2 % à 10,6 % la CSG sur les revenus du patrimoine et des placements (dividendes, loyers, plus-values, intérêts de l'assurance-vie ou de l'épargne logement…) ? | n° 3427 (2025-11-05) | +0−− |
+| elus-locaux-trimestre-retraite-par-mandat | institutions | Faut-il accorder aux maires, adjoints et autres élus exerçant des fonctions exécutives locales un trimestre de retraite supplémentaire par mandat complet, dans la limite de huit par carrière ? | n° 2959 (2025-07-08) | +−0+ |
+| employeur-interets-credit-immobilier-exoneration | travail | Faut-il exonérer de cotisations sociales, à titre expérimental et jusqu'à environ 3 800 euros par an, l'aide d'un employeur aux intérêts d'emprunt d'un salarié qui accède à la propriété ? | n° 4486 (2025-12-03) | −0+− |
+| haltes-soins-addictions-prolongation | societe | Faut-il prolonger jusqu'à fin 2027 l'expérimentation des salles où des usagers de drogue peuvent consommer sous la supervision de professionnels, appelées haltes « soins addictions » ? | n° 4610 (2025-12-05) | ++−− |
+| jeux-olympiques-hiver-2030-loi | societe | Faut-il adopter la loi sur les Jeux olympiques et paralympiques d'hiver de 2030 dans les Alpes, avec notamment des dérogations d'urbanisme et la reprise de la vidéosurveillance algorithmique ? | n° 5296 (2026-02-03) | 0+++ |
+| kerosene-vols-interieurs-taxation | ecologie | Faut-il taxer le kérosène des vols intérieurs, aujourd'hui exonéré, sauf sur les liaisons avec la Corse et l'outre-mer ? | n° 3955 (2025-11-19) | +−−− |
+| malus-cotisations-emploi-seniors | travail | Faut-il appliquer un malus sur les cotisations retraite des entreprises d'au moins 300 salariés qui ne négocient pas sur l'emploi des seniors ou, faute d'accord, n'ont pas de plan d'action ? | n° 4592 (2025-12-05) | +−−+ |
+| nouvelle-caledonie-accord-bougival-constitution | territoires | Faut-il inscrire dans la Constitution l'accord de Bougival (un « État de la Nouvelle-Calédonie » dans la République), si les Calédoniens l'approuvent, et reporter encore les élections provinciales ? | n° 6022 (2026-04-02) | −++− |
+| nucleaire-nouveaux-reacteurs-27-gw | energie | Faut-il inscrire dans la loi un objectif de construction de nouveaux réacteurs nucléaires, le texte débattu visant 27 gigawatts d'ici 2050 ? | n° 2488 (2025-06-18) | 0+++ |
+| parquet-national-anti-criminalite-organisee | securite | Faut-il créer un parquet national contre la criminalité organisée, pouvant se saisir partout en France des affaires de narcotrafic et de crime organisé les plus complexes ? | n° 1053 (2025-03-18) | 0+++ |
+| pfas-interdiction-produits-redevance | sante | Faut-il interdire dès 2026 les PFAS, des composés chimiques très persistants, dans les cosmétiques, farts de ski et vêtements, et créer une redevance sur leurs rejets industriels dans l'eau ? | n° 852 (2025-02-20) | +++− |
+| quotient-familial-part-entiere-deuxieme-enfant | fiscalite | Faut-il que le deuxième enfant donne droit, comme les suivants, à une part fiscale entière au lieu d'une demi-part pour le calcul de l'impôt sur le revenu ? | n° 3092 (2025-10-25) | −−0+ |
+| repas-un-euro-tous-etudiants | social | Faut-il inscrire dans la loi un repas à 1 euro maximum au restaurant universitaire pour tous les étudiants, boursiers ou non ? | n° 603 (2025-01-23) | +0−+ |
+| retraites-abrogation-retour-62-ans | travail | Faut-il revenir à un âge légal de départ à la retraite de 62 ans, au lieu des 64 ans prévus par la réforme de 2023, et à 42 ans de cotisation pour une retraite à taux plein, au lieu de 43 ? | n° 468 (2024-11-28) | +−−+ |
+| taxe-petits-colis-importes-hors-ue | economie | Faut-il créer une taxe temporaire de 2 euros par type d'article contenu dans les colis de 150 euros ou moins venant de pays hors Union européenne, en attendant une mesure européenne ? | n° 3999 (2025-11-19) | +++− |
+| tva-energie-carburants-taux-reduit | fiscalite | Faut-il baisser de 20 % à 5,5 % le taux de TVA sur l'électricité, le gaz, le fioul et les carburants ? | n° 4038 (2025-11-20) | −−−+ |
+| vote-detenus-correspondance-toutes-elections | justice | Faut-il permettre aux détenus de voter par correspondance à toutes les élections, municipales et législatives comprises, leur vote comptant dans la commune où ils vivaient ou celle de leur famille ? | n° 2228 (2025-06-04) | +−−− |
+
+### 11.3 Cartes écartées pendant cette série
+
+Contenu et raisons dans docs/cartes-ecartees/ : plateformes-tva-travailleurs-independants, questions-gouvernement-demissionnaire-affaires-courantes, restitution-biens-culturels-garanties, srp10-promotions-prolongation-2028, taxe-main-oeuvre-etrangere-suppression.
+
+### 11.4 Points à revérifier (quota de recherche web épuisé pendant les corrections)
+
+- cadmium-engrais-phosphates-seuils : publication éventuelle des arrêtés sur le cadmium (juin-septembre 2026).
+- nucleaire-nouveaux-reacteurs-27-gw : chiffre de 72,8 milliards d'euros appuyé sur une seule source de presse ; GDR n'a que 2 votants.
+- parquet-national-anti-criminalite-organisee : magistrats effectivement en poste fin septembre 2026 ; thème « sécurité » alors que dossier-coffre est en « justice ».
+- jeux-olympiques-hiver-2030-loi : décrets d'application de la loi n° 2026-201.
+- retraites-abrogation-retour-62-ans : l'étape du 18 septembre 2026 repose sur une dépêche AFP reprise par un site peu connu.
+- repas-un-euro-tous-etudiants : l'étape du 20 septembre 2026 n'a qu'une source masquée avant le vote ; données de la droite fragiles (2 votants DR, aucun UDR).
+- complementaires-sante-taxe-exceptionnelle : décision QPC attendue après l'audience du 13 octobre 2026.
+- allegements-cotisations-patronales-reduction, conge-naissance-condition-nationalite : effets du budget de la Sécurité sociale 2027 (présenté le 1er octobre 2026).
+- taxe-petits-colis-importes-hors-ue : taxe équivalente réellement appliquée en Belgique, aux Pays-Bas et au Luxembourg.
+- tva-energie-carburants-taux-reduit : l'étape du 22 septembre 2026 ne s'appuie que sur des sources masquées avant le vote.
+- haltes-soins-addictions-prolongation : texte de l'arrêté du 30 décembre 2025 sans lien propre.
+- cantines-publiques-produits-origine-francaise : participation faible (105 votants).
+- centres-de-donnees-interet-national-terrains-artificialises : participation faible (189 votants).
+
+### 11.5 Cibles à renforcer pour une prochaine série
+
+- Départager EPR et Horizons (5 cartes) et l'UDR du RN (6 cartes).
+- Profils encore rares : « RN et alliés seul pour », « gauche et RN pour, centre et droite contre », « centre et droite contre gauche et RN ».
+- Le profil « gauche seule contre, tous les autres pour » reste le plus fréquent (12 cartes) : les prochaines cartes devraient éviter d'en ajouter.

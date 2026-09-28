@@ -1,0 +1,261 @@
+{
+  "id": "nucleaire-nouveaux-reacteurs-27-gw",
+  "theme": "energie",
+  "question": "Faut-il inscrire dans la loi un objectif de construction de nouveaux réacteurs nucléaires, le texte débattu visant 27 gigawatts d'ici 2050 ?",
+  "explainer": {
+    "title": "27 gigawatts, c'est combien ?",
+    "text": "Le gigawatt (GW) mesure la puissance d'une centrale. Le texte débattu prévoyait à la fois le maintien en service des 57 réacteurs existants, avec au moins 63 GW, et un objectif de 27 GW de nouveaux réacteurs d'ici 2050. La construction d'au moins 10 GW devait être engagée au plus tard en 2026 : ce sont les six réacteurs de nouvelle génération annoncés en février 2022. Celle de 13 GW supplémentaires devait l'être au plus tard en 2030 : l'équivalent de huit autres réacteurs, alors à l'étude. Les sous-amendements mis aux voix supprimaient ce passage, c'est-à-dire tout objectif de nouveaux réacteurs.",
+    "sources": [
+      "s4",
+      "s3",
+      "s5",
+      "s10"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, le coût de ce programme reste incertain : la Cour des comptes relevait début 2025 l'absence de devis abouti et de plan de financement, au risque d'alourdir la dette d'EDF ou la facture des contribuables.",
+      "sources": [
+        "s5",
+        "s10"
+      ]
+    },
+    {
+      "text": "Le premier nouveau réacteur ne serait pas en service avant 2038 : selon ses opposants, mieux vaudrait investir dès maintenant dans les économies d'énergie et les renouvelables, plus rapides à installer.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, les déchets radioactifs n'ont toujours pas de solution définitive, et le réchauffement réduira l'eau disponible pour refroidir les centrales, le débit du Rhône pouvant baisser jusqu'à 40 %.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Le nucléaire produit environ les deux tiers de l'électricité du pays en émettant très peu de CO2 : selon ses défenseurs, cette énergie pilotable réduit la dépendance aux énergies fossiles et aux importations.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "Trente-deux des 57 réacteurs ont dépassé ou dépasseront bientôt 40 ans de fonctionnement : selon ses défenseurs, les renouvelables ne pourront pas prendre seules le relais d'ici 2040, d'où de nouveaux réacteurs.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, fixer un cap dans la loi donnerait de la visibilité à la filière, et construire les réacteurs par paires, sur un modèle simplifié, tirerait les leçons des retards du chantier de Flamanville.",
+      "sources": [
+        "s5",
+        "s10"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "sous-amendement",
+    "textKind": "Sous-amendements de suppression à des amendements rétablissant un article d'une proposition de loi d'origine sénatoriale, première lecture",
+    "textTitle": "Proposition de loi portant programmation nationale et simplification normative dans le secteur économique de l'énergie",
+    "summary": "Adoptée par le Sénat en octobre 2024, cette proposition de loi fixait les objectifs énergétiques de la France jusqu'en 2035 ; en commission, les députés avaient supprimé son article 3, consacré au nucléaire. En séance, le 18 juin 2025, trois amendements identiques l'ont rétabli : maintien en service de tous les réacteurs (au moins 63 GW), 27 GW de nouveaux réacteurs d'ici 2050, poursuite du retraitement des combustibles usés et lancement, au plus tard en 2030, de la construction d'un démonstrateur de réacteur de quatrième génération. Auparavant, lors de l'examen des sous-amendements, deux sous-amendements identiques supprimant l'objectif de nouveaux réacteurs ont été rejetés (voter « pour » revenait à refuser tout objectif de nouveaux réacteurs), de même que deux sous-amendements qui remplaçaient les 27 GW par huit réacteurs et 13 GW en 2050.",
+    "sources": [
+      "s3",
+      "s4",
+      "s5",
+      "s16",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-06-18",
+      "label": "Assemblée nationale",
+      "text": "Après l'examen des sous-amendements, les trois amendements identiques rétablissant l'article sur le nucléaire sont adoptés par 163 voix contre 90.",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-06-24",
+      "label": "Assemblée nationale",
+      "text": "L'ensemble de la proposition de loi, qui contenait aussi une suspension des nouveaux projets éoliens et solaires, est rejeté par 377 voix contre 142 : l'objectif de nouveaux réacteurs tombe avec le texte.",
+      "sources": [
+        "s7",
+        "s9"
+      ]
+    },
+    {
+      "date": "2025-07-08",
+      "label": "Sénat",
+      "text": "En deuxième lecture, le Sénat adopte une version resserrée du texte, qui reprend l'objectif de 27 GW de nouveaux réacteurs d'ici 2050, et la transmet à l'Assemblée le 9 juillet 2025.",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-12-18",
+      "label": "EDF",
+      "text": "Le conseil d'administration d'EDF valide un devis prévisionnel de 72,8 milliards d'euros (valeur 2020, hors coûts de financement) pour les six premiers nouveaux réacteurs, à Penly, Gravelines et au Bugey. Le premier est attendu en 2038 ; la décision finale d'investissement est prévue fin 2026.",
+      "sources": [
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-02-12",
+      "label": "Décret",
+      "text": "Sans attendre la fin du parcours parlementaire, le Gouvernement fixe par décret la programmation de l'énergie 2026-2035 : six nouveaux réacteurs, huit autres en option, et une production nucléaire de 380 à 420 TWh en 2030.",
+      "sources": [
+        "s11",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "label": "État du texte",
+      "text": "Annoncée pour les 22 et 23 septembre 2025, la deuxième lecture à l'Assemblée n'a pas eu lieu, et le texte ne figure pas à l'ordre du jour arrêté le 22 septembre 2026 (jusqu'au 16 octobre) : l'objectif de 27 GW de nouveaux réacteurs n'a donc pas été inscrit dans la loi.",
+      "sources": [
+        "s8",
+        "s7",
+        "s14",
+        "s15"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2488",
+      "numero": 2488,
+      "date": "2025-06-18",
+      "role": "principal",
+      "sens": -1,
+      "label": "Sous-amendements identiques supprimant l'objectif de 27 GW de nouveaux réacteurs nucléaires d'ici 2050 (rejetés)"
+    },
+    {
+      "uid": "VTANR5L17V2521",
+      "numero": 2521,
+      "date": "2025-06-18",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement rétablissant l'article 3 : maintien des réacteurs existants, 27 GW de nouveaux réacteurs, retraitement et quatrième génération (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2488 : sous-amendement n° 727 et sous-amendement identique (18 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2488",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2488 (18 juin 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2488",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Sous-amendement n° 727 à l'amendement n° 503, article 3 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1522/AN/727.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° 503 rétablissant l'article 3 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1522/AN/503.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la première séance : discussion de l'article 3 (18 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-18-juin-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Scrutin n° 2521 : amendement n° 503 rétablissant l'article 3 (18 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2521",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Dossier législatif de la proposition de loi (ppl23-555)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-555.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Scrutin n° 2653 sur l'ensemble de la proposition de loi (24 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2653",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Cour des comptes — Rapport public thématique sur la filière des nouveaux réacteurs d'EDF : une dynamique nouvelle, des risques persistants (14 janvier 2025)",
+      "url": "https://www.ccomptes.fr/fr/publications/la-filiere-epr-une-dynamique-nouvelle-des-risques-persistants",
+      "kind": "officiel"
+    },
+    {
+      "id": "s11",
+      "label": "Légifrance — Décret n° 2026-76 relatif à la programmation pluriannuelle de l'énergie (12 février 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053464980",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Connaissance des énergies (AFP) — PPE 3 : le décret sur la feuille de route énergétique publié au JO (13 février 2026)",
+      "url": "https://www.connaissancedesenergies.org/afp/ppe-3-le-decret-sur-la-feuille-de-route-energetique-publie-au-jo-260213",
+      "kind": "presse"
+    },
+    {
+      "id": "s13",
+      "label": "Gaz d'aujourd'hui — EDF fixe à 72,8 milliards d'euros le coût plafond de ses six nouveaux réacteurs (18 décembre 2025)",
+      "url": "https://www.gazdaujourdhui.fr/edf-fixe-a-728-milliards-deuros-le-cout-plafond-des-six-epr2/",
+      "kind": "presse"
+    },
+    {
+      "id": "s14",
+      "label": "LCP — Rentrée parlementaire : un automne chargé pour les députés, à haut risque pour le gouvernement (24 juillet 2025)",
+      "url": "https://lcp.fr/actualites/rentree-parlementaire-un-automne-charge-pour-les-deputes-a-haut-risque-pour-le",
+      "kind": "presse"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Conférence des présidents : relevé de conclusions de la réunion du 22 septembre 2026",
+      "url": "https://www2.assemblee-nationale.fr/17/la-conference-des-presidents/releve-de-conclusions/reunion-du-mardi-22-septembre-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Sous-amendement n° 761 à l'amendement n° 503, article 3 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1522/AN/761.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "Assemblée nationale — Scrutin n° 2489 : sous-amendement n° 761 (18 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2489",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Le scrutin principal porte sur deux sous-amendements identiques, déposés par les groupes Écologiste et social et LFI-NFP, qui supprimaient l'objectif de 27 GW de nouveaux réacteurs, seul objectif de construction du texte : voter pour revenait à refuser de nouveaux réacteurs. Pour la suppression : LFI-NFP (41) et Écologiste et social (20). Contre : Socialistes (26 contre, 3 pour), GDR (2 votants seulement), LIOT, Démocrates, EPR, Horizons, Droite républicaine, UDR et RN. Le vote des Socialistes ne vaut pas soutien aux 27 GW : favorables à huit nouveaux réacteurs (13 GW en 2050), un éventuel supplément étant renvoyé à la prochaine loi de programmation, ils ont voté contre la suppression pour pouvoir proposer leur propre rédaction (sous-amendements n° 761 et 759, rejetés : scrutins n° 2489, 226 voix contre 27, et n° 2490, 225 voix contre 25, soutenus par eux seuls parmi les groupes) ; faute d'adoption, ils ont voté contre l'amendement complet et rejeté l'objectif de 27 GW. Les écologistes admettent que les réacteurs existants continuent de fonctionner le temps de développer des alternatives, mais refusent d'en construire de nouveaux ; LFI-NFP appelle à planifier la sortie du nucléaire ; le groupe GDR avait lui-même déposé un amendement rétablissant l'article sur le nucléaire. Sur l'amendement complet (scrutin n° 2521 : 163 pour, 90 contre), LFI-NFP, Écologiste et social et Socialistes ont voté contre, tous les autres groupes pour. Le 24 juin 2025, l'ensemble du texte a été rejeté (scrutin n° 2653 : 377 contre, 142 pour) : seuls RN et UDR l'ont soutenu, la Droite républicaine s'est abstenue (46 abstentions, 2 pour) ; le bloc central l'a rejeté notamment à cause de la suspension de l'éolien et du solaire votée le 19 juin.",
+  "lastVerified": "2026-09-28"
+}

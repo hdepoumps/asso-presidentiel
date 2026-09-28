@@ -1,0 +1,248 @@
+{
+  "id": "vote-detenus-correspondance-toutes-elections",
+  "theme": "justice",
+  "question": "Faut-il permettre aux détenus de voter par correspondance à toutes les élections, municipales et législatives comprises, leur vote comptant dans la commune où ils vivaient ou celle de leur famille ?",
+  "explainer": {
+    "title": "C'est quoi, le vote par correspondance des détenus ?",
+    "text": "Un détenu garde le droit de vote, sauf si un juge l'en a privé. Longtemps, il ne pouvait voter que par procuration ou grâce à une permission de sortir. Une loi de décembre 2019 lui a permis de voter par correspondance depuis la prison, à toutes les élections, mais sans choisir sa commune : pour une élection locale ou législative, son vote était compté dans la commune chef-lieu du département de sa prison. Ce mode de vote a servi aux départementales et régionales de 2021, à la présidentielle de 2022, puis aux européennes et aux législatives de 2024 ; il n'avait pas été mis en place pour les municipales de 2020. Depuis une loi de juillet 2025, appliquée dès les municipales de 2026, il est réservé à la présidentielle, aux européennes et aux référendums.",
+    "sources": [
+      "s5",
+      "s9"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, appuyés par le ministère de l'Intérieur et l'administration pénitentiaire, ce serait irréalisable : une prison pourrait devoir recevoir le matériel de vote de centaines de communes et tenir un bureau par détenu.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, le vote par correspondance a été supprimé pour tous en 1975 à cause des risques de fraude et des retards d'enveloppes ; entre deux tours espacés d'une semaine, ces difficultés demeurent.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, aucun détenu ne perd son droit de vote : aux élections locales et législatives, il peut voter par procuration, désormais plus facile à donner, ou grâce à une permission de sortir.",
+      "sources": [
+        "s3",
+        "s8"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Depuis que les détenus peuvent voter par correspondance, leur participation est passée d'environ 2 % à 22 % aux européennes de 2024 ; 90 % des détenus qui votent choisissent ce mode de vote.",
+      "sources": [
+        "s5",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les permissions de sortir pour voter sont rares (92 au second tour des législatives de 2024) et la procuration suppose de trouver quelqu'un dehors : sans vote par correspondance, le droit deviendrait théorique.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, compter ces votes dans la commune où le détenu vivait ou dans celle de sa famille éviterait qu'ils pèsent lourd dans quelques chefs-lieux, sans supprimer un mode de vote ; les obstacles pratiques seraient surmontables.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement à une proposition de loi d'origine sénatoriale, première lecture à l'Assemblée",
+    "textTitle": "Proposition de loi relative au droit de vote par correspondance des personnes détenues",
+    "summary": "Selon un avis du Conseil d'État de 2019, cité par le Sénat, les détenus pouvant être inscrits au chef-lieu dépasseraient 5 % des électeurs dans au moins six villes. Déposé au Sénat en décembre 2024, le texte proposait d'abord de compter leur vote dans une commune avec laquelle ils ont un lien ; le Sénat a préféré réserver le vote par correspondance à la présidentielle, aux européennes et aux référendums. La commission des lois de l'Assemblée avait supprimé cet article ; en séance, le 4 juin 2025, les députés ont rejeté deux amendements rétablissant la version d'origine, puis rétabli la version du Sénat (96 voix contre 62).",
+    "sources": [
+      "s5",
+      "s6",
+      "s4",
+      "s3",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-03-20",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le texte en première lecture : le vote par correspondance des détenus est réservé à la présidentielle, aux européennes et aux référendums ; pour les autres élections restent la procuration et la permission de sortir.",
+      "sources": [
+        "s6",
+        "s5"
+      ]
+    },
+    {
+      "date": "2025-06-04",
+      "label": "Assemblée nationale",
+      "text": "Après le rejet des amendements rétablissant la version d'origine, l'Assemblée adopte le texte dans la version du Sénat (109 voix contre 60) : la proposition de loi est définitivement adoptée.",
+      "sources": [
+        "s7",
+        "s3"
+      ]
+    },
+    {
+      "date": "2025-07-17",
+      "label": "Conseil constitutionnel",
+      "text": "Saisi par plus de soixante députés, le Conseil constitutionnel juge conformes à la Constitution les dispositions contestées : elles restreignent la manière de voter des détenus aux législatives et aux municipales sans les priver du droit de vote, puisqu'ils peuvent voter par procuration et, pour les condamnés, grâce à une permission de sortir.",
+      "sources": [
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-07-18",
+      "label": "Promulgation",
+      "text": "Loi n° 2025-658 du 18 juillet 2025 relative au droit de vote par correspondance des personnes détenues, publiée au Journal officiel du 19 juillet 2025.",
+      "sources": [
+        "s9"
+      ]
+    },
+    {
+      "date": "2026-03",
+      "label": "Élections municipales",
+      "text": "Première application : aux municipales de mars 2026, les détenus ne peuvent plus voter par correspondance, seulement par procuration ou grâce à une permission de sortir. Selon une analyse publiée en août 2026, environ 4 % des détenus pouvant voter l'auraient fait.",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2228",
+      "numero": 2228,
+      "date": "2025-06-04",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement rétablissant la version d'origine du texte : vote par correspondance à toutes les élections, compté dans une commune de rattachement du détenu (rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V2225",
+      "numero": 2225,
+      "date": "2025-06-04",
+      "role": "historique",
+      "sens": 1,
+      "label": "Amendement de même objet (rétablissement de la version d'origine), examiné juste avant (rejeté)"
+    },
+    {
+      "uid": "VTANR5L17V2234",
+      "numero": 2234,
+      "date": "2025-06-04",
+      "role": "historique",
+      "sens": -1,
+      "label": "Amendements rétablissant la version du Sénat : vote par correspondance réservé à la présidentielle, aux européennes et aux référendums (adoptés)"
+    },
+    {
+      "uid": "VTANR5L17V2244",
+      "numero": 2244,
+      "date": "2025-06-04",
+      "role": "historique",
+      "sens": -1,
+      "label": "Vote sur l'ensemble de la proposition de loi, dans la version du Sénat (adoption définitive)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2228 (4 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2228",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2228 (4 juin 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2228",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance (4 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mercredi-04-juin-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Amendement n° 2 à l'article 1er (texte n° 1475), exposé sommaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1475/AN/2",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Rapport n° 433 de la commission des lois sur la proposition de loi (12 mars 2025)",
+      "url": "https://www.senat.fr/rap/l24-433/l24-433_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Dossier législatif de la proposition de loi relative au droit de vote par correspondance des personnes détenues",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-192.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi relative au droit de vote par correspondance des personnes détenues",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51052",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Conseil constitutionnel — Décision n° 2025-889 DC (17 juillet 2025)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025889DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Légifrance — Loi n° 2025-658 du 18 juillet 2025 relative au droit de vote par correspondance des personnes détenues",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051919380",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Scrutin n° 2225 : amendement n° 1 à l'article 1er (4 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2225",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Scrutin n° 2234 : amendements rétablissant la version du Sénat (4 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2234",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 2244 : ensemble de la proposition de loi (4 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Préfecture de la Meuse — Réforme du vote par correspondance des personnes détenues (élections municipales de 2026)",
+      "url": "https://www.meuse.gouv.fr/Actions-de-l-Etat/Elections/Elections-politiques/Elections-municipales-2026/Reformes/Reforme-du-vote-par-correspondance-des-personnes-detenues",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "The Conversation — Pourquoi le vote des personnes détenues doit être préservé (6 août 2026)",
+      "url": "https://theconversation.com/pourquoi-le-vote-des-personnes-detenues-doit-etre-preserve-283455",
+      "kind": "analyse"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Amendement du groupe Socialistes, de même objet qu'un amendement d'une députée LIOT rejeté juste avant (scrutin n° 2225 : 64 voix pour, 94 contre) : les deux rétablissaient la version d'origine, avec de légères différences de rédaction. Pour : LFI-NFP, GDR, Écologiste et Social, Socialistes et LIOT. Contre : EPR, Les Démocrates, Horizons, Droite républicaine, UDR et RN, qui ont ensuite rétabli la version du Sénat (scrutin n° 2234 : 96 voix contre 62) et adopté la loi (scrutin n° 2244 : 109 voix contre 60, les quatre groupes de gauche et LIOT votant contre). LFI-NFP a voté pour tout en jugeant le rattachement à la commune d'origine difficile à mettre en œuvre : il aurait préféré garder le vote par correspondance compté au chef-lieu du département. Participation faible (159 votants sur 577).",
+  "lastVerified": "2026-09-28"
+}
