@@ -41,6 +41,24 @@ describe('code d’accès (serveur)', () => {
     expect(await res!.text()).toContain('Code d’accès');
   });
 
+  it('présente un vrai champ de mot de passe, que les gestionnaires de mots de passe savent remplir', async () => {
+    const html = await (await guard(page('/'), opts))!.text();
+    expect(html).toMatch(/<input id="code"[^>]*type="password"[^>]*autocomplete="current-password"/);
+    expect(html).toMatch(/name="username"[^>]*autocomplete="username"/);
+    expect(html).not.toMatch(/<input id="code"[^>]*autocomplete="off"/);
+  });
+
+  it('n’autorise que son propre script, par un jeton différent à chaque affichage', async () => {
+    const first = await guard(page('/'), opts);
+    const second = await guard(page('/'), opts);
+    const nonce = (r: Response) => /script-src 'nonce-([^']+)'/.exec(r.headers.get('content-security-policy')!)![1];
+    const html = await first!.clone().text();
+    expect(html).toContain(`<script nonce="${nonce(first!)}">`);
+    expect(html.match(/<script/g)).toHaveLength(1);
+    expect(nonce(first!)).not.toBe(nonce(second!));
+    expect(first!.headers.get('content-security-policy')).not.toContain('unsafe-eval');
+  });
+
   it('refuse sèchement les fichiers du site (scripts, cartes, service worker…) sans cookie', async () => {
     for (const path of ['/assets/index-abc.js', '/sw.js', '/assets/store.js']) {
       const res = await guard(new Request(SITE + path, { headers: { accept: '*/*' } }), opts);

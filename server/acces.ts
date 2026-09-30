@@ -89,7 +89,16 @@ const SECURITY_HEADERS = {
     "default-src 'none'; style-src 'unsafe-inline'; form-action 'self'; frame-ancestors 'none'; base-uri 'none'",
 };
 
+/** Seul script de la page : ajoute le bouton « Afficher / Masquer le code ». Sans JavaScript, le formulaire reste complet. */
+const TOGGLE_SCRIPT = `(function(){var i=document.getElementById('code');if(!i)return;var b=document.createElement('button');b.type='button';b.className='oeil';b.setAttribute('aria-controls','code');b.textContent='Afficher le code';b.onclick=function(){var show=i.type==='password';i.type=show?'text':'password';b.textContent=show?'Masquer le code':'Afficher le code';i.focus()};i.parentNode.appendChild(b)})()`;
+
+/** Jeton à usage unique qui autorise ce script précis (la page n'est jamais mise en cache). */
+function newNonce(): string {
+  return btoa(String.fromCharCode(...crypto.getRandomValues(new Uint8Array(16))));
+}
+
 function loginPage(next: string, wrong: boolean): Response {
+  const nonce = newNonce();
   const html = `<!doctype html>
 <html lang="fr">
 <head>
@@ -110,6 +119,10 @@ p{margin:.75rem 0 0;color:var(--ink-2)}
 form{margin-top:1.75rem}
 label{display:block;font-weight:600;color:var(--ink)}
 input{display:block;width:100%;margin-top:.5rem;padding:.75rem 1rem;border:1px solid var(--rule);border-radius:.75rem;background:var(--card);color:var(--ink);font:inherit}
+.champ{display:flex;gap:.5rem;margin-top:.5rem}
+.champ input{flex:1;min-width:0;margin-top:0}
+.oeil{margin:0;min-height:2.75rem;padding:.5rem 1rem;border:1px solid var(--rule);background:transparent;color:var(--ink);font:600 .9rem system-ui,sans-serif;white-space:nowrap}
+.ident{position:absolute;width:1px;height:1px;margin:0;padding:0;border:0;opacity:0;pointer-events:none}
 .err{min-height:1.5rem;margin:.5rem 0 0;font-weight:600;color:var(--violet)}
 button{margin-top:1rem;padding:.75rem 1.75rem;border:0;border-radius:999px;background:var(--ink);color:var(--paper);font:600 1rem system-ui,sans-serif;cursor:pointer}
 :focus-visible{outline:3px solid var(--violet);outline-offset:3px}
@@ -123,16 +136,25 @@ button{margin-top:1rem;padding:.75rem 1.75rem;border:0;border-radius:999px;backg
 <form method="post" action="${LOGIN_PATH}">
 <input type="hidden" name="next" value="${escapeHtml(next)}">
 <label for="code">Code d’accès</label>
-<input id="code" name="code" type="text" required autofocus autocomplete="off" autocapitalize="none" autocorrect="off" spellcheck="false" enterkeyhint="go"${wrong ? ' aria-invalid="true" aria-describedby="err"' : ''}>
+<input class="ident" type="text" name="username" value="testeur" autocomplete="username" tabindex="-1" aria-hidden="true">
+<div class="champ"><input id="code" name="code" type="password" required autofocus autocomplete="current-password" spellcheck="false" enterkeyhint="go"${wrong ? ' aria-invalid="true" aria-describedby="err"' : ''}></div>
 <p class="err" id="err" role="alert">${wrong ? 'Ce code n’est pas le bon. Vérifiez-le et réessayez.' : ''}</p>
 <button type="submit">Entrer</button>
 </form>
 </main>
+<script nonce="${nonce}">${TOGGLE_SCRIPT}</script>
 </body>
 </html>`;
   return new Response(html, {
     status: 401,
-    headers: { ...SECURITY_HEADERS, 'Content-Type': 'text/html; charset=utf-8' },
+    headers: {
+      ...SECURITY_HEADERS,
+      'Content-Security-Policy': SECURITY_HEADERS['Content-Security-Policy'].replace(
+        "default-src 'none';",
+        `default-src 'none'; script-src 'nonce-${nonce}';`,
+      ),
+      'Content-Type': 'text/html; charset=utf-8',
+    },
   });
 }
 
