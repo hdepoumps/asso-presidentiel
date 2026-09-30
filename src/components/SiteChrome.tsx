@@ -39,7 +39,7 @@ export function SiteHeader() {
             to={n.to}
             aria-current={route === n.to ? 'page' : undefined}
             className={`inline-flex min-h-10 items-center rounded-full px-1.5 transition-colors hover:text-violet sm:px-3 ${
-              n.to === 'jouer' ? 'hidden sm:inline' : ''
+              n.to === 'jouer' ? 'max-sm:hidden' : ''
             } ${route === n.to ? 'text-ink underline decoration-violet decoration-2 underline-offset-[6px]' : 'text-ink-2'}`}
           >
             {n.label}
