@@ -4,31 +4,35 @@
   "question": "Faut-il verser les allocations familiales dès le premier enfant, et non plus seulement à partir du deuxième, pour un coût estimé à au moins 3 milliards d'euros par an ?",
   "explainer": {
     "title": "Qui touche les allocations familiales aujourd'hui ?",
-    "text": "Les allocations familiales sont versées aux familles qui ont au moins deux enfants à charge de moins de 20 ans. Au 1er avril 2026, elles s'élèvent à 152,25 euros par mois pour deux enfants et à 347,32 euros pour trois ; depuis 2015, ces montants sont divisés par deux ou par quatre au-delà de certains plafonds de revenus. Dans les départements d'outre-mer, une allocation est déjà versée dès le premier enfant. Le texte voté se bornait à remplacer, dans le code de la sécurité sociale, « deuxième » par « premier » enfant : il ne fixait pas lui-même le montant versé pour un enfant unique.",
+    "text": "Les allocations familiales sont versées aux familles qui ont au moins deux enfants à charge de moins de 20 ans. Au 1er avril 2026, elles s'élèvent à 152,25 euros par mois pour deux enfants et à 347,32 euros pour trois ; depuis 2015, ces montants sont divisés par deux ou par quatre au-delà de certains plafonds de revenus. Dans les départements d'outre-mer, une allocation est déjà versée dès le premier enfant. L'article voté remplace, dans le code de la sécurité sociale, « deuxième » par « premier » enfant et demande à la Caisse nationale des allocations familiales d'en évaluer les effets : il ne fixe pas lui-même le montant versé pour un enfant unique.",
     "sources": [
       "s9",
-      "s3",
+      "s12",
+      "s13",
       "s5"
     ]
   },
   "contre": [
     {
-      "text": "Selon ses opposants, la mesure coûterait au moins 3 milliards d'euros par an sans financement identifié, alors que la Sécurité sociale est lourdement déficitaire et que la Cour des comptes alerte sur sa capacité à payer d'ici 2027.",
+      "text": "Selon ses opposants, la mesure coûterait au moins 3 milliards d'euros par an sans financement identifié, alors que la Sécurité sociale est lourdement déficitaire et que la Cour des comptes y voit un risque de défaut de paiement dès 2027.",
       "sources": [
+        "s14",
         "s3",
         "s4"
       ]
     },
     {
-      "text": "Selon ses opposants, elle aiderait peu les familles modestes : l'allocation serait en partie reprise par une baisse du RSA et de la prime d'activité, et profiterait surtout aux ménages plus aisés.",
+      "text": "Selon ses opposants, elle aiderait peu les familles modestes : l'allocation serait en partie reprise par une baisse du RSA et de la prime d'activité, et profiterait davantage aux ménages plus aisés.",
       "sources": [
+        "s13",
         "s3",
         "s4"
       ]
     },
     {
-      "text": "Selon ses opposants, son effet sur la natalité serait incertain : l'emploi, le logement et surtout la garde des enfants pèseraient plus dans le choix d'avoir un enfant ; mieux vaudrait investir dans les crèches ou revoir toutes les aides.",
+      "text": "Selon ses opposants, son effet sur la natalité serait incertain : l'emploi, la garde des enfants et surtout le logement pèseraient plus dans le choix d'avoir un enfant ; mieux vaudrait investir dans les crèches ou revoir toutes les aides.",
       "sources": [
+        "s13",
         "s3",
         "s4"
       ]
@@ -38,12 +42,14 @@
     {
       "text": "Selon ses défenseurs, plus d'un tiers des familles n'ont qu'un enfant et ne touchent aucune allocation familiale, alors que le premier enfant coûte cher : une naissance peut réduire jusqu'à 11 % le niveau de vie des parents.",
       "sources": [
+        "s12",
         "s3"
       ]
     },
     {
       "text": "Selon ses défenseurs, les familles monoparentales, qui n'ont souvent qu'un enfant et dont près de quatre sur dix vivent sous le seuil de pauvreté, seraient les premières à en bénéficier.",
       "sources": [
+        "s12",
         "s3",
         "s4"
       ]
@@ -51,6 +57,7 @@
     {
       "text": "Selon ses défenseurs, la mesure serait finançable, par exemple en supprimant des exonérations de cotisations sans effet prouvé sur l'emploi ; elle existe déjà outre-mer et chez plusieurs voisins, comme l'Allemagne ou la Belgique.",
       "sources": [
+        "s12",
         "s3",
         "s4"
       ]
@@ -60,7 +67,7 @@
     "kind": "article",
     "textKind": "Article premier d'une proposition de loi, première lecture",
     "textTitle": "Proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
-    "summary": "Le texte a été examiné le 5 juin 2025, lors d'une journée réservée à un groupe parlementaire, contre l'avis du Gouvernement. Son article premier, voté ici, ouvre les allocations familiales dès le premier enfant ; les articles suivants demandent des rapports au Gouvernement et prévoient de financer la mesure. Juste avant, un amendement réservant ces allocations aux familles dont au moins un parent est français avait été rejeté (89 voix contre 36).",
+    "summary": "Le texte a été examiné le 5 juin 2025, lors d'une journée réservée à un groupe parlementaire, contre l'avis du Gouvernement. Son article premier, voté ici, ouvre les allocations familiales dès le premier enfant ; les articles suivants demandent des rapports au Gouvernement et prévoient de financer la mesure. Pendant l'examen de cet article, un amendement réservant ces allocations aux familles dont au moins un parent est français avait été rejeté (89 voix contre 36).",
     "sources": [
       "s4",
       "s5",
@@ -125,13 +132,15 @@
       "id": "s3",
       "label": "Assemblée nationale — Compte rendu de la première séance du 5 juin 2025 : présentation du texte, avis du Gouvernement et début de la discussion générale",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s4",
       "label": "Assemblée nationale — Compte rendu de la deuxième séance du 5 juin 2025 : suite de la discussion et vote des articles",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s5",
@@ -176,12 +185,30 @@
       "label": "Assemblée nationale — Texte adopté n° 135, première lecture (5 juin 2025)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0135_texte-adopte-seance",
       "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Proposition de loi n° 1342 visant à accorder le versement des allocations familiales dès le premier enfant (exposé des motifs, 22 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1342_proposition-loi.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Inspection générale des finances et Inspection générale des affaires sociales — Revue des dépenses socio-fiscales en faveur de la politique familiale (juillet 2021)",
+      "url": "https://igas.gouv.fr/sites/igas/files/2024-04/Revue%20des%20d%C3%A9penses%20socio-fiscales%20en%20faveur%20de%20la%20politique%20familiale.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s14",
+      "label": "Cour des comptes — Sécurité sociale 2025 : rapport sur l'application des lois de financement de la sécurité sociale (26 mai 2025)",
+      "url": "https://www.ccomptes.fr/fr/publications/securite-sociale-2025",
+      "kind": "officiel"
     }
   ],
   "flags": {
     "voteLibre": false,
     "amendementAppel": false
   },
-  "resultNote": "Texte du groupe GDR (rapporteur : Édouard Bénard), examiné lors de sa journée d'initiative parlementaire. Pour l'article premier (scrutin n° 2266 : 121 votants, 98 pour, 22 contre, 1 abstention) : LFI-NFP (17), GDR (14), Écologiste et social (20), Socialistes (11), LIOT (2), Droite républicaine (3), UDR (3) et RN (28). Contre : EPR (13), Les Démocrates (3) et Horizons (6 contre, 1 abstention). Participation très faible (un jeudi de niche parlementaire) : les positions de LIOT, de la Droite républicaine, de l'UDR et des Démocrates reposent sur 2 ou 3 députés chacune. Même vote, motivations différentes : la gauche défend l'universalité des allocations et la lutte contre la pauvreté des enfants, sans visée nataliste ; le RN et l'UDR y voient une mesure nataliste, tout en voulant réserver ces allocations aux familles dont un parent est français (amendement rejeté, scrutin n° 2264 : 36 pour, 89 contre) ; la Droite républicaine soutient le principe mais préfère une réforme globale dans le budget de la Sécurité sociale. Les trois groupes du bloc central ont dit partager l'objectif mais refuser son coût : Les Démocrates plaident pour une refonte à budget constant, et l'oratrice d'Horizons s'est dite favorable à titre personnel à une mesure ciblée sur les familles pauvres. Sur l'ensemble du texte (scrutin n° 2272 : 125 votants, 103 pour, 17 contre, 5 abstentions), même partage : EPR 13 contre et 2 abstentions, Horizons 3 contre et 2 abstentions, Les Démocrates 1 contre et 1 abstention.",
+  "resultNote": "Texte du groupe GDR (rapporteur : Édouard Bénard), examiné lors de sa journée d'initiative parlementaire. Pour l'article premier (scrutin n° 2266 : 121 votants, 98 pour, 22 contre, 1 abstention) : LFI-NFP (17), GDR (14), Écologiste et social (20), Socialistes (11), LIOT (2), Droite républicaine (3), UDR (3) et RN (28). Contre : EPR (13), Les Démocrates (3) et Horizons (6 contre, 1 abstention). Participation très faible (un jeudi de niche parlementaire) : les positions de LIOT, de la Droite républicaine, de l'UDR et des Démocrates reposent sur 2 ou 3 députés chacune. Même vote, motivations différentes : la gauche défend l'universalité des allocations et la lutte contre la pauvreté des enfants, sans visée nataliste ; le RN et l'UDR y voient une mesure nataliste, tout en voulant réserver ces allocations aux familles dont un parent est français (amendement rejeté, scrutin n° 2264 : 36 pour, 89 contre) ; la Droite républicaine soutient le principe mais préfère une réforme globale dans le budget de la Sécurité sociale. Les trois groupes du bloc central ont dit partager l'objectif mais refuser son coût : Les Démocrates plaident pour une refonte à budget constant, et l'oratrice d'Horizons, favorable au principe à titre personnel, a proposé en vain de le réserver aux familles sous le seuil de pauvreté. Sur l'ensemble du texte (scrutin n° 2272 : 125 votants, 103 pour, 17 contre, 5 abstentions), même partage : EPR 13 contre et 2 abstentions, Horizons 3 contre et 2 abstentions, Les Démocrates 1 contre et 1 abstention.",
   "lastVerified": "2026-09-30"
 }

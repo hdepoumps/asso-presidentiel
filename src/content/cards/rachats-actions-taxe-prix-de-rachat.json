@@ -4,7 +4,7 @@
   "question": "Faut-il taxer à 4 % de leur prix de rachat les actions que les entreprises de plus d'un milliard d'euros de chiffre d'affaires rachètent puis annulent ?",
   "explainer": {
     "title": "C'est quoi, un rachat d'actions ?",
-    "text": "Une entreprise peut racheter ses propres actions puis les annuler : chaque action restante représente alors une part plus grande de l'entreprise, ce qui profite aux actionnaires, un peu comme un versement de dividendes. Selon le Gouvernement, les sociétés du CAC 40 ont ainsi reversé 30,1 milliards d'euros en 2023, sur plus de 97 milliards distribués à leurs actionnaires. Il proposait une taxe de 8 % pour les entreprises de plus d'un milliard d'euros de chiffre d'affaires, calculée sur la valeur nominale des actions annulées (leur valeur comptable d'origine, souvent très inférieure à leur cours) et sur une part des primes d'émission. Les États-Unis ont instauré en 2023 une taxe de 1 % sur ces rachats. L'amendement adopté juste avant le vote a remplacé la valeur nominale par le prix de rachat, avec un taux de 4 %.",
+    "text": "Une entreprise peut racheter ses propres actions puis les annuler : chaque action restante représente alors une part plus grande de l'entreprise, ce qui profite aux actionnaires, un peu comme un versement de dividendes. Selon le Gouvernement, les sociétés du CAC 40 ont ainsi reversé 30,1 milliards d'euros en 2023, sur plus de 97 milliards distribués à leurs actionnaires. Il proposait une taxe de 8 % pour les entreprises de plus d'un milliard d'euros de chiffre d'affaires, calculée sur la valeur nominale des actions annulées (leur valeur comptable d'origine, souvent très inférieure à leur cours) et sur une part des primes d'émission. Les États-Unis ont instauré en 2023 une taxe de 1 % sur ces rachats. L'amendement adopté juste avant le vote a remplacé la valeur nominale par le prix de rachat (la part des primes restant dans le calcul), avec un taux de 4 %.",
     "sources": [
       "s6",
       "s3",
@@ -15,19 +15,22 @@
     {
       "text": "Selon ses opposants, calculer la taxe sur le prix de rachat serait contraire au droit européen : la France risquerait de devoir rembourser, comme après l'annulation en 2017 de sa taxe de 3 % sur les dividendes, qui avait coûté 10 milliards.",
       "sources": [
-        "s3"
+        "s3",
+        "s14"
       ]
     },
     {
       "text": "Selon ses opposants, racheter ses actions est une façon légitime de rémunérer les actionnaires, comparable aux dividendes, qui sert aussi à attribuer des actions aux salariés ou à se protéger d'une prise de contrôle hostile.",
       "sources": [
-        "s3"
+        "s3",
+        "s14"
       ]
     },
     {
       "text": "Selon ses opposants, une entreprise qui a trop de trésorerie n'a parfois pas de meilleur usage que de racheter ses actions : taxer lourdement ces opérations pénaliserait les entreprises et pourrait en livrer certaines à des fonds étrangers.",
       "sources": [
-        "s3"
+        "s3",
+        "s14"
       ]
     }
   ],
@@ -35,20 +38,23 @@
     {
       "text": "Selon ses défenseurs, taxer la seule valeur nominale serait de façade : les rachats de 2023 valaient 2,3 milliards d'euros en valeur nominale, mais 30 milliards au prix payé ; la taxe du Gouvernement ne rapporterait qu'environ 200 millions.",
       "sources": [
-        "s3"
+        "s3",
+        "s14"
       ]
     },
     {
       "text": "Selon ses défenseurs, les rachats gonflent artificiellement le cours des actions restantes et enrichissent actionnaires et dirigeants, au lieu de financer l'investissement ou les salaires ; une vraie taxe sur leur prix les freinerait.",
       "sources": [
         "s4",
-        "s3"
+        "s3",
+        "s14"
       ]
     },
     {
-      "text": "Selon ses défenseurs, l'incompatibilité avec le droit européen n'est pas démontrée : la taxe sur les dividendes avait été annulée pour d'autres motifs, et les Pays-Bas avaient eux-mêmes prévu une taxe sur la valeur de marché des rachats.",
+      "text": "Selon ses défenseurs, l'incompatibilité avec le droit européen n'est pas démontrée : la taxe de 3 % sur les dividendes avait été annulée pour rupture d'égalité, et les Pays-Bas avaient envisagé une taxe sur la valeur de marché des rachats.",
       "sources": [
-        "s3"
+        "s3",
+        "s15"
       ]
     }
   ],
@@ -95,7 +101,7 @@
     {
       "date": "2026-03-27",
       "label": "Conseil constitutionnel",
-      "text": "Décision n° 2026-1189 QPC : saisi par des entreprises, le Conseil juge conforme à la Constitution l'assiette de la taxe ; le législateur n'était pas tenu de la calculer sur les sommes effectivement versées pour racheter les actions.",
+      "text": "Décision n° 2026-1189 QPC : saisi par trois entreprises, le Conseil juge conformes à la Constitution l'assiette de la taxe et celle de la taxe temporaire ; le législateur n'était pas tenu de les calculer sur les sommes effectivement versées pour racheter les actions.",
       "sources": [
         "s13"
       ]
@@ -138,7 +144,8 @@
       "id": "s3",
       "label": "Assemblée nationale — Compte rendu de la première séance : débat et vote sur l'article 26 (26 octobre 2024)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-samedi-26-octobre-2024",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s4",
@@ -203,12 +210,24 @@
       "label": "Conseil constitutionnel — Décision n° 2026-1189 QPC : taxe sur les réductions de capital par rachat d'actions (27 mars 2026)",
       "url": "https://www.conseil-constitutionnel.fr/decision/2026/20261189QPC.htm",
       "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Sénat — Compte rendu analytique de la séance du 29 novembre 2025 (projet de loi de finances pour 2026, taxe sur les rachats d'actions)",
+      "url": "https://www.senat.fr/cra/s20251129/s20251129_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Conseil constitutionnel — Décision n° 2017-660 QPC du 6 octobre 2017 (contribution de 3 % sur les montants distribués)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2017/2017660QPC.htm",
+      "kind": "primaire"
     }
   ],
   "flags": {
     "voteLibre": false,
     "amendementAppel": false
   },
-  "resultNote": "Pour l'article ainsi modifié : les quatre groupes de gauche (LFI-NFP 49, GDR 8, Écologiste et social 23, Socialistes 32) et le RN (71), sans voix contre. Contre : EPR (21), Les Démocrates (4), Horizons (3), la Droite républicaine (8) et l'UDR (7). LIOT s'est partagé (3 pour, 3 contre). Même vote, motivations différentes : des députés EPR, Démocrates et Horizons s'étaient dits favorables au principe de la taxe proposée par le Gouvernement (8 % de la valeur nominale), mais pas au calcul sur le prix de rachat, jugé contraire au droit européen ; le RN voulait une taxe de 33 % sur la valeur de marché pour mettre fin aux rachats (ses quatre amendements en ce sens ont été rejetés, scrutins n° 128 à 131 : 71 ou 72 voix pour, presque toutes du RN, contre 153 à 156) et a voté l'article modifié. Sur l'amendement passant au prix de rachat (scrutin n° 132 : 116 pour, 51 contre), LFI-NFP s'est surtout abstenue (34 abstentions, 6 pour), la trouvant insuffisante, tandis que Socialistes et RN votaient pour. Participation moyenne un samedi : 232 votants, dont seulement 4 Démocrates et 3 députés Horizons.",
+  "resultNote": "Pour l'article ainsi modifié : les quatre groupes de gauche (LFI-NFP 49, GDR 8, Écologiste et social 23, Socialistes 32) et le RN (71), sans voix contre. Contre : EPR (21), Les Démocrates (4), Horizons (3), la Droite républicaine (8) et l'UDR (7). LIOT s'est partagé (3 pour, 3 contre). Même vote, motivations différentes : des députés EPR, Démocrates, Horizons et de la Droite républicaine s'étaient dits favorables au principe de la taxe proposée par le Gouvernement (8 % de la valeur nominale), mais pas au calcul sur le prix de rachat, jugé contraire au droit européen : leur « contre » ne signifie pas un refus de toute taxe sur les rachats ; le RN voulait une taxe de 33 % sur la valeur de marché pour mettre fin aux rachats (ses quatre amendements en ce sens ont été rejetés, scrutins n° 128 à 131 : 71 ou 72 voix pour, presque toutes du RN, contre 153 à 156) et a voté l'article modifié. Sur l'amendement passant au prix de rachat (scrutin n° 132 : 116 pour, 51 contre), LFI-NFP s'est surtout abstenue (34 abstentions, 6 pour, 1 contre) sans s'en expliquer en séance, et les écologistes et GDR se sont partagés entre pour et abstention (ils avaient défendu un triplement du taux sur la valeur nominale, jugé plus sûr au regard du droit européen), tandis que Socialistes et RN votaient pour. Participation moyenne un samedi : 232 votants, dont seulement 4 Démocrates et 3 députés Horizons.",
   "lastVerified": "2026-09-30"
 }

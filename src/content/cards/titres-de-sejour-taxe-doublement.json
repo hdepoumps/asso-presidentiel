@@ -4,11 +4,10 @@
   "question": "Faut-il doubler, de 200 à 400 euros, la taxe que paient les étrangers pour obtenir ou renouveler un titre de séjour ?",
   "explainer": {
     "title": "Combien coûtait un titre de séjour ?",
-    "text": "En 2025, obtenir ou renouveler la plupart des titres de séjour coûtait 225 euros : une taxe de 200 euros et un droit de timbre de 25 euros (75 euros au total au tarif réduit, prévu pour certaines catégories). Pour rapprocher les montants français de la médiane de l'Union européenne, le Gouvernement proposait de porter la taxe à 300 euros et le droit de timbre à 50 euros ; avec ses autres hausses (naturalisation, autorisations provisoires de séjour, visa de régularisation), il en attendait 160 millions d'euros de recettes supplémentaires. L'amendement voté remplaçait la hausse prévue pour cette taxe par un doublement, à 400 euros.",
+    "text": "En 2025, obtenir ou renouveler la plupart des titres de séjour coûtait 225 euros : une taxe de 200 euros et un droit de timbre de 25 euros (75 euros au total au tarif réduit, prévu pour certaines catégories). Pour rapprocher les montants français de la médiane de l'Union européenne, le Gouvernement proposait de porter la taxe à 300 euros et le droit de timbre à 50 euros ; avec les autres hausses de l'article (naturalisation, autorisations provisoires de séjour, visa de régularisation, échange de permis de conduire étranger), il en attendait 160 millions d'euros de recettes supplémentaires. L'amendement voté remplaçait la hausse prévue pour cette taxe par un doublement, à 400 euros.",
     "sources": [
       "s6",
-      "s12",
-      "s14",
+      "s17",
       "s3"
     ]
   },
@@ -16,20 +15,23 @@
     {
       "text": "Selon ses opposants, les étrangers paieraient plus cher un service que l'État rend mal : préfectures engorgées, rendez-vous introuvables, titres délivrés si tard qu'ils expirent peu après, au risque de perdre emploi et droits sociaux.",
       "sources": [
-        "s5"
+        "s5",
+        "s16"
       ]
     },
     {
-      "text": "Selon ses opposants, la France taxe déjà ces titres plus que ses voisins au regard de leur durée, d'après un rapport parlementaire de 2019, et ces sommes pèsent sur des travailleurs modestes, que des associations aident souvent à payer.",
+      "text": "Selon ses opposants, ces sommes pèsent sur des étrangers souvent modestes, surtout ceux qui renouvellent chaque année un titre d'un an, et des associations les aident souvent à payer, comme l'a relevé un rapport parlementaire en 2019.",
       "sources": [
-        "s5"
+        "s5",
+        "s15"
       ]
     },
     {
       "text": "Selon ses opposants, ces hausses rapporteraient très peu au regard des recettes de l'État et relèveraient surtout du signal envoyé aux étrangers, traités autrement que les Français, dont la carte d'identité est gratuite.",
       "sources": [
         "s4",
-        "s5"
+        "s5",
+        "s12"
       ]
     }
   ],
@@ -38,22 +40,23 @@
       "text": "Selon ses défenseurs, alors que les entreprises et les Français sont appelés à redresser les comptes publics, il est normal que les étrangers qui choisissent de vivre en France, et y sont protégés, y participent aussi.",
       "sources": [
         "s3",
-        "s5"
+        "s5",
+        "s6"
       ]
     },
     {
       "text": "Selon ses défenseurs, il est juste de faire payer un service rendu, comme les Français paient 86 euros pour un passeport : traiter un titre de séjour coûte plus que ce qui est demandé, et les demandes augmentent sans cesse.",
       "sources": [
-        "s4",
-        "s5"
+        "s5",
+        "s17"
       ]
     },
     {
-      "text": "Selon ses défenseurs, beaucoup de pays font payer plus cher leurs démarches d'immigration, et le Gouvernement reconnaissait lui-même que les montants français restaient inférieurs à la médiane européenne.",
+      "text": "Selon ses défenseurs, beaucoup de pays européens font payer plus cher leurs titres de séjour, et le Gouvernement voulait lui-même relever les montants français pour les aligner sur la médiane de l'Union européenne.",
       "sources": [
         "s4",
-        "s5",
-        "s6"
+        "s6",
+        "s17"
       ]
     }
   ],
@@ -61,7 +64,7 @@
     "kind": "amendement",
     "textKind": "Amendement à l'article 30 du projet de loi de finances pour 2026, première lecture",
     "textTitle": "Projet de loi de finances pour 2026",
-    "summary": "L'article 30 relevait plusieurs droits liés au séjour et à la nationalité (dont le droit de timbre pour une demande de naturalisation, de 55 à 255 euros) et créait une contribution de 50 euros pour saisir la justice civile ou prud'homale. L'amendement remplaçait la réécriture de la taxe sur les titres de séjour proposée par le Gouvernement par un simple doublement de la taxe existante, contre l'avis de la commission et du Gouvernement. Un premier vote, perturbé par un problème d'affichage, a été annulé puis recommencé.",
+    "summary": "L'article 30 relevait plusieurs droits liés au séjour et à la nationalité (dont le droit de timbre pour une demande de naturalisation, de 55 à 255 euros) et créait une contribution de 50 euros pour saisir la justice civile ou prud'homale. L'amendement remplaçait la réécriture de la taxe sur les titres de séjour proposée par le Gouvernement par un simple doublement de la taxe existante (le tarif réduit restait à 50 euros et la nouvelle taxe sur les autorisations provisoires de séjour disparaissait), contre l'avis de la commission et du Gouvernement. Un premier vote, perturbé par un problème d'affichage, a été annulé puis recommencé.",
     "sources": [
       "s6",
       "s3",
@@ -100,7 +103,7 @@
     {
       "date": "2026-02-19",
       "label": "Conseil constitutionnel",
-      "text": "Décision n° 2026-901 DC : saisi par des députés, le Conseil juge ces hausses de taxes et de droits de timbre conformes à la Constitution ; selon lui, elles n'instituent par elles-mêmes aucune différence de traitement entre étrangers et Français.",
+      "text": "Décision n° 2026-901 DC : saisi par des députés, le Conseil juge conformes à la Constitution les hausses de la taxe sur la première délivrance d'un titre de séjour, du visa de régularisation et du droit de timbre de naturalisation ; selon lui, elles n'instituent par elles-mêmes aucune différence de traitement entre étrangers et Français.",
       "sources": [
         "s12"
       ]
@@ -159,13 +162,15 @@
       "id": "s4",
       "label": "Assemblée nationale — Compte rendu de la première séance : ouverture du débat sur l'article 30 (21 novembre 2025)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-vendredi-21-novembre-2025",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s5",
       "label": "Assemblée nationale — Compte rendu de la deuxième séance : suite du débat et votes sur l'article 30 (21 novembre 2025)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-vendredi-21-novembre-2025",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s6",
@@ -222,12 +227,30 @@
       "label": "Service-public.gouv.fr — Hausse des taxes sur les titres de séjour et la naturalisation au 1er mai 2026 (22 avril 2026, mis à jour le 12 mai 2026)",
       "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18881",
       "kind": "officiel"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Rapport d'information n° 2041 sur la taxation des titres de séjour (commission des finances, 19 juin 2019)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L15B2041.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Défenseur des droits — Rapport sur l'Administration numérique pour les étrangers en France (ANEF) : une dématérialisation à l'origine d'atteintes massives aux droits des usagers (11 décembre 2024)",
+      "url": "https://www.defenseurdesdroits.fr/atteintes-aux-droits-des-etrangers-le-defenseur-des-droits-publie-un-rapport-sur-ladministration",
+      "kind": "officiel"
+    },
+    {
+      "id": "s17",
+      "label": "Sénat — Rapport général de la commission des finances sur le projet de loi de finances pour 2026, tome II (article 30 : diverses majorations de droits de timbre)",
+      "url": "https://www.senat.fr/rap/l25-139-21/l25-139-21_mono.html",
+      "kind": "primaire"
     }
   ],
   "flags": {
     "voteLibre": false,
     "amendementAppel": false
   },
-  "resultNote": "Pour l'amendement : RN (76 pour, 1 abstention), UDR (6), Droite républicaine (6) et Horizons (9), sans aucune voix contre. Contre : les quatre groupes de gauche, Les Démocrates (9 contre, 1 abstention), EPR (12 contre) et LIOT (2 contre, 1 abstention), comme le Gouvernement, qui défendait sa propre hausse à 300 euros. Le vote départage EPR et Horizons. Participation faible (194 votants, un vendredi) et résultat serré (97 voix contre 94). Sur l'article 30 ainsi modifié (scrutin n° 4137 : 106 pour, 130 contre), le RN, l'UDR, Horizons et la Droite républicaine (7 pour, 1 contre) ont voté pour ; EPR (28 contre, 3 pour), Les Démocrates, LIOT et la gauche contre. Ce second vote mêlait les taxes sur le séjour et la nationalité et la contribution de 50 euros pour saisir la justice : Les Démocrates ont dit rejeter la partie visant les étrangers mais soutenir cette contribution, et la ministre a jugé l'article modifié « très éloigné » de sa proposition initiale. Les groupes de gauche refusaient toute hausse : leurs amendements supprimant l'article avaient été rejetés le matin (scrutin n° 4125 : 82 pour, 91 contre), EPR s'étant partagé (5 pour, 2 contre, 7 abstentions).",
+  "resultNote": "Pour l'amendement : RN (76 pour, 1 abstention), UDR (6), Droite républicaine (6) et Horizons (9), sans aucune voix contre. Contre : les quatre groupes de gauche, Les Démocrates (9 contre, 1 abstention), EPR (12 contre) et LIOT (2 contre, 1 abstention), comme le Gouvernement, qui défendait sa propre hausse à 300 euros. Les motifs du « contre » diffèrent : la gauche refusait toute hausse, et Les Démocrates venaient de voter pour supprimer toute la partie de l'article visant les étrangers (scrutin n° 4127 : 7 pour, 2 abstentions) ; EPR, qui n'a pas pris la parole, a suivi l'avis du Gouvernement. Le vote départage EPR et Horizons. Participation faible (194 votants, un vendredi) et résultat serré (97 voix contre 94) ; lors du premier vote, annulé pour un problème d'affichage, l'amendement avait été annoncé rejeté. Sur l'article 30 ainsi modifié (scrutin n° 4137 : 106 pour, 130 contre), le RN, l'UDR, Horizons et la Droite républicaine (7 pour, 1 contre) ont voté pour ; EPR (28 contre, 3 pour), Les Démocrates, LIOT et la gauche contre. Ce second vote mêlait les taxes sur le séjour et la nationalité et la contribution de 50 euros pour saisir la justice : Les Démocrates ont dit rejeter la partie visant les étrangers mais soutenir cette contribution, et la ministre a jugé l'article modifié « très éloigné » de sa proposition initiale. Les amendements de la gauche supprimant tout l'article avaient été rejetés le matin (scrutin n° 4125 : 82 pour, 91 contre), EPR s'étant partagé (5 pour, 2 contre, 7 abstentions).",
   "lastVerified": "2026-09-30"
 }

@@ -1,0 +1,154 @@
+{
+  "id": "irrigation-cultures-methaniseurs-zones-deficit-eau",
+  "theme": "agriculture",
+  "question": "Faut-il interdire d'irriguer les cultures semées entre deux récoltes pour alimenter les méthaniseurs, dans les zones où l'eau manque de façon structurelle ?",
+  "explainer": {
+    "title": "C'est quoi, une culture intermédiaire à vocation énergétique ?",
+    "text": "Une culture semée et récoltée entre deux cultures principales, non pour l'alimentation mais pour alimenter un méthaniseur, qui la transforme en biogaz. Les méthaniseurs ne peuvent pas être approvisionnés à plus de 15 % (en tonnage) par des cultures principales, mais les cultures intermédiaires n'entrent pas dans ce plafond. L'amendement visait les « zones de répartition des eaux », où les ressources sont insuffisantes par rapport aux besoins de façon non exceptionnelle, et les secteurs où un organisme unique répartit l'eau d'irrigation entre les agriculteurs : il y interdisait d'irriguer ces cultures avec de l'eau prélevée dans les rivières ou les nappes, directement ou par l'intermédiaire de réserves.",
+    "sources": ["s6", "s5", "s7", "s3"]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la loi n'a pas à hiérarchiser les usages agricoles de l'eau : dans les zones en déficit, ce partage relève déjà des projets de territoire, des schémas de gestion de l'eau et des arrêtés préfectoraux.",
+      "sources": ["s4"]
+    },
+    {
+      "text": "Selon ses opposants, ces cultures, semées entre deux récoltes, sécurisent l'approvisionnement des méthaniseurs et couvrent le sol, qui resterait sinon nu ; c'est aux acteurs locaux de l'eau de décider s'il faut les irriguer.",
+      "sources": ["s4", "s6"]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, là où l'eau manque durablement, elle doit être réservée en priorité à la production alimentaire, et non à des cultures destinées à produire du biogaz dans des méthaniseurs.",
+      "sources": ["s3", "s4"]
+    },
+    {
+      "text": "Selon ses défenseurs, sans règle dans la loi, les organismes qui répartissent l'eau d'irrigation ne peuvent écarter aucun type de culture ; irriguer pour produire de l'énergie, au bilan discuté, serait un non-sens face aux pénuries.",
+      "sources": ["s4"]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement portant article additionnel à un projet de loi du Gouvernement, première lecture",
+    "textTitle": "Projet de loi d'urgence pour la protection et la souveraineté agricoles",
+    "summary": "Ce projet de loi portait aussi sur les pesticides, l'élevage, le loup, les prix agricoles et, dans sa partie consacrée à l'eau, sur le stockage et les prélèvements pour l'irrigation. L'amendement, examiné le 21 mai 2026 au soir dans cette partie du texte, a reçu un avis défavorable de la commission et du Gouvernement, tout en disant partager le principe d'une priorité à l'alimentation sur l'énergie en cas de pénurie d'eau.",
+    "sources": ["s4", "s3"]
+  },
+  "suite": [
+    {
+      "date": "2026-06-02",
+      "label": "Assemblée nationale",
+      "text": "Le projet de loi est adopté en première lecture (369 voix contre 178), sans restriction à l'irrigation des cultures destinées aux méthaniseurs.",
+      "sources": ["s8", "s12"]
+    },
+    {
+      "date": "2026-07-21",
+      "label": "Adoption définitive",
+      "text": "Après son examen par le Sénat et un accord en commission mixte paritaire, le texte est adopté par l'Assemblée le 20 juillet (296 voix contre 224), puis définitivement par le Sénat le 21 juillet. Il ne contient aucune règle sur l'irrigation de ces cultures.",
+      "sources": ["s9", "s13", "s11"]
+    },
+    {
+      "date": "2026-08-18",
+      "label": "Promulgation",
+      "text": "Loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles, sans cette interdiction. Au 30 septembre 2026, l'article du code de l'environnement que l'amendement voulait compléter n'a pas été modifié depuis 2015.",
+      "sources": ["s10", "s5"]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V6808",
+      "numero": 6808,
+      "date": "2026-05-21",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement interdisant l'irrigation des cultures intermédiaires à vocation énergétique dans les zones en déficit d'eau (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 6808 (21 mai 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6808",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 6808 (21 mai 2026)",
+      "url": "https://datan.fr/votes/legislature-17/vote_6808",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° 920 portant article additionnel après l'article 5 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2765/AN/920",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance du 21 mai 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-21-mai-2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Code de l'environnement, article L. 541-39 (approvisionnement des méthaniseurs)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031066567",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Légifrance — Code de l'environnement, articles D. 543-291 à D. 543-293 (approvisionnement des méthaniseurs, cultures principales et intermédiaires), version issue du décret n° 2022-1120 du 4 août 2022",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000032858772/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Légifrance — Code de l'environnement, articles R. 211-71 à R. 211-74 (zones de répartition des eaux)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074220/LEGISCTA000006188698/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Texte adopté n° 295 en première lecture (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0295_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Texte adopté n° 337, texte de la commission mixte paritaire (20 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0337_texte-adopte-seance",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Légifrance — Loi n° 2026-796 d'urgence pour la protection et la souveraineté agricoles (18 août 2026)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054707007",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi d'urgence pour la protection et la souveraineté agricoles",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Scrutin n° 7259 : ensemble du projet de loi, première lecture (2 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7259",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Scrutin n° 8427 : ensemble du texte de la commission mixte paritaire (20 juillet 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "kind": "primaire",
+      "revealsPositions": true
+    }
+  ],
+  "flags": { "voteLibre": false, "amendementAppel": false },
+  "resultNote": "Rejeté par 63 voix contre 50 (120 votants, en séance de nuit ; le vote à main levée n'ayant pas été concluant, la présidente a fait procéder à un scrutin public). Pour : LFI-NFP (12), Écologiste et social (15), dont l'autrice de l'amendement, Socialistes (11), LIOT (3) et Démocrates (8), ainsi que le seul député GDR votant. Contre : EPR (17 contre, 2 abstentions), dont la rapporteure pour avis, Horizons, partagé (5 contre, 4 abstentions), Droite républicaine (10) et RN (30 contre, 1 abstention), ainsi que le seul député UDR votant. Le bloc central s'est donc divisé : les Démocrates ont voté avec la gauche et LIOT, EPR et Horizons avec la droite et le RN. Participation faible : les positions reposent sur peu de députés (LIOT 3, Horizons 9, Démocrates 8 ; GDR et UDR un seul votant chacun, sans position calculée). Les opposants ne contestaient pas la priorité à l'alimentation en cas de pénurie, mais le fait de l'inscrire dans la loi pour ces seules cultures plutôt que de laisser les acteurs locaux de l'eau arbitrer. L'Assemblée ne s'est pas prononcée autrement sur l'irrigation de ces cultures dans ce texte, et la loi promulguée le 18 août 2026 n'en dit rien. Sur l'ensemble du texte final (scrutin n° 8427), la Droite républicaine, l'UDR, le RN et la majorité d'Horizons et d'EPR ont voté pour, Démocrates et LIOT se sont partagés, et les quatre groupes de gauche ont voté contre.",
+  "lastVerified": "2026-09-30"
+}

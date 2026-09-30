@@ -1,0 +1,266 @@
+{
+  "id": "meubles-de-tourisme-fiscalite-pouvoirs-des-maires",
+  "theme": "logement",
+  "question": "Faut-il réduire l'avantage fiscal des locations meublées de tourisme (type Airbnb), leur imposer les normes énergétiques des autres logements et permettre aux maires d'en limiter le nombre ?",
+  "explainer": {
+    "title": "Que change cette loi ?",
+    "text": "Jusqu'en 2024, les revenus d'un meublé de tourisme déclarés au régime simplifié (micro-BIC) bénéficiaient d'un abattement forfaitaire de 50 %, et même de 71 % pour un meublé classé, contre 30 % pour un logement loué vide à l'année. Sur les revenus perçus à partir de 2025, cet abattement passe à 30 % jusqu'à 15 000 euros de recettes pour les meublés non classés, comme pour la location vide, et à 50 % jusqu'à 77 700 euros pour les meublés classés et les chambres d'hôtes. Toutes les communes peuvent désormais soumettre à autorisation les nouveaux meublés de tourisme, fixer des quotas, réduire de 120 à 90 jours par an la location de la résidence principale et, dans certaines zones, réserver les logements neufs aux résidences principales. Pour obtenir une autorisation, un logement doit avoir un diagnostic de performance énergétique (DPE) classé de A à E ; en 2034, tous les meublés de tourisme devront être classés de A à D dans l'Hexagone, sauf s'ils sont la résidence principale du loueur. Chaque meublé devra aussi être enregistré sous un numéro unique, et les copropriétés peuvent plus facilement les interdire.",
+    "sources": [
+      "s4",
+      "s9",
+      "s10"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, cette hausse d'impôt frapperait surtout des particuliers qui louent un bien, souvent familial, pour compléter leurs revenus ou payer leurs charges, bien plus que les grands investisseurs et les plateformes.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, dans les stations de montagne et les zones rurales, ces locations font vivre le tourisme faute d'hôtels : imposer des travaux énergétiques et limiter les nuitées menacerait l'économie locale.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, changer les règles en cours de route pénaliserait des familles qui ont investi leurs économies ; et durcir le régime simplifié pousserait les loueurs vers le régime réel, lui aussi avantageux.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, les logements loués aux touristes sont passés d'environ 300 000 en 2016 à 800 000 en 2021, privant de logements à l'année les salariés, étudiants et familles des villes et zones touristiques.",
+      "sources": [
+        "s8",
+        "s18",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, un meublé de tourisme rapportait plus et était moins imposé qu'un logement loué à l'année, sans obligation de rénovation énergétique : il fallait rétablir l'équité pour ramener des biens vers la location longue.",
+      "sources": [
+        "s3",
+        "s6",
+        "s9"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les maires manquaient d'outils juridiquement solides face à ces locations ; la loi permet à toutes les communes d'adapter les règles à leur territoire, sans rien imposer là où ce n'est pas utile.",
+      "sources": [
+        "s3",
+        "s8",
+        "s9"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, texte de la commission mixte paritaire (vote final de l'Assemblée)",
+    "textTitle": "Proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale",
+    "summary": "Déposé en avril 2023 sous le titre « visant à remédier aux déséquilibres du marché locatif en zone tendue », le texte a été adopté par l'Assemblée le 29 janvier 2024, puis par le Sénat le 21 mai 2024. La dissolution de juin 2024 a interrompu la navette ; le texte de la commission mixte paritaire a été adopté par le Sénat le 5 novembre, puis par l'Assemblée le 7 novembre 2024. Le vote porte sur l'ensemble de la loi : fiscalité, pouvoirs des maires, performance énergétique, copropriétés et enregistrement.",
+    "sources": [
+      "s4",
+      "s12",
+      "s13",
+      "s7"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2024-11-19",
+      "label": "Promulgation",
+      "text": "Loi n° 2024-1039 du 19 novembre 2024, publiée au Journal officiel le lendemain. Le Conseil constitutionnel n'a pas été saisi.",
+      "sources": [
+        "s4",
+        "s13"
+      ]
+    },
+    {
+      "date": "2025-01-01",
+      "label": "Premières communes",
+      "text": "Paris abaisse à 90 jours par an la durée maximale de location de la résidence principale dès le 1er janvier 2025 ; Avignon (février 2025) puis Marseille (avril 2025) votent ou préparent la même mesure.",
+      "sources": [
+        "s14",
+        "s17"
+      ]
+    },
+    {
+      "date": "2025-02-14",
+      "label": "Loi de finances pour 2025",
+      "text": "Autre mesure, distincte de cette loi : pour les ventes réalisées à partir du 15 février 2025, les amortissements déduits par les loueurs en meublé non professionnels, touristique ou non, sont réintégrés dans le calcul de la plus-value, sauf pour certaines résidences (étudiants, personnes âgées ou handicapées).",
+      "sources": [
+        "s15"
+      ]
+    },
+    {
+      "date": "2026-03-19",
+      "label": "Décrets",
+      "text": "Pris notamment en application de cette loi et du règlement européen du 11 avril 2024 sur les locations de courte durée, deux décrets organisent l'« API meublés », guichet national par lequel les plateformes transmettent aux communes le numéro d'enregistrement, l'adresse et le nombre de jours de location de chaque meublé.",
+      "sources": [
+        "s16",
+        "s19",
+        "s11"
+      ]
+    },
+    {
+      "date": "2026-04",
+      "label": "Déclaration des revenus 2025",
+      "text": "Les nouveaux abattements (30 % jusqu'à 15 000 euros pour un meublé non classé, 50 % jusqu'à 77 700 euros pour un meublé classé) s'appliquent pour la première fois, sur les revenus perçus en 2025.",
+      "sources": [
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "label": "Enregistrement national",
+      "text": "La loi prévoyait l'enregistrement de tous les meublés de tourisme par un téléservice national au plus tard le 20 mai 2026. Selon la Direction générale des Entreprises, sa mise en service est désormais prévue au quatrième trimestre 2026.",
+      "sources": [
+        "s4",
+        "s11"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V289",
+      "numero": 289,
+      "date": "2024-11-07",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble du texte issu de la commission mixte paritaire (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 289 (7 novembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/289",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 289 (7 novembre 2024)",
+      "url": "https://datan.fr/votes/legislature-17/vote_289",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 7 novembre 2024 (texte de la commission mixte paritaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Légifrance — Loi n° 2024-1039 du 19 novembre 2024 visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050612711",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Rapport n° 586 (2023-2024) de la commission des affaires économiques sur la proposition de loi",
+      "url": "https://www.senat.fr/rap/l23-586/l23-586_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Avis n° 579 (2023-2024) de la commission des finances sur la proposition de loi (volet fiscal)",
+      "url": "https://www.senat.fr/rap/a23-579/a23-579_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Rapport n° 85 (2024-2025) de la commission mixte paritaire",
+      "url": "https://www.senat.fr/rap/l24-085/l24-085.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Proposition de loi n° 1176 (16e législature), exposé des motifs (28 avril 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b1176_proposition-loi.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Ministère de la Transition écologique — Guide pratique 2025 de la réglementation des meublés de tourisme (1er septembre 2025)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/25113_GuidePratique2025MeubleTourisme.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "impots.gouv.fr — Location meublée de tourisme : quel est le nouveau régime fiscal ?",
+      "url": "https://www.impots.gouv.fr/particulier/questions/je-suis-proprietaire-dune-location-meublee-de-tourisme-quel-est-le-nouveau",
+      "kind": "officiel"
+    },
+    {
+      "id": "s11",
+      "label": "Direction générale des Entreprises — L'API meublés, guichet unique de centralisation des données des intermédiaires (mise à jour du 23 juillet 2026)",
+      "url": "https://www.entreprises.gouv.fr/espace-entreprises/s-informer-sur-la-reglementation/lapi-meubles-guichet-unique-de-centralisation",
+      "kind": "officiel"
+    },
+    {
+      "id": "s12",
+      "label": "Sénat — Dossier législatif de la proposition de loi",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-292.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/locatif_zone_tendue",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Banque des Territoires (Localtis) — Régulation des meublés de tourisme : une loi qui a fait son chemin (23 avril 2025)",
+      "url": "https://www.banquedesterritoires.fr/regulation-des-meubles-de-tourisme-une-loi-qui-fait-son-chemin",
+      "kind": "presse"
+    },
+    {
+      "id": "s15",
+      "label": "Légifrance — Loi n° 2025-127 du 14 février 2025 de finances pour 2025, article 84",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2025/2/14/2025-127/jo/article_84",
+      "kind": "primaire"
+    },
+    {
+      "id": "s16",
+      "label": "Légifrance — Décret n° 2026-196 du 19 mars 2026 relatif à la location de meublés de tourisme",
+      "url": "https://www.legifrance.gouv.fr/eli/decret/2026/3/19/PMEI2510870D/jo/texte",
+      "kind": "primaire"
+    },
+    {
+      "id": "s17",
+      "label": "France urbaine — Meublés de tourisme : premiers retours d'application et premières difficultés (28 avril 2025)",
+      "url": "https://franceurbaine.org/actualites/meubles-de-tourisme-loi-echaniz-le-meur-premiers-retours-dapplication-et-premieres-difficultes/",
+      "kind": "analyse"
+    },
+    {
+      "id": "s18",
+      "label": "Sénat — La loi en clair : proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/session-2023-2024/proposition-de-loi-visant-a-renforcer-les-outils-de-regulation-des-meubles-de-tourisme-a-lechelle-locale.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s19",
+      "label": "Légifrance — Décret n° 2026-197 du 19 mars 2026 portant création d'un traitement de données à caractère personnel dénommé « API meublés »",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053703549",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour : les quatre groupes de gauche (LFI-NFP 24, Socialistes 37, Écologiste et social 16, GDR 5), LIOT (5), EPR (38), Les Démocrates (5), Horizons (17) et la Droite républicaine (18). Contre : le RN (51 contre, 1 pour) et l'UDR (3 contre). Le texte était porté par une députée EPR et un député socialiste. En séance, le RN a surtout rejeté le volet fiscal (baisse des abattements), les obligations de rénovation énergétique et les nouvelles règles de copropriété, tout en se disant favorable à une limite de 60 nuitées par an (contre 120) « sans toucher à la fiscalité » — son orateur jugeant pourtant aussi que limiter les nuitées menaçait l'économie des zones touristiques ; l'UDR y a vu un excès de normes et d'impôts contraire à la prévisibilité promise aux propriétaires. La Droite républicaine a voté pour en saluant un compromis fiscal « beaucoup plus équilibré » que la version initiale ; plusieurs groupes de gauche ont au contraire regretté que les meublés classés gardent un abattement de 50 %. Le vote porte sur l'ensemble du texte : le « contre » du RN et de l'UDR traduit d'abord leur rejet de la hausse d'impôt et des obligations énergétiques, moins celui des nouveaux pouvoirs des maires.",
+  "lastVerified": "2026-09-30"
+}

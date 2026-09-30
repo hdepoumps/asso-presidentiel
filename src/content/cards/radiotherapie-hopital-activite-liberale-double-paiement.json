@@ -1,10 +1,10 @@
 {
   "id": "radiotherapie-hopital-activite-liberale-double-paiement",
   "theme": "sante",
-  "question": "Faut-il que l'Assurance maladie cesse de payer à l'hôpital public une séance de radiothérapie quand un médecin hospitalier la réalise dans son activité libérale, déjà payée en honoraires ?",
+  "question": "Faut-il que l'Assurance maladie cesse de payer l'hôpital public pour une séance de radiothérapie faite par un de ses médecins en activité libérale, dont elle rembourse déjà les honoraires ?",
   "explainer": {
     "title": "C'est quoi, l'activité libérale à l'hôpital public ?",
-    "text": "Les médecins hospitaliers peuvent consacrer jusqu'à 20 % de leur temps de travail à une activité libérale au sein de l'hôpital public. Ils facturent alors des honoraires, remboursés par l'Assurance maladie, en plus du salaire que leur verse l'hôpital, et reversent à celui-ci une redevance (60 % des honoraires en radiothérapie). Selon la Fédération hospitalière de France, environ 10 % des praticiens qui y ont droit l'exercent. L'Assurance maladie paie aussi à l'hôpital le tarif de la prestation, qui inclut déjà les frais de personnel : la Cour des comptes y voit, depuis 2023, un double paiement du temps médical. La mesure supprime ce tarif pour les séances de radiothérapie réalisées dans ce cadre, à partir du 1er janvier 2027.",
+    "text": "Les médecins hospitaliers peuvent consacrer jusqu'à 20 % de leur temps de travail à une activité libérale au sein de l'hôpital public. Ils facturent alors des honoraires, remboursés par l'Assurance maladie, en plus du salaire que leur verse l'hôpital, et reversent à celui-ci une redevance (60 % des honoraires en radiothérapie). Selon la Fédération hospitalière de France, environ 10 % des praticiens qui y ont droit l'exercent. L'Assurance maladie paie aussi à l'hôpital le tarif de la prestation, qui inclut déjà les frais de personnel : la Cour des comptes y a vu en 2023 un double paiement du temps médical. La mesure supprime ce tarif pour les séances de radiothérapie réalisées dans ce cadre, à partir du 1er janvier 2027.",
     "sources": [
       "s4",
       "s5"
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "text": "Selon ses défenseurs, la mesure accompagne la réforme votée pour 2024, qui doit payer de la même façon une séance de radiothérapie en ville et à l'hôpital ; elle n'entrerait en vigueur qu'en 2027.",
+      "text": "Selon ses défenseurs, la mesure accompagne la réforme votée dans le budget de la Sécurité sociale pour 2024, qui doit payer de la même façon une séance de radiothérapie en ville et à l'hôpital ; elle n'entrerait en vigueur qu'en 2027.",
       "sources": [
         "s2",
         "s4"
@@ -60,7 +60,7 @@
     "kind": "amendement",
     "textKind": "Amendements rétablissant un article du projet de loi de financement de la sécurité sociale pour 2026, nouvelle lecture",
     "textTitle": "Projet de loi de financement de la sécurité sociale pour 2026",
-    "summary": "Ajouté par les députés en première lecture puis supprimé par le Sénat, l'article a été rétabli par trois amendements identiques, avec l'avis favorable du Gouvernement ; le rapporteur général y était défavorable à titre personnel. Juste après, les députés ont aussi rétabli un article étendant ce principe à tous les actes des médecins hospitaliers en activité libérale, contre l'avis du Gouvernement (155 voix contre 62).",
+    "summary": "Ajouté par les députés en première lecture (sans scrutin public) puis supprimé par le Sénat, l'article a été rétabli par trois amendements identiques, adoptés en commission et soutenus par le Gouvernement ; le rapporteur général y était défavorable à titre personnel. Juste après, les députés ont aussi rétabli un article étendant ce principe à tous les actes des médecins hospitaliers en activité libérale, contre l'avis du Gouvernement (155 voix contre 62).",
     "sources": [
       "s2",
       "s4",
@@ -69,12 +69,12 @@
   },
   "suite": [
     {
-      "date": "2025-11",
+      "date": "2025-11-23",
       "label": "Sénat",
-      "text": "Le Sénat supprime l'article, que sa commission des affaires sociales juge dangereux pour les finances et l'attractivité des hôpitaux publics.",
+      "text": "Le Sénat supprime l'article, contre l'avis du Gouvernement : sa commission des affaires sociales estime qu'il menacerait les finances et l'attractivité des hôpitaux publics, et qu'il vaudrait mieux l'intégrer à la réforme en cours du financement de la radiothérapie.",
       "sources": [
-        "s4",
-        "s2"
+        "s13",
+        "s4"
       ]
     },
     {
@@ -128,7 +128,8 @@
       "id": "s2",
       "label": "Assemblée nationale — Compte rendu de la deuxième séance du 5 décembre 2025 (articles 22 bis et 22 ter)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-vendredi-05-decembre-2025",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s3",
@@ -192,12 +193,18 @@
       "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4629",
       "kind": "primaire",
       "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Sénat — Compte rendu intégral de la séance du 23 novembre 2025 (article 22 bis du projet de loi de financement de la sécurité sociale pour 2026)",
+      "url": "https://www.senat.fr/seances/s202511/s20251123/s20251123026.html",
+      "kind": "primaire"
     }
   ],
   "flags": {
     "voteLibre": false,
     "amendementAppel": false
   },
-  "resultNote": "Pour, comme le Gouvernement : LFI-NFP (16), GDR (3), Écologiste et social (10), Socialistes (34 pour, 2 contre, 4 abstentions), Démocrates (19), EPR (34) et RN (60). Contre : Horizons (8 contre, 1 pour), la Droite républicaine (11), dont le rapporteur général s'était opposé à la mesure, et l'UDR (5). LIOT n'a eu que 3 votants (2 pour, 1 contre). Participation moyenne (213 votants, un vendredi). En séance, un député socialiste a relayé les craintes de la Fédération hospitalière de France pour les ressources des hôpitaux, avant que son groupe vote pour ; ni Horizons ni l'UDR n'ont pris la parole. Sur l'article voisin, qui étendait le principe à tous les actes des médecins hospitaliers en activité libérale (scrutin n° 4629, 155 voix contre 62), EPR, le RN et la gauche ont voté pour, contre l'avis du Gouvernement ; Horizons, la Droite républicaine, LIOT et l'UDR contre ; Socialistes et Démocrates se sont partagés.",
+  "resultNote": "Pour, comme le Gouvernement : LFI-NFP (16), GDR (3), Écologiste et social (10), Socialistes (34 pour, 2 contre, 4 abstentions), Démocrates (19), EPR (34) et RN (60). Contre : Horizons (8 contre, 1 pour), la Droite républicaine (11) et l'UDR (5). LIOT n'a eu que 3 votants (2 pour, 1 contre). Participation moyenne (213 votants, un vendredi). Les trois amendements identiques venaient de LFI, d'EPR et d'un député de la Droite républicaine, ancien ministre de la santé, qui n'a pas pris part au vote ; son groupe a suivi le rapporteur général, lui aussi de la Droite républicaine, qui jugeait que la mesure priverait des hôpitaux de ressources et d'un levier pour garder leurs radiothérapeutes. En séance, un député socialiste a relayé les craintes de la Fédération hospitalière de France pour les ressources des hôpitaux, avant que son groupe vote pour ; ni Horizons ni l'UDR n'ont pris la parole pour expliquer leur vote contre. Sur l'article voisin, qui étendait le principe à tous les actes des médecins hospitaliers en activité libérale (scrutin n° 4629, 155 voix contre 62), EPR, le RN et la gauche ont voté pour, contre l'avis du Gouvernement ; Horizons, la Droite républicaine, LIOT et l'UDR (4 contre, 1 pour) contre ; Socialistes et Démocrates se sont partagés.",
   "lastVerified": "2026-09-30"
 }

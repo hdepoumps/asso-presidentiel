@@ -3,6 +3,10 @@
 Arrêté au 26 septembre 2026. Ce rapport fait le point sur l'ensemble des cartes de `src/content/cards/` après trois étapes : la relecture thème par thème, la curation (34 cartes), puis le cycle de rééquilibrage et de revérification décrit au § 5.1 (4 cartes ajoutées, 21 cartes revérifiées en ligne).
 
 > Mise à jour du 28 septembre 2026 : 27 cartes ajoutées pour équilibrer le paquet (65 cartes au total). Voir la section 11.
+>
+> Mise à jour du 30 septembre 2026 : 6 cartes ajoutées (71 cartes au total), dont l'industrie et la famille, jusque-là absentes. Voir la section 12.
+>
+> Deuxième série du 30 septembre 2026 : 3 cartes ajoutées (74 cartes au total). Voir la section 13.
 
 ## 1. En bref
 
@@ -410,3 +414,112 @@ Contenu et raisons dans docs/cartes-ecartees/ : plateformes-tva-travailleurs-ind
 - Départager EPR et Horizons (5 cartes) et l'UDR du RN (6 cartes).
 - Profils encore rares : « RN et alliés seul pour », « gauche et RN pour, centre et droite contre », « centre et droite contre gauche et RN ».
 - Le profil « gauche seule contre, tous les autres pour » reste le plus fréquent (12 cartes) : les prochaines cartes devraient éviter d'en ajouter.
+
+## 12. Série du 30 septembre 2026 : 6 cartes
+
+Demande du porteur de projet : chercher des cartes à ajouter, en vérifier l'exactitude et garder la cohérence du jeu. Quatre lots ont visé les manques relevés aux § 8 et 11.5 : économie hors fiscalité (industrie, consommation), famille et culture, articles de budget aux profils de vote rares, groupes voisins mal départagés. Chaque carte a été rédigée selon la charte, puis relue de façon contradictoire par un autre agent : faits revérifiés, décomptes contrôlés avec npm run scrutin, question comparée au scrutin, neutralité. Le paquet passe de 65 à **71 cartes** ; `npx vitest run src/content` : 500 tests réussis sur 500.
+
+### 12.1 Nouvelles cartes
+
+| id | thème | question | scrutin principal | profil |
+| --- | --- | --- | --- | --- |
+| arcelormittal-france-nationalisation | economie | Faut-il nationaliser ArcelorMittal France, qui exploite notamment les sites sidérurgiques de Dunkerque et de Florange, l'État la rachetant à son groupe mondial au prix fixé par une commission ? | n° 4438 (2025-11-27) | +−−0 |
+| allocations-familiales-des-premier-enfant | social | Faut-il verser les allocations familiales dès le premier enfant, et non plus seulement à partir du deuxième, pour un coût estimé à au moins 3 milliards d'euros par an ? | n° 2266 (2025-06-05) | +−++ |
+| taxe-services-numeriques-hausse-6-pourcent | numerique | Faut-il doubler, de 3 % à 6 %, la taxe sur les services numériques (dite « taxe GAFAM »), en la réservant aux entreprises dont ces services rapportent plus de 2 milliards d'euros dans le monde ? | n° 3199 (2025-10-28) | +0−+ |
+| radiotherapie-hopital-activite-liberale-double-paiement | sante | Faut-il que l'Assurance maladie cesse de payer l'hôpital public pour une séance de radiothérapie faite par un de ses médecins en activité libérale, dont elle rembourse déjà les honoraires ? | n° 4628 (2025-12-05) | ++−+ |
+| rachats-actions-taxe-prix-de-rachat | fiscalite | Faut-il taxer à 4 % de leur prix de rachat les actions que les entreprises de plus d'un milliard d'euros de chiffre d'affaires rachètent puis annulent ? | n° 133 (2024-10-26) | +−−+ |
+| titres-de-sejour-taxe-doublement | immigration | Faut-il doubler, de 200 à 400 euros, la taxe que paient les étrangers pour obtenir ou renouveler un titre de séjour ? | n° 4128 (2025-11-21) | −0++ |
+
+Aucune nouvelle carte n'a le profil « −+++ » (gauche seule contre), déjà surreprésenté. Trois profils sont nouveaux (+−−0, où le RN s'abstient ; +−++, bloc central seul contre ; ++−+, Droite républicaine contre) et le profil rare +−−+ gagne une carte.
+
+### 12.2 Équilibre avant et après
+
+| Bord | « oui » partout, 65 → 71 cartes |
+| --- | --- |
+| Gauche | 50 % → 53 % |
+| Bloc central | 62 % → 60 % |
+| Droite républicaine | 60 % → 58 % |
+| RN et alliés | 55 % → 58 % |
+
+L'écart entre le bord le plus favorisé et le moins favorisé par un « oui » systématique passe de 12 à 7 points. Groupes voisins départagés, avant → après : EPR/HOR 5 → 8 · UDR/RN 6 → 10 · DR/RN 20 → 23 · ECOS/SOC 7 → 7 · DEM/EPR 8 → 8.
+
+### 12.3 Corrections apportées par la relecture contradictoire
+
+- ArcelorMittal : les « deux tiers de l'acier français » étaient en fait, selon le rapport du Sénat, les deux tiers de l'activité du groupe en France ; la question a été reformulée sur un fait établi (sites de Dunkerque et de Florange). L'investissement de 1,3 milliard annoncé en février 2026 est soutenu pour moitié par des fonds publics ; deux articles (et non un) avaient été supprimés en séance.
+- Allocations familiales : arguments recalés sur les propos réellement tenus (logement plutôt que garde, « davantage » plutôt que « surtout » aux ménages aisés) et sur la formulation de l'alerte de la Cour des comptes.
+- Taxe sur les services numériques : le seuil de 2 milliards porte sur les recettes des services taxés, pas sur le chiffre d'affaires mondial ; rendement donné en fourchette (700 à 800 millions) ; étape du Sénat ajoutée.
+- Rachats d'actions : décision QPC n° 2026-1189 du 27 mars 2026 confirmée et décrite ; la taxe néerlandaise, jamais instaurée, n'est plus présentée comme « prévue ».
+- Radiothérapie : date exacte de la suppression par le Sénat (23 novembre 2025), question rendue plus lisible.
+- Titres de séjour : un argument s'appuyait sur des tarifs antérieurs à la baisse de 2020 ; reformulé. Montants en vigueur depuis le 1er mai 2026 : taxe de 300 € (premier titre) ou 200 € (renouvellement), plus un timbre porté de 25 à 50 €.
+- Toutes les cartes : les comptes rendus de séance où des orateurs annoncent le vote de leur groupe sont désormais marqués `revealsPositions: true`, et chaque argument garde au moins une source visible avant le vote (exposés des motifs, rapports du Sénat, de la Cour des comptes, de l'IGF et de l'IGAS…). Cette règle est plus stricte que la convention du § 7.1 ; les cartes plus anciennes n'ont pas été reprises.
+
+### 12.4 Cartes écartées pendant cette série
+
+Contenu et raisons dans docs/cartes-ecartees/ :
+
+- **impot-fortune-improductive** (scrutin n° 3314) : rédigée puis écartée après relecture. Les votes « pour » comme « contre » avaient des motivations opposées (trop d'impôt pour les uns, pas assez pour les autres) : la carte ne mesurait pas une préférence de façon fiable. Elle départageait UDR et RN, Démocrates et EPR : c'est la seule perte pour l'équilibre. Le JSON complet est conservé dans la fiche.
+- **etiquetage-origine-denrees-alimentaires** : le vote contre de la gauche et du bloc central s'expliquait par le droit européen et la rédaction, non par le fond.
+- **audiovisuel-public-holding-france-medias** : motion de rejet votée par le RN contre l'« obstruction », pas contre la holding ; le vote sur le financement par la TVA reposait sur des abstentions tactiques.
+- **dons-associations-credit-impot**, **contribution-hauts-patrimoines-senat**, **pacte-dutreil-cryptoactifs**, **activite-liberale-hopital-tous-actes-honoraires**, et un tableau récapitulatif **pistes-epr-horizons-udr-rn-non-retenues** (votes mêlant plusieurs mesures, groupes divisés, doublons, mesures trop techniques).
+
+### 12.5 Points fragiles et échéances
+
+- allocations-familiales-des-premier-enfant : participation faible (121 votants, jeudi de niche) ; LIOT, Droite républicaine, UDR et Démocrates n'ont que 2 ou 3 votants chacun. Texte transmis au Sénat le 5 juin 2025, jamais examiné.
+- titres-de-sejour-taxe-doublement : scrutin serré (97 voix contre 94, 194 votants) ; EPR n'a pas pris la parole et a suivi l'avis du Gouvernement.
+- rachats-actions-taxe-prix-de-rachat : le « contre » du bloc central et de la Droite républicaine vise l'assiette (prix de rachat) et non le principe de la taxe, qu'ils soutenaient dans la version du Gouvernement ; c'est dit dans la note de résultats. Participation faible au centre ce samedi-là.
+- taxe-services-numeriques-hausse-6-pourcent et radiotherapie-hopital-activite-liberale-double-paiement : Horizons n'a pas pris la parole ; son motif n'est pas documenté. L'UDR est divisée sur la taxe numérique.
+- arcelormittal-france-nationalisation : aucune inscription au Sénat en deuxième lecture au 30 septembre 2026, constatée sur le dossier législatif.
+- radiotherapie-hopital-activite-liberale-double-paiement : la mesure entre en vigueur le 1er janvier 2027 ; le budget de la Sécurité sociale 2027 (présenté le 1er octobre 2026) pourrait la modifier.
+
+### 12.6 Cibles pour une prochaine série
+
+- Culture et Europe (hors Ukraine) restent sans carte : les pistes examinées (audiovisuel public ; pour le Mercosur, seule une déclaration du Gouvernement a donné lieu à un scrutin nombreux) n'ont pas donné de vote de fond exploitable.
+- Départager ECOS et SOC (7 cartes), LFI et GDR (8), DEM et EPR (8).
+- Éviter toujours le profil « −+++ ».
+
+## 13. Deuxième série du 30 septembre 2026 : 3 cartes
+
+Pistes reprises du § 12.6 et de la recherche de la première série : programmation énergie-climat, loi d'urgence agricole, meublés de tourisme, vie chère en outre-mer, collectivité unique, texte sur les retraites de la niche du RN. Même méthode : rédaction selon la charte, puis relecture contradictoire par un autre agent, avec pour chaque carte une recommandation de la garder ou de l'écarter. Sur 7 cartes rédigées, 3 sont retenues. Le paquet passe de 71 à **74 cartes** ; `npx vitest run` : 570 tests réussis sur 570.
+
+### 13.1 Nouvelles cartes
+
+| id | thème | question | scrutin principal | profil |
+| --- | --- | --- | --- | --- |
+| irrigation-cultures-methaniseurs-zones-deficit-eau | agriculture | Faut-il interdire d'irriguer les cultures semées entre deux récoltes pour alimenter les méthaniseurs, dans les zones où l'eau manque de façon structurelle ? | n° 6808 (2026-05-21) | +0−− |
+| meubles-de-tourisme-fiscalite-pouvoirs-des-maires | logement | Faut-il réduire l'avantage fiscal des locations meublées de tourisme (type Airbnb), leur imposer les normes énergétiques des autres logements et permettre aux maires d'en limiter le nombre ? | n° 289 (2024-11-07) | +++− |
+| vie-chere-outre-mer-encadrement-prix-marges | economie | Faut-il imposer qu'en outre-mer le panier de produits négocié avec la grande distribution soit vendu aux prix moyens de l'Hexagone, et faire plafonner les marges alimentaires par le préfet ? | n° 596 (2025-01-23) | +00+ |
+
+- Irrigation : l'un des rares scrutins où les Démocrates votent avec la gauche contre EPR et Horizons. Pas un amendement d'appel (objectif ferme dans l'exposé, disposition législative défendue en séance). Participation faible (113 exprimés), Horizons partagé (5 contre, 4 abstentions). Mesure absente de la loi n° 2026-796.
+- Meublés de tourisme : seul le vote sur le texte de la commission mixte paritaire existe dans la 17e législature (première lecture en janvier 2024). La question garde les trois volets du texte : la recentrer sur un seul fausserait le « pour » de la Droite républicaine (réticente sur la fiscalité) ou le « contre » du RN (opposé surtout à l'impôt et aux normes énergétiques, favorable à une limite de nuitées). La note de résultats le dit.
+- Vie chère outre-mer : aucun vote contre, mais les abstentions du bloc central et de la Droite républicaine sont motivées sur le fond (alignement des prix jugé irréalisable, refus du plafonnement des marges). La question a été recentrée en relecture sur les prix et les marges (articles 1er et 5) : le RN, qui a voté pour, critiquait le plafond de part de marché, qui figurait dans la première version de la question. Droite républicaine (4 votants) et UDR (3) fragiles. Le projet de loi du Gouvernement sur le même sujet, adopté par le Sénat le 28 octobre 2025, n'a pas été examiné par les députés au 30 septembre 2026.
+
+### 13.2 Équilibre
+
+| Bord | « oui » partout, 71 → 74 cartes |
+| --- | --- |
+| Gauche | 53 % → 55 % |
+| Bloc central | 60 % → 60 % |
+| Droite républicaine | 58 % → 57 % |
+| RN et alliés | 58 % → 57 % |
+
+Écart entre bords : 7 → 5 points. Groupes voisins départagés : DEM/EPR 8 → 9, DR/UDR 11 → 12, DR/RN 23 → 25 ; inchangés ailleurs (ECOS/SOC 7, LFI/GDR 8, EPR/HOR 8, UDR/RN 10).
+
+### 13.3 Cartes écartées pendant cette série
+
+Contenu et raisons dans docs/cartes-ecartees/ (les cartes rédigées puis retirées y sont conservées en entier) :
+
+- **alsace-sortie-grand-est-collectivite-unique** (rédigée puis écartée) : liberté de vote annoncée par Horizons et LIOT, Démocrates et Droite républicaine divisés, vote qui suit l'origine régionale des députés. Surtout, le calcul aurait donné « pour » à Xavier Bertrand (majorité de la Droite républicaine) alors qu'il a signé une tribune contre le texte.
+- **importations-denrees-pesticides-interdits-france** (rédigée puis écartée) : même cas que l'étiquetage (§ 12.4) ; plusieurs « contre » venaient de groupes favorables à l'interdiction mais opposés à l'amendement pour des raisons juridiques, et les « pour » avaient des logiques opposées.
+- **programmation-energie-sous-amendements-article-3** : sous-amendements non débattus, votes suivant les avis globaux ; GDR presque absent du texte.
+- **loup-article-14-amendements-urgence-agricole** : l'article 14 porte sur le loup, déjà couvert ; amendements de détail.
+- **retraites-texte-vide-rapports-octobre-2024** : le texte voté ne contenait plus que des demandes de rapports ; la mesure d'origine est celle de `retraites-abrogation-retour-62-ans`.
+
+### 13.4 Limite du calcul relevée pendant cette série
+
+Un candidat sans votes personnels reçoit la position majoritaire du groupe de son parti (`src/lib/scoring.ts`), même quand ce groupe s'est divisé ou a laissé la liberté de vote. La charte limite le risque (cohésion moyenne ≥ 0,7), mais une cohésion moyenne correcte peut cacher un groupe divisé : c'est ce qui a fait écarter la carte sur l'Alsace. Piste : n'attribuer aux candidats que la position d'un groupe suffisamment cohésif sur le scrutin concerné, et sinon traiter la carte comme inconnue pour eux.
+
+### 13.5 Cibles pour une prochaine série
+
+- ECOS/SOC (7) et LFI/GDR (8) restent les voisins les moins bien départagés ; GDR vote peu sur les textes sectoriels, ce qui rend la paire LFI/GDR difficile à alimenter.
+- Culture et Europe (hors Ukraine) : toujours sans carte.
+- Le budget 2027, débattu à partir d'octobre 2026, fournira de nouveaux scrutins : relancer `npm run data` puis `npm run profil`.

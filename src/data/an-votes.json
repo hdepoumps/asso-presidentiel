@@ -7909,6 +7909,107 @@
     "PA842271": "pour"
    }
   },
+  "VTANR5L17V289": {
+   "nominatif": "--c-c----cccc---c-ccc---------cc--c-cc--cc--c-c---c---------c-c---c--cc-c----c-----cc-_---_c--------c-----cc----cc--cc-cc-cc-c-c-cc-cc-cc-cc---p----ppp---p-----_-------p---p-------pp-p--_pp_--------pppp-pp--pp-pp-p-----p--p---p-p-----p-p--pp-----p--p-p-pp-p-pp--p---pp---_--p----p-pp----pppp_p-----p----p--------p----p---p----pp---------ppp---ppp-pp-n-p------_p-------p-p-pp-p-pppp-pp-p-ppp-pp-----pp------p----p-p-pp---p-pp-p----p---p-p_p--ppp---pp--pp-n-------ppp-p-pp---p--p---ppp--pp---ppppppp---p--p-p-p-p---p-----p-------pp-p-------pp-----p---pppp-p--pp------p-p--p---p--",
+   "numero": 289,
+   "date": "2024-11-07",
+   "titre": "l'ensemble de la proposition de loi visant à renforcer les outils de régulation des meublés de tourisme à l'échelle locale (texte de la commission mixte paritaire).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/289",
+   "synthese": {
+    "votants": 222,
+    "exprimes": 222,
+    "pour": 168,
+    "contre": 54,
+    "abstentions": 0
+   },
+   "groups": {
+    "RN": [
+     125,
+     1,
+     51,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     38,
+     0,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     24,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     66,
+     37,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     47,
+     18,
+     0,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     16,
+     0,
+     0,
+     1
+    ],
+    "DEM": [
+     36,
+     5,
+     0,
+     0,
+     0
+    ],
+    "HOR": [
+     34,
+     17,
+     0,
+     0,
+     0
+    ],
+    "LIOT": [
+     23,
+     5,
+     0,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     5,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     3,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "pour",
+    "PA609332": "pour",
+    "PA1567": "pour",
+    "PA1654": "pour"
+   }
+  },
   "VTANR5L17V2954": {
    "nominatif": "p-p-pp----pp--------p---------p--------p--------------p----------------pp----p--------_-p-_p-----p----p-pp-p---p-----p-pppp---pppp-----p-------------p----------_-----------------p----p-----p----c-c--ac---cc-----a---------p------p--------p-----pp-p---------p---p---------p_--p------------pp--_---p---p---pp-p-p---p---p-p--p----p-----p--------------pp-n--p-------------c------c-----------c-c--------pppp-c---c--c-----c------p-c----c---c----c-----c-cc----ccc--c-----ppp----ppp---------cc-cp--pp------pp--pc-----pp--p----------------cppp-p--p-p--pp--p-pppppp------p-p---pp-p--p----",
    "numero": 2954,
@@ -9733,110 +9834,6 @@
     "PA720614": "contre",
     "PA842271": "pour",
     "PA722142": "pour"
-   }
-  },
-  "VTANR5L17V3314": {
-   "nominatif": "pp-pp-ppppppp-ppp--pppppp--p-pppppppppp-pp-pp--pp-pp-ppp----ppp--ppp-pp-ppp--p----pp-c---p_c-c-p-p-cc-pp--pppp-p-pppp-p--p-p--pp--pp-ppppp-p----c---c---cccc--cc-ccc-c--cc--------c-ccc----ccc--c---c--p--cc-c---cc----cc-----c---ccc-c---c-cccccc-ccacc-c--ccc-c----cc-a---ccc_--cccca-c----p-c-c---p-apppp-p-ppppp----p--pp--p---p-pc-c---p-pc--cc---pc--cc-npa--a----p-c--ppppppppppp-ppppppp-a-ppppp--p-pp-ppp-pp-pp---pppp-p-----pppppp-p--pp-pp-c-c-c-cccc--ccc-acccccccc-----cc----cc-c-c-c-cc---c-cp-p---cc---ppp----c---ca-----a-c-a---ccccc-c--c-c-c-cc-cc-c-cc----c-c--cc--cccc-cccc--",
-   "numero": 3314,
-   "date": "2025-10-31",
-   "titre": "l'amendement n° 3379 de M. Mattei après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
-   "type": "SPO",
-   "sort": "adopté",
-   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3314",
-   "synthese": {
-    "votants": 323,
-    "exprimes": 313,
-    "pour": 163,
-    "contre": 150,
-    "abstentions": 10
-   },
-   "groups": {
-    "RN": [
-     123,
-     86,
-     0,
-     0,
-     0
-    ],
-    "EPR": [
-     92,
-     0,
-     46,
-     4,
-     7
-    ],
-    "LFI": [
-     71,
-     0,
-     33,
-     0,
-     0
-    ],
-    "SOC": [
-     69,
-     49,
-     0,
-     0,
-     0
-    ],
-    "DR": [
-     50,
-     0,
-     24,
-     0,
-     3
-    ],
-    "ECOS": [
-     38,
-     0,
-     25,
-     1,
-     0
-    ],
-    "DEM": [
-     36,
-     19,
-     0,
-     1,
-     1
-    ],
-    "HOR": [
-     34,
-     1,
-     12,
-     0,
-     2
-    ],
-    "LIOT": [
-     22,
-     6,
-     0,
-     1,
-     1
-    ],
-    "GDR": [
-     17,
-     0,
-     4,
-     3,
-     0
-    ],
-    "UDR": [
-     16,
-     0,
-     5,
-     0,
-     0
-    ]
-   },
-   "deputes": {
-    "PA722190": "contre",
-    "PA609332": "pour",
-    "PA1567": "pour",
-    "PA1654": "pour",
-    "PA720614": "pour",
-    "PA842271": "abstention",
-    "PA722142": "contre"
    }
   },
   "VTANR5L17V3427": {
@@ -14553,6 +14550,109 @@
    },
    "deputes": {}
   },
+  "VTANR5L17V596": {
+   "nominatif": "p---p-----p--------p-------p-pp---p---p--pp-p-----p----------p--p-p----p---a------p---_---_-p----p--p-p--pp--------------p--p--p-------p---------a----------a---_---------n------------a--_--_a-------n-a---aaa------a-a---a---a-na-----aa--a--a--------a--aa-aa-a-a--aa--a---a_--a-a--a-------aaa-_aa-a-a-a-a-a-----------aa--p-a-a--a--------a----a----a-aa-n------a-------p-pppppppppppppppppppppppppppppppppppppppp----ppppp-p----ppppp----p---pp-ppp-ppppp-p-ppppn-pppppp--p-pp-pp--ppppppp-ppppp--pp-ppppp-p--pp-ppp-ppp-p-pp-pp-pp----pppp-pppp--pppp-pp-p--p-pppppp---p--p--ppppp--p--p--",
+   "numero": 596,
+   "date": "2025-01-23",
+   "titre": "l'ensemble de la proposition de loi visant à prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/596",
+   "synthese": {
+    "votants": 245,
+    "exprimes": 181,
+    "pour": 180,
+    "contre": 1,
+    "abstentions": 64
+   },
+   "groups": {
+    "RN": [
+     124,
+     28,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     0,
+     0,
+     37,
+     4
+    ],
+    "LFI": [
+     71,
+     40,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     66,
+     63,
+     1,
+     0,
+     0
+    ],
+    "DR": [
+     47,
+     0,
+     0,
+     4,
+     2
+    ],
+    "ECOS": [
+     38,
+     31,
+     0,
+     0,
+     1
+    ],
+    "DEM": [
+     36,
+     1,
+     0,
+     10,
+     0
+    ],
+    "HOR": [
+     34,
+     0,
+     0,
+     12,
+     1
+    ],
+    "LIOT": [
+     23,
+     4,
+     0,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     11,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "abstention",
+    "PA609332": "pour",
+    "PA1567": "pour",
+    "PA1654": "pour",
+    "PA842271": "pour",
+    "PA722142": "pour"
+   }
+  },
   "VTANR5L17V600": {
    "nominatif": "a---a-------a---------a-a--a--a---a---a--aa-a-----a-----a----a---------a--a-------a---_---_------a--a-a---a----a--------aaa-a--a-------a--------------p---------_p--------n---------------_--_------a-n-c-----c----a-a-a-----a---na-a---a---c----------a---a--aa---a---a--a---a_--a-a--a-------aa--_aa-a------a------------p-----a-a--aa------aa---a-------aa-n--------------p-ppppppppp-pppp-pppppppppppppppppppp-pppp----ppppp-p----ppppp----p---pp-ppppppppp-p--pp-p-pp-ppp--p-p--ppppp-ppppppp-ppp-----ppppp-pp-p-pppp-ppp-p-pp--p--p---p--p---ppp----p--p-pppp---p-p-p--p-----ppp-p--ppp-p--",
    "numero": 600,
@@ -15963,6 +16063,104 @@
     "PA1654": "pour",
     "PA720614": "pour",
     "PA842271": "contre"
+   }
+  },
+  "VTANR5L17V6808": {
+   "nominatif": "---cc------c-c--c---------c-c-c-----c-----c-------cccc-cc---c-----c-cc-cc--------------------------c----accc-c---c------c-c------------c--------------c---c----c-cc--c------c-----c----c--c-------a----a-c---cc-c-a---c----------------------cc----cc--ccc---c---c---c-----a---c-------------------c--pp---p-----p-------p-p-------p---c----p-------------c-ccn--------------p---p-p----------p----p-p-p------------p---pp-------p-------p------------p-p-pp-p---p-p----p---pp----p----p-p-pp------p---------p-------p----p--pp------------p--------p----p---------------p--p--p--p-----p-----p--",
+   "numero": 6808,
+   "date": "2026-05-21",
+   "titre": "l'amendement n° 920 de Mme Batho après l'article 5 (examen prioritaire) du projet de loi d'urgence pour la protection et la souveraineté agricoles (première lecture).",
+   "type": "SPO",
+   "sort": "rejeté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6808",
+   "synthese": {
+    "votants": 120,
+    "exprimes": 113,
+    "pour": 50,
+    "contre": 63,
+    "abstentions": 7
+   },
+   "groups": {
+    "RN": [
+     122,
+     0,
+     30,
+     1,
+     0
+    ],
+    "EPR": [
+     91,
+     0,
+     17,
+     2,
+     1
+    ],
+    "LFI": [
+     71,
+     12,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     68,
+     11,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     48,
+     0,
+     10,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     15,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     37,
+     8,
+     0,
+     0,
+     0
+    ],
+    "HOR": [
+     35,
+     0,
+     5,
+     4,
+     0
+    ],
+    "LIOT": [
+     23,
+     3,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     17,
+     0,
+     1,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA335999": "pour"
    }
   },
   "VTANR5L17V6903": {

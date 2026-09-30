@@ -1,6 +1,6 @@
 # Pistes écartées : départager EPR et Horizons, l'UDR et le RN (lot du 30 septembre 2026)
 
-Pistes examinées avec `npm run scrutin`, `node scripts/_cand.mjs` et `npm run profil -- --separe` ; aucune carte rédigée pour les scrutins ci-dessous. Cartes retenues pour ce lot : `taxe-services-numeriques-hausse-6-pourcent` (n° 3199), `impot-fortune-improductive` (n° 3314), `radiotherapie-hopital-activite-liberale-double-paiement` (n° 4628).
+Pistes examinées avec `npm run scrutin`, un script de recherche temporaire (classement des scrutins par nouveauté du profil) et `npm run profil -- --separe` ; aucune carte rédigée pour les scrutins ci-dessous. Cartes retenues pour ce lot : `taxe-services-numeriques-hausse-6-pourcent` (n° 3199), `impot-fortune-improductive` (n° 3314, écartée ensuite après relecture, voir la fiche du même nom), `radiotherapie-hopital-activite-liberale-double-paiement` (n° 4628).
 
 | Scrutin | Objet | Raison de l'écart |
 | --- | --- | --- |

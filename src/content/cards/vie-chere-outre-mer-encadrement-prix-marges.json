@@ -1,0 +1,252 @@
+{
+  "id": "vie-chere-outre-mer-encadrement-prix-marges",
+  "theme": "economie",
+  "question": "Faut-il imposer qu'en outre-mer le panier de produits négocié avec la grande distribution soit vendu aux prix moyens de l'Hexagone, et faire plafonner les marges alimentaires par le préfet ?",
+  "explainer": {
+    "title": "Que contenait ce texte ?",
+    "text": "Selon l'Insee, les produits alimentaires coûtaient en 2022 de 30 % à 42 % plus cher dans les départements d'outre-mer que dans l'Hexagone. Depuis 2012, un « bouclier qualité-prix », négocié chaque année sous l'égide du préfet, fixe un prix global pour une liste de produits de consommation courante. Le texte voté par les députés imposait que cet accord garantisse des prix équivalents aux prix moyens de l'Hexagone et l'étendait à la téléphonie, à l'informatique, à l'électroménager et aux pièces automobiles. Il chargeait le préfet de fixer, à titre expérimental pendant cinq ans, un coefficient maximal entre le prix d'achat et le prix de vente de chaque catégorie de denrées alimentaires, ce qui plafonne la marge du distributeur. Il interdisait à un groupe de distribution de dépasser une part de marché fixée par le Gouvernement, suspendait pendant dix ans l'ouverture de magasins de plus de 1 000 m² par un groupe détenant déjà plus de 15 % du marché et élargissait le contrôle des rachats d'entreprises. Il imposait enfin d'afficher sur les factures et les tickets de caisse les « marges arrière » (remises obtenues des fournisseurs) et punissait d'une astreinte d'au moins 1 % du chiffre d'affaires journalier les sociétés qui ne publient pas leurs comptes. Il visait la Guadeloupe, la Martinique, la Guyane, La Réunion, Mayotte, Saint-Barthélemy, Saint-Martin, Saint-Pierre-et-Miquelon et Wallis-et-Futuna.",
+    "sources": [
+      "s5",
+      "s7",
+      "s6"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, aligner les prix sur l'Hexagone ignorerait les frais d'acheminement (transport, logistique, octroi de mer), soit 25 à 30 % du coût d'achat des produits importés : des distributeurs quitteraient le dispositif.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, fixer les prix dans la loi et les marges par le préfet, sans tenir compte des coûts, porterait une atteinte disproportionnée à la liberté d'entreprendre et dissuaderait de nouveaux concurrents de s'installer.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la vie chère a des causes structurelles (éloignement, petits marchés, production locale très faible, chômage) : il faudrait développer l'économie locale plutôt qu'administrer les prix.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, l'alimentation coûte de 30 à 42 % plus cher dans les départements d'outre-mer, et ces écarts n'ont pas reculé depuis la création du bouclier qualité-prix en 2012 : il faut le rendre contraignant.",
+      "sources": [
+        "s3",
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, l'importation et la distribution sont bien plus concentrées que dans l'Hexagone, aux mains de quelques groupes qui prennent une marge à chaque étape : il faut plafonner ces marges.",
+      "sources": [
+        "s3",
+        "s9"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les marges restent opaques (en Martinique, 24 % des sociétés déposent leurs comptes, contre 85 % en France) et la négociation annuelle, où les distributeurs pèsent plus lourd, ne suffit pas à baisser les prix.",
+      "sources": [
+        "s3",
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, première lecture (journée réservée à un groupe d'opposition)",
+    "textTitle": "Proposition de loi visant à prendre des mesures d'urgence contre la vie chère et à réguler la concentration des acteurs économiques dans les territoires d'outre-mer",
+    "summary": "Déposé en octobre 2024, après plusieurs semaines de mobilisation contre la vie chère en Martinique, le texte a été complété par les députés en commission puis en séance, notamment par la limite de part de marché, le plafonnement expérimental des marges alimentaires et la suspension des grandes ouvertures de magasins. Le Gouvernement, favorable à la transparence sur les comptes et les marges, a proposé en vain de réécrire l'article sur les prix pour revenir à un simple objectif de réduction des écarts avec l'Hexagone.",
+    "sources": [
+      "s7",
+      "s3",
+      "s10"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-01-23",
+      "label": "Sénat",
+      "text": "Transmise au Sénat le jour même, la proposition de loi n'y a jamais été inscrite à l'ordre du jour : elle n'est pas devenue loi.",
+      "sources": [
+        "s11",
+        "s10"
+      ]
+    },
+    {
+      "date": "2025-03-05",
+      "label": "Sénat (autre texte)",
+      "text": "Le Sénat adopte sa propre proposition de loi contre la vie chère outre-mer, centrée sur le droit de la concurrence ; elle prévoit notamment une astreinte contre les dirigeants de sociétés qui ne déposent pas leurs comptes.",
+      "sources": [
+        "s18",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-10-28",
+      "label": "Projet de loi du Gouvernement (Sénat)",
+      "text": "Déposé le 30 juillet 2025, le projet de loi de lutte contre la vie chère dans les outre-mer est adopté par le Sénat. Le bouclier qualité-prix y « vise à réduire l'écart de prix » avec l'Hexagone ; le préfet peut réglementer des prix en cas de circonstances exceptionnelles ou de prix excessifs ; certains avantages accordés par les fournisseurs aux distributeurs sont plafonnés à titre expérimental (12 % du chiffre d'affaires au plus) ; l'astreinte pour non-dépôt des comptes peut atteindre 5 % du chiffre d'affaires journalier. Le texte ne prévoit ni prix équivalents à ceux de l'Hexagone, ni plafonnement général des marges, ni limite de part de marché.",
+      "sources": [
+        "s12",
+        "s13",
+        "s6"
+      ]
+    },
+    {
+      "date": "2025-11-27",
+      "label": "Assemblée nationale",
+      "text": "Le Gouvernement reporte l'examen du projet de loi par les députés, pour « aller plus loin » ; le 19 février 2026, il le repousse de nouveau, à l'automne 2026.",
+      "sources": [
+        "s15",
+        "s16"
+      ]
+    },
+    {
+      "date": "2026-02-10",
+      "label": "Autorité de la concurrence",
+      "text": "Saisie par le Gouvernement, l'Autorité n'observe pas, en Martinique, de marges des groupes de distribution notablement supérieures à celles de l'Hexagone, mais relève que leur intégration dans de grands groupes accroît leur rentabilité dans des proportions difficiles à estimer. Elle recommande un suivi régulier et obligatoire des prix et des marges, et attribue surtout l'écart de prix à l'étroitesse des marchés et aux frais d'approche.",
+      "sources": [
+        "s17"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "label": "Situation",
+      "text": "Les députés n'ont toujours pas examiné le projet de loi du Gouvernement, adopté par le Sénat onze mois plus tôt.",
+      "sources": [
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V596",
+      "numero": 596,
+      "date": "2025-01-23",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi, première lecture (adoptée)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 596 (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/596",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 596 (23 janvier 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_596",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 23 janvier 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N079",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Rapport n° 698 de la commission des affaires économiques (4 décembre 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion-eco/l17b0698_rapport-fond",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Insee Première n° 1958 — En 2022, les prix restent plus élevés dans les DOM qu'en France métropolitaine, en particulier pour les produits alimentaires (juillet 2023)",
+      "url": "https://www.insee.fr/fr/statistiques/7648939",
+      "kind": "officiel"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Rapport n° 63 (2025-2026) de la commission des affaires économiques sur le projet de loi de lutte contre la vie chère dans les outre-mer (22 octobre 2025)",
+      "url": "https://www.senat.fr/rap/l25-063/l25-063_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Texte adopté n° 26 (23 janvier 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0026_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s9",
+      "label": "Autorité de la concurrence — Avis n° 19-A-12 du 4 juillet 2019 sur la concurrence dans l'importation et la distribution des produits de grande consommation outre-mer",
+      "url": "https://www.autoritedelaconcurrence.fr/sites/default/files/integral_texts/2019-08/19a12.pdf",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50779",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Sénat — Dossier législatif de la proposition de loi n° 265 (2024-2025)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-265.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Sénat — Dossier législatif du projet de loi de lutte contre la vie chère dans les outre-mer",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl24-870.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Sénat — Texte n° 7 (2025-2026) adopté en première lecture le 28 octobre 2025",
+      "url": "https://www.senat.fr/leg/tas25-007.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de lutte contre la vie chère dans les outre-mer",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52600",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "Outre-mer la 1ère — La loi contre la vie chère en Outre-mer reportée à l'Assemblée nationale (27 novembre 2025)",
+      "url": "https://la1ere.franceinfo.fr/la-loi-contre-la-vie-chere-en-outre-mer-reportee-1647577.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s16",
+      "label": "Tahiti Infos (AFP) — Outre-mer : la loi contre la vie chère de nouveau renvoyée (19 février 2026)",
+      "url": "https://www.tahiti-infos.com/Outre-mer-la-loi-contre-la-vie-chere-renvoyee-a-l-automne-pour-etre-musclee_a236406.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s17",
+      "label": "Autorité de la concurrence — Avis n° 26-A-01 du 10 février 2026 relatif aux marges des grossistes-importateurs et des distributeurs de produits alimentaires (Martinique)",
+      "url": "https://www.autoritedelaconcurrence.fr/fr/avis/relatif-aux-marges-des-grossistes-importateurs-et-des-distributeurs-de-produits-alimentaires",
+      "kind": "officiel"
+    },
+    {
+      "id": "s18",
+      "label": "Sénat — Dossier législatif de la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-199.html",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Presque personne n'a voté contre : le clivage oppose les « pour » aux abstentions, qui comptent comme une position neutre. Pour : LFI-NFP (40), GDR (11), Écologiste et social (31), Socialistes (63 pour, 1 contre), LIOT (4), RN (28) et l'UDR (2 pour, 1 abstention). Abstention : EPR (37), Horizons (12), la Droite républicaine (4) et Les Démocrates (10 abstentions, 1 pour). Les abstentions portent sur le fond : EPR, favorable à la transparence des comptes, jugeait « antiéconomiques » l'alignement des prix et la limite de part de marché et s'est opposé au plafonnement des marges ; en « libéraux », ses députés disaient croire davantage à l'investissement qu'à « la régulation des prix, de l'économie et des marges ». Horizons comptait voter pour « en espérant » l'adoption de l'amendement du Gouvernement qui remplaçait l'alignement des prix par un objectif de réduction des écarts ; il a été rejeté. Les Démocrates, qui avaient annoncé leur soutien, se sont abstenus en jugeant l'alignement sur les prix de l'Hexagone « irréalisable » et la limite de part de marché contraire à la concurrence. La Droite républicaine s'interrogeait sur la capacité des entreprises à absorber de telles pertes et refusait la limite de part de marché. L'UDR avait annoncé son abstention, jugeant les mesures insuffisamment étudiées ; deux de ses trois votants ont finalement voté pour. Le RN a voté pour « avec beaucoup de réserves », jugeant le texte timide et réclamant plutôt une réforme de l'octroi de mer ; il a défendu l'article sur les prix contre sa réécriture par le Gouvernement, mais critiqué la limite de part de marché, jugée « arbitraire », et le contrôle des surfaces commerciales. C'est pourquoi la question porte sur les prix et les marges, et non sur la taille des groupes de distribution. Positions de la Droite républicaine (4 votants) et de l'UDR (3) fragiles. Texte examiné lors de la journée réservée au groupe Socialistes.",
+  "lastVerified": "2026-09-30"
+}

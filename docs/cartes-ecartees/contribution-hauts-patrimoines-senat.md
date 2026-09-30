@@ -9,7 +9,7 @@ Examinée le 30 septembre 2026 avec `npm run scrutin`, les comptes rendus de l'A
 
 ## Raisons de l'écart
 
-- **Doublon** : la carte `impot-fortune-improductive` (scrutin n° 3314, 31 octobre 2025) porte déjà sur la transformation de l'IFI en impôt sur la « fortune improductive », dans la version votée par l'Assemblée en première lecture. Le scrutin n° 5029 pourrait y être ajouté comme vote historique (version sénatoriale, seuil à 2,57 millions).
+- **Doublon** : la transformation de l'IFI en impôt sur la « fortune improductive » (scrutin n° 3314, 31 octobre 2025) a été rédigée en carte puis écartée elle aussi (voir `impot-fortune-improductive.md`) ; le scrutin n° 5029 porte sur la version sénatoriale, différente (seuil à 2,57 millions).
 - **Motivations opposées dans le camp du « contre »** : la gauche rejetait un impôt « moins-disant » (perte de 600 millions d'euros selon le Gouvernement, deux tiers des redevables actuels exonérés selon le rapporteur général) ; le Gouvernement, EPR et Les Démocrates voulaient garder l'IFI par souci de stabilité et de rendement, et doutaient de la constitutionnalité du critère « improductif » ; la Droite républicaine refusait l'élargissement de l'assiette aux liquidités et aux biens meubles.
 - **Motifs du seul groupe « pour » peu exprimés en séance** : le RN n'a pas expliqué son vote sur l'article (seulement une intervention sur l'IFI qui frapperait des propriétaires de classe moyenne) ; les arguments « pour » viendraient surtout du Sénat.
 - **Suite** : ni cette contribution ni l'impôt sur la fortune improductive ne figurent dans la loi n° 2026-103 du 19 février 2026 ; l'IFI est inchangé.

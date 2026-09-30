@@ -1,10 +1,10 @@
 {
   "id": "taxe-services-numeriques-hausse-6-pourcent",
   "theme": "numerique",
-  "question": "Faut-il doubler, de 3 % à 6 %, la taxe sur les services numériques (dite « taxe GAFAM »), en la réservant aux groupes qui réalisent plus de 2 milliards d'euros de chiffre d'affaires mondial ?",
+  "question": "Faut-il doubler, de 3 % à 6 %, la taxe sur les services numériques (dite « taxe GAFAM »), en la réservant aux entreprises dont ces services rapportent plus de 2 milliards d'euros dans le monde ?",
   "explainer": {
     "title": "C'est quoi, la taxe sur les services numériques ?",
-    "text": "Créée en 2019 en attendant un accord international sur l'imposition des grandes entreprises du numérique, elle prélève 3 % du chiffre d'affaires réalisé en France grâce à la publicité ciblée en ligne et aux plateformes de mise en relation (places de marché, réseaux…). Elle ne concerne que les entreprises dont ces services rapportent plus de 750 millions d'euros dans le monde et plus de 25 millions en France, quelle que soit leur nationalité. Elle a rapporté environ 700 millions d'euros en 2024. Selon l'auteur de l'amendement, sept autres pays européens ont créé une taxe comparable, à des taux de 2 % à 7,5 %. L'amendement voté double le taux et relève le seuil mondial à 2 milliards d'euros : les entreprises situées entre 750 millions et 2 milliards n'y seraient plus soumises.",
+    "text": "Créée en 2019 en attendant un accord international sur l'imposition des grandes entreprises du numérique, elle prélève 3 % du chiffre d'affaires réalisé en France grâce à la publicité ciblée en ligne et aux plateformes de mise en relation (places de marché, réseaux…). Elle ne concerne que les entreprises dont ces services rapportent plus de 750 millions d'euros dans le monde et plus de 25 millions en France, quelle que soit leur nationalité. Elle rapporte de 700 à 800 millions d'euros par an selon les estimations citées pendant les débats. Selon l'auteur de l'amendement, sept autres pays européens ont créé une taxe comparable, à des taux de 2 % à 7,5 %. L'amendement voté double le taux et relève le seuil mondial à 2 milliards d'euros : les entreprises situées entre 750 millions et 2 milliards n'y seraient plus soumises.",
     "sources": [
       "s5",
       "s6",
@@ -17,19 +17,22 @@
     {
       "text": "Selon ses opposants, une hausse décidée par la France seule l'exposerait à des représailles des États-Unis, qui pourraient viser les vins, spiritueux et produits agricoles français, pour lesquels ils sont le premier marché.",
       "sources": [
-        "s2"
+        "s2",
+        "s17"
       ]
     },
     {
       "text": "Selon ses opposants, mieux vaudrait taxer ces entreprises dans un cadre international : à 6 %, la France taxerait deux fois plus que l'Italie ou l'Espagne (3 %) et trois fois plus que le Royaume-Uni (2 %).",
       "sources": [
-        "s2"
+        "s2",
+        "s17"
       ]
     },
     {
-      "text": "Selon ses opposants, l'impact de cette hausse n'a pas été évalué, et une taxe assise sur le chiffre d'affaires finirait par être répercutée sur les usagers de ces services.",
+      "text": "Selon ses opposants, l'impact de cette hausse n'a pas été évalué ; elle frapperait aussi des entreprises européennes déjà imposées en Europe, et une taxe sur le chiffre d'affaires finirait par être répercutée sur les usagers.",
       "sources": [
-        "s2"
+        "s2",
+        "s17"
       ]
     }
   ],
@@ -38,21 +41,23 @@
       "text": "Selon ses défenseurs, les géants du numérique paieraient deux fois moins d'impôts que les entreprises traditionnelles en transférant leurs bénéfices à l'étranger ; la taxe actuelle resterait sans rapport avec leurs profits en France.",
       "sources": [
         "s2",
-        "s3"
+        "s18",
+        "s17"
       ]
     },
     {
-      "text": "Selon ses défenseurs, doubler le taux serait une réponse proportionnée aux droits de douane de 15 % imposés par les États-Unis sur de nombreux produits européens, et un acte de souveraineté fiscale.",
+      "text": "Selon ses défenseurs, doubler le taux serait une réponse proportionnée aux droits de douane imposés par les États-Unis sur des produits français, et un acte de souveraineté fiscale face aux pressions commerciales.",
       "sources": [
         "s3",
-        "s2"
+        "s18"
       ]
     },
     {
       "text": "Selon ses défenseurs, la hausse resterait mesurée, d'autres pays européens appliquant jusqu'à 7,5 %, et le seuil relevé à 2 milliards d'euros la concentrerait sur les plus grandes plateformes.",
       "sources": [
         "s2",
-        "s14"
+        "s14",
+        "s17"
       ]
     }
   ],
@@ -60,7 +65,7 @@
     "kind": "amendement",
     "textKind": "Amendement au projet de loi de finances pour 2026, première lecture",
     "textTitle": "Projet de loi de finances pour 2026",
-    "summary": "L'amendement a été adopté contre l'avis du Gouvernement, qui craignait des représailles commerciales, et sans avis favorable de la commission des finances. Celle-ci avait adopté une version portant le taux à 15 % ; en séance, son auteur l'a retirée au profit de ce doublement, et les amendements identiques à 15 % ont été rejetés juste avant (154 voix contre 202).",
+    "summary": "L'amendement a été adopté contre l'avis du Gouvernement, qui craignait des représailles commerciales, et sans avis favorable de la commission des finances. Celle-ci avait adopté des amendements identiques portant le taux à 15 % ; en séance, l'auteur de ce doublement a retiré sa version à 15 %, et les amendements identiques restants ont été rejetés juste avant (154 voix contre 202).",
     "sources": [
       "s2",
       "s4",
@@ -76,6 +81,16 @@
         "s8",
         "s9",
         "s10"
+      ]
+    },
+    {
+      "date": "2025-11-29",
+      "label": "Sénat",
+      "text": "Saisi de la version initiale, le Sénat rejette tous les amendements qui relevaient le taux de la taxe, dont un à 9 % avec un seuil mondial de 2 milliards d'euros, mais crée d'autres prélèvements sur les grandes plateformes.",
+      "sources": [
+        "s17",
+        "s18",
+        "s19"
       ]
     },
     {
@@ -121,7 +136,8 @@
       "id": "s2",
       "label": "Assemblée nationale — Compte rendu de la deuxième séance du 28 octobre 2025 (taxe sur les services numériques, après l'article 12)",
       "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-28-octobre-2025",
-      "kind": "primaire"
+      "kind": "primaire",
+      "revealsPositions": true
     },
     {
       "id": "s3",
@@ -207,6 +223,24 @@
       "url": "https://datan.fr/votes/legislature-17/vote_3199",
       "kind": "analyse",
       "revealsPositions": true
+    },
+    {
+      "id": "s17",
+      "label": "Sénat — Compte rendu analytique de la séance du 29 novembre 2025 (projet de loi de finances pour 2026, taxe sur les services numériques)",
+      "url": "https://www.senat.fr/cra/s20251129/s20251129_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s18",
+      "label": "Sénat — Amendement n° I-1694 rect. ter au projet de loi de finances pour 2026 (taux porté à 9 %, rejeté)",
+      "url": "https://www.senat.fr/amendements/2025-2026/138/Amdt_I-1694.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s19",
+      "label": "Next — Le Sénat augmente la fiscalité des géants du numérique (29 novembre 2025)",
+      "url": "https://next.ink/brief_article/le-senat-augmente-la-fiscalite-des-geants-du-numerique/",
+      "kind": "presse"
     }
   ],
   "flags": {
