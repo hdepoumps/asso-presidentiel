@@ -1,0 +1,218 @@
+{
+  "id": "taxe-services-numeriques-hausse-6-pourcent",
+  "theme": "numerique",
+  "question": "Faut-il doubler, de 3 % à 6 %, la taxe sur les services numériques (dite « taxe GAFAM »), en la réservant aux groupes qui réalisent plus de 2 milliards d'euros de chiffre d'affaires mondial ?",
+  "explainer": {
+    "title": "C'est quoi, la taxe sur les services numériques ?",
+    "text": "Créée en 2019 en attendant un accord international sur l'imposition des grandes entreprises du numérique, elle prélève 3 % du chiffre d'affaires réalisé en France grâce à la publicité ciblée en ligne et aux plateformes de mise en relation (places de marché, réseaux…). Elle ne concerne que les entreprises dont ces services rapportent plus de 750 millions d'euros dans le monde et plus de 25 millions en France, quelle que soit leur nationalité. Elle a rapporté environ 700 millions d'euros en 2024. Selon l'auteur de l'amendement, sept autres pays européens ont créé une taxe comparable, à des taux de 2 % à 7,5 %. L'amendement voté double le taux et relève le seuil mondial à 2 milliards d'euros : les entreprises situées entre 750 millions et 2 milliards n'y seraient plus soumises.",
+    "sources": [
+      "s5",
+      "s6",
+      "s7",
+      "s3",
+      "s2"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, une hausse décidée par la France seule l'exposerait à des représailles des États-Unis, qui pourraient viser les vins, spiritueux et produits agricoles français, pour lesquels ils sont le premier marché.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, mieux vaudrait taxer ces entreprises dans un cadre international : à 6 %, la France taxerait deux fois plus que l'Italie ou l'Espagne (3 %) et trois fois plus que le Royaume-Uni (2 %).",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, l'impact de cette hausse n'a pas été évalué, et une taxe assise sur le chiffre d'affaires finirait par être répercutée sur les usagers de ces services.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, les géants du numérique paieraient deux fois moins d'impôts que les entreprises traditionnelles en transférant leurs bénéfices à l'étranger ; la taxe actuelle resterait sans rapport avec leurs profits en France.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, doubler le taux serait une réponse proportionnée aux droits de douane de 15 % imposés par les États-Unis sur de nombreux produits européens, et un acte de souveraineté fiscale.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la hausse resterait mesurée, d'autres pays européens appliquant jusqu'à 7,5 %, et le seuil relevé à 2 milliards d'euros la concentrerait sur les plus grandes plateformes.",
+      "sources": [
+        "s2",
+        "s14"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement au projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'amendement a été adopté contre l'avis du Gouvernement, qui craignait des représailles commerciales, et sans avis favorable de la commission des finances. Celle-ci avait adopté une version portant le taux à 15 % ; en séance, son auteur l'a retirée au profit de ce doublement, et les amendements identiques à 15 % ont été rejetés juste avant (154 voix contre 202).",
+    "sources": [
+      "s2",
+      "s4",
+      "s15"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Les députés rejettent la première partie du projet de loi de finances (1 voix pour, 404 contre) : le texte est transmis au Sénat dans sa version initiale, sans la hausse de la taxe.",
+      "sources": [
+        "s8",
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-01",
+      "label": "Nouvelle lecture",
+      "text": "En commission des finances de l'Assemblée, un amendement créant un taux de 15 % pour les groupes dépassant 2 milliards d'euros de chiffre d'affaires mondial est rejeté. Le texte finalement retenu ne modifie pas la taxe.",
+      "sources": [
+        "s7",
+        "s12",
+        "s5"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Promulgation",
+      "text": "La loi de finances pour 2026 (loi n° 2026-103) ne reprend pas la hausse. Au 30 septembre 2026, le taux de la taxe reste de 3 % et son seuil mondial de 750 millions d'euros.",
+      "sources": [
+        "s13",
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V3199",
+      "numero": 3199,
+      "date": "2025-10-28",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement portant la taxe sur les services numériques de 3 % à 6 % et son seuil mondial à 2 milliards d'euros (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 3199 (28 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3199",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 28 octobre 2025 (taxe sur les services numériques, après l'article 12)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-28-octobre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° I-655 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/655.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "LCP — GAFAM : les députés votent pour multiplier par deux la taxe qui vise les géants du numérique (28 octobre 2025)",
+      "url": "https://lcp.fr/actualites/gafam-les-deputes-votent-pour-multiplier-par-deux-la-taxe-qui-vise-les-geants-du",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Légifrance — Code des impositions sur les biens et services, article L. 453-70 (taux de la taxe)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048626249",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Légifrance — Code des impositions sur les biens et services, article L. 453-65 (seuil mondial)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048626235",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Amendement n° CF906 au projet de loi de finances pour 2026, nouvelle lecture (exposé sommaire : fonctionnement et rendement de la taxe)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/2247/CION_FIN/CF906.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 4241 : première partie du projet de loi de finances pour 2026 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "LCP — Budget 2026 : l'Assemblée nationale rejette la partie « recettes », le texte va être transmis au Sénat (22 novembre 2025)",
+      "url": "https://lcp.fr/actualites/budget-2026-l-assemblee-nationale-rejette-la-partie-recettes-le-texte-va-etre-transmis",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2026",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "KPMG Avocats — PLF 2026 : les mesures du texte retenu en nouvelle lecture (janvier 2026)",
+      "url": "https://kpmg.com/av/fr/avocats/eclairages/2026/01/plf-2026-le-texte-du-49-3-est-considere-comme-adopte-en-nouvelle-lecture-par-les-deputes.html",
+      "kind": "analyse"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000053508155/",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "LégiFiscal — PLF 2026 : vers une forte hausse de la taxe GAFAM (octobre 2025)",
+      "url": "https://www.legifiscal.fr/actualites-fiscales/4284-plf-2026-vers-forte-hausse-taxe-gafam.html",
+      "kind": "presse"
+    },
+    {
+      "id": "s15",
+      "label": "Assemblée nationale — Scrutin n° 3196 : amendements portant la taxe à 15 % (28 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3196",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Datan — Vote n° 3199 (28 octobre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_3199",
+      "kind": "analyse",
+      "revealsPositions": true
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour : LFI-NFP (54), GDR (7), Écologiste et social (31), Socialistes (57 pour, 1 contre), EPR (41 pour, 1 contre, 3 abstentions), dont un député est l'auteur de l'amendement, et RN (92 pour, 1 contre). Contre : Horizons (16 contre, 1 pour), la Droite républicaine (19 contre, 2 pour, 5 abstentions) et LIOT (5 contre, 1 abstention). Les Démocrates se sont partagés (8 pour, 10 contre, 1 abstention), de même que l'UDR (1 pour, 3 contre, 3 abstentions ; position peu tranchée). Même vote « pour », attentes différentes : la gauche voulait aller plus loin et a voté juste avant pour un taux de 15 % (scrutin n° 3196, rejeté par 154 voix contre 202), que le RN, EPR, Horizons et la Droite républicaine ont refusé ; le RN, qui défendait un taux de 5 %, a voté ce doublement ; EPR y voyait un compromis après avoir renoncé au taux de 15 % adopté en commission. Le Gouvernement était défavorable. En séance, la Droite républicaine et un député Démocrate ont invoqué le risque de représailles américaines, notamment pour la viticulture ; Horizons n'a pas pris la parole.",
+  "lastVerified": "2026-09-30"
+}

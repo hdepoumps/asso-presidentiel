@@ -1,10 +1,10 @@
-// État de la partie, conservé uniquement dans le navigateur (localStorage). Rien n'est envoyé nulle part.
+// État de la partie, conservé uniquement sur l'appareil, chiffré (voir lib/vault.ts). Rien n'est envoyé nulle part.
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { Answer, AnswerValue, Card } from './types';
 import { cardsById } from './lib/content';
 import { principalScrutin } from './lib/scoring';
-import { safeStorage } from './lib/storage';
+import { vault, vaultStorage } from './lib/storage';
 
 export type Side = 'contre' | 'pour';
 
@@ -25,7 +25,6 @@ interface GameState {
   current: string | null;
   /** Côtés des arguments déjà lus, par carte. */
   read: Record<string, Partial<Record<Side, true>>>;
-  startedAt: string | null;
   /** Graine propre à chaque partie : varie l'ouverture et l'onglet d'arguments ouvert en premier. */
   seed: number;
   /** Réponse retirée par « carte précédente », pour la proposer à nouveau. */
@@ -47,29 +46,32 @@ interface GameState {
 
 const newSeed = () => Math.floor(Math.random() * 2 ** 31);
 
-type Persisted = Pick<
-  GameState,
-  'answers' | 'history' | 'current' | 'read' | 'startedAt' | 'seed' | 'shortcuts' | 'tutorialSeen'
->;
+type Persisted = Pick<GameState, 'answers' | 'history' | 'current' | 'read' | 'seed' | 'shortcuts' | 'tutorialSeen'>;
 
-/** Ne garde que ce qui correspond encore au paquet de cartes publié. */
+const ANSWER_VALUES: readonly AnswerValue[] = ['pour', 'contre', 'neutre', 'nspp'];
+
+/**
+ * Ne garde que ce qui correspond encore au paquet de cartes publié, et seulement les champs attendus : les dates et heures de
+ * réponse enregistrées par les premières versions disparaissent à la prochaine sauvegarde.
+ */
 export function reconcile(p: Partial<Persisted>): Partial<Persisted> {
   const valid = (id: string) => Object.hasOwn(cardsById, id);
   const answers: Record<string, Answer> = {};
   for (const [id, a] of Object.entries(p.answers ?? {})) {
-    if (!valid(id)) continue;
+    if (!valid(id) || !ANSWER_VALUES.includes(a?.value)) continue;
     if (a.fp && a.fp !== cardFingerprint(cardsById[id])) continue;
-    answers[id] = a;
+    answers[id] = { value: a.value, important: a.important === true, ...(a.fp ? { fp: a.fp } : {}) };
   }
   const read: GameState['read'] = {};
   for (const [id, r] of Object.entries(p.read ?? {})) if (valid(id)) read[id] = r;
   return {
-    ...p,
     answers,
     read,
     history: (p.history ?? []).filter((id) => Object.hasOwn(answers, id)),
     current: p.current && valid(p.current) && !answers[p.current] ? p.current : null,
     seed: typeof p.seed === 'number' ? p.seed : newSeed(),
+    ...(typeof p.shortcuts === 'boolean' ? { shortcuts: p.shortcuts } : {}),
+    ...(typeof p.tutorialSeen === 'boolean' ? { tutorialSeen: p.tutorialSeen } : {}),
   };
 }
 
@@ -80,7 +82,6 @@ export const useGame = create<GameState>()(
       history: [],
       current: null,
       read: {},
-      startedAt: null,
       seed: newSeed(),
       restored: null,
       shortcuts: true,
@@ -94,12 +95,11 @@ export const useGame = create<GameState>()(
           return {
             answers: {
               ...s.answers,
-              [id]: { value, important, at: new Date().toISOString(), ...(card ? { fp: cardFingerprint(card) } : {}) },
+              [id]: { value, important, ...(card ? { fp: cardFingerprint(card) } : {}) },
             },
             history: [...s.history.filter((h) => h !== id), id],
             current: null,
             restored: null,
-            startedAt: s.startedAt ?? new Date().toISOString(),
           };
         }),
       undo: () => {
@@ -124,19 +124,24 @@ export const useGame = create<GameState>()(
         }),
       setShortcuts: (on) => set({ shortcuts: on }),
       setTutorialSeen: (seen) => set({ tutorialSeen: seen }),
-      reset: () =>
-        set({ answers: {}, history: [], current: null, read: {}, startedAt: null, seed: newSeed(), restored: null }),
+      reset: () => {
+        set({ answers: {}, history: [], current: null, read: {}, seed: newSeed(), restored: null });
+        // Nouvelle clé : les anciennes réponses encore présentes sur le disque (journaux du stockage) deviennent illisibles.
+        void vault.rotateKey();
+      },
     }),
     {
       name: 'cartes-sur-table:v1',
-      storage: safeStorage,
+      storage: vaultStorage,
+      // Le déchiffrement est asynchrone : main.tsx attend la partie avant d'afficher quoi que ce soit, pour que l'état initial
+      // vide ne soit jamais enregistré par-dessus.
+      skipHydration: true,
       version: 2,
       partialize: (s): Persisted => ({
         answers: s.answers,
         history: s.history,
         current: s.current,
         read: s.read,
-        startedAt: s.startedAt,
         seed: s.seed,
         shortcuts: s.shortcuts,
         tutorialSeen: s.tutorialSeen,

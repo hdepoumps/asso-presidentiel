@@ -5327,6 +5327,204 @@
     "PA722142": "contre"
    }
   },
+  "VTANR5L17V132": {
+   "nominatif": "ppp-p-ppp-p---------p-p-p-----pp--ppp-pp--pp---p---p-p---p--p--p-ppp--ppppp-cpp---p---_c--_c--cp-c-cc---p-pppp-p-pppp-p-p-p-p-pp---pp--ppp-------------c--cc----_-----n-c-----------------_-c_------cn-c-cc-----c--------------c--c---c--c-----c---c--c-c----cc----------------_--------c-------c-c_---c-------c-----c-------------c--cc---------c-----c------n-cc-----_-------pp-pp--pppppp--pp----p--p--pp--------p-p-----pp--------ppppp-c-------p_--aa--aaa----aaa--pa-ppaa---pp-paa-app-paaaap-pp--aapp-ppp-aaa--pp--------ap----aa-p----a-p-aaaa--aa-a-a-a-aaaa----a------apca--apaaaappp--",
+   "numero": 132,
+   "date": "2024-10-26",
+   "titre": "l'amendement n° 872 de M. Philippe Brun à l'article 26 (examen prioritaire) du projet de loi de finances pour 2025 (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/132",
+   "synthese": {
+    "votants": 216,
+    "exprimes": 167,
+    "pour": 116,
+    "contre": 51,
+    "abstentions": 49
+   },
+   "groups": {
+    "RN": [
+     125,
+     63,
+     1,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     0,
+     22,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     6,
+     1,
+     34,
+     0
+    ],
+    "SOC": [
+     66,
+     32,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     47,
+     0,
+     8,
+     0,
+     1
+    ],
+    "ECOS": [
+     38,
+     12,
+     0,
+     12,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     4,
+     0,
+     0
+    ],
+    "HOR": [
+     34,
+     0,
+     5,
+     0,
+     1
+    ],
+    "LIOT": [
+     23,
+     0,
+     4,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     3,
+     0,
+     3,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     6,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "contre",
+    "PA609332": "pour"
+   }
+  },
+  "VTANR5L17V133": {
+   "nominatif": "ppp-p-ppp-p------nppp-p-p-----pp--pppppp--ppp--p---p-p--pp--p--p-ppp--ppppp-cpp---p-c-_c--_---cp-p-ccc--p-pppp-p-pppp-p-ppp-p-pp---pp--ppp-------------c--c-----_-----n-c------------c----_-c_-------n---cc-----c-----------------c---c--c-----c---c--c-c----cc----------------_--------c-------c-c_---c-------c-----c-------------c--cc---------c-----c------n-cc-----_-------pp-pp--pppppp--pp----p--p--pp--------p-pp----pp------p-ppppp-p-------p_--pp--ppp----ppp--pp-pppp---pp-ppp-ppp-pppppp-p---pppp-ppp-ppp-ppp--------pp-p--pp-p---p-pp-pppp--pppp-p-p-pppp-pp-p---ppppppp-pppppppppp--",
+   "numero": 133,
+   "date": "2024-10-26",
+   "titre": "l'article 26 (examen prioritaire) du projet de loi de finances pour 2025 (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/133",
+   "synthese": {
+    "votants": 232,
+    "exprimes": 232,
+    "pour": 186,
+    "contre": 46,
+    "abstentions": 0
+   },
+   "groups": {
+    "RN": [
+     125,
+     71,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     0,
+     21,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     49,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     66,
+     32,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     47,
+     0,
+     8,
+     0,
+     1
+    ],
+    "ECOS": [
+     38,
+     23,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     4,
+     0,
+     0
+    ],
+    "HOR": [
+     34,
+     0,
+     3,
+     0,
+     1
+    ],
+    "LIOT": [
+     23,
+     3,
+     3,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     8,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     7,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "contre",
+    "PA609332": "pour"
+   }
+  },
   "VTANR5L17V1330": {
    "nominatif": "-p--p--p---p--ppp-pppp--p-ppp-p--p-p--p--p--------pp-pp-pp--p-p--p---p--p----p--p--ppp_-p-_p--------ppp--p-pp--pp--p--ppppp-p-pppp---------p--p-ca-----n-p---p--_p-p----pp--p-------------_p-p---------a----aaaa-a-a------a--p------ppp-pp--p-pp---pp---p-----p------p-p---a--p_--pp-----------ppp-_-p-p-----p-pppp--p--p-pppcp-p--pppp-----p-p--------p------n-pp-----p----p--c---c-c-c-----c----cccc-------c-ppc-c--c----cc---c--------c-a----p--c--c-------cccc-c--c--cc-c-c--pccccppp--cccpp-p-c-c-pp--c-c---pppppc--c------p------cc-c-cc-c--ppp--p-p-pppp-ppp--pppppp-pp-p--ppppppppppppp--",
    "numero": 1330,
@@ -7112,6 +7310,207 @@
     "PA842271": "contre"
    }
   },
+  "VTANR5L17V2266": {
+   "nominatif": "p-pp---p---pp----p------p-------------p-----p--p--pp-p---p--p----------p------------p-_---_p-------p--p-pp-p---p-----p---p-----p---p----------p--------n--------_--p-------------------------pc------------c-c-----a---c------------------c-----c-----c-------c----c----------c_------c------p--c--_--------------c-----------c--c----c-c---------------cc----n----------------------p--p--p------------p----------------p-------------p-pp---p-----p-pp--pppppp-p-p----p---pp-----------ppp------pppp--p--p-----p-p-------p--p--ppp-p-pppppppp-pp-pp---p------pp---p-p-p-p--p-----p-p------p----",
+   "numero": 2266,
+   "date": "2025-06-05",
+   "titre": "l'article premier de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2266",
+   "synthese": {
+    "votants": 121,
+    "exprimes": 120,
+    "pour": 98,
+    "contre": 22,
+    "abstentions": 1
+   },
+   "groups": {
+    "RN": [
+     123,
+     28,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     0,
+     13,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     17,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     66,
+     11,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     49,
+     3,
+     0,
+     0,
+     1
+    ],
+    "ECOS": [
+     38,
+     20,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     3,
+     0,
+     0
+    ],
+    "HOR": [
+     33,
+     0,
+     6,
+     1,
+     0
+    ],
+    "LIOT": [
+     23,
+     2,
+     0,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     14,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA335999": "pour",
+    "PA1567": "pour",
+    "PA842271": "pour"
+   }
+  },
+  "VTANR5L17V2272": {
+   "nominatif": "---p---p---pp----p--------------------------p-----pp-p---p--p----------p------------p-_---_p-------p--p-pp-----p-----p---p----pp-------p------p--------n--------_--p-------------------------pc-a----------c-------a---c------------a-----c--c--a-----a-------c----c-c--------c_------c------p--c--_-----a--------------------c-------c-c---------------c-----n---------------------ppp-p-pp-----p------p-----p----------p-------------p-pp---p-------pp--p-pppp-ppp-p--p---p------------ppp-------ppp--p--p-----p-p----------p--ppppp-pppppppp-ppppp---pp------p---p-ppp-p--p-p--pp-p-----pp----",
+   "numero": 2272,
+   "date": "2025-06-05",
+   "titre": "l'ensemble de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+   "synthese": {
+    "votants": 125,
+    "exprimes": 120,
+    "pour": 103,
+    "contre": 17,
+    "abstentions": 5
+   },
+   "groups": {
+    "RN": [
+     123,
+     24,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     94,
+     0,
+     13,
+     2,
+     1
+    ],
+    "LFI": [
+     71,
+     22,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     66,
+     14,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     49,
+     4,
+     0,
+     0,
+     1
+    ],
+    "ECOS": [
+     38,
+     19,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     1,
+     1,
+     0
+    ],
+    "HOR": [
+     33,
+     0,
+     3,
+     2,
+     0
+    ],
+    "LIOT": [
+     23,
+     2,
+     0,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     15,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA335999": "pour",
+    "PA1567": "pour",
+    "PA842271": "pour",
+    "PA722142": "pour"
+   }
+  },
   "VTANR5L17V2488": {
    "nominatif": "c-ccc--cc-cc-c--cccc-cc-c-ccc-cccccccc--cc-cc--cc----c--ccc-ccc--ccc-cccc-cc-cc-ccc-c-_-c-_c---c----c-cccccccc-ccccccc--ccccc-cccc--cc---c-c---cc---c-c---------_c------cc--c--------c-c------------------c-cc-c--c----c---c-c----ccc-c-------c--c-cc-c------c--c-----c----c--c_----c-c------c-c---_c------c-c--c--c------cc----ccc---cc-------c--c-----------nccc------c---cp-p-c---c----cc--cc--c---cc--c--cc------c------c-c--------cccc-----c--cc---p-ppppp----pppppp---p-p-pp---pp--p-pp---pppp------pcp--c-pp-pp-ccc---pp--------c---c-------ppp--ppp--pp-ppp-ppp-ppp--ppp---ppp-ppp---pp--",
    "numero": 2488,
@@ -8719,6 +9118,109 @@
     "PA722142": "pour"
    }
   },
+  "VTANR5L17V3199": {
+   "nominatif": "pp-ppppp-ppppp---pppppp-p-ppp-pppp-pp-pppppp-pppp-pppp-pppp-pppp--p--p-pp-ppappc------c-p-_c--------aapppppp-p-ppppppp-pppp-pp-ppppppp-ppp-p-c-cc-c-cpa-c-a-a--c--cc---acc-cccac--c---------p---ccp----cc-c-ccc-cccc-c--c----pp----a-p----p--pcppp-ppp---p---pp-p--pp-p------p-_-p----p-pc---p-p-p-a--ppcpap--cc-c-cnc-----p---pc--pccppp---p-pppppp----p--pp-npc--p--cp--a-cppp-ppp--pppppp-ppppppppppp-ppppppp-p-pp-pc----pppp-c----pppppc-a--ppppp-pppp-pppppppp-p-p-p-pppppppppp-pp-p-pppp-pppppppp-ppp-ppp---p-pppppp-ppppp-------ppp-pp---ppppp-ppppp--pp-pppp-ppp--p-ppppppp--ppppppp-pp--",
+   "numero": 3199,
+   "date": "2025-10-28",
+   "titre": "l'amendement n° 655 de M. Jean-René Cazeneuve après l'article 12 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3199",
+   "synthese": {
+    "votants": 368,
+    "exprimes": 354,
+    "pour": 296,
+    "contre": 58,
+    "abstentions": 14
+   },
+   "groups": {
+    "RN": [
+     123,
+     92,
+     1,
+     0,
+     0
+    ],
+    "EPR": [
+     92,
+     41,
+     1,
+     3,
+     7
+    ],
+    "LFI": [
+     71,
+     54,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     57,
+     1,
+     0,
+     0
+    ],
+    "DR": [
+     50,
+     2,
+     19,
+     5,
+     3
+    ],
+    "ECOS": [
+     38,
+     31,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     8,
+     10,
+     1,
+     2
+    ],
+    "HOR": [
+     34,
+     1,
+     16,
+     0,
+     2
+    ],
+    "LIOT": [
+     22,
+     0,
+     5,
+     1,
+     1
+    ],
+    "GDR": [
+     17,
+     7,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     1,
+     3,
+     3,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "pour",
+    "PA335999": "pour",
+    "PA609332": "pour",
+    "PA720614": "pour",
+    "PA842271": "pour",
+    "PA722142": "pour"
+   }
+  },
   "VTANR5L17V3260": {
    "nominatif": "ppppppppppppppppppppppppppppp-ppppppppppppppppppp-ppppppppp-pppppppp-ppppppppppppppppppppp_p-ppp-ppppppppppppp-ppppppppppppppppppppppppppppp-p---pp-p-npppp---pppppp-p--pp-pp-----p--ppp---p--p--p--p--p--ppp-----pp-p-pp------c--cc----ccc------c--cc--------c---ac----c---c-c_------cc-p-p-p--a--cc-----c---cc-c-aa---c--c-----c--ccc-----c---a-c-----c--cc-nppp-c-c-------c-ccc-ccc-cccc--c-c-c-cccc--cc-cccccc-c-cc-----cccc------c-cccc----ccccc-c-cccccccc--cccccccc--cccccccccc--cccccc-c-cc-cc-cc--cccccc-ccc-cccc-ccccc--cc---c-----c--ccccccccccccccc-cccccccc-cc--ccc--cc-cccc--cccc--",
    "numero": 3260,
@@ -9231,6 +9733,110 @@
     "PA720614": "contre",
     "PA842271": "pour",
     "PA722142": "pour"
+   }
+  },
+  "VTANR5L17V3314": {
+   "nominatif": "pp-pp-ppppppp-ppp--pppppp--p-pppppppppp-pp-pp--pp-pp-ppp----ppp--ppp-pp-ppp--p----pp-c---p_c-c-p-p-cc-pp--pppp-p-pppp-p--p-p--pp--pp-ppppp-p----c---c---cccc--cc-ccc-c--cc--------c-ccc----ccc--c---c--p--cc-c---cc----cc-----c---ccc-c---c-cccccc-ccacc-c--ccc-c----cc-a---ccc_--cccca-c----p-c-c---p-apppp-p-ppppp----p--pp--p---p-pc-c---p-pc--cc---pc--cc-npa--a----p-c--ppppppppppp-ppppppp-a-ppppp--p-pp-ppp-pp-pp---pppp-p-----pppppp-p--pp-pp-c-c-c-cccc--ccc-acccccccc-----cc----cc-c-c-c-cc---c-cp-p---cc---ppp----c---ca-----a-c-a---ccccc-c--c-c-c-cc-cc-c-cc----c-c--cc--cccc-cccc--",
+   "numero": 3314,
+   "date": "2025-10-31",
+   "titre": "l'amendement n° 3379 de M. Mattei après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3314",
+   "synthese": {
+    "votants": 323,
+    "exprimes": 313,
+    "pour": 163,
+    "contre": 150,
+    "abstentions": 10
+   },
+   "groups": {
+    "RN": [
+     123,
+     86,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     92,
+     0,
+     46,
+     4,
+     7
+    ],
+    "LFI": [
+     71,
+     0,
+     33,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     49,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     50,
+     0,
+     24,
+     0,
+     3
+    ],
+    "ECOS": [
+     38,
+     0,
+     25,
+     1,
+     0
+    ],
+    "DEM": [
+     36,
+     19,
+     0,
+     1,
+     1
+    ],
+    "HOR": [
+     34,
+     1,
+     12,
+     0,
+     2
+    ],
+    "LIOT": [
+     22,
+     6,
+     0,
+     1,
+     1
+    ],
+    "GDR": [
+     17,
+     0,
+     4,
+     3,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     5,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA722190": "contre",
+    "PA609332": "pour",
+    "PA1567": "pour",
+    "PA1654": "pour",
+    "PA720614": "pour",
+    "PA842271": "abstention",
+    "PA722142": "contre"
    }
   },
   "VTANR5L17V3427": {
@@ -10549,6 +11155,304 @@
     "PA1567": "contre"
    }
   },
+  "VTANR5L17V4128": {
+   "nominatif": "ppp-p-ppppp--ppp-pp--pp-p-pp--ppppnpp---p-ppp--pp-pppp--p-p-p-p---p--pp-ppp-pp-----pp---pp_p-p---p-pp-p-p-p-pp-ppp-ppppppp-pp--pp-p--p-pp-pp------------p-p---p----------p--------p---------p---------pp--p--p-------p-pp------------c----c-----cc-cc--------------------------_-------------------------c-c---cc-c--cc----c----ca-----c--------c-cc----c-----ncc-----------------c-c--cc-cc---c--c----c-----c-------cc----c----------cc-cc-ca--cc-c--c-------c--c-----c-c---c-----c-cc-c-c--c--cc--c---c-ccc-cc-c---ccc-----c-c-------c-----c--c--cccc--c---c--c----c-ccc---c-c--cc-cc-c----c---",
+   "numero": 4128,
+   "date": "2025-11-21",
+   "titre": "l'amendement n° 157 de M. Pauget à l'article 30 du projet de loi de finances pour 2026 (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4128",
+   "synthese": {
+    "votants": 194,
+    "exprimes": 191,
+    "pour": 97,
+    "contre": 94,
+    "abstentions": 3
+   },
+   "groups": {
+    "RN": [
+     123,
+     76,
+     0,
+     1,
+     0
+    ],
+    "EPR": [
+     91,
+     0,
+     12,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     0,
+     29,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     0,
+     27,
+     0,
+     0
+    ],
+    "DR": [
+     49,
+     6,
+     0,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     0,
+     11,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     9,
+     1,
+     0
+    ],
+    "HOR": [
+     34,
+     9,
+     0,
+     0,
+     0
+    ],
+    "LIOT": [
+     22,
+     0,
+     2,
+     1,
+     0
+    ],
+    "GDR": [
+     17,
+     0,
+     3,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     6,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA335999": "contre",
+    "PA720614": "pour"
+   }
+  },
+  "VTANR5L17V4137": {
+   "nominatif": "ppp-p-ppppp--ppp-pp--pp-p-pp-pppppppp---ppppp--pp-pppp--p-p-p-p---p--pp-ppp-pp-----pp---pp_p-pp--p-pp-p-p-p-pp-ppp-ppppppp-pp--pp-p--p-pp-pp--------p---p-p---p----------p--------p-----c---p---------pp--pp-p-------p--p------p----------------cc-cc--ppc--cc---c----c-c---c-c_--c--c----------c--c-----c-c--ccc-c--cc----c----cc-----c-------c-cccc---c--cccncc---------p-------cccc-cc-cc---c-cc-c--c-----c-c-----cc----c----------ccccc-cc--cccc--c-------c--c---c-c-c--cc-----c-cc-c-c--c--cc-cc--cc-cccccc-c--cccc-----c-c-------c-----c-cc--ccccc-c---c--c-c--c-ccc---c-c--cc-cc-c----c---",
+   "numero": 4137,
+   "date": "2025-11-21",
+   "titre": "l'article 30 du projet de loi de finances pour 2026 (première lecture).",
+   "type": "SPO",
+   "sort": "rejeté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4137",
+   "synthese": {
+    "votants": 236,
+    "exprimes": 236,
+    "pour": 106,
+    "contre": 130,
+    "abstentions": 0
+   },
+   "groups": {
+    "RN": [
+     123,
+     79,
+     0,
+     0,
+     0
+    ],
+    "EPR": [
+     91,
+     3,
+     28,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     0,
+     33,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     0,
+     35,
+     0,
+     0
+    ],
+    "DR": [
+     49,
+     7,
+     1,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     0,
+     14,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     11,
+     0,
+     0
+    ],
+    "HOR": [
+     34,
+     9,
+     0,
+     0,
+     0
+    ],
+    "LIOT": [
+     22,
+     0,
+     3,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     0,
+     4,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     7,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA335999": "contre",
+    "PA1567": "contre",
+    "PA720614": "pour"
+   }
+  },
+  "VTANR5L17V4438": {
+   "nominatif": "a-aaa--aaaaaa-a---aa----aa-a--aa------aa-a----aaa-a-------------a----aa-a-a-----------c---_c----------a-a-a----------a-a-a--a----------aa--a-----------a--c------c--c-------------c-------c---c-----c---c--ccc-----c--c-----c---------c-----ccc-c---c-cc---c--c--------------c-_-----c-c------c--cc-----------------n-c----c-----c----c---------------------c-n--------------p---p-pp---p--p--pp--pp---pp--p-pp--p--p-p----pp-----------ppp-----p---p-p---pppppp--p--p-ppp-ppp-ppp----ppp---pppppp-p--pppppp-p-p-ppppp------pppppp-ppp-pppp--pppppppppppppppppppppppppppppp-ppppppppppppppppppp--",
+   "numero": 4438,
+   "date": "2025-11-27",
+   "titre": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+   "synthese": {
+    "votants": 210,
+    "exprimes": 168,
+    "pour": 127,
+    "contre": 41,
+    "abstentions": 42
+   },
+   "groups": {
+    "RN": [
+     123,
+     0,
+     0,
+     40,
+     0
+    ],
+    "EPR": [
+     91,
+     0,
+     19,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     68,
+     1,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     28,
+     0,
+     1,
+     0
+    ],
+    "DR": [
+     49,
+     0,
+     5,
+     1,
+     0
+    ],
+    "ECOS": [
+     38,
+     18,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     0,
+     4,
+     0,
+     1
+    ],
+    "HOR": [
+     34,
+     0,
+     10,
+     0,
+     0
+    ],
+    "LIOT": [
+     22,
+     0,
+     0,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     13,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     2,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA842271": "pour",
+    "PA722142": "pour"
+   }
+  },
   "VTANR5L17V4475": {
    "nominatif": "pppppp-p-pppp-pp---p-p-----pp-pcc---pp-ppp-pp---p-p-pp--pp--ppppppp--pppppp--p---a---aa-pp_aa------aa-p---ppp---pppppp-pp-p--pppppppppp--p-----c-c----c---c--c----c-c--cc---c-c--c--------ccc-c---n----c-ccccc---a----a--ca-c-----cc-c-cccc-----c-c-c-------ccc-c-cccccc------c_c------c-c-c-pc---c-c-pp-p-p-p-pcp--p--p----ca-acc----------------c----pc--c-cncc------cp---cp-----p----ppp-p-pppp--p-p-p---pp-pp-----p-----pppp--p----p-p-cc---pppp--p----p-p-ppp--pp-----p-----p--ppp---p---p-ppp-p-pp---p-pp---ppp-pppp--pp-p-p-p--------p------ppp-------p--pp--p-ppp-------p--ppp-p--p---p--",
    "numero": 4475,
@@ -11155,6 +12059,107 @@
     ]
    },
    "deputes": {}
+  },
+  "VTANR5L17V4628": {
+   "nominatif": "-ppp---ppp-p--ppp---p-p-p-n----p---ppp--pp-pp---p-p--p--pp--pp-pp-p--p--pppc-p---cp-c--cp-_------p-c--p--p-p-----p-pp--pppppp--pppp-pp--pp-p-----c----c---c--cc-------c-c---------c----cc-c---c---p----c-----c--c-----c-c-c--------p-p--pp--p-p-ppp-p---p--pp---p--pp-pp-----pp_--pp----------------pppp--p--p--ppp-ppp---pp-p-p-p-p--p-pp----p------------pppncc--p---pp----p-p--cc-a-p-ap-----pppppppppp-a-pppp--p-pppp--ppppa------pp-p-------p-pp-p---p-p--------p------pp-----pp-p-p-------p--pp------p------pp-pp----p--p----p---pp-----------p-p---------p-----------------p-pp----p-p-p--",
+   "numero": 4628,
+   "date": "2025-12-05",
+   "titre": "l'amendement n° 585 de M. Maudet et les amendements identiques suivants de rétablissement de l'article 22 bis du projet de loi de financement de la sécurité sociale pour 2026 (nouvelle lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4628",
+   "synthese": {
+    "votants": 213,
+    "exprimes": 209,
+    "pour": 181,
+    "contre": 28,
+    "abstentions": 4
+   },
+   "groups": {
+    "RN": [
+     123,
+     60,
+     0,
+     0,
+     1
+    ],
+    "EPR": [
+     91,
+     34,
+     0,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     16,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     69,
+     34,
+     2,
+     4,
+     0
+    ],
+    "DR": [
+     49,
+     0,
+     11,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     10,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     36,
+     19,
+     0,
+     0,
+     0
+    ],
+    "HOR": [
+     34,
+     1,
+     8,
+     0,
+     0
+    ],
+    "LIOT": [
+     22,
+     2,
+     1,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     3,
+     0,
+     0,
+     0
+    ],
+    "UDR": [
+     16,
+     0,
+     5,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA642935": "pour",
+    "PA609332": "abstention",
+    "PA1567": "abstention",
+    "PA842271": "pour"
+   }
   },
   "VTANR5L17V4641": {
    "nominatif": "ppppp--ppp-p--ppp----pp-pppp---ppppppp--pp-pp---p-p-p----p--pp-pp-p--p--pppp-p---pp-p--pp-_------p----p--p-p-----p-pp--pppppp-ppppp-pp-ppp-p-----p----p-p-p--pp---p---p---p-------p----pp-p--pc-c-c---cp---c-c--------cca-c-a-c---cc-c-ccc--c-ccccc-c-c-a--cc--cc---cccc---cc-c_--cc-c--------c-c-c-c-cc-ccc-c--ccc-ccc---cccccc-ccc-cccc---c-c---------c--cccncc--c---ca----p-ppppppp-ppppp-p-ppppppppppp-p-ppppp-ppppppp-pppppp-p-p-pppppp-----pppp-p---p----p-p--pp---p-ppp------p-p-p-------p--pp--p--ppp-----pp-pp--p-p--p--p-p---pp----------ppppp-p---p--pp-------p---p--p-p-ppp-ppp--pp--",
@@ -15848,6 +16853,105 @@
     "PA722190": "pour",
     "PA609332": "contre",
     "PA1567": "contre"
+   }
+  },
+  "VTANR5L17V7380": {
+   "nominatif": "--a-a---a--aa----a--a--aa---aaaa---aa-----a-----a-a--a-------a-a--------aa---a-c-ca-----aa-c----a---c-aaa---aa---a-aaa----aa-a-a--a--a-a--a---------------------------------------c-------c---c---c-------c--c-----c-cc-----c----c--c--c----ccc----c--cc--c-c-c-------c--c--c-cc----c-ccc-a------cc-----cc-----c-------------c--------c-c-----cc---------c--ccn--c---------------p-pp--pp-pp-ppp--p----pp-------p---p------pp------------p---------p----ppppp-ppp-pp-p-ppp-p-p-p-p--p-pppp-p--p----p--p-pppp-p----p-pppp--ppppp--pppppppppppppppp-p-ppp-p-pp-p-pp--p-p-ppppp-p--p-pp-p-p-pppppp--",
+   "numero": 7380,
+   "date": "2026-06-11",
+   "titre": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (deuxième lecture).",
+   "type": "SPO",
+   "sort": "adopté",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7380",
+   "synthese": {
+    "votants": 202,
+    "exprimes": 155,
+    "pour": 106,
+    "contre": 49,
+    "abstentions": 47
+   },
+   "groups": {
+    "RN": [
+     122,
+     0,
+     0,
+     45,
+     0
+    ],
+    "EPR": [
+     91,
+     0,
+     30,
+     0,
+     1
+    ],
+    "LFI": [
+     71,
+     45,
+     0,
+     0,
+     0
+    ],
+    "SOC": [
+     68,
+     25,
+     0,
+     0,
+     0
+    ],
+    "DR": [
+     48,
+     0,
+     2,
+     0,
+     0
+    ],
+    "ECOS": [
+     38,
+     20,
+     0,
+     0,
+     0
+    ],
+    "DEM": [
+     37,
+     0,
+     5,
+     0,
+     0
+    ],
+    "HOR": [
+     35,
+     0,
+     7,
+     2,
+     0
+    ],
+    "LIOT": [
+     23,
+     0,
+     1,
+     0,
+     0
+    ],
+    "UDR": [
+     17,
+     0,
+     4,
+     0,
+     0
+    ],
+    "GDR": [
+     17,
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "deputes": {
+    "PA842271": "pour",
+    "PA722142": "pour"
    }
   },
   "VTANR5L17V7386": {

@@ -1,0 +1,187 @@
+{
+  "id": "allocations-familiales-des-premier-enfant",
+  "theme": "social",
+  "question": "Faut-il verser les allocations familiales dès le premier enfant, et non plus seulement à partir du deuxième, pour un coût estimé à au moins 3 milliards d'euros par an ?",
+  "explainer": {
+    "title": "Qui touche les allocations familiales aujourd'hui ?",
+    "text": "Les allocations familiales sont versées aux familles qui ont au moins deux enfants à charge de moins de 20 ans. Au 1er avril 2026, elles s'élèvent à 152,25 euros par mois pour deux enfants et à 347,32 euros pour trois ; depuis 2015, ces montants sont divisés par deux ou par quatre au-delà de certains plafonds de revenus. Dans les départements d'outre-mer, une allocation est déjà versée dès le premier enfant. Le texte voté se bornait à remplacer, dans le code de la sécurité sociale, « deuxième » par « premier » enfant : il ne fixait pas lui-même le montant versé pour un enfant unique.",
+    "sources": [
+      "s9",
+      "s3",
+      "s5"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, la mesure coûterait au moins 3 milliards d'euros par an sans financement identifié, alors que la Sécurité sociale est lourdement déficitaire et que la Cour des comptes alerte sur sa capacité à payer d'ici 2027.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, elle aiderait peu les familles modestes : l'allocation serait en partie reprise par une baisse du RSA et de la prime d'activité, et profiterait surtout aux ménages plus aisés.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, son effet sur la natalité serait incertain : l'emploi, le logement et surtout la garde des enfants pèseraient plus dans le choix d'avoir un enfant ; mieux vaudrait investir dans les crèches ou revoir toutes les aides.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, plus d'un tiers des familles n'ont qu'un enfant et ne touchent aucune allocation familiale, alors que le premier enfant coûte cher : une naissance peut réduire jusqu'à 11 % le niveau de vie des parents.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, les familles monoparentales, qui n'ont souvent qu'un enfant et dont près de quatre sur dix vivent sous le seuil de pauvreté, seraient les premières à en bénéficier.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, la mesure serait finançable, par exemple en supprimant des exonérations de cotisations sans effet prouvé sur l'emploi ; elle existe déjà outre-mer et chez plusieurs voisins, comme l'Allemagne ou la Belgique.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "article",
+    "textKind": "Article premier d'une proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
+    "summary": "Le texte a été examiné le 5 juin 2025, lors d'une journée réservée à un groupe parlementaire, contre l'avis du Gouvernement. Son article premier, voté ici, ouvre les allocations familiales dès le premier enfant ; les articles suivants demandent des rapports au Gouvernement et prévoient de financer la mesure. Juste avant, un amendement réservant ces allocations aux familles dont au moins un parent est français avait été rejeté (89 voix contre 36).",
+    "sources": [
+      "s4",
+      "s5",
+      "s3"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-06-05",
+      "label": "Assemblée nationale",
+      "text": "Les députés adoptent l'ensemble de la proposition de loi en première lecture (103 voix contre 17). Le texte est transmis au Sénat le jour même.",
+      "sources": [
+        "s8",
+        "s11",
+        "s6"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Sénat",
+      "text": "Au 30 septembre 2026, le Sénat n'a pas inscrit le texte à son ordre du jour : il n'a été examiné ni en commission ni en séance. Les allocations familiales restent versées à partir du deuxième enfant.",
+      "sources": [
+        "s6",
+        "s9"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V2266",
+      "numero": 2266,
+      "date": "2025-06-05",
+      "role": "principal",
+      "sens": 1,
+      "label": "Article premier : allocations familiales versées dès le premier enfant (adopté)"
+    },
+    {
+      "uid": "VTANR5L17V2272",
+      "numero": 2272,
+      "date": "2025-06-05",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi, première lecture (adopté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 2266 (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2266",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 2266 (5 juin 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_2266",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 5 juin 2025 : présentation du texte, avis du Gouvernement et début de la discussion générale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "kind": "primaire"
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 5 juin 2025 : suite de la discussion et vote des articles",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Sénat — Proposition de loi n° 709 (2024-2025) visant à accorder le versement des allocations familiales dès le premier enfant, texte transmis par l'Assemblée nationale",
+      "url": "https://www.senat.fr/leg/ppl24-709.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Dossier législatif de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-709.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_versement_allocations_familiales_premier_enfant_17e",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 2272 : ensemble de la proposition de loi (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Service-public.gouv.fr — Allocations familiales : conditions et montants (page vérifiée le 1er juin 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F13213",
+      "kind": "officiel"
+    },
+    {
+      "id": "s10",
+      "label": "LCP — L'Assemblée dit oui au versement des allocations familiales dès le premier enfant (5 juin 2025)",
+      "url": "https://lcp.fr/actualites/l-assemblee-dit-oui-au-versement-des-allocations-familiales-des-le-premier-enfant-380181",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Texte adopté n° 135, première lecture (5 juin 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0135_texte-adopte-seance",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Texte du groupe GDR (rapporteur : Édouard Bénard), examiné lors de sa journée d'initiative parlementaire. Pour l'article premier (scrutin n° 2266 : 121 votants, 98 pour, 22 contre, 1 abstention) : LFI-NFP (17), GDR (14), Écologiste et social (20), Socialistes (11), LIOT (2), Droite républicaine (3), UDR (3) et RN (28). Contre : EPR (13), Les Démocrates (3) et Horizons (6 contre, 1 abstention). Participation très faible (un jeudi de niche parlementaire) : les positions de LIOT, de la Droite républicaine, de l'UDR et des Démocrates reposent sur 2 ou 3 députés chacune. Même vote, motivations différentes : la gauche défend l'universalité des allocations et la lutte contre la pauvreté des enfants, sans visée nataliste ; le RN et l'UDR y voient une mesure nataliste, tout en voulant réserver ces allocations aux familles dont un parent est français (amendement rejeté, scrutin n° 2264 : 36 pour, 89 contre) ; la Droite républicaine soutient le principe mais préfère une réforme globale dans le budget de la Sécurité sociale. Les trois groupes du bloc central ont dit partager l'objectif mais refuser son coût : Les Démocrates plaident pour une refonte à budget constant, et l'oratrice d'Horizons s'est dite favorable à titre personnel à une mesure ciblée sur les familles pauvres. Sur l'ensemble du texte (scrutin n° 2272 : 125 votants, 103 pour, 17 contre, 5 abstentions), même partage : EPR 13 contre et 2 abstentions, Horizons 3 contre et 2 abstentions, Les Démocrates 1 contre et 1 abstention.",
+  "lastVerified": "2026-09-30"
+}

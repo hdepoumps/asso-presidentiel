@@ -174,7 +174,6 @@ export type AnswerValue = 'pour' | 'contre' | 'neutre' | 'nspp';
 export interface Answer {
   value: AnswerValue;
   important: boolean;
-  at: string;
   /** Empreinte de la carte au moment de la réponse (scrutin principal et sens). */
   fp?: string;
 }

@@ -169,9 +169,9 @@ function Confidentialite() {
         <p>Deux enregistrements, dans le stockage local de votre navigateur ou de l’application :</p>
         <ul>
           <li>
-            <b>Votre partie</b> : vos réponses (pour, contre, neutre, « ne se prononce pas », importance, date et heure), l’ordre des cartes
-            jouées, la carte en cours, les onglets d’arguments déjà lus, la date de début de la partie, un nombre tiré au hasard qui varie
-            l’ordre des cartes, le fait d’avoir vu le tutoriel et l’activation des raccourcis clavier.
+            <b>Votre partie</b>, chiffrée : vos réponses (pour, contre, neutre, « ne se prononce pas », importance), l’ordre des cartes
+            jouées, la carte en cours, les onglets d’arguments déjà lus, un nombre tiré au hasard qui varie l’ordre des cartes, le fait
+            d’avoir vu le tutoriel et l’activation des raccourcis clavier. Ni date ni heure ne sont enregistrées.
           </li>
           <li>
             <b>Vos réglages</b> : son, musique, thème, taille du texte, contraste, police, espacement du texte, animations, vote au geste et
@@ -189,6 +189,12 @@ function Confidentialite() {
           Vos réponses peuvent révéler des opinions politiques, que le RGPD range parmi les données sensibles (article 9). C’est pourquoi
           Cartes sur Table n’a ni serveur applicatif ni base de données : le calcul des résultats se fait sur votre appareil, et une politique
           de sécurité intégrée à l’application interdit toute connexion vers un autre site.
+        </p>
+        <p>
+          Votre partie est chiffrée sur l’appareil (AES-GCM 256 bits). Dans les applications Android et iOS, la clé est gardée par le
+          système (Keystore, trousseau) : copier les fichiers du téléphone ne suffit pas pour lire vos réponses. Dans un navigateur, la clé
+          ne peut pas être extraite par une page, mais elle reste dans le profil du navigateur : la meilleure protection reste alors le code
+          de verrouillage du téléphone. Effacer vos réponses change aussi la clé, ce qui rend illisibles les anciennes copies.
         </p>
       </Section>
       <Section title="Ce qui peut sortir de l’appareil">
@@ -212,7 +218,8 @@ function Confidentialite() {
             service, mais jamais vos réponses.
           </li>
           <li>
-            <b>Sauvegardes.</b> L’application Android exclut vos réponses des sauvegardes automatiques (Google Drive, transfert d’appareil).
+            <b>Sauvegardes.</b> Les applications Android et iOS excluent vos réponses des sauvegardes (Google Drive, iCloud, ordinateur,
+            transfert d’appareil), et l’écran des applications récentes n’en garde pas de capture.
           </li>
         </ul>
         <p>Aucune police, aucun script, aucun son n’est chargé depuis un service tiers.</p>

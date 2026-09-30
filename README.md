@@ -12,7 +12,7 @@ Application web installable (PWA, hors connexion) et applications Android / iOS 
 - **Résultat progressif** : bords politiques dès 10 réponses, groupes et hémicycle à 15, candidats à 20, avec un indicateur de fiabilité ; ex æquo signalés, jamais départagés en douce.
 - **Votre hémicycle** : les 577 députés en exercice, encrés selon leur accord avec vous, d'après leurs votes nominatifs réels (et leurs mises au point officielles) ; liste textuelle accessible.
 - **Carte par carte** : votre réponse face au vote de chaque groupe, avec les décomptes, les positions datées et les liens vers le scrutin officiel.
-- **Aucune donnée collectée** : pas de compte, pas de pistage ; les réponses restent dans le navigateur.
+- **Aucune donnée collectée** : pas de compte, pas de pistage ; les réponses restent sur l'appareil, chiffrées.
 - **Menu de la partie** : résultats, « comment jouer », recommencer, réglages, méthode, sources et informations légales (conditions d'utilisation, confidentialité, mentions légales, accessibilité, crédits), sans quitter la carte en cours.
 - **Sons** : bruitages (tampon, cartes qui glissent, carillon quand le vote s'ouvre, paliers) et musique de fond « Délibération », composition originale ; chacun désactivable avec son volume. La musique ne démarre jamais seule.
 - **Accessibilité réglable** : taille du texte jusqu'à 150 %, contraste renforcé, thème clair/sombre, polices Atkinson Hyperlegible (malvoyance) et OpenDyslexic (dyslexie), texte aéré (WCAG 1.4.12), animations réduites, vote par boutons uniquement, lecture à voix haute des cartes, raccourcis clavier désactivables. Page « Réglages » accessible partout (icône en haut de page) et bouton « Rétablir les réglages par défaut ».
@@ -102,6 +102,8 @@ npx cap open android     # ouvrir dans Android Studio (signature, AAB pour le Pl
 
 Le workflow [.github/workflows/android.yml](.github/workflows/android.yml) produit aussi l'APK à chaque push. Pour une version signée (Play Store) : fournir la clé par les variables `CST_KEYSTORE_PATH`, `CST_KEYSTORE_PASSWORD`, `CST_KEY_ALIAS`, `CST_KEY_PASSWORD` (en local) ou par les secrets `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD` (CI), puis `node scripts/android-apk.mjs --release`. Le numéro de version vient de `CST_VERSION_CODE`. Les réponses sont exclues des sauvegardes Android (Google Drive, transfert d'appareil).
 
+L'APK « debug » est réservé aux essais : il reste débogable par `adb` et ne doit jamais être distribué. L'inspection de la WebView (`chrome://inspect`, Safari) est coupée dans tous les builds ; pour déboguer, lancer `cap sync` avec `CST_WEBVIEW_DEBUG=1`.
+
 ### iOS
 
 Le projet Xcode est dans `ios/` (Swift Package Manager). Sur un Mac : `npm run cap:sync && npx cap open ios`, puis signer avec un compte Apple Developer et publier via App Store Connect.
@@ -125,7 +127,16 @@ docs/                    charte éditoriale, synthèse d'origine, rapport de con
 
 ## Sécurité et confidentialité
 
-Pas de serveur applicatif, pas de base de données modifiable à distance : cartes, votes et candidats font partie du code publié. Les réponses sont stockées dans le `localStorage` du navigateur et ne sont jamais transmises. Une politique de sécurité du contenu (CSP) est intégrée à la page au build, donc active sur tout hébergeur et dans les applications ; `vercel.json` ajoute les en-têtes (anti-iframe, pas de référent).
+Pas de serveur applicatif, pas de base de données modifiable à distance : cartes, votes et candidats font partie du code publié. Les réponses ne sont jamais transmises. Une politique de sécurité du contenu (CSP) est intégrée à la page au build, donc active sur tout hébergeur et dans les applications ; `vercel.json` ajoute les en-têtes (HSTS, anti-iframe, pas de référent).
+
+**Téléphone perdu ou volé.** Les réponses révèlent des opinions politiques (article 9 du RGPD) : elles ne sont jamais écrites en clair.
+
+- La partie est chiffrée en AES-GCM 256 bits ([src/lib/vault.ts](src/lib/vault.ts)) avant d'être rangée dans le `localStorage`. Le nom de l'entrée est authentifié avec le contenu.
+- Applications : la clé est tirée au hasard et gardée par le système, dans le Keystore Android ([SecureKeyPlugin.java](android/app/src/main/java/fr/cartessurtable/app/SecureKeyPlugin.java), clé matérielle non exportable) ou dans le trousseau iOS ([SecureKeyPlugin.swift](ios/App/App/SecureKeyPlugin.swift), accessible appareil déverrouillé, jamais migrée ni synchronisée). Copier les fichiers de l'application ne donne que du chiffré.
+- Web : clé AES non exportable conservée dans IndexedDB. Une page ne peut pas la lire, mais elle reste dans le profil du navigateur : sur le web, la protection de fond reste le chiffrement de l'appareil et son code de verrouillage.
+- « Effacer mes réponses » et « Recommencer » changent de clé : les anciennes copies chiffrées qui subsistent dans les journaux du stockage deviennent illisibles.
+- Ni date ni heure de réponse ne sont enregistrées. Une sauvegarde en clair laissée par une version précédente est rechiffrée à la première ouverture.
+- Sauvegardes exclues sur Android et iOS ; pas de capture de l'écran dans les applications récentes (Android 13+ ; cache sur iOS) ; inspection de la WebView coupée.
 
 ## Licence
 

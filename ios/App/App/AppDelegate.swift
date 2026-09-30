@@ -7,8 +7,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        excludeWebDataFromBackup()
         return true
+    }
+
+    /// Données de la WebView (dont la partie, chiffrée) : ni sauvegarde iCloud, ni sauvegarde sur ordinateur, comme sur Android.
+    private func excludeWebDataFromBackup() {
+        guard var folder = FileManager.default.urls(for: .libraryDirectory, in: .userDomainMask).first?
+            .appendingPathComponent("WebKit", isDirectory: true) else { return }
+        try? FileManager.default.createDirectory(at: folder, withIntermediateDirectories: true)
+        var values = URLResourceValues()
+        values.isExcludedFromBackup = true
+        try? folder.setResourceValues(values)
     }
 
     func applicationWillResignActive(_ application: UIApplication) {

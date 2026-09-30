@@ -8,9 +8,9 @@ describe('réconciliation de la partie enregistrée', () => {
     const [a, b] = cards;
     const state = reconcile({
       answers: {
-        [a.id]: { value: 'pour', important: false, at: '', fp: cardFingerprint(a) },
-        [b.id]: { value: 'contre', important: false, at: '', fp: 'VTANR5L17V1:1' },
-        'carte-supprimee': { value: 'pour', important: true, at: '' },
+        [a.id]: { value: 'pour', important: false, fp: cardFingerprint(a) },
+        [b.id]: { value: 'contre', important: false, fp: 'VTANR5L17V1:1' },
+        'carte-supprimee': { value: 'pour', important: true },
       },
       history: ['carte-supprimee', b.id, a.id],
       read: { 'carte-supprimee': { pour: true }, [a.id]: { pour: true, contre: true } },

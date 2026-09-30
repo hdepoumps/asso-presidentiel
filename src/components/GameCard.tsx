@@ -307,7 +307,13 @@ export function GameCard({
               >
                 <span className="serif-num mr-1 text-violet">{i + 1}</span>
                 {label}
-                {step === i && <motion.span layoutId={`tab-${card.id}`} className="absolute inset-x-1.5 -bottom-px h-[2px] rounded bg-ink" />}
+                {/* Trait porté par l'onglet lui-même : jamais décalé, même en animations réduites (le layoutId de Motion restait bloqué à mi-course). */}
+                <span
+                  aria-hidden="true"
+                  className={`absolute inset-x-1.5 -bottom-px h-[2px] origin-center rounded bg-ink transition-transform duration-200 ${
+                    step === i ? 'scale-x-100' : 'scale-x-0'
+                  }`}
+                />
               </button>
             ))}
           </nav>

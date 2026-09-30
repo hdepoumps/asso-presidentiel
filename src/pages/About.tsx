@@ -40,7 +40,7 @@ export default function About() {
 
       <Item title="Vos données">
         <p>
-          Vos réponses sont enregistrées <b>uniquement dans votre navigateur</b> (stockage local), pour reprendre une partie. Aucun compte,
+          Vos réponses sont enregistrées <b>uniquement sur votre appareil</b>, chiffrées, pour reprendre une partie. Aucun compte,
           aucun cookie de suivi, aucune mesure d’audience, aucune publicité. Rien n’est envoyé à un serveur. Le détail est dans la page{' '}
           <Link to="confidentialite" className="link text-violet">
             Confidentialité et données

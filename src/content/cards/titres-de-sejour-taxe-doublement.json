@@ -1,0 +1,233 @@
+{
+  "id": "titres-de-sejour-taxe-doublement",
+  "theme": "immigration",
+  "question": "Faut-il doubler, de 200 à 400 euros, la taxe que paient les étrangers pour obtenir ou renouveler un titre de séjour ?",
+  "explainer": {
+    "title": "Combien coûtait un titre de séjour ?",
+    "text": "En 2025, obtenir ou renouveler la plupart des titres de séjour coûtait 225 euros : une taxe de 200 euros et un droit de timbre de 25 euros (75 euros au total au tarif réduit, prévu pour certaines catégories). Pour rapprocher les montants français de la médiane de l'Union européenne, le Gouvernement proposait de porter la taxe à 300 euros et le droit de timbre à 50 euros ; avec ses autres hausses (naturalisation, autorisations provisoires de séjour, visa de régularisation), il en attendait 160 millions d'euros de recettes supplémentaires. L'amendement voté remplaçait la hausse prévue pour cette taxe par un doublement, à 400 euros.",
+    "sources": [
+      "s6",
+      "s12",
+      "s14",
+      "s3"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, les étrangers paieraient plus cher un service que l'État rend mal : préfectures engorgées, rendez-vous introuvables, titres délivrés si tard qu'ils expirent peu après, au risque de perdre emploi et droits sociaux.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, la France taxe déjà ces titres plus que ses voisins au regard de leur durée, d'après un rapport parlementaire de 2019, et ces sommes pèsent sur des travailleurs modestes, que des associations aident souvent à payer.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, ces hausses rapporteraient très peu au regard des recettes de l'État et relèveraient surtout du signal envoyé aux étrangers, traités autrement que les Français, dont la carte d'identité est gratuite.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, alors que les entreprises et les Français sont appelés à redresser les comptes publics, il est normal que les étrangers qui choisissent de vivre en France, et y sont protégés, y participent aussi.",
+      "sources": [
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, il est juste de faire payer un service rendu, comme les Français paient 86 euros pour un passeport : traiter un titre de séjour coûte plus que ce qui est demandé, et les demandes augmentent sans cesse.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, beaucoup de pays font payer plus cher leurs démarches d'immigration, et le Gouvernement reconnaissait lui-même que les montants français restaient inférieurs à la médiane européenne.",
+      "sources": [
+        "s4",
+        "s5",
+        "s6"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "amendement",
+    "textKind": "Amendement à l'article 30 du projet de loi de finances pour 2026, première lecture",
+    "textTitle": "Projet de loi de finances pour 2026",
+    "summary": "L'article 30 relevait plusieurs droits liés au séjour et à la nationalité (dont le droit de timbre pour une demande de naturalisation, de 55 à 255 euros) et créait une contribution de 50 euros pour saisir la justice civile ou prud'homale. L'amendement remplaçait la réécriture de la taxe sur les titres de séjour proposée par le Gouvernement par un simple doublement de la taxe existante, contre l'avis de la commission et du Gouvernement. Un premier vote, perturbé par un problème d'affichage, a été annulé puis recommencé.",
+    "sources": [
+      "s6",
+      "s3",
+      "s5"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2025-11-21",
+      "label": "Assemblée nationale",
+      "text": "Dans la foulée, l'article 30 ainsi modifié est rejeté (130 voix contre 106) ; dans la nuit, les députés rejettent la première partie du budget (404 voix contre 1), ce qui vaut rejet du texte en première lecture.",
+      "sources": [
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "date": "2025-12-15",
+      "label": "Sénat",
+      "text": "Le Sénat adopte le budget en conservant, pour les titres de séjour, la taxe de 300 euros proposée par le Gouvernement, pour la délivrance comme pour le renouvellement.",
+      "sources": [
+        "s9",
+        "s10"
+      ]
+    },
+    {
+      "date": "2026-02-02",
+      "label": "Adoption définitive",
+      "text": "Après l'échec de la commission mixte paritaire (19 décembre 2025), le budget est adopté en nouvelle lecture puis définitivement, le Gouvernement engageant sa responsabilité (article 49, alinéa 3). Dans le texte final, la hausse de la taxe ne vise plus que la première délivrance d'un titre ; le renouvellement reste taxé 200 euros.",
+      "sources": [
+        "s11",
+        "s10",
+        "s13"
+      ]
+    },
+    {
+      "date": "2026-02-19",
+      "label": "Conseil constitutionnel",
+      "text": "Décision n° 2026-901 DC : saisi par des députés, le Conseil juge ces hausses de taxes et de droits de timbre conformes à la Constitution ; selon lui, elles n'instituent par elles-mêmes aucune différence de traitement entre étrangers et Français.",
+      "sources": [
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-05-01",
+      "label": "Entrée en vigueur",
+      "text": "Loi n° 2026-103 du 19 février 2026, article 128 : depuis le 1er mai 2026, un premier titre de séjour coûte 350 euros (taxe de 300 euros et timbre de 50 euros) et un renouvellement 250 euros ; une demande de naturalisation coûte 255 euros au lieu de 55.",
+      "sources": [
+        "s13",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4128",
+      "numero": 4128,
+      "date": "2025-11-21",
+      "role": "principal",
+      "sens": 1,
+      "label": "Amendement doublant, de 200 à 400 euros, la taxe sur la délivrance et le renouvellement des titres de séjour (adopté)"
+    },
+    {
+      "uid": "VTANR5L17V4137",
+      "numero": 4137,
+      "date": "2025-11-21",
+      "role": "historique",
+      "sens": 1,
+      "label": "Article 30 ainsi modifié : hausse des droits liés au séjour et à la nationalité et contribution de 50 euros pour saisir la justice civile (rejeté)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4128 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4128",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 4128 (21 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4128",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Amendement n° I-157 à l'article 30 du projet de loi de finances pour 2026 (texte et exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/157.pdf",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance : ouverture du débat sur l'article 30 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-vendredi-21-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance : suite du débat et votes sur l'article 30 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-vendredi-21-novembre-2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 (n° 1906), article 30 et exposé des motifs",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L17B1906.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Assemblée nationale — Scrutin n° 4137 : vote sur l'article 30 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4137",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s8",
+      "label": "Assemblée nationale — Scrutin n° 4241 : vote sur la première partie du projet de loi de finances pour 2026 (21 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4241",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Sénat — Texte adopté n° 29 : projet de loi de finances pour 2026, première lecture (15 décembre 2025), article 30",
+      "url": "https://www.senat.fr/leg/tas25-029.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Sénat — Dossier législatif du projet de loi de finances pour 2026",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2026.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Projet de loi de finances pour 2026 en nouvelle lecture : engagement de la responsabilité du Gouvernement et rejet des motions de censure (20, 23 et 27 janvier 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/plf-2026-nouvelle-lecture-depot-de-2-motions-de-censure-apres-l-engagement-de-la-responsabilite-du-gouvernement-sur-la-2nde-partie-et-l-ensembl",
+      "kind": "primaire"
+    },
+    {
+      "id": "s12",
+      "label": "Conseil constitutionnel — Décision n° 2026-901 DC, loi de finances pour 2026 (19 février 2026)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026901DC.htm",
+      "kind": "primaire"
+    },
+    {
+      "id": "s13",
+      "label": "Légifrance — Loi n° 2026-103 du 19 février 2026 de finances pour 2026, article 128",
+      "url": "https://www.legifrance.gouv.fr/eli/loi/2026/2/19/2026-103/jo/article_128",
+      "kind": "primaire"
+    },
+    {
+      "id": "s14",
+      "label": "Service-public.gouv.fr — Hausse des taxes sur les titres de séjour et la naturalisation au 1er mai 2026 (22 avril 2026, mis à jour le 12 mai 2026)",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18881",
+      "kind": "officiel"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour l'amendement : RN (76 pour, 1 abstention), UDR (6), Droite républicaine (6) et Horizons (9), sans aucune voix contre. Contre : les quatre groupes de gauche, Les Démocrates (9 contre, 1 abstention), EPR (12 contre) et LIOT (2 contre, 1 abstention), comme le Gouvernement, qui défendait sa propre hausse à 300 euros. Le vote départage EPR et Horizons. Participation faible (194 votants, un vendredi) et résultat serré (97 voix contre 94). Sur l'article 30 ainsi modifié (scrutin n° 4137 : 106 pour, 130 contre), le RN, l'UDR, Horizons et la Droite républicaine (7 pour, 1 contre) ont voté pour ; EPR (28 contre, 3 pour), Les Démocrates, LIOT et la gauche contre. Ce second vote mêlait les taxes sur le séjour et la nationalité et la contribution de 50 euros pour saisir la justice : Les Démocrates ont dit rejeter la partie visant les étrangers mais soutenir cette contribution, et la ministre a jugé l'article modifié « très éloigné » de sa proposition initiale. Les groupes de gauche refusaient toute hausse : leurs amendements supprimant l'article avaient été rejetés le matin (scrutin n° 4125 : 82 pour, 91 contre), EPR s'étant partagé (5 pour, 2 contre, 7 abstentions).",
+  "lastVerified": "2026-09-30"
+}

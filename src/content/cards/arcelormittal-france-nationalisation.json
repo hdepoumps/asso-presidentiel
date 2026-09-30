@@ -1,0 +1,248 @@
+{
+  "id": "arcelormittal-france-nationalisation",
+  "theme": "economie",
+  "question": "Faut-il nationaliser ArcelorMittal France, premier producteur d'acier du pays, l'État rachetant l'entreprise à son groupe mondial au prix fixé par une commission ?",
+  "explainer": {
+    "title": "Que prévoit le texte ?",
+    "text": "ArcelorMittal France, filiale du groupe sidérurgique mondial ArcelorMittal, exploite sept usines dans la moitié nord du pays, dont Dunkerque et Florange ; par ses participations, la nationaliser ferait aussi passer sous le contrôle de l'État les sites de Fos-sur-Mer et de Saint-Chély-d'Apcher, un centre de recherche en Moselle et d'autres sites, soit environ les deux tiers de l'activité du groupe en France et 10 000 emplois selon le rapport du Sénat. Le prix serait fixé par une commission (Cour des comptes, Banque de France, Conseil d'État, Cour de cassation…), sans pouvoir dépasser la valeur moyenne des actions entre octobre 2024 et septembre 2025. Les auteurs l'estiment à environ 3 milliards d'euros ; des chiffres de 1 à 6 milliards ont été avancés. Un premier projet de décarbonation du site de Dunkerque (1,8 milliard d'euros, dont 850 millions d'aide publique) avait été suspendu par le groupe fin 2024.",
+    "sources": [
+      "s5",
+      "s6",
+      "s12"
+    ]
+  },
+  "contre": [
+    {
+      "text": "Selon ses opposants, changer de propriétaire ne réglerait aucune cause de la crise de l'acier européen (demande en baisse, surproduction mondiale, énergie chère) et ferait porter à l'État des pertes de centaines de millions d'euros par an.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, couper les usines françaises d'un groupe intégré, qui leur apporte clients, recherche et brevets, les affaiblirait ; au Royaume-Uni et en Italie, l'État aurait beaucoup dépensé sans redresser les sites.",
+      "sources": [
+        "s3",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "Selon ses opposants, dépenser 3 à 6 milliards d'euros pour racheter l'entreprise priverait l'État de moyens pour la décarbonation, alors que les protections européennes ont déjà conduit le groupe à investir 1,3 milliard à Dunkerque.",
+      "sources": [
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "pour": [
+    {
+      "text": "Selon ses défenseurs, sans acier produit en France, pas de défense, de nucléaire, de trains ni de bâtiment : laisser décliner l'entreprise qui fournit les deux tiers de l'acier français menacerait la souveraineté du pays.",
+      "sources": [
+        "s16",
+        "s3",
+        "s12"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, le groupe verse de gros dividendes et touche des centaines de millions d'aides publiques, mais ses effectifs en France sont passés de 18 000 à 15 000 de 2014 à 2024, avant 608 suppressions de postes annoncées en 2025.",
+      "sources": [
+        "s16",
+        "s12",
+        "s3"
+      ]
+    },
+    {
+      "text": "Selon ses défenseurs, avec la fin des quotas carbone gratuits, les hauts-fourneaux au charbon ne seront bientôt plus rentables : il faut quatre ans pour bâtir des fours électriques, et l'État investirait plus vite que l'actionnaire actuel.",
+      "sources": [
+        "s16",
+        "s3",
+        "s4",
+        "s6"
+      ]
+    }
+  ],
+  "details": {
+    "kind": "texte",
+    "textKind": "Proposition de loi, première lecture",
+    "textTitle": "Proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France",
+    "summary": "Le texte adopté tient en un article de fond : « La société ArcelorMittal France est nationalisée », avec la commission chargée de fixer le prix. Deux articles ont été supprimés en séance : l'un déclarant la production d'acier d'intérêt particulier pour la souveraineté industrielle, l'autre fixant la gouvernance de l'entreprise nationalisée, les règles communes aux entreprises à participation publique devant s'appliquer ; le dernier article prévoit de compenser la dépense par une taxe additionnelle sur le tabac. Les députés ont voté plusieurs dizaines de scrutins publics sur des amendements à l'article 1er avant de l'adopter.",
+    "sources": [
+      "s5",
+      "s12",
+      "s13"
+    ]
+  },
+  "suite": [
+    {
+      "date": "2026-02-10",
+      "label": "Entreprise",
+      "text": "Le groupe annonce un investissement de 1,3 milliard d'euros, soutenu pour moitié par des fonds publics, pour un four électrique à Dunkerque, destiné à produire un acier moins émetteur de CO2, à la place du projet suspendu fin 2024.",
+      "sources": [
+        "s6",
+        "s12"
+      ]
+    },
+    {
+      "date": "2026-02-25",
+      "label": "Sénat",
+      "text": "Le Sénat rejette la proposition de loi (112 voix pour, 227 contre), suivant sa commission des finances, pour qui la nationalisation ne répondrait pas à la crise européenne de l'acier et fragiliserait les sites.",
+      "sources": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "label": "Assemblée nationale (deuxième lecture)",
+      "text": "Les députés adoptent de nouveau le texte, sans le modifier (106 voix pour, 49 contre).",
+      "sources": [
+        "s10",
+        "s11",
+        "s4"
+      ]
+    },
+    {
+      "date": "2026-09",
+      "label": "Sénat (deuxième lecture)",
+      "text": "Le texte a été transmis au Sénat le 11 juin 2026 ; au 30 septembre 2026, aucun examen n'y est inscrit. Si le Sénat ne l'adopte pas dans les mêmes termes, il ne peut aboutir que si une commission mixte paritaire est convoquée (par le Premier ministre ou, pour une proposition de loi, par les présidents des deux assemblées), puis, en cas d'échec, si le Gouvernement demande aux députés de statuer définitivement.",
+      "sources": [
+        "s7",
+        "s9",
+        "s14"
+      ]
+    }
+  ],
+  "scrutins": [
+    {
+      "uid": "VTANR5L17V4438",
+      "numero": 4438,
+      "date": "2025-11-27",
+      "role": "principal",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi, première lecture (adoptée)"
+    },
+    {
+      "uid": "VTANR5L17V7380",
+      "numero": 7380,
+      "date": "2026-06-11",
+      "role": "historique",
+      "sens": 1,
+      "label": "Vote sur l'ensemble de la proposition de loi, deuxième lecture (adoptée)"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "label": "Assemblée nationale — Scrutin n° 4438 (27 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s2",
+      "label": "Datan — Vote n° 4438 (27 novembre 2025)",
+      "url": "https://datan.fr/votes/legislature-17/vote_4438",
+      "kind": "analyse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s3",
+      "label": "Assemblée nationale — Compte rendu de la deuxième séance du 27 novembre 2025 (discussion générale et article 1er)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-27-novembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s4",
+      "label": "Assemblée nationale — Compte rendu de la première séance du 11 juin 2026 (deuxième lecture)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-11-juin-2026",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s5",
+      "label": "Assemblée nationale — Texte adopté n° 184 en première lecture (27 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0184_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s6",
+      "label": "Sénat — Rapport n° 410 de la commission des finances sur la proposition de loi (18 février 2026)",
+      "url": "https://www.senat.fr/rap/l25-410/l25-410_mono.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s7",
+      "label": "Sénat — Dossier législatif de la proposition de loi",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-170.html",
+      "kind": "primaire"
+    },
+    {
+      "id": "s8",
+      "label": "Sénat — Scrutin n° 202 sur l'ensemble de la proposition de loi (25 février 2026)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-202.html",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s9",
+      "label": "Assemblée nationale — Dossier législatif de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025",
+      "kind": "primaire"
+    },
+    {
+      "id": "s10",
+      "label": "Assemblée nationale — Texte adopté n° 309 en deuxième lecture (11 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0309_texte-adopte-seance.pdf",
+      "kind": "primaire"
+    },
+    {
+      "id": "s11",
+      "label": "Assemblée nationale — Scrutin n° 7380 : ensemble du texte, deuxième lecture (11 juin 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7380",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s12",
+      "label": "Assemblée nationale — Rapport n° 2123 de la commission des finances sur la proposition de loi (19 novembre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/rapports/cion_fin/l17b2123_rapport-fond",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s13",
+      "label": "Assemblée nationale — Compte rendu de la troisième séance du 27 novembre 2025 (explications de vote et vote sur l'ensemble)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-27-novembre-2025",
+      "kind": "primaire",
+      "revealsPositions": true
+    },
+    {
+      "id": "s14",
+      "label": "Conseil constitutionnel — Constitution du 4 octobre 1958, article 45",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "kind": "primaire"
+    },
+    {
+      "id": "s15",
+      "label": "LCP — ArcelorMittal : au terme d'un bras de fer dans l'hémicycle, l'Assemblée vote à nouveau en faveur de la nationalisation (11 juin 2026)",
+      "url": "https://lcp.fr/actualites/arcelormittal-au-terme-d-un-bras-de-fer-dans-l-hemicycle-l-assemblee-vote-a-nouveau-en",
+      "kind": "presse",
+      "revealsPositions": true
+    },
+    {
+      "id": "s16",
+      "label": "Assemblée nationale — Proposition de loi n° 1950 visant à la nationalisation d'ArcelorMittal France (exposé des motifs, 14 octobre 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1950_proposition-loi.pdf",
+      "kind": "primaire"
+    }
+  ],
+  "flags": {
+    "voteLibre": false,
+    "amendementAppel": false
+  },
+  "resultNote": "Pour (127) : LFI-NFP (68 pour, 1 contre), à l'origine du texte, GDR (13), Écologiste et social (18) et Socialistes (28 pour, 1 abstention) ; les Socialistes ont dit préférer une mise sous tutelle provisoire de l'entreprise mais ont voté le texte. Contre (41) : EPR (19), Démocrates (4), Horizons (10), Droite républicaine (5 contre, 1 abstention) et UDR (2), avec le Gouvernement. Le RN s'est abstenu (40 abstentions) : il juge la nationalisation légitime en dernier recours mais prématurée et proposait à la place une « action spécifique » de l'État (golden share) donnant un droit de veto sur les fermetures ou cessions ; son amendement en ce sens a été rejeté (scrutin n° 4297 : 58 pour, tous RN, 163 contre, l'UDR et une partie de la Droite républicaine s'abstenant). Ses députés, accusés d'obstruction par la gauche, avaient déposé de nombreux amendements, mais leur abstention a permis l'adoption. LIOT, qui partageait le constat mais doutait de la méthode et du coût, n'a eu aucun votant. Participation : 210 votants. En deuxième lecture, le 11 juin 2026 (scrutin n° 7380 : 106 pour, 49 contre, 47 abstentions), le même partage s'est reproduit : gauche pour, EPR, Démocrates, Horizons (7 contre, 2 abstentions), Droite républicaine, UDR et l'unique votant LIOT contre, RN abstenu (45) après le rejet de son amendement sur l'action spécifique.",
+  "lastVerified": "2026-09-30"
+}

@@ -58,7 +58,7 @@ function scrutin(groupsVotes: ScrutinData['groups'], nominatif = '', deputes: Sc
   };
 }
 
-const ans = (value: Answer['value'], important = false): Answer => ({ value, important, at: '' });
+const ans = (value: Answer['value'], important = false): Answer => ({ value, important });
 
 describe('position des groupes', () => {
   it('ignore les absents et compte les abstentions comme exprimées', () => {

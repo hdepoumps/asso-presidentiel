@@ -4,14 +4,19 @@ import './index.css';
 // Réglages d'affichage appliqués avant le premier rendu : pas de flash de thème ou de taille de texte.
 import './settings';
 import { installAudio } from './lib/audio';
+import { useGame } from './store';
 import App from './App';
 
 installAudio();
 
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
+// La partie est chiffrée sur l'appareil : on l'ouvre avant le premier affichage, pour que l'écran ne montre (et n'enregistre)
+// jamais une partie vide à la place de la vraie.
+void Promise.resolve(useGame.persist.rehydrate()).finally(() =>
+  createRoot(document.getElementById('root')!).render(
+    <StrictMode>
+      <App />
+    </StrictMode>,
+  ),
 );
 
 const native = (window as Window & { Capacitor?: { isNativePlatform?: () => boolean } }).Capacitor?.isNativePlatform?.();
