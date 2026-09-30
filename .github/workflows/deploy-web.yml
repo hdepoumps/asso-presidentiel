@@ -1,4 +1,5 @@
-# Publie l'application web (PWA) sur GitHub Pages à chaque push sur main.
+# Vérifie le site (lint, tests, build) à chaque push sur main. Il n'est plus publié sur GitHub Pages :
+# la démo est hébergée sur Vercel, derrière un code d'accès vérifié côté serveur (middleware.ts).
 name: Web
 
 on:
@@ -10,7 +11,7 @@ permissions:
   contents: read
 
 concurrency:
-  group: pages
+  group: web
   cancel-in-progress: true
 
 jobs:
@@ -30,20 +31,3 @@ jobs:
       - run: npm run lint
       - run: npm test
       - run: npm run build
-      - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1
-        with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    # Droits de publication réservés à ce job, qui n'exécute aucun code du dépôt ni de ses dépendances.
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5

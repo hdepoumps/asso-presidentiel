@@ -85,9 +85,19 @@ Code : [src/lib/scoring.ts](src/lib/scoring.ts), [src/lib/adaptive.ts](src/lib/a
 
 Le build est entièrement statique, avec des chemins relatifs et un routage par ancre (`#/`) : il fonctionne sur n'importe quel hébergement.
 
-- **GitHub Pages** : pousser sur `main` ; le workflow [.github/workflows/deploy-web.yml](.github/workflows/deploy-web.yml) teste, construit et publie (activer Pages → « GitHub Actions » dans les réglages du dépôt).
-- **Vercel** : `vercel deploy --prod` (configuration et en-têtes de sécurité dans [vercel.json](vercel.json)).
+- **Vercel** (hébergement actuel des démos) : voir « Démo protégée par un code d'accès » ci-dessous. Le workflow [.github/workflows/deploy-web.yml](.github/workflows/deploy-web.yml) ne fait plus que vérifier le code (lint, tests, build) ; il ne publie plus sur GitHub Pages, qui ne permet aucune protection côté serveur.
 - **Tout autre hébergeur** : servir le dossier `dist/`.
+
+#### Démo protégée par un code d'accès
+
+Tant que [middleware.ts](middleware.ts) existe, Vercel exécute [server/acces.ts](server/acces.ts) **avant** de servir quoi que ce soit : sans le bon code, ni la page, ni les scripts, ni les cartes ne sont envoyés (`401`). Le code n'apparaît nulle part dans le site publié.
+
+1. Vercel → *Project → Settings → Environment Variables* : ajouter `ACCESS_CODE` (pour Production **et** Preview) avec un code long (mot de passe ou phrase de passe : le serveur ne limite pas le nombre d'essais, il ne fait que les ralentir).
+2. Redéployer. Les testeurs saisissent le code une fois ; il est retenu 30 jours sur leur appareil (cookie `HttpOnly`).
+3. Changer `ACCESS_CODE` puis redéployer déconnecte tout le monde. Si la variable est absente, le site répond `503` plutôt que de s'ouvrir par erreur.
+4. Pour ouvrir le site à tous : supprimer `middleware.ts` et `server/`, puis redéployer.
+
+Limites connues : une personne déjà connectée qui a installé l'application (PWA) en garde une copie hors connexion jusqu'à la prochaine mise à jour ; les icônes et le manifeste restent publics (le navigateur les réclame sans cookie). Les applications Android/iOS embarquent le site et ne passent pas par ce code.
 
 Avant la mise en ligne publique, renseigner [src/content/site.json](src/content/site.json) : `editeur`, `adresse` et `directeurPublication` (facultatifs pour un éditeur non professionnel, qui peut rester anonyme), `contact` (signalement d'erreur, accessibilité, questions RGPD), `hebergeur` (nom, adresse et téléphone : obligatoire), `depot`. Les pages légales (`#/cgu`, `#/confidentialite`, `#/mentions-legales`, `#/accessibilite`, `#/credits`) s'en servent ; les informations manquantes y sont signalées. Renseigner aussi la variable `VITE_PUBLIC_URL` (adresse partagée par le bouton « Partager », voir [.env.example](.env.example) ; dans GitHub Actions : variable de dépôt `PUBLIC_URL`).
 
