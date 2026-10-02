@@ -1,5 +1,6 @@
 node_modules
 dist
+dist-o2switch
 dev-dist
 data-raw/*.zip
 data-raw/index.json

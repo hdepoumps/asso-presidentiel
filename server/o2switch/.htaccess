@@ -1,0 +1,29 @@
+# Cartes sur Table sur o2switch : toute requête passe par index.php, qui vérifie le code d'accès
+# avant de servir le moindre fichier du site (rangé dans site/, inaccessible directement).
+
+Options -Indexes -MultiViews
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Les vérifications de certificat (AutoSSL, Let's Encrypt) restent servies telles quelles, même en HTTP.
+  RewriteRule ^\.well-known/ - [L]
+
+  # HTTPS obligatoire (le cookie de session est « Secure »).
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+  RewriteRule ^index\.php$ - [L]
+  RewriteRule ^ index.php [L]
+</IfModule>
+
+# Sans mod_rewrite, rien n'est servi plutôt que d'ouvrir le site.
+<IfModule !mod_rewrite.c>
+  Require all denied
+</IfModule>
+
+<Files "acces.php">
+  Require all denied
+</Files>

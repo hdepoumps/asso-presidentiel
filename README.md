@@ -85,7 +85,8 @@ Code : [src/lib/scoring.ts](src/lib/scoring.ts), [src/lib/adaptive.ts](src/lib/a
 
 Le build est entièrement statique, avec des chemins relatifs et un routage par ancre (`#/`) : il fonctionne sur n'importe quel hébergement.
 
-- **Vercel** (hébergement actuel des démos) : voir « Démo protégée par un code d'accès » ci-dessous. Le workflow [.github/workflows/deploy-web.yml](.github/workflows/deploy-web.yml) ne fait plus que vérifier le code (lint, tests, build) ; il ne publie plus sur GitHub Pages, qui ne permet aucune protection côté serveur.
+- **Vercel** (hébergement actuel des démos) : voir « Démo protégée par un code d'accès » ci-dessous. Le workflow [.github/workflows/deploy-web.yml](.github/workflows/deploy-web.yml) vérifie le code (lint, tests, build) ; il ne publie plus sur GitHub Pages, qui ne permet aucune protection côté serveur.
+- **o2switch** : même code d'accès, en PHP ; publié par le même workflow à chaque push sur `main`. Voir « o2switch » ci-dessous.
 - **Tout autre hébergeur** : servir le dossier `dist/`.
 
 #### Démo protégée par un code d'accès
@@ -96,6 +97,19 @@ Tant que [middleware.ts](middleware.ts) existe, Vercel exécute [server/acces.ts
 2. Redéployer. Les testeurs saisissent le code une fois ; il est retenu 30 jours sur leur appareil (cookie `HttpOnly`).
 3. Changer `ACCESS_CODE` puis redéployer déconnecte tout le monde. Si la variable est absente, le site répond `503` plutôt que de s'ouvrir par erreur.
 4. Pour ouvrir le site à tous : supprimer `middleware.ts` et `server/`, puis redéployer.
+
+#### o2switch
+
+[server/o2switch/](server/o2switch/) reprend [server/acces.ts](server/acces.ts) en PHP (même page, même cookie, mêmes tests dans [server/acces.test.ts](server/acces.test.ts)). `npm run build:o2switch` produit `dist-o2switch/` : `.htaccess` envoie toute requête vers `index.php`, qui vérifie le code puis sert le build rangé dans `site/` (inaccessible directement). PHP 8.1 ou plus.
+
+Mise en place, une seule fois :
+
+1. cPanel → *Domaines* : ajouter le domaine avec une racine **dans le dossier personnel**, hors de `public_html` (par ex. `/home/utilisateur/mondomaine.fr`). Vérifier que le certificat HTTPS (AutoSSL) est émis.
+2. cPanel → *Gestionnaire de fichiers* : créer dans le dossier personnel (`/home/utilisateur/`) le fichier `.cartes-sur-table-acces` contenant le code (une ligne). Il n'est jamais dans le dépôt ni dans le dossier publié. Changer son contenu déconnecte tout le monde ; s'il manque, le site répond `503`.
+3. cPanel → *Comptes FTP* : créer un compte dont le répertoire est la racine du domaine (et rien au-dessus).
+4. GitHub → *Settings → Secrets and variables → Actions* : variables `O2SWITCH_FTP_HOST` (nom du serveur indiqué par cPanel, par ex. `xxx.o2switch.net`, pour que le certificat FTPS soit valide) et `O2SWITCH_FTP_USER` ; secret `O2SWITCH_FTP_PASSWORD`.
+
+Chaque push sur `main` publie ensuite le site (FTPS). Pour ouvrir le site à tous : servir `dist/` directement à la racine, sans `index.php` ni `.htaccess` de la barrière (et ajouter les en-têtes de [vercel.json](vercel.json) dans un `.htaccess`).
 
 Limites connues : une personne déjà connectée qui a installé l'application (PWA) en garde une copie hors connexion jusqu'à la prochaine mise à jour ; les icônes et le manifeste restent publics (le navigateur les réclame sans cookie). Les applications Android/iOS embarquent le site et ne passent pas par ce code.
 

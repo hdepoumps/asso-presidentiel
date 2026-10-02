@@ -1,5 +1,6 @@
-# Vérifie le site (lint, tests, build) à chaque push sur main. Il n'est plus publié sur GitHub Pages :
-# la démo est hébergée sur Vercel, derrière un code d'accès vérifié côté serveur (middleware.ts).
+# Vérifie le site (lint, tests, build) à chaque push sur main. Vercel publie de son côté (middleware.ts).
+# Publication sur o2switch, derrière le même code d'accès (server/o2switch/), dès que la variable de dépôt
+# O2SWITCH_FTP_HOST est définie (voir README, « o2switch »). Sans elle, cette partie est ignorée.
 name: Web
 
 on:
@@ -12,7 +13,8 @@ permissions:
 
 concurrency:
   group: web
-  cancel-in-progress: true
+  # Jamais interrompu en plein envoi FTP : le déploiement suivant attend la fin du précédent.
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -31,3 +33,29 @@ jobs:
       - run: npm run lint
       - run: npm test
       - run: npm run build
+
+      - name: Assembler le paquet o2switch
+        if: github.ref == 'refs/heads/main' && vars.O2SWITCH_FTP_HOST != ''
+        run: node scripts/o2switch-bundle.mjs
+
+      # FTPS (chiffré, certificat vérifié). Ordre d'envoi : d'abord les nouveaux fichiers, puis les pages qui
+      # les appellent (index.html, sw.js), enfin la suppression des anciens : le site n'est jamais à moitié à jour.
+      - name: Publier sur o2switch
+        if: github.ref == 'refs/heads/main' && vars.O2SWITCH_FTP_HOST != ''
+        env:
+          FTP_HOST: ${{ vars.O2SWITCH_FTP_HOST }}
+          FTP_USER: ${{ vars.O2SWITCH_FTP_USER }}
+          LFTP_PASSWORD: ${{ secrets.O2SWITCH_FTP_PASSWORD }}
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq lftp
+          lftp --env-password -u "$FTP_USER" "$FTP_HOST" <<'EOF'
+          set ftp:ssl-force true
+          set ftp:ssl-protect-data true
+          set ssl:verify-certificate true
+          set net:max-retries 3
+          set cmd:fail-exit true
+          mirror --reverse --parallel=4 --exclude-glob site/index.html --exclude-glob site/sw.js dist-o2switch/ ./
+          put -O site dist-o2switch/site/sw.js
+          put -O site dist-o2switch/site/index.html
+          mirror --reverse --delete --only-missing --exclude ^\.well-known/ --exclude ^\.ftpquota$ --exclude ^cgi-bin/ dist-o2switch/ ./
+          EOF
